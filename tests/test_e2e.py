@@ -422,5 +422,23 @@ class Polish(E2E):
         p.keyboard.down("e"); p.wait_for_timeout(200); p.keyboard.press("d"); p.wait_for_timeout(1200); p.keyboard.up("e")
         self.assertIsNone(p.evaluate("GH.state.room"), "按住 E 途中轉向就不該開門")
 
+class Inn(E2E):
+    def test_rooms_are_medieval_inn(self):
+        p = self.open("#room=strategy")
+        p.wait_for_function("document.body.classList.contains('in-room')")
+        room = '.room[data-room="strategy"]'
+        self.assertIn("repeating-linear-gradient", p.evaluate(f"getComputedStyle(document.querySelector('{room}')).backgroundImage"), "木板牆")
+        self.assertIn("serif", p.evaluate(f"getComputedStyle(document.querySelector('{room} .room-name')).fontFamily").lower(), "木招牌用明體")
+        self.assertEqual(p.locator(f"{room} .sconce svg.px").count(), 2, "招牌兩側各一支火把")
+        self.assertTrue(p.evaluate(f"getComputedStyle(document.querySelector('{room} .room-name'), '::before').content") not in ("none", "normal"), "招牌掛鏈")
+
+    def test_inn_reduced_motion_no_flicker(self):
+        p = self.open("#room=rpg", reduced=True)
+        self.assertEqual(p.evaluate("getComputedStyle(document.querySelector('.room[data-room=\"rpg\"] .sconce'), '::after').animationName"), "none")
+
+    def test_inn_mobile_no_overflow(self):
+        p = self.open("#room=action", mobile=True); p.wait_for_timeout(300)
+        self.assertFalse(p.evaluate("[...document.querySelectorAll('.room:not([hidden])')].some(e => e.scrollWidth > e.clientWidth + 1)"))
+
 if __name__ == "__main__":
     unittest.main()
