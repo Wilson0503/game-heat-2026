@@ -368,6 +368,11 @@ class Polish(E2E):
                 const e = document.elementFromPoint(cx, cy); return !!e && e.closest('.door') === d; }""", sel)
             self.assertTrue(hit, sel + " 面對時要看得到，不能被牆蓋住")
 
+    def test_all_room_doors_same_size(self):
+        p = self.open()
+        sizes = p.eval_on_selector_all(".door[data-room]", "ds => ds.map(d => { const c = getComputedStyle(d); return [d.dataset.room, c.width, c.height, c.top]; })")
+        self.assertEqual(len({tuple(s[1:]) for s in sizes}), 1, f"六扇門一樣大：{sizes}")
+
     def test_plan_back_to_corridor(self):
         for kw in ({"hash": "#view=plan"}, {"reduced": True}):
             p = self.open(**kw)

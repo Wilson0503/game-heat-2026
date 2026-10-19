@@ -94,7 +94,6 @@ html,body{margin:0;height:100%;background:var(--panel);color:var(--ink);font:400
 body.door-flash::after{content:"";position:fixed;inset:0;z-index:5;pointer-events:none;background:#fff4d6;animation:flash .6s ease-in forwards}
 @keyframes flash{0%,55%{opacity:0}85%{opacity:.55}100%{opacity:0}}
 .door .px{position:absolute;left:50%;bottom:72px;width:96px;height:96px;transform:translateX(-50%)}
-.door--action .px{width:48px;height:48px;bottom:16px}
 .door .leaf > *{backface-visibility:hidden} /* 門板轉到背面時不顯示鏡像文字 */
 .door--left{left:-399px;transform:translateZ(calc(var(--z) - 250px)) rotateY(90deg)}
 .door--right{left:199px;transform:translateZ(calc(var(--z) - 250px)) rotateY(-90deg)}
@@ -110,8 +109,7 @@ body.door-flash::after{content:"";position:fixed;inset:0;z-index:5;pointer-event
 .door--casual .leaf{background:linear-gradient(var(--blue) 0 28px,var(--ink) 28px);border:2px solid var(--blue)}
 .door--casual .plate{top:40px;background:transparent;color:var(--panel)}
 .door--rpg .leaf{background:linear-gradient(transparent 18%,#3a3a3a 18% 22%,transparent 22% 78%,#3a3a3a 78% 82%,transparent 82%),repeating-linear-gradient(90deg,#6b4a2f 0 38px,#5c3f28 38px 40px)}
-.door--action .leaf{background:linear-gradient(90deg,#7a5634 0 48%,transparent 48% 52%,#7a5634 52%)}
-.door--action{height:200px;top:-60px}
+.door--action .leaf{background:linear-gradient(90deg,transparent 48%,#2a1a0f 48% 52%,transparent 52%) bottom/100% 58% no-repeat,repeating-linear-gradient(0deg,#7a5634 0 22px,#5c3f28 22px 24px) bottom/100% 58% no-repeat,linear-gradient(#2a1410,#6b2e1a);border:8px solid #4a2f1b} /* 西部酒館：上半部透出黃昏，下半部一對彈簧門 */
 .door--spectators .leaf,.door--graffiti .leaf{background:#2f3a47}
 /* 像素圖（自繪 12×12，不用官方圖） */
 svg.px{shape-rendering:crispEdges;image-rendering:pixelated;width:1em;height:1em;vertical-align:-.12em;flex:none}
