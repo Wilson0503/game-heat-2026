@@ -241,7 +241,7 @@ svg.px{shape-rendering:crispEdges;image-rendering:pixelated;width:1em;height:1em
 .kill{all:unset;cursor:pointer;font-size:var(--t14);line-height:1.4;padding:6px 10px;background:rgba(28,37,48,.45);backdrop-filter:blur(2px);-webkit-backdrop-filter:blur(2px);text-shadow:0 1px 2px #000;border-right:3px solid var(--warn);text-align:right;min-height:44px;box-sizing:border-box}
 body.in-room #killfeed{display:none}
 #sb-toggle{position:absolute;right:16px;bottom:16px;min-width:56px;min-height:56px;padding:0 14px;border:1px solid var(--ink);background:var(--panel);color:var(--ink);font:600 var(--t14)/1 var(--zh);cursor:pointer}
-#scoreboard{position:fixed;inset:5vh 5vw;z-index:30;overflow:auto;padding:24px;background:var(--panel);border:1px solid rgba(232,228,216,.2);box-shadow:0 0 0 100vmax rgba(10,14,20,.6)}
+#scoreboard{position:fixed;inset:5vh 5vw;z-index:30;overflow:auto;padding:24px;background:rgba(28,37,48,.62);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);text-shadow:0 1px 2px #000;border:1px solid rgba(232,228,216,.2);box-shadow:0 0 0 100vmax rgba(10,14,20,.35)} /* 半透明，跟擊殺通知一致 */
 @media (max-width:600px){
   /* 仍在右上角（SPEC 7.7），收成一排可橫捲的單行訊息，不蓋住下半部的滑動區 */
   #killfeed{left:72px;right:8px;max-width:none;flex-direction:row;align-items:stretch;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:thin}

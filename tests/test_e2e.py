@@ -252,6 +252,12 @@ class Hud(E2E):
         self.assertIn("口徑不同，不參與排名", p.inner_text("#scoreboard"))
         p.keyboard.up("Tab"); self.assertFalse(p.is_visible("#scoreboard"))
 
+    def test_scoreboard_is_translucent(self):
+        p = self.open()
+        p.keyboard.press("a"); p.keyboard.down("Tab")
+        bg = p.evaluate("getComputedStyle(document.getElementById('scoreboard')).backgroundColor")
+        self.assertRegex(bg, r"rgba\(.*, 0\.\d+\)", "計分板半透明，看得到後面的走廊")
+
     def test_mobile_toggle(self):
         p = self.open(mobile=True)
         p.tap("#sb-toggle"); self.assertTrue(p.is_visible("#scoreboard"))
