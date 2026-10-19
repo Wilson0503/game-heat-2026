@@ -290,5 +290,67 @@ class Hud(E2E):
         p.keyboard.press("Tab")
         self.assertFalse(p.is_visible("#scoreboard"), "導覽圖裡 Tab 是正常焦點移動")
 
+class Acceptance(E2E):
+    def test_embedded_matches_site_data(self):
+        p = self.open()
+        self.assertEqual(p.evaluate("GH.data.games.length"), len(SITE["games"]))
+        self.assertEqual(p.evaluate("GH.data.games.map(g => g.id + ':' + g.rank).join(',')"),
+                         ",".join(f"{g['id']}:{g['rank'] if g['rank'] is not None else 'null'}" for g in SITE["games"]))
+
+    def test_each_game_in_one_room(self):
+        p = self.open("#view=plan")
+        ids = p.eval_on_selector_all("#plan section[data-room] .card", "els => els.map(e => e.dataset.id)")
+        self.assertEqual(len(ids), len(set(ids)))
+
+    def test_reduced_motion_defaults_to_plan(self):
+        p = self.open(reduced=True)
+        self.assertTrue(p.is_visible("#plan"))
+        self.assertEqual(p.evaluate("getComputedStyle(document.querySelector('.world')).transitionDuration"), "0s")
+
+    def test_all_hash_states(self):
+        for h, check in [("#", "GH.state.room === null && GH.state.view === 'walk'"),
+                         ("#room=shooter", "GH.state.room === 'shooter'"),
+                         ("#room=shooter&game=730", "GH.state.game === '730'"),
+                         ("#view=plan", "GH.state.view === 'plan'")]:
+            p = self.open(h); p.wait_for_function(check)
+
+    def test_no_horizontal_scroll_mobile(self):
+        for h in ("#", "#view=plan", "#room=action", "#room=shooter&game=730"):
+            p = self.open(h, mobile=True); p.wait_for_timeout(700)
+            over = p.evaluate("""[document.documentElement, ...document.querySelectorAll('.room:not([hidden]), #plan')]
+                .some(e => e.scrollWidth > e.clientWidth + 1)""")
+            self.assertFalse(over, h)
+
+    def test_touch_targets(self):
+        p = self.open(mobile=True)
+        sel = "#sb-toggle, #turn-back, #mm-toggle, .kill, .mm-cell, .to-plan, .vote, .linkish"
+        count = lambda: p.evaluate(f"""[...document.querySelectorAll('{sel}')].filter(e => e.offsetParent)
+            .map(e => e.getBoundingClientRect()).filter(r => r.width < 44 || r.height < 44).length""")
+        self.assertEqual(count(), 0)
+        p.tap("#mm-toggle"); self.assertEqual(count(), 0, "展開後的小地圖格子也要 44 px")
+        p = self.open("#view=plan", mobile=True); self.assertEqual(count(), 0)
+
+    def test_open_card_keeps_siblings_in_view(self):
+        p = self.open("#room=shooter&game=730"); p.wait_for_timeout(800)
+        tops = p.eval_on_selector_all(".room:not([hidden]) .stage .card", "els => els.map(e => e.getBoundingClientRect().top)")
+        self.assertTrue(tops and max(tops) < 900 * 0.6, tops)
+
+    def test_hint_matches_device(self):
+        self.assertIn("按住 E", self.open().inner_text(".hint"))
+        m = self.open(mobile=True).inner_text(".hint")
+        self.assertIn("滑", m); self.assertNotIn("Tab", m)
+
+    def test_screenshots(self):
+        SHOTS.mkdir(exist_ok=True)
+        cases = ["#", "#room=shooter", "#room=strategy", "#room=sim", "#room=casual", "#room=rpg", "#room=action",
+                 "#room=shooter&game=730", "#view=plan"]
+        for mobile in (False, True):
+            for h in cases:
+                p = self.open(h, mobile=mobile); p.wait_for_timeout(800)
+                name = (h.strip("#").replace("=", "-").replace("&", "_") or "spawn") + ("-mobile" if mobile else "-desktop")
+                p.screenshot(path=str(SHOTS / f"{name}.png"), full_page=(h == "#view=plan"))
+        p = self.open(); p.keyboard.press("a"); p.keyboard.down("Tab"); p.screenshot(path=str(SHOTS / "scoreboard-desktop.png"))  # 載入後第一次 Tab 落到跳過連結; p.keyboard.up("Tab")
+        self.assertEqual(self.errors, [])
+
 if __name__ == "__main__":
     unittest.main()

@@ -101,17 +101,20 @@ html,body{margin:0;height:100%;background:var(--panel);color:var(--ink);font:400
 .spawn-panel{position:absolute;left:50%;top:14%;transform:translateX(-50%);width:min(720px,92vw);text-align:center;pointer-events:none}
 .spawn-panel .hook{font:700 var(--t72)/1.1 var(--num);margin:0}
 .spawn-panel .times{font-size:var(--t12)}
+.hint--touch{display:none}
+@media (hover:none),(pointer:coarse){.hint--key{display:none}.hint--touch{display:inline}}
 .hint{position:absolute;left:50%;bottom:24px;transform:translateX(-50%);font-size:var(--t14);opacity:.8;margin:0;text-align:center;width:min(640px,92vw)}
 /* 房間（進房後是 2D 疊層，避免 3D 文字模糊） */
 .rooms .room{position:absolute;inset:0;overflow:auto;padding:72px 16px 96px;background:var(--panel)}
 #scene.in-room .viewport,#scene.in-room .hint,#scene.in-room .spawn-panel{visibility:hidden}
 .room-name{font:700 var(--t36)/1.2 var(--zh);margin:0 0 24px;max-width:1120px;margin-inline:auto}
 .stage,.room-foot{max-width:1120px;margin:0 auto}
-.stage{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:16px;align-items:end}
+.stage{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:16px;align-items:end;margin-bottom:32px}
+.stage:has(.card.is-open){align-items:start} /* 翻開的卡變長時，其他卡留在原位，不被拉到底部 */
 #turn-back{all:unset;position:fixed;left:16px;bottom:16px;z-index:20;padding:10px 16px;min-height:44px;border:1px solid var(--ink);cursor:pointer;background:var(--panel)}
 /* 主題：只換物件形狀與材質，不加主色（SPEC 8.1） */
 .theme--shooter .stage{background:linear-gradient(transparent 0 6px,rgba(232,228,216,.25) 6px 8px,transparent 8px) top/100% 40px no-repeat;padding-top:40px}
-.theme--shooter .stage .card{background:radial-gradient(circle at 50% 38%,transparent 0 18px,rgba(28,37,48,.28) 18px 20px,transparent 20px 34px,rgba(28,37,48,.28) 34px 36px,transparent 36px),var(--ink);color:var(--panel);border:none;padding-top:96px}
+.theme--shooter .stage .card{background:radial-gradient(circle at 50% 50px,transparent 0 18px,rgba(28,37,48,.28) 18px 20px,transparent 20px 34px,rgba(28,37,48,.28) 34px 36px,transparent 36px),var(--ink);color:var(--panel);border:none;padding-top:96px}
 .theme--shooter .stage .card[aria-expanded] .rank{color:var(--warn)}
 .theme--shooter .stage .card:nth-child(1){transform:scale(1.08)} .theme--shooter .stage .card:nth-child(5){transform:scale(.9)}
 .theme--strategy .stage{background:linear-gradient(rgba(232,228,216,.06) 1px,transparent 1px) 0 0/32px 32px,linear-gradient(90deg,rgba(232,228,216,.06) 1px,transparent 1px) 0 0/32px 32px,#2a2620;padding:24px}
@@ -166,6 +169,7 @@ body.in-room #killfeed{display:none}
   #scoreboard{inset:0 0 88px 0;padding:16px 12px;box-shadow:none} /* 底部留給計分板按鈕，才能再點一次關掉 */
 }
 @media (hover:hover) and (pointer:fine){ #sb-toggle{display:none} }
+.plan-score{margin-top:40px}
 </style>
 </head>
 <body>
@@ -419,7 +423,7 @@ sceneRoot.innerHTML = `
   <div class="rooms"></div>
   <button id="turn-back" type="button" hidden>轉身</button>
   <div class="hold-ring" hidden><svg viewBox="0 0 44 44"><circle cx="22" cy="22" r="19"/></svg></div>
-  <p class="hint">W／S 前後走，A／D 對準門，按住 E 開門，按住 Tab 看計分板</p>`;
+  <p class="hint"><span class="hint--key">W／S 前後走，A／D 對準門，按住 E 開門，按住 Tab 看計分板</span><span class="hint--touch">上下滑動前後走，左右滑動對準門，長按門開門</span></p>`;
 const world = sceneRoot.querySelector(".world"), corridor = sceneRoot.querySelector(".corridor");
 S.layout.forEach(x => {
   const d = el("button", "door door--" + (x.slug || x.special) + " door--" + x.side); d.type = "button";
