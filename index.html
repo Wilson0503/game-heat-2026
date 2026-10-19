@@ -115,7 +115,7 @@ body.door-flash::after{content:"";position:fixed;inset:0;z-index:5;pointer-event
 .door--spectators .leaf,.door--graffiti .leaf{background:#2f3a47}
 /* 像素圖（自繪 12×12，不用官方圖） */
 svg.px{shape-rendering:crispEdges;image-rendering:pixelated;width:1em;height:1em;vertical-align:-.12em;flex:none}
-.px .c-i{fill:var(--ink)}.px .c-g{fill:var(--gold)}.px .c-b{fill:var(--blue)}.px .c-w{fill:var(--warn)}.px .c-d{fill:var(--panel)}.px .c-k{fill:#0d1117}.px .c-r{fill:#7a5634}
+.px .c-i{fill:var(--ink)}.px .c-g{fill:var(--gold)}.px .c-b{fill:var(--blue)}.px .c-w{fill:var(--warn)}.px .c-d{fill:var(--panel)}.px .c-k{fill:#0d1117}.px .c-r{fill:#7a5634}.px .c-s{fill:#d9a77a}.px .c-q{fill:#b07a52}.px .c-h{fill:#b8b2a6}.px .c-n{fill:#2c3a4a}.px .c-m{fill:#7a3a2a}
 .room-name .px,#plan h2 .px{width:1.1em;height:1.1em;margin-right:.35em}
 .mm-cell .px{width:14px;height:14px;margin-right:4px;vertical-align:-2px}
 .mm-cell .px .c-d,.room-name .px .c-d,#plan h2 .px .c-d{fill:var(--ink)} /* 深色底上手把改用亮色 */
@@ -266,6 +266,88 @@ body.in-room #killfeed{display:none}
 .plan-room-head .plan-enter{margin-left:auto}
 /* 像素邊框：四邊各一條 2px 線，四角留缺口 */
 .mm-cell,#mm-toggle,#turn-back,#sb-toggle,.vote,#tab-tip,.plan-back,.plan-enter{border:0;box-shadow:0 -2px 0 var(--pxb,rgba(232,228,216,.55)),0 2px 0 var(--pxb,rgba(232,228,216,.55)),-2px 0 0 var(--pxb,rgba(232,228,216,.55)),2px 0 0 var(--pxb,rgba(232,228,216,.55))}
+/* ==== hands ==== 第一人稱的手：左手提燈籠、右手拿房間鑰匙 */
+.hands{position:absolute;left:0;right:0;bottom:0;height:0;pointer-events:none;z-index:2}
+.hand{position:absolute;bottom:-28px;width:min(24vw,220px);height:min(24vw,220px);transition:transform .3s steps(5)}
+.hand .px{width:100%;height:100%;display:block}
+.hand--l{left:9%;transform:scaleX(-1) rotate(-6deg)}
+.hand--r{right:9%;transform:rotate(-6deg)}
+.hand--l::before{content:"";position:absolute;left:-40%;top:-60%;width:180%;height:180%;border-radius:50%;background:radial-gradient(circle at 50% 35%,rgba(255,180,80,.32),transparent 55%);animation:flicker 1.6s steps(4) infinite}
+#scene.in-room .hands{visibility:hidden}
+#scene.is-walking .world{animation:bob var(--step) ease-in-out}
+@keyframes bob{25%{translate:0 7px}50%{translate:0 0}75%{translate:0 7px}}
+#scene.is-walking .hands{animation:hands-walk var(--step) ease-in-out}
+@keyframes hands-walk{25%{translate:-10px 18px}50%{translate:0 0}75%{translate:10px 18px}}
+#scene.is-turning .hands{animation:hands-turn var(--step) ease-out}
+@keyframes hands-turn{40%{translate:var(--sway,0) 10px}}
+#scene.is-reaching .hand--r{transform:translate(-40%,-22%) rotate(-18deg) scale(1.1)}
+.hands{transition:translate var(--push) ease-in,scale var(--push) ease-in}
+#scene.pushing .hands{translate:0 -40px;scale:1.08}
+@media (max-width:600px){.hand{width:34vw;height:34vw;bottom:-20px}.hand--l{left:2%}.hand--r{right:2%}}
+@media (prefers-reduced-motion: reduce){#scene .world,#scene .hands,.hand--l::before{animation:none!important}}
+/* ==== intro ==== 旅館大門：管家小編招呼，按空白鍵開門 */
+#intro{position:fixed;inset:0;z-index:60;overflow:hidden;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:20px;padding:24px 16px;transition:opacity .5s .8s;
+  background:radial-gradient(circle at 84% 13%,#e8e4d8 0 24px,rgba(232,228,216,.12) 25px 58px,transparent 59px),
+  radial-gradient(circle,rgba(232,228,216,.55) 1px,transparent 1.6px) 0 0/97px 61px,
+  radial-gradient(circle,rgba(232,228,216,.35) 1px,transparent 1.6px) 40px 25px/131px 83px,
+  linear-gradient(#0b1220,#1c2530 72%,#2a1a0f 72%)}
+.inn{position:relative;display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);align-items:end;gap:28px;width:min(1120px,100%);transform-origin:var(--ox,50%) var(--oy,60%);transition:transform .95s cubic-bezier(.55,0,.85,.35)}
+.inn-front{--pad:44px;grid-column:2;position:relative;width:min(540px,92vw);padding:124px var(--pad) 0;
+  background:repeating-linear-gradient(90deg,transparent 0 62px,rgba(0,0,0,.28) 62px 64px),linear-gradient(#5a3a22,#4a2f1b);box-shadow:0 0 0 6px #24150b,0 40px 80px rgba(0,0,0,.6)}
+.inn-front::before{content:"";position:absolute;left:-34px;right:-34px;top:-38px;height:44px;background:repeating-linear-gradient(90deg,#2a1a0f 0 22px,#3b2414 22px 44px);clip-path:polygon(5% 0,95% 0,100% 100%,0 100%)}
+.inn-sign{position:absolute;left:50%;top:18px;transform:translateX(-50%);margin:0;padding:6px 24px 8px;white-space:nowrap;font:700 var(--t24)/1.25 var(--serif);letter-spacing:.14em;color:var(--gold);background:#2a1a0f;box-shadow:0 0 0 3px var(--gold),0 8px 0 rgba(0,0,0,.35);text-shadow:0 2px 0 #000}
+.inn-sign small{display:block;text-align:center;font:600 var(--t12)/1.3 var(--num);letter-spacing:.4em;color:var(--ink)}
+.lantern{position:absolute;top:150px;width:44px;height:44px}
+.lantern .px{width:44px;height:44px}
+.lantern--l{left:20px}.lantern--r{right:20px}
+.lantern::after{content:"";position:absolute;left:-58px;top:-62px;width:160px;height:160px;border-radius:50%;background:radial-gradient(rgba(255,180,80,.4),transparent 65%);animation:flicker 1.8s steps(4) infinite}
+.gate{all:unset;box-sizing:border-box;position:relative;display:block;margin:0 auto;width:220px;height:300px;cursor:pointer;perspective:700px;border-radius:110px 110px 0 0;
+  background:radial-gradient(ellipse at 50% 72%,#fff2c8,#e8c070 38%,#9a5a20 78%);box-shadow:0 0 0 10px #2a1a0f,0 0 0 13px var(--gold);transition:box-shadow .8s}
+.gate-leaf{position:absolute;top:0;bottom:0;width:50%;background:repeating-linear-gradient(90deg,#6b4a2f 0 26px,#5c3f28 26px 28px);transition:transform .8s cubic-bezier(.3,.7,.3,1)}
+.gate-leaf::before{content:"";position:absolute;inset:0;background:linear-gradient(transparent 22%,#2a2522 22% 26%,transparent 26% 74%,#2a2522 74% 78%,transparent 78%)}
+.gate-leaf::after{content:"";position:absolute;top:52%;width:22px;height:22px;border-radius:50%;box-shadow:inset 0 0 0 4px var(--gold)}
+.gate-leaf--l{left:0;border-radius:110px 0 0 0;transform-origin:left center}.gate-leaf--l::after{right:10px}
+.gate-leaf--r{right:0;border-radius:0 110px 0 0;transform-origin:right center}.gate-leaf--r::after{left:10px}
+.gate:hover .gate-leaf--l,.gate:focus-visible .gate-leaf--l{transform:rotateY(-10deg)}
+.gate:hover .gate-leaf--r,.gate:focus-visible .gate-leaf--r{transform:rotateY(10deg)}
+.gate.is-open .gate-leaf--l{transform:rotateY(-105deg)}.gate.is-open .gate-leaf--r{transform:rotateY(105deg)}
+.gate.is-open{box-shadow:0 0 0 10px #2a1a0f,0 0 0 13px var(--gold),0 0 120px 50px rgba(255,210,130,.55)}
+.gate:focus-visible{outline:4px solid var(--gold);outline-offset:18px}
+.inn-step{height:30px;margin:0 calc(-1 * var(--pad));background:linear-gradient(90deg,transparent calc(50% - 124px),#8a2a22 calc(50% - 124px) calc(50% + 124px),transparent calc(50% + 124px)) top/100% 12px no-repeat,repeating-linear-gradient(90deg,#5a5650 0 46px,#4a4640 46px 48px)}
+.host{grid-column:3;display:flex;flex-direction:column;align-items:flex-start;gap:14px;max-width:330px}
+.say-box{position:relative;width:100%;padding:12px 14px 4px;background:var(--ink);color:#1c2530;box-shadow:0 0 0 3px #0d1117,6px 6px 0 3px #0d1117}
+.say-box::after{content:"";position:absolute;left:40px;top:100%;border:10px solid transparent;border-top-color:var(--ink)}
+.say-who{display:block;font:700 var(--t14)/1.3 var(--zh);color:#7a3a2a}
+.say{margin:4px 0 0;font-size:var(--t16);line-height:1.6;min-height:4.8em}
+.say.typing::after{content:"▌";animation:blink .6s steps(2) infinite}
+.say-next{all:unset;box-sizing:border-box;display:block;margin-left:auto;min-height:44px;padding:10px 6px;cursor:pointer;font-size:var(--t14);color:#1c2530;text-decoration:underline;text-underline-offset:3px}
+.say-next:focus-visible{outline:3px solid #7a3a2a}
+.butler{width:112px;height:140px;margin-left:16px;cursor:pointer}
+.butler .px{width:100%;height:100%;display:block;animation:idle 1.6s steps(2) infinite;transform-origin:50% 100%;transition:transform .3s}
+@keyframes idle{50%{translate:0 -3px}}
+.butler.talking .px .c-m{animation:mouth .2s steps(2) infinite}
+@keyframes mouth{50%{fill:#d9a77a}}
+.butler.bow .px{transform:rotate(12deg)}
+.intro-hint{margin:0;font-size:var(--t16)}
+.intro-hint kbd{display:inline-block;padding:2px 8px;margin:0 4px;background:var(--ink);color:#1c2530;font:700 var(--t14)/1.4 var(--zh);box-shadow:0 3px 0 #8a8178}
+#intro.is-entering .inn{transform:scale(5)}
+#intro.is-entering{opacity:0}
+#intro.is-entering .intro-hint{visibility:hidden}
+@media (max-width:900px){
+  .inn{grid-template-columns:minmax(0,1fr);justify-items:center;gap:18px}
+  .inn-front,.host{grid-column:1}
+  .host{flex-direction:row-reverse;align-items:flex-end;max-width:min(540px,92vw);width:100%}
+  .say-box::after{display:none}
+  .butler{width:72px;height:90px;margin:0;flex:none}
+}
+@media (max-width:600px){
+  .inn-front{--pad:16px;padding-top:108px}
+  .inn-sign{font-size:var(--t21)}
+  .gate{width:160px;height:220px}
+  .lantern{top:110px;width:32px;height:32px}.lantern .px{width:32px;height:32px}.lantern--l{left:10px}.lantern--r{right:10px}
+  .say{font-size:var(--t14);min-height:6.4em}
+}
+@media (prefers-reduced-motion: reduce){.butler .px,.lantern::after,.say.typing::after{animation:none}}
 </style>
 </head>
 <body>
@@ -359,12 +441,15 @@ const SPRITES = {
   action:    [".....w......","....ww......","....www..w..","...wwww.ww..","..wwwgww.w..","..wwggwwww..",".wwwggggwww.",".wwggiiggww.",".wwgiiiigww.",".wwggiiggww.","..wwggggww..","...wwwwww..."],
   spectators:["............","............","....iiii....","..ii....ii..",".i...bb...i.","i...bkkb...i","i...bkkb...i",".i...bb...i.","..ii....ii..","....iiii....","............","............"],
   graffiti:  ["...ww.......","..w..w..b.b.","...kk..b.b..","..iiii..b.b.","..iiii......","..wwww......","..wwww......","..iiii......","..iiii......","..iiii......","..iiii......","...ii......."],
+  butler:    ["......hhhh......",".....hhhhhh.....","....hhhhhhhh....","....hssssssh....","....skssssks....","....ssssssss....","....shhhhhhs....",".....ssmmss.....","......ssss......","...nniwwwwinn...","..nnnniwwinnnn..","..nnnnniinnnnn..",".nnnnnngiinnnnn.",".nn.nnniinnn.nn.",".ii.nnngiinn.ii.","....nnniinnn....","....nnnnnnnn....","....nnn..nnn....","....nnn..nnn....","...kkkk..kkkk..."],
+  hand_key:  ["......kkkk......",".....kggggk.....",".....kg..gk.....",".....kggggk.....","......kggk......",".......gg.......",".......ggg......","....kkkggkkk....","...ksssssssk....","..ksssssssssk...","..ksqsqsqsssk...","..ksssssssssk...","...kqqqqqqqk....","....knnnnnnk....","....knnnnnnnk...","....knnnnnnnk..."],
+  hand_lamp: ["......kkkk......","......k..k......",".....kkkkkk.....",".....kgwwgk.....",".....kwggwk.....",".....kgwwgk.....",".....kkkkkk.....",".......kk.......","...kkkkkkkkk....","..ksssssssssk...","..ksqsqsqsssk...","..ksssssssssk...","...kqqqqqqqk....","....knnnnnnk....","....knnnnnnnk...","....knnnnnnnk..."],
 };
 GH.sprite = key => {
   const rows = SPRITES[key] || SPRITES.spectators, paths = {};
   rows.forEach((row, y) => [...row].forEach((c, x) => { if (c !== ".") paths[c] = (paths[c] || "") + `M${x} ${y}h1v1h-1z`; }));
   const NS = "http://www.w3.org/2000/svg", svg = document.createElementNS(NS, "svg");
-  svg.setAttribute("viewBox", "0 0 12 12"); svg.setAttribute("class", "px"); svg.setAttribute("aria-hidden", "true");
+  svg.setAttribute("viewBox", `0 0 ${rows[0].length} ${rows.length}`); svg.setAttribute("class", "px"); svg.setAttribute("aria-hidden", "true");
   Object.entries(paths).forEach(([c, d]) => { const p = document.createElementNS(NS, "path"); p.setAttribute("class", "c-" + c); p.setAttribute("d", d); svg.append(p); });
   return svg;
 };
@@ -602,12 +687,14 @@ sceneRoot.innerHTML = `
       <div class="endwall"></div>
     </div>
   </div></div>
+  <div class="hands" aria-hidden="true"><span class="hand hand--l"></span><span class="hand hand--r"></span></div>
   <div class="spawn-panel"></div>
   <div class="rooms"></div>
   <button id="turn-back" type="button" hidden>轉身</button>
   <div class="hold-ring" hidden><svg viewBox="0 0 44 44"><circle cx="22" cy="22" r="19"/></svg></div>
   <p class="hint"><span class="hint--key">W／S 前後走，A／D 對準門，按住 E 開門，按住 Tab 看計分板</span><span class="hint--touch">上下滑動前後走，左右滑動對準門，長按門開門</span></p>`;
 const world = sceneRoot.querySelector(".world"), corridor = sceneRoot.querySelector(".corridor");
+sceneRoot.querySelector(".hand--l").append(GH.sprite("hand_lamp")); sceneRoot.querySelector(".hand--r").append(GH.sprite("hand_key"));
 S.layout.forEach(x => {
   const d = el("button", "door door--" + (x.slug || x.special) + " door--" + x.side); d.type = "button";
   d.style.setProperty("--z", -(x.station * STATION_DEPTH) + "px");
@@ -695,8 +782,15 @@ S.openDoor = x => {
   document.body.classList.add("door-flash"); clearTimeout(S._flash); S._flash = setTimeout(() => document.body.classList.remove("door-flash"), 650);
 };
 S.closeDoors = () => sceneRoot.querySelectorAll(".door.is-opening").forEach(d => { d.classList.remove("is-opening"); d.querySelectorAll(".spark").forEach(p => p.remove()); });
-S.move = d => { holdCancel(); const n = Math.max(0, Math.min(4, S.station + d)); if (n === S.station) return; S.station = n; S.facing = "front"; S.render(true); GH.announce(S.describe()); };
-S.turn = side => { holdCancel(); S.facing = S.facing === side ? "front" : side; if (S.station === 0) S.facing = "front"; S.render(true); };
+// 走路時鏡頭和手上下晃，轉身時手往反方向擺
+S.stepFx = (cls, sway = 0) => {
+  if (reduced()) return;
+  sceneRoot.classList.remove("is-walking", "is-turning"); void sceneRoot.offsetWidth; // 連按時重新播放
+  sceneRoot.style.setProperty("--sway", sway + "px"); sceneRoot.classList.add(cls);
+  clearTimeout(S._sf); S._sf = setTimeout(() => sceneRoot.classList.remove(cls), 450);
+};
+S.move = d => { holdCancel(); const n = Math.max(0, Math.min(4, S.station + d)); if (n === S.station) return; S.station = n; S.facing = "front"; S.render(true); S.stepFx("is-walking"); GH.announce(S.describe()); };
+S.turn = side => { holdCancel(); const was = S.facing; S.facing = S.facing === side ? "front" : side; if (S.station === 0) S.facing = "front"; S.render(true); if (S.facing !== was) S.stepFx("is-turning", side === "left" ? 28 : -28); };
 S.enter = x => {
   if (x.slug) GH.go({room: x.slug});
   else {
@@ -797,7 +891,7 @@ const ring = sceneRoot.querySelector(".hold-ring");
 let hold = null; // {start, raf, target}
 const holdStart = target => {
   if (hold || !target) return;
-  ring.hidden = false;
+  ring.hidden = false; sceneRoot.classList.add("is-reaching");
   hold = {start: performance.now(), target};
   const tick = now => {
     const p = Math.min(1, (now - hold.start) / GH.input.HOLD_MS);
@@ -807,9 +901,10 @@ const holdStart = target => {
   };
   hold.raf = requestAnimationFrame(tick);
 };
-const holdCancel = () => { if (!hold) return; cancelAnimationFrame(hold.raf); hold = null; ring.style.setProperty("--p", "0"); ring.hidden = true; };
+const holdCancel = () => { if (!hold) return; cancelAnimationFrame(hold.raf); sceneRoot.classList.remove("is-reaching"); hold = null; ring.style.setProperty("--p", "0"); ring.hidden = true; };
 const walking = () => GH.state.view === "walk" && !GH.state.room && !sceneRoot.classList.contains("in-room");
 addEventListener("keydown", e => {
+  if (GH.introOpen) return; // 大門還沒開：鍵盤交給大門
   // 載入後第一次按 Tab、焦點還在 body 時放行，讓焦點落到「切換到樓層導覽圖」（SPEC 7.9）；之後 Tab 才是計分板
   if (e.key === "Tab" && GH.state.view === "walk" && !GH._interacted && document.activeElement === document.body) { GH._interacted = true; return; }
   if (e.key === "Tab" && GH.state.view === "walk") { e.preventDefault(); GH._interacted = true; if (!e.repeat) GH.emit("scoreboard", {open:true}); return; }
@@ -931,6 +1026,68 @@ const kf = document.getElementById("killfeed");
 });
 const tabTip = document.getElementById("tab-tip");
 GH.on("state", ({next}) => { kf.hidden = next.view === "plan"; tabTip.hidden = next.view === "plan"; sbBtn.hidden = false; });
+
+/* ==== intro ==== 旅館大門：管家小編招呼，按空白鍵（手機點門）開門；每個分頁只出現一次 */
+GH.session = { get(k){ try { return sessionStorage.getItem(k); } catch { return null; } }, set(k, v){ try { sessionStorage.setItem(k, v); } catch {} } };
+const intro = el("section"); intro.id = "intro"; intro.setAttribute("aria-label", "旅館大門"); intro.hidden = true;
+intro.innerHTML = `<div class="inn">
+  <div class="inn-front"><h2 class="inn-sign"><small>2026</small>遊戲熱度旅館</h2>
+    <span class="lantern lantern--l"></span><span class="lantern lantern--r"></span>
+    <button class="gate" type="button" aria-label="開門進旅館"><span class="gate-leaf gate-leaf--l"></span><span class="gate-leaf gate-leaf--r"></span></button>
+    <div class="inn-step"></div></div>
+  <div class="host"><div class="say-box"><strong class="say-who">管家小編</strong><p class="say" aria-hidden="true"></p><button class="say-next" type="button">下一句</button></div><span class="butler" aria-hidden="true"></span></div>
+</div>
+<p class="intro-hint"><span class="hint--key">按<kbd>空白鍵</kbd>開門，點「下一句」聽小編介紹</span><span class="hint--touch">點大門開門，點「下一句」聽小編介紹</span></p>`;
+document.body.append(intro);
+intro.querySelectorAll(".lantern").forEach(l => l.append(GH.sprite("torch")));
+const butler = intro.querySelector(".butler"), sayEl = intro.querySelector(".say"), nextBtn = intro.querySelector(".say-next"), gate = intro.querySelector(".gate"), inn = intro.querySelector(".inn");
+butler.append(GH.sprite("butler"));
+const touchy = matchMedia("(hover:none),(pointer:coarse)").matches;
+const top1 = GH.data.games.filter(g => g.rank).sort((a, b) => a.rank - b.rank)[0];
+const [py, pm1] = GH.data.period.from.split("-"), pm2 = GH.data.period.to.split("-")[1];
+const gossip = (GH.data.kill_feed || [])[0];
+const LINES = [
+  "晚安，歡迎光臨！我是這間旅館的管家，大家都叫我小編。",
+  `本館住了 ${GH.data.games.length} 款遊戲，人數全是真實數據。排名看 ${py} 年 ${Number(pm1)}～${Number(pm2)} 月的月峰值平均。`,
+  top1 && `目前最多人入住的是「${top1.name}」，月峰值平均有 ${GH.fmt.num(top1.score)}人。`,
+  "走廊兩邊有六間房，每間住一種類型。第一次進房，記得親手翻開那間的榜單。",
+  gossip && `悄悄告訴你，最近大家在聊：${GH.fmt.fill(gossip.text)}`,
+  touchy ? "在走廊裡上下滑動前後走，左右滑動轉向門，長按門就能進去。" : "在走廊裡 W／S 前後走，A／D 轉向門，按住 E 開門，按住 Tab 看總計分板。",
+  touchy ? "準備好了就點大門，我幫你開門！" : "準備好了就按空白鍵，我幫你開門！",
+].filter(Boolean);
+let line = 0, typer = null, full = "";
+const finish = () => { clearInterval(typer); typer = null; sayEl.textContent = full; sayEl.classList.remove("typing"); butler.classList.remove("talking"); };
+const say = (text, instant = false) => {
+  clearInterval(typer); full = text; GH.announce(text);
+  if (instant || reduced()) { finish(); return; }
+  sayEl.textContent = ""; sayEl.classList.add("typing"); butler.classList.add("talking");
+  let i = 0; typer = setInterval(() => { sayEl.textContent = full.slice(0, ++i); if (i >= full.length) finish(); }, 35);
+};
+const nextLine = () => {
+  if (typer) { finish(); return; } // 還在打字：先整句顯示
+  line = (line + 1) % LINES.length; say(LINES[line]);
+  nextBtn.textContent = line === LINES.length - 1 ? "再聽一次" : "下一句";
+};
+nextBtn.addEventListener("click", nextLine); butler.addEventListener("click", nextLine);
+let gateOpening = false;
+const behind = [document.querySelector("main"), document.getElementById("hud")];
+const openGate = () => {
+  if (gateOpening) return; gateOpening = true;
+  GH.session.set("gh.intro", "seen");
+  say("請進，祝你玩得開心！", true); butler.classList.add("bow"); gate.classList.add("is-open");
+  const done = () => { intro.hidden = true; GH.introOpen = false; behind.forEach(x => x.inert = false); document.activeElement?.blur?.(); };
+  if (reduced()) { done(); return; }
+  const g = gate.getBoundingClientRect(), b = inn.getBoundingClientRect(); // 鏡頭朝門口推進
+  inn.style.setProperty("--ox", (g.left + g.width / 2 - b.left) + "px"); inn.style.setProperty("--oy", (g.top + g.height * .6 - b.top) + "px");
+  setTimeout(() => intro.classList.add("is-entering"), 550);
+  setTimeout(done, 1500);
+};
+gate.addEventListener("click", openGate);
+addEventListener("keydown", e => { if (GH.introOpen && e.key === " ") { e.preventDefault(); openGate(); } }, true);
+if (GH.state.view === "walk" && !GH.state.room && GH.session.get("gh.intro") !== "seen") {
+  intro.hidden = false; GH.introOpen = true; behind.forEach(x => x.inert = true);
+  gate.focus({preventScroll:true}); say(LINES[0]);
+}
 
 GH.emit("state", {prev:null, next:GH.state, animate:false});
 GH.ready = true; // 放在第一次渲染之後：測試等到 ready 時畫面已經是網址指定的狀態

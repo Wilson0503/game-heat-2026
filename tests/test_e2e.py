@@ -19,10 +19,12 @@ class E2E(unittest.TestCase):
     def tearDownClass(cls):
         cls.browser.close(); cls.pw.stop()
 
-    def open(self, hash="", mobile=False, reduced=False):
+    def open(self, hash="", mobile=False, reduced=False, intro=False):
         opts = dict(viewport={"width": 375, "height": 812}, has_touch=True, is_mobile=True, device_scale_factor=2) \
             if mobile else dict(viewport={"width": 1440, "height": 900})
         ctx = self.browser.new_context(reduced_motion="reduce" if reduced else "no-preference", **opts)
+        # 旅館大門每個分頁只出現一次；其他測試假設已經進門，直接從走廊開始
+        if not intro: ctx.add_init_script("try { sessionStorage.setItem('gh.intro', 'seen') } catch (e) {}")
         page = ctx.new_page()
         self.requests, self.errors = [], []
         page.on("request", lambda r: self.requests.append(r.url))
@@ -506,6 +508,82 @@ class Reveal(E2E):
         p = ctx.new_page(); errs = []; p.on("pageerror", lambda e: errs.append(str(e)))
         p.goto(URL + "#room=sim"); p.wait_for_function("window.GH && GH.ready === true", timeout=5000)
         p.click(self.cover("sim")); self.assertEqual(errs, [])
+
+
+class Intro(E2E):
+    def done(self, p): p.wait_for_function("document.getElementById('intro').hidden", timeout=4000)
+
+    def test_gate_and_butler_on_first_visit(self):
+        p = self.open(intro=True)
+        self.assertTrue(p.is_visible("#intro .gate")); self.assertTrue(p.is_visible("#intro .butler svg.px"))
+        self.assertIn("小編", p.inner_text("#intro .say-who"))
+        self.assertIn("gate", p.evaluate("document.activeElement.className"))
+        self.assertIn("空白鍵", p.inner_text("#intro .intro-hint"))
+
+    def test_butler_dialogue_uses_real_data(self):
+        p = self.open(intro=True)
+        top = min((g for g in SITE["games"] if g["rank"]), key=lambda g: g["rank"])
+        seen = []
+        for _ in range(8):
+            p.wait_for_function("!document.querySelector('#intro .say').classList.contains('typing')", timeout=5000)
+            seen.append(p.inner_text("#intro .say")); p.click("#intro .say-next")
+        self.assertGreaterEqual(len(set(seen)), 4, "小編要有好幾句不同的話")
+        self.assertTrue(any(top["name"] in s for s in seen), "其中一句講真實的第一名")
+
+    def test_space_opens_door_with_animation(self):
+        p = self.open(intro=True)
+        p.keyboard.press(" ")
+        self.assertIn("is-open", p.get_attribute("#intro .gate", "class"))
+        self.assertTrue(p.is_visible("#intro"), "開門動畫播放中")
+        self.assertIn("請進", p.inner_text("#intro .say"))
+        self.done(p)
+        p.keyboard.press("w"); p.wait_for_function("GH.scene.station === 1")
+
+    def test_keys_blocked_while_gate_closed(self):
+        p = self.open(intro=True)
+        p.keyboard.press("w"); p.keyboard.down("Tab")
+        self.assertEqual(p.evaluate("GH.scene.station"), 0); self.assertFalse(p.is_visible("#scoreboard"))
+        p.keyboard.up("Tab")
+
+    def test_skipped_on_deep_link_and_after_entering(self):
+        p = self.open("#room=shooter", intro=True); self.assertFalse(p.is_visible("#intro"))
+        p = self.open(intro=True); p.click("#intro .gate"); self.done(p)
+        p.reload(); p.wait_for_function("window.GH && GH.ready === true"); self.assertFalse(p.is_visible("#intro"), "同一個分頁重新整理不再擋")
+
+    def test_touch_tap_gate(self):
+        p = self.open(mobile=True, intro=True)
+        self.assertIn("點", p.inner_text("#intro .intro-hint"))
+        p.tap("#intro .gate"); self.done(p)
+        self.assertFalse(p.evaluate("document.documentElement.scrollWidth > document.documentElement.clientWidth + 1"))
+
+
+class Hands(E2E):
+    def test_hands_visible_in_corridor_only(self):
+        p = self.open()
+        self.assertEqual(p.locator("#scene .hands .hand svg.px").count(), 2)
+        self.assertTrue(p.is_visible("#scene .hand--r"))
+        p.evaluate("GH.go({room:'sim'}, {animate:false})")
+        self.assertFalse(p.is_visible("#scene .hand--r"), "進房後是 2D 疊層，不畫手")
+
+    def test_walk_bob_and_turn_sway(self):
+        p = self.open()
+        p.keyboard.press("w")
+        self.assertIn("is-walking", p.get_attribute("#scene", "class"))
+        self.assertEqual(p.evaluate("getComputedStyle(document.querySelector('.world')).animationName"), "bob")
+        self.assertEqual(p.evaluate("getComputedStyle(document.querySelector('.hands')).animationName"), "hands-walk")
+        p.wait_for_timeout(700); self.assertNotIn("is-walking", p.get_attribute("#scene", "class"))
+        p.keyboard.press("a"); self.assertIn("is-turning", p.get_attribute("#scene", "class"))
+
+    def test_hold_e_reaches_forward(self):
+        p = self.open(); p.keyboard.press("w"); p.keyboard.press("a")
+        p.keyboard.down("e"); p.wait_for_timeout(150)
+        self.assertIn("is-reaching", p.get_attribute("#scene", "class"))
+        p.keyboard.up("e")
+
+    def test_no_bob_with_reduced_motion(self):
+        p = self.open("#", reduced=True)
+        p.evaluate("GH.go({view:'walk'})"); p.keyboard.press("w")
+        self.assertEqual(p.evaluate("getComputedStyle(document.querySelector('.world')).animationName"), "none")
 
 if __name__ == "__main__":
     unittest.main()
