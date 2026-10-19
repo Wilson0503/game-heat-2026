@@ -1,0 +1,654 @@
+{
+ "582010": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "Monster Hunter: World",
+   "steam_appid": 582010,
+   "required_age": 0,
+   "is_free": false,
+   "dlc": [
+    1118010,
+    912540,
+    960781,
+    896580,
+    763695,
+    763696,
+    763699,
+    891730,
+    770970,
+    770974,
+    763697,
+    763698,
+    770977,
+    762919,
+    861870,
+    861871,
+    861872,
+    762174,
+    762918,
+    770975,
+    974302,
+    996740,
+    770976,
+    770972,
+    770973,
+    1118012,
+    1118017,
+    1118018,
+    1118019,
+    1118013,
+    1118014,
+    1118015,
+    1118022,
+    1118023,
+    1118024,
+    1118025,
+    1118026,
+    1118029,
+    1211170,
+    1211171,
+    1211173,
+    1211174,
+    1211175,
+    1211176,
+    1211177,
+    1211178,
+    1211179,
+    1211200,
+    1211201,
+    1211202,
+    1211203,
+    1211204,
+    1211205,
+    1211206,
+    1211207,
+    1241272,
+    1241268,
+    1241269,
+    1241270,
+    1241271,
+    1211208,
+    1211209,
+    1241260,
+    1241261,
+    1241262,
+    1241263,
+    1241264,
+    1241265,
+    1241266,
+    1241267,
+    1241287,
+    1241288,
+    1241289,
+    1241290,
+    1241291,
+    1241292,
+    1241293,
+    1241294,
+    1241295,
+    1241296,
+    1241297,
+    1241298,
+    1241299,
+    1241300,
+    1241273,
+    1241274,
+    1241275,
+    1241276,
+    1241277,
+    1241278,
+    1241279,
+    1241280,
+    1241281,
+    1241282,
+    1241283,
+    1241284,
+    1241285,
+    1241286,
+    1242741,
+    1242742,
+    1242743,
+    1242744,
+    1242745,
+    1242746,
+    1242747,
+    1242748,
+    1242749,
+    1242750,
+    1242751,
+    1242752,
+    1242753,
+    1242754,
+    1242755,
+    1242756,
+    1242757,
+    1242758,
+    1242759,
+    1242760,
+    1242761,
+    1242762,
+    1242763,
+    1242764,
+    1242765,
+    1242766,
+    1242767,
+    1242768,
+    1242769,
+    1242770,
+    1242771,
+    1242772,
+    1242773,
+    1242774,
+    1242775,
+    1242776,
+    1242740,
+    1242777,
+    1242778,
+    1242779,
+    1265470,
+    1265471,
+    1265472,
+    1265473,
+    1265474,
+    1265475,
+    1265476,
+    1287081,
+    1287082,
+    1287051,
+    1287052,
+    1287053,
+    1287054,
+    1287055,
+    1287056,
+    1287057,
+    1287058,
+    1287059,
+    1287060,
+    1287062,
+    1287063,
+    1287064,
+    1287065,
+    1287066,
+    1287067,
+    1287068,
+    1287069,
+    1287070,
+    1287071,
+    1287072,
+    1287073,
+    1287074,
+    1287075,
+    1287076,
+    1287050,
+    1371421,
+    1371422,
+    1371423,
+    1371424,
+    1371425,
+    1371426,
+    1371427,
+    1371428,
+    1371429,
+    1371401,
+    1371402,
+    1371403,
+    1371404,
+    1371405,
+    1371406,
+    1371407,
+    1371408,
+    1371409,
+    1371420,
+    1377530,
+    1287083,
+    1351860,
+    1351861,
+    1371400,
+    1287061,
+    1472030,
+    1390430
+   ],
+   "detailed_description": "<h1>有關追加內容（DLC）的販售形式變動事宜</h1><p>由於匯率變動，在部分地區、貨幣中出現（或將有可能出現）無法購買DLC套裝商品的問題，<br>從2024年12月下旬開始，將隨時變更在Steam上出售中的各種追加內容（DLC）套裝商品的販售形式。<br><br>內容：<br>現已取消「購買套裝商品時，若用戶的Steam收藏庫中已有套裝內商品，會以差額購買不在用戶Steam收藏庫中的商品」的規則，<br>更改為「購買套裝商品時，無論用戶的Steam收藏庫中是否包含套裝內商品，都必須一併購買整個套裝商品」。<br>※請注意，單品DLC／套裝商品有可能出現重複購買的情況。<br><br>伴隨以上調整內容，部分或所有既存及新的套裝商品會有以下變動，敬請注意。<br><br>部分指定套裝商品的收錄內容，以及商品圖片和說明文會變更<br>部分指定套裝商品的銷售價格會有增減調整<br>部分指定套裝商品結束販售或暫停販售</p><br><h1>數位豪華版</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/305d21d3f7a8492d9b5523775a7172a0.avif?t=1791439347\" width=608 height=402 /></span><br>數碼deluxe 版本包括以下內容:<br><ul class=\"bb_ul\"><li>外觀裝備「鎧武者系列」<br>　沒有性能上的作用，這些外觀裝備只會改變角色的外觀。於「鎧武者系列」中選擇你最喜愛的裝備，打造日本傳統武士造型！<br>　※不附帶武器。<br><br></li><li>追加動作「正坐」<br></li><li>追加動作「投射飛鏢」<br></li><li>追加動作「強推」<br>　與其他遊戲玩家進行互動時，你可以使用這些有趣的動作。<br><br></li><li>追加獎章套裝「MH歴代角色人物套裝」<br></li><li>追加獎章套裝「全熟肉吉祥物套裝」<br>　與其他遊戲玩家聊天時，你可以使用這些趣味獎章。<br><br></li><li>追加塗鴉「龍」<br>　為Monster Hunter: World角色加入新面繪，使其更加個人化。<br><br></li><li>追加髮型「沖天炮」<br>　為Monster Hunter: World角色加入新髮型，使其更加個人化。</li></ul></p><br><h1>關於此遊戲</h1>新的生命之地。狩獵, 就是本能! 在人氣作品「Monster Hunter: World」裡, 地形和環境生物, 甚至魔物的生態系統都能被利用, 用一切手段挑戰巨大的魔物。在新建構的「Monster Hunter: World」中, 可以體驗到你一直期盼的極致獵人生活。<h2 class=\"bb_tag\" ><strong>【商品概要】</strong></h2><strong>在壯麗的大自然中與魔物進行一場史詩式的決鬥。</strong><br><br>玩家化身成獵人, 接受任務狩獵生活棲息在各種環境中的魔物。利用狩獵魔物取得的材料, 製作更強的武器和防具, 挑戰更強大的魔物。<br><br>在遊戲「Monster Hunter: World」中,玩家可以體驗終極的狩獵生活,活用新建構的世界中各種各樣的地形與生態環境享受狩獵的驚喜與興奮。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/7c8e056feb772e7e3a139dae68f867c9.avif?t=1791439347\" width=616 height=346 /></span><br><br><strong>故事</strong><br>每10年一度，邁向遙遠彼方的新大陸，渡海的古龍們。<br><br>被稱為「古龍遷徙」，為了解釋這奇妙的現象，公會結成「新大陸古龍調查團」，多次派調查團前往新大陸。<br><br>然而，今次已是第五次派遣，追蹤正在渡海的古龍熔山龍後方，在這巨大的船中，可以見到獵人的姿態⋯⋯<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/4a53966a2a9b7a3bd436daaf964f0cf1.avif?t=1791439347\" width=616 height=308 /></span><h2 class=\"bb_tag\" ><strong>生態系統</strong></h2><strong>充滿活力的新世界</strong><br>充滿多樣化生命群體的廣闊領域。各種各樣的發現等著你去探索。<h2 class=\"bb_tag\" ><strong>狩獵</strong></h2><strong>多彩的武器和裝備，還有可靠的拍擋。</strong><br>你的裝備賦予你權力去開發這個未知的新世界。<br><br><strong>各種武器種類</strong><br>共有14種武器可供選擇使用，每款均有它各自的特色與用途。<br>選用多款武器，還是把一款武器用至極致，則取決於獵人的喜好。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/9aa38d26761de4fef18f2078c063c293.avif?t=1791439347\" width=616 height=252 /></span><br><br><strong>導蟲</strong><br>原野上四處可見到魔物的足跡或爪痕之類「痕跡」。<br>讓導蟲記住氣味，循著痕跡找出欲討伐的魔物，是展開狩獵的第一個步驟。<br>探索原野收集到越多痕跡，導蟲領路的準確度也會跟著提高。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/3ee5665dafddc5c13723f305e2b3f591.poster.avif?t=1791439347\" width=616 height=228 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/3ee5665dafddc5c13723f305e2b3f591.webm?t=1791439347\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/3ee5665dafddc5c13723f305e2b3f591.mp4?t=1791439347\" type=\"video/mp4\"></video></span><br><br><strong>投射器</strong><br>可將原野中取得的小石頭或樹果當成子彈射擊，是利用環境狩獵時不可或缺的工具。<br>可用於誘敵或是縮短移動距離，各種場面皆可派上用場。<br>今後狩獵時，想必會更需要對局面有精準的掌控。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/16fbf8b372c46103f1cb11f18e331a4a.poster.avif?t=1791439347\" width=616 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/16fbf8b372c46103f1cb11f18e331a4a.webm?t=1791439347\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/16fbf8b372c46103f1cb11f18e331a4a.mp4?t=1791439347\" type=\"video/mp4\"></video></span><br><br><strong>特殊裝備</strong><br>使用後在一定時間內發動特殊技能的裝具，每種裝具所發動的效果不同，狩獵時跟道具一樣可選取使用。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/c9b4e60f8458722dc3a66c53c247a94f.poster.avif?t=1791439347\" width=616 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/c9b4e60f8458722dc3a66c53c247a94f.webm?t=1791439347\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/c9b4e60f8458722dc3a66c53c247a94f.mp4?t=1791439347\" type=\"video/mp4\"></video></span><br><br><strong>隨從艾路</strong><br>獵人狩獵時的拍擋，能夠作攻擊，回復等等各種支援，是個子雖小卻可靠的拍擋。<br>作為調查員的一員，與獵人共同乘上船上，來到這個新大陸。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/d06009f33924bf17f68be7d6e318e43b.avif?t=1791439347\" width=616 height=378 /></span>",
+   "about_the_game": "新的生命之地。狩獵, 就是本能! 在人氣作品「Monster Hunter: World」裡, 地形和環境生物, 甚至魔物的生態系統都能被利用, 用一切手段挑戰巨大的魔物。在新建構的「Monster Hunter: World」中, 可以體驗到你一直期盼的極致獵人生活。<h2 class=\"bb_tag\" ><strong>【商品概要】</strong></h2><strong>在壯麗的大自然中與魔物進行一場史詩式的決鬥。</strong><br><br>玩家化身成獵人, 接受任務狩獵生活棲息在各種環境中的魔物。利用狩獵魔物取得的材料, 製作更強的武器和防具, 挑戰更強大的魔物。<br><br>在遊戲「Monster Hunter: World」中,玩家可以體驗終極的狩獵生活,活用新建構的世界中各種各樣的地形與生態環境享受狩獵的驚喜與興奮。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/7c8e056feb772e7e3a139dae68f867c9.avif?t=1791439347\" width=616 height=346 /></span><br><br><strong>故事</strong><br>每10年一度，邁向遙遠彼方的新大陸，渡海的古龍們。<br><br>被稱為「古龍遷徙」，為了解釋這奇妙的現象，公會結成「新大陸古龍調查團」，多次派調查團前往新大陸。<br><br>然而，今次已是第五次派遣，追蹤正在渡海的古龍熔山龍後方，在這巨大的船中，可以見到獵人的姿態⋯⋯<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/4a53966a2a9b7a3bd436daaf964f0cf1.avif?t=1791439347\" width=616 height=308 /></span><h2 class=\"bb_tag\" ><strong>生態系統</strong></h2><strong>充滿活力的新世界</strong><br>充滿多樣化生命群體的廣闊領域。各種各樣的發現等著你去探索。<h2 class=\"bb_tag\" ><strong>狩獵</strong></h2><strong>多彩的武器和裝備，還有可靠的拍擋。</strong><br>你的裝備賦予你權力去開發這個未知的新世界。<br><br><strong>各種武器種類</strong><br>共有14種武器可供選擇使用，每款均有它各自的特色與用途。<br>選用多款武器，還是把一款武器用至極致，則取決於獵人的喜好。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/9aa38d26761de4fef18f2078c063c293.avif?t=1791439347\" width=616 height=252 /></span><br><br><strong>導蟲</strong><br>原野上四處可見到魔物的足跡或爪痕之類「痕跡」。<br>讓導蟲記住氣味，循著痕跡找出欲討伐的魔物，是展開狩獵的第一個步驟。<br>探索原野收集到越多痕跡，導蟲領路的準確度也會跟著提高。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/3ee5665dafddc5c13723f305e2b3f591.poster.avif?t=1791439347\" width=616 height=228 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/3ee5665dafddc5c13723f305e2b3f591.webm?t=1791439347\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/3ee5665dafddc5c13723f305e2b3f591.mp4?t=1791439347\" type=\"video/mp4\"></video></span><br><br><strong>投射器</strong><br>可將原野中取得的小石頭或樹果當成子彈射擊，是利用環境狩獵時不可或缺的工具。<br>可用於誘敵或是縮短移動距離，各種場面皆可派上用場。<br>今後狩獵時，想必會更需要對局面有精準的掌控。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/16fbf8b372c46103f1cb11f18e331a4a.poster.avif?t=1791439347\" width=616 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/16fbf8b372c46103f1cb11f18e331a4a.webm?t=1791439347\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/16fbf8b372c46103f1cb11f18e331a4a.mp4?t=1791439347\" type=\"video/mp4\"></video></span><br><br><strong>特殊裝備</strong><br>使用後在一定時間內發動特殊技能的裝具，每種裝具所發動的效果不同，狩獵時跟道具一樣可選取使用。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/c9b4e60f8458722dc3a66c53c247a94f.poster.avif?t=1791439347\" width=616 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/c9b4e60f8458722dc3a66c53c247a94f.webm?t=1791439347\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/c9b4e60f8458722dc3a66c53c247a94f.mp4?t=1791439347\" type=\"video/mp4\"></video></span><br><br><strong>隨從艾路</strong><br>獵人狩獵時的拍擋，能夠作攻擊，回復等等各種支援，是個子雖小卻可靠的拍擋。<br>作為調查員的一員，與獵人共同乘上船上，來到這個新大陸。<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/extras/d06009f33924bf17f68be7d6e318e43b.avif?t=1791439347\" width=616 height=378 /></span>",
+   "short_description": "新的生命之地。狩獵, 就是本能! 「Monster Hunter: World」中, 玩家可以體驗終極的狩獵生活, 活用新建構的世界中各種各樣的地形 與生態環境享受狩獵的驚喜與興奮。",
+   "supported_languages": "英文<strong>*</strong>, 法文<strong>*</strong>, 義大利文<strong>*</strong>, 德文<strong>*</strong>, 西班牙文 - 西班牙<strong>*</strong>, 阿拉伯文, 葡萄牙文 - 巴西, 波蘭文, 繁體中文, 日文<strong>*</strong>, 韓文, 俄文, 簡體中文, 西班牙文 - 拉丁美洲<br><strong>*</strong>具備完整音效支援的語言",
+   "reviews": "“This beautifully implemented port is a perfect PC introduction to the joys of Monster Hunter”<br>95/100 – IGN<br><br>“Monster Hunter: World’s thrilling fights with fantastic beasts never get old”<br>86/100 – PC Gamer<br><br>“This is absolutely a buy”<br>AngryCentaurGaming (video review)<br>",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg?t=1791439347",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/capsule_231x87.jpg?t=1791439347",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/capsule_184x69.jpg?t=1791439347",
+   "website": "http://www.monsterhunterworld.com/",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 10 (64-bit)<br></li><li><strong>處理器:</strong> Intel Core i5-4460 / Intel Core i3-9100F / AMD FX-6300 / AMD Ryzen 3 3200G<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA GeForce GTX 760 / NVIDIA GeForce GTX 1050 / AMD Radeon R7 260x / AMD Radeon RX 560<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 52 GB 可用空間<br></li><li><strong>音效卡:</strong> DirectSound<br></li><li><strong>備註:</strong> ・可在畫面設定為「低」的情況下，以1080p/30fps進行遊戲。 ・需要64-BIT處理器和作業系統。</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 10 (64-bit) / Windows 11<br></li><li><strong>處理器:</strong> Intel Core i7-3770 / Intel Core i3-8350 / Intel Core i3-9350F / AMD Ryzen 5 1500X / AMD Ryzen 5 3400G<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA GeForce GTX 1060 (VRAM 3GB) / NVIDIA GeForce GTX 1650 / AMD Radeon RX 480 / AMD Radeon RX 570<br></li><li><strong>DirectX:</strong> 版本：12<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 52 GB 可用空間<br></li><li><strong>音效卡:</strong> DirectSound<br></li><li><strong>備註:</strong> 將圖像設定設為「高」，即可於1080p/30fps環境遊玩。需使用64位元處理器及作業系統。如要將Direct X 12 API設為有效，至少需要Windows 10（Version 1809或更高版本），以及VRAM容量為4GB或更高的顯示卡(GPU)。 *如使用Windows 11，請確認系統是否達到Windows 11的系統要求。</li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "linux_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "legal_notice": "©CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
+   "developers": [
+    "CAPCOM Co., Ltd."
+   ],
+   "publishers": [
+    "CAPCOM Co., Ltd."
+   ],
+   "price_overview": {
+    "currency": "TWD",
+    "initial": 86000,
+    "final": 86000,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "NT$ 860"
+   },
+   "packages": [
+    405536,
+    281619,
+    967779,
+    1194316,
+    1194317,
+    1194318
+   ],
+   "package_groups": [
+    {
+     "name": "default",
+     "title": "購買 Monster Hunter: World",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 281619,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "Monster Hunter: World - NT$ 860",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 86000
+      },
+      {
+       "packageid": 1194316,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "Monster Hunter: World - DLC Collection - NT$ 1,190",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 119000
+      },
+      {
+       "packageid": 1194317,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "MHW:I - DLC Collection - NT$ 1,190",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 119000
+      },
+      {
+       "packageid": 1194318,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "Monster Hunter World + Iceborne DLC Collection - NT$ 1,450",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 145000
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+   },
+   "metacritic": {
+    "score": 88,
+    "url": "https://www.metacritic.com/game/pc/monster-hunter-world?ftag=MCD-06-10aaa1f"
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 29,
+     "description": "Steam 交換卡片"
+    },
+    {
+     "id": 64,
+     "description": "可調整文字大小"
+    },
+    {
+     "id": 67,
+     "description": "鏡頭舒適度"
+    },
+    {
+     "id": 68,
+     "description": "自訂音量控制"
+    },
+    {
+     "id": 75,
+     "description": "只需鍵盤選項"
+    },
+    {
+     "id": 69,
+     "description": "立體聲"
+    },
+    {
+     "id": 70,
+     "description": "環繞音效"
+    },
+    {
+     "id": 18,
+     "description": "部分控制器支援"
+    },
+    {
+     "id": 23,
+     "description": "Steam 雲端"
+    },
+    {
+     "id": 15,
+     "description": "統計"
+    },
+    {
+     "id": 25,
+     "description": "Steam 排行榜"
+    },
+    {
+     "id": 42,
+     "description": "在平板上遠端暢玩"
+    },
+    {
+     "id": 61,
+     "description": "可用 HDR"
+    },
+    {
+     "id": 62,
+     "description": "親友同享"
+    }
+   ],
+   "genres": [
+    {
+     "id": "1",
+     "description": "動作"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/ss_a262c53b8629de7c6547933dc0b49d31f4e1b1f1.600x338.jpg?t=1791439347",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/ss_a262c53b8629de7c6547933dc0b49d31f4e1b1f1.1920x1080.jpg?t=1791439347"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/ss_6b4986a37c7b5c185a796085c002febcdd5357b5.600x338.jpg?t=1791439347",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/ss_6b4986a37c7b5c185a796085c002febcdd5357b5.1920x1080.jpg?t=1791439347"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/ss_0dfb20f6f09c196bfc317bd517dc430ed6e6a2a4.600x338.jpg?t=1791439347",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/ss_0dfb20f6f09c196bfc317bd517dc430ed6e6a2a4.1920x1080.jpg?t=1791439347"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/ss_25902a9ae6977d6d10ebff20b87e8739e51c5b8b.600x338.jpg?t=1791439347",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/ss_25902a9ae6977d6d10ebff20b87e8739e51c5b8b.1920x1080.jpg?t=1791439347"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/ss_681cc5358ec55a997aee9f757ffe8b418dc79a32.600x338.jpg?t=1791439347",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/ss_681cc5358ec55a997aee9f757ffe8b418dc79a32.1920x1080.jpg?t=1791439347"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/ss_ce69dc57e6e442c73d874f1b701f2e4af405fb19.600x338.jpg?t=1791439347",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/ss_ce69dc57e6e442c73d874f1b701f2e4af405fb19.1920x1080.jpg?t=1791439347"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/ss_6d26868b45c20bf4dd5f75f31264aca08ce17217.600x338.jpg?t=1791439347",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/ss_6d26868b45c20bf4dd5f75f31264aca08ce17217.1920x1080.jpg?t=1791439347"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/ss_669f9008f708c19fe3c41d647516f7a73bf26d24.600x338.jpg?t=1791439347",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/ss_669f9008f708c19fe3c41d647516f7a73bf26d24.1920x1080.jpg?t=1791439347"
+    }
+   ],
+   "movies": [
+    {
+     "id": 256769027,
+     "name": "191128_防衛隊派生武器_繁体字_STEAM版",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256769027/movie.293x165.jpg?t=1578591049",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/582010/255953/0d59b99783da132d48130baa0b0fe55fa35badbf/1750555244/dash_av1.mpd?t=1578591049",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/582010/255953/0d59b99783da132d48130baa0b0fe55fa35badbf/1750555244/dash_h264.mpd?t=1578591049",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/582010/255953/0d59b99783da132d48130baa0b0fe55fa35badbf/1750555244/hls_264_master.m3u8?t=1578591049",
+     "highlight": true
+    },
+    {
+     "id": 256769019,
+     "name": "191202_防具_防衛隊αシリーズ_繁体字_STEAM版",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256769019/movie.293x165.jpg?t=1578591057",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/582010/255944/dde394456cee8a795275f7b47767626f1c5ec650/1750555152/dash_av1.mpd?t=1578591057",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/582010/255944/dde394456cee8a795275f7b47767626f1c5ec650/1750555152/dash_h264.mpd?t=1578591057",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/582010/255944/dde394456cee8a795275f7b47767626f1c5ec650/1750555152/hls_264_master.m3u8?t=1578591057",
+     "highlight": true
+    },
+    {
+     "id": 256765439,
+     "name": "191016_MHW_ICEBORNE_SteamPV_繁体字_1080_60p.mp4",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256765439/movie.293x165.jpg?t=1578591289",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/582010/249490/b326e6625652d57cab8455249cd4f77333dfb34f/1750554935/dash_av1.mpd?t=1578591289",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/582010/249490/b326e6625652d57cab8455249cd4f77333dfb34f/1750554935/dash_h264.mpd?t=1578591289",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/582010/249490/b326e6625652d57cab8455249cd4f77333dfb34f/1750554935/hls_264_master.m3u8?t=1578591289",
+     "highlight": true
+    },
+    {
+     "id": 256747430,
+     "name": "190318_MHW_steamPV_TW3_TradChinese.mp4",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256747430/movie.293x165.jpg?t=1578591326",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/582010/217189/16c7ec83c5b8da939899156cc2ee2d897525d43a/1750554841/dash_av1.mpd?t=1578591326",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/582010/217189/16c7ec83c5b8da939899156cc2ee2d897525d43a/1750554841/dash_h264.mpd?t=1578591326",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/582010/217189/16c7ec83c5b8da939899156cc2ee2d897525d43a/1750554841/hls_264_master.m3u8?t=1578591326",
+     "highlight": true
+    },
+    {
+     "id": 256746442,
+     "name": "190318_MHW_steamPV_AC_TradChinese.mp4",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256746442/movie.293x165.jpg?t=1578591430",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/582010/215406/be52f8ecd72bd07bb09fe7cb0a9518c7899ce6c2/1750554735/dash_av1.mpd?t=1578591430",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/582010/215406/be52f8ecd72bd07bb09fe7cb0a9518c7899ce6c2/1750554735/dash_h264.mpd?t=1578591430",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/582010/215406/be52f8ecd72bd07bb09fe7cb0a9518c7899ce6c2/1750554735/hls_264_master.m3u8?t=1578591430",
+     "highlight": true
+    },
+    {
+     "id": 256737517,
+     "name": "181128_01_MHW_steamPV_U5_TC.mp4",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256737517/movie.293x165.jpg?t=1578591549",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/582010/199269/fb0c2219f657e404e4c438e15325f0621bde7453/1750554407/dash_av1.mpd?t=1578591549",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/582010/199269/fb0c2219f657e404e4c438e15325f0621bde7453/1750554407/dash_h264.mpd?t=1578591549",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/582010/199269/fb0c2219f657e404e4c438e15325f0621bde7453/1750554407/hls_264_master.m3u8?t=1578591549",
+     "highlight": true
+    },
+    {
+     "id": 256721442,
+     "name": "MH–WORLD_PCPV1_ASIA_ZH_Multi_1080p_2997.mp4",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256721442/movie.293x165.jpg?t=1578591659",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/582010/170897/d7748d85d6d8be66a7711debc0b4b18047270bab/1750554038/dash_av1.mpd?t=1578591659",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/582010/170897/d7748d85d6d8be66a7711debc0b4b18047270bab/1750554038/dash_h264.mpd?t=1578591659",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/582010/170897/d7748d85d6d8be66a7711debc0b4b18047270bab/1750554038/hls_264_master.m3u8?t=1578591659",
+     "highlight": true
+    }
+   ],
+   "recommendations": {
+    "total": 322627
+   },
+   "achievements": {
+    "total": 100,
+    "highlighted": [
+     {
+      "icon": "c28921e56775afc7d4de5a2fa811736aaa0f43e0.jpg",
+      "localized_name": "新大陸的霸者",
+      "archived": 0,
+      "hidden": 0,
+      "name": "新大陸的霸者",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/582010/c28921e56775afc7d4de5a2fa811736aaa0f43e0.jpg"
+     },
+     {
+      "icon": "a1e07a657b94c6355b50c10b64906cc32d573857.jpg",
+      "localized_name": "掀開獵人生活的序幕",
+      "archived": 0,
+      "hidden": 1,
+      "name": "掀開獵人生活的序幕",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/582010/a1e07a657b94c6355b50c10b64906cc32d573857.jpg"
+     },
+     {
+      "icon": "170256de23e0e0be24ac69f5510f74a887b036cc.jpg",
+      "localized_name": "調查的進展",
+      "archived": 0,
+      "hidden": 1,
+      "name": "調查的進展",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/582010/170256de23e0e0be24ac69f5510f74a887b036cc.jpg"
+     },
+     {
+      "icon": "10a7dd9995b8ffae25f90e4dddc014b03a09f2be.jpg",
+      "localized_name": "據點的守護者",
+      "archived": 0,
+      "hidden": 1,
+      "name": "據點的守護者",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/582010/10a7dd9995b8ffae25f90e4dddc014b03a09f2be.jpg"
+     },
+     {
+      "icon": "808120f8494bc41c0af898a39b4bb3b6abab5cce.jpg",
+      "localized_name": "邁向更深處",
+      "archived": 0,
+      "hidden": 1,
+      "name": "邁向更深處",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/582010/808120f8494bc41c0af898a39b4bb3b6abab5cce.jpg"
+     },
+     {
+      "icon": "02f71cfd5e52044720f5e8794ad6c9928c48e79a.jpg",
+      "localized_name": "安祥地沉眠",
+      "archived": 0,
+      "hidden": 1,
+      "name": "安祥地沉眠",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/582010/02f71cfd5e52044720f5e8794ad6c9928c48e79a.jpg"
+     },
+     {
+      "icon": "91828efa7e920b5c74ecf952803b3c78516300de.jpg",
+      "localized_name": "大地的恩惠與美麗的女王",
+      "archived": 0,
+      "hidden": 1,
+      "name": "大地的恩惠與美麗的女王",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/582010/91828efa7e920b5c74ecf952803b3c78516300de.jpg"
+     },
+     {
+      "icon": "73f84995b2ad08c0d2ad49302631768fe5190736.jpg",
+      "localized_name": "激鬥的勝利者",
+      "archived": 0,
+      "hidden": 1,
+      "name": "激鬥的勝利者",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/582010/73f84995b2ad08c0d2ad49302631768fe5190736.jpg"
+     },
+     {
+      "icon": "1122a5179d2959b60b701493af25f7c67bf70253.jpg",
+      "localized_name": "指引明路的蒼藍星",
+      "archived": 0,
+      "hidden": 1,
+      "name": "指引明路的蒼藍星",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/582010/1122a5179d2959b60b701493af25f7c67bf70253.jpg"
+     },
+     {
+      "icon": "9b08e865ae4eef6d4d0257a5f4be3116784ca961.jpg",
+      "localized_name": "獵人生活停也停不下來！",
+      "archived": 0,
+      "hidden": 0,
+      "name": "獵人生活停也停不下來！",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/582010/9b08e865ae4eef6d4d0257a5f4be3116784ca961.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2018 年 8 月 8 日"
+   },
+   "support_info": {
+    "url": "http://www.capcom.com/mhwsupport/",
+    "email": ""
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/582010?t=1791439347",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/page_bg_raw.jpg?t=1791439347",
+   "content_descriptors": {
+    "ids": [],
+    "notes": null
+   },
+   "ratings": {
+    "esrb": {
+     "rating": "t",
+     "descriptors": "Blood\r\nMild Language\r\nUse of Alcohol\r\nViolence",
+     "display_online_notice": "true"
+    },
+    "pegi": {
+     "rating": "16",
+     "descriptors": "Violence"
+    },
+    "usk": {
+     "rating": "12"
+    },
+    "oflc": {
+     "rating": "m",
+     "descriptors": "Fantasy themes and violence\r\nonline interactivity"
+    },
+    "cero": {
+     "rating": "c",
+     "descriptors": "暴力"
+    },
+    "kgrb": {
+     "rating": "15",
+     "descriptors": "Violence\r\ndrug"
+    },
+    "dejus": {
+     "rating": "12",
+     "descriptors": "Drogas Lícitas\r\nViolência"
+    },
+    "fpb": {
+     "rating": "13",
+     "descriptors": "Drugs\r\nViolence and Competitive Intensity"
+    },
+    "csrr": {
+     "rating": "C15",
+     "descriptors": "暴力"
+    },
+    "crl": {
+     "rating": "16"
+    },
+    "nzoflc": {
+     "rating": "m",
+     "descriptors": "Fantasy themes and violence\r\nonline interactivity"
+    }
+   }
+  }
+ }
+}

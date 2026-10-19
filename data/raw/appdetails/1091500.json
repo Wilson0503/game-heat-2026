@@ -1,0 +1,602 @@
+{
+ "1091500": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "Cyberpunk 2077",
+   "steam_appid": 1091500,
+   "required_age": "18",
+   "is_free": false,
+   "controller_support": "full",
+   "dlc": [
+    2138330,
+    1495710,
+    2060310
+   ],
+   "detailed_description": "<h1>《電馭叛客 2077：終極版》</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/5122e3a25949776ebf4cd6544e0f5c84.avif?t=1784714077\" width=616 height=670 /></span></p></p><br><h1>關於此遊戲</h1><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/be53c86fa7f5918de55c1fb66ffc5142.poster.avif?t=1784714077\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/be53c86fa7f5918de55c1fb66ffc5142.webm?t=1784714077\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/be53c86fa7f5918de55c1fb66ffc5142.mp4?t=1784714077\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/7756011e131f9646262ac0ba5d8a899c.poster.avif?t=1784714077\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/7756011e131f9646262ac0ba5d8a899c.webm?t=1784714077\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/7756011e131f9646262ac0ba5d8a899c.mp4?t=1784714077\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/77758f0bdf3fb5a05006368df195084b.poster.avif?t=1784714077\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/77758f0bdf3fb5a05006368df195084b.webm?t=1784714077\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/77758f0bdf3fb5a05006368df195084b.mp4?t=1784714077\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/1b382bf424974be5c4c49f423fc768f3.poster.avif?t=1784714077\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/1b382bf424974be5c4c49f423fc768f3.webm?t=1784714077\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/1b382bf424974be5c4c49f423fc768f3.mp4?t=1784714077\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/34aec34186f5dfe7870a593f277fcf5f.poster.avif?t=1784714077\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/34aec34186f5dfe7870a593f277fcf5f.webm?t=1784714077\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/34aec34186f5dfe7870a593f277fcf5f.mp4?t=1784714077\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/85cf5d2b1a95e6f0f15d1147671d1122.poster.avif?t=1784714077\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/85cf5d2b1a95e6f0f15d1147671d1122.webm?t=1784714077\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/85cf5d2b1a95e6f0f15d1147671d1122.mp4?t=1784714077\" type=\"video/mp4\"></video></span></p>",
+   "about_the_game": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/be53c86fa7f5918de55c1fb66ffc5142.poster.avif?t=1784714077\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/be53c86fa7f5918de55c1fb66ffc5142.webm?t=1784714077\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/be53c86fa7f5918de55c1fb66ffc5142.mp4?t=1784714077\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/7756011e131f9646262ac0ba5d8a899c.poster.avif?t=1784714077\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/7756011e131f9646262ac0ba5d8a899c.webm?t=1784714077\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/7756011e131f9646262ac0ba5d8a899c.mp4?t=1784714077\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/77758f0bdf3fb5a05006368df195084b.poster.avif?t=1784714077\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/77758f0bdf3fb5a05006368df195084b.webm?t=1784714077\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/77758f0bdf3fb5a05006368df195084b.mp4?t=1784714077\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/1b382bf424974be5c4c49f423fc768f3.poster.avif?t=1784714077\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/1b382bf424974be5c4c49f423fc768f3.webm?t=1784714077\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/1b382bf424974be5c4c49f423fc768f3.mp4?t=1784714077\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/34aec34186f5dfe7870a593f277fcf5f.poster.avif?t=1784714077\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/34aec34186f5dfe7870a593f277fcf5f.webm?t=1784714077\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/34aec34186f5dfe7870a593f277fcf5f.mp4?t=1784714077\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/85cf5d2b1a95e6f0f15d1147671d1122.poster.avif?t=1784714077\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/85cf5d2b1a95e6f0f15d1147671d1122.webm?t=1784714077\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/extras/85cf5d2b1a95e6f0f15d1147671d1122.mp4?t=1784714077\" type=\"video/mp4\"></video></span></p>",
+   "short_description": "動作冒險開放世界角色扮演遊戲《電馭叛客 2077》讓你深入沉溺於肉體改造、爭權奪利、紙醉金迷又充滿凶險的巨型都市「夜城」。",
+   "supported_languages": "英文<strong>*</strong>, 法文<strong>*</strong>, 義大利文<strong>*</strong>, 德文<strong>*</strong>, 西班牙文 - 西班牙<strong>*</strong>, 阿拉伯文, 捷克文, 匈牙利文, 日文<strong>*</strong>, 韓文<strong>*</strong>, 波蘭文<strong>*</strong>, 葡萄牙文 - 巴西<strong>*</strong>, 俄文<strong>*</strong>, 簡體中文<strong>*</strong>, 西班牙文 - 拉丁美洲, 泰文, 繁體中文, 土耳其文, 烏克蘭文<br><strong>*</strong>具備完整音效支援的語言",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/3bd292808ba9d8a337c5278acb8345d94ed769a3/header_tchinese.jpg?t=1784714077",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/5f42685fba383a8bd3fbedef70f1c470525504b2/capsule_231x87_tchinese.jpg?t=1784714077",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/5f42685fba383a8bd3fbedef70f1c470525504b2/capsule_184x69_tchinese.jpg?t=1784714077",
+   "website": "https://www.cyberpunk.net",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> 64-bit Windows 10<br></li><li><strong>處理器:</strong> Core i7-6700 or Ryzen 5 1600<br></li><li><strong>記憶體:</strong> 12 GB 記憶體<br></li><li><strong>顯示卡:</strong> GeForce GTX 1060 6GB or Radeon RX 580 8GB or Arc A380<br></li><li><strong>DirectX:</strong> 版本：12<br></li><li><strong>儲存空間:</strong> 70 GB 可用空間<br></li><li><strong>備註:</strong> SSD required. Attention: In this game you will encounter a variety of visual effects that may provide seizures or loss of consciousness in a minority of people. If you or someone you know experiences any of the above symptoms while playing, stop and seek medical attention immediately.</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> 64-bit Windows 10<br></li><li><strong>處理器:</strong> Core i7-12700 or Ryzen 7 7800X3D<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> GeForce RTX 2060 SUPER or Radeon RX 5700 XT or Arc A770<br></li><li><strong>DirectX:</strong> 版本：12<br></li><li><strong>儲存空間:</strong> 70 GB 可用空間<br></li><li><strong>備註:</strong> SSD required.</li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需使用 Apple 處理器<br></li><li><strong>作業系統:</strong> macOS: 15.5 or later<br></li><li><strong>處理器:</strong> M1<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>儲存空間:</strong> 92 GB 可用空間</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li>需使用 Apple 處理器<br></li><li><strong>作業系統:</strong> macOS: 15.5 or later<br></li><li><strong>處理器:</strong> M3 Pro<br></li><li><strong>記憶體:</strong> 18 GB 記憶體<br></li><li><strong>儲存空間:</strong> 92 GB 可用空間</li></ul>"
+   },
+   "linux_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "legal_notice": "CD PROJEKT®、Cyberpunk®、Cyberpunk 2077® 皆為 CD PROJEKT S.A. 的註冊商標。© CD PROJEKT S.A. 版權所有。此外的所有商標為其各自所有人的財產。",
+   "developers": [
+    "CD PROJEKT RED"
+   ],
+   "publishers": [
+    "CD PROJEKT RED"
+   ],
+   "price_overview": {
+    "currency": "TWD",
+    "initial": 159900,
+    "final": 47900,
+    "discount_percent": 70,
+    "initial_formatted": "NT$ 1,599",
+    "final_formatted": "NT$ 479"
+   },
+   "packages": [
+    367653
+   ],
+   "package_groups": [
+    {
+     "name": "default",
+     "title": "購買 Cyberpunk 2077",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 367653,
+       "percent_savings_text": "-70% ",
+       "percent_savings": 0,
+       "option_text": "Cyberpunk 2077 - <span class=\"discount_original_price\">NT$ 1,599</span> NT$ 479",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 47900
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+   },
+   "metacritic": {
+    "score": 86,
+    "url": "https://www.metacritic.com/game/pc/cyberpunk-2077?ftag=MCD-06-10aaa1f"
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 28,
+     "description": "完整控制器支援"
+    },
+    {
+     "id": 29,
+     "description": "Steam 交換卡片"
+    },
+    {
+     "id": 64,
+     "description": "可調整文字大小"
+    },
+    {
+     "id": 67,
+     "description": "鏡頭舒適度"
+    },
+    {
+     "id": 66,
+     "description": "顏色替代選項"
+    },
+    {
+     "id": 68,
+     "description": "自訂音量控制"
+    },
+    {
+     "id": 78,
+     "description": "可調整難度"
+    },
+    {
+     "id": 74,
+     "description": "遊玩無需快速反應"
+    },
+    {
+     "id": 55,
+     "description": "DUALSHOCK 控制器支援"
+    },
+    {
+     "id": 57,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 58,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 79,
+     "description": "隨時儲存"
+    },
+    {
+     "id": 69,
+     "description": "立體聲"
+    },
+    {
+     "id": 65,
+     "description": "字幕選項"
+    },
+    {
+     "id": 70,
+     "description": "環繞音效"
+    },
+    {
+     "id": 23,
+     "description": "Steam 雲端"
+    },
+    {
+     "id": 61,
+     "description": "可用 HDR"
+    },
+    {
+     "id": 62,
+     "description": "親友同享"
+    }
+   ],
+   "genres": [
+    {
+     "id": "3",
+     "description": "角色扮演"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_2f649b68d579bf87011487d29bc4ccbfdd97d34f.600x338.jpg?t=1784714077",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_2f649b68d579bf87011487d29bc4ccbfdd97d34f.1920x1080.jpg?t=1784714077"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_0e64170751e1ae20ff8fdb7001a8892fd48260e7.600x338.jpg?t=1784714077",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_0e64170751e1ae20ff8fdb7001a8892fd48260e7.1920x1080.jpg?t=1784714077"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_af2804aa4bf35d4251043744412ce3b359a125ef.600x338.jpg?t=1784714077",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_af2804aa4bf35d4251043744412ce3b359a125ef.1920x1080.jpg?t=1784714077"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_7924f64b6e5d586a80418c9896a1c92881a7905b.600x338.jpg?t=1784714077",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_7924f64b6e5d586a80418c9896a1c92881a7905b.1920x1080.jpg?t=1784714077"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_4eb068b1cf52c91b57157b84bed18a186ed7714b.600x338.jpg?t=1784714077",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_4eb068b1cf52c91b57157b84bed18a186ed7714b.1920x1080.jpg?t=1784714077"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_b529b0abc43f55fc23fe8058eddb6e37c9629a6a.600x338.jpg?t=1784714077",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_b529b0abc43f55fc23fe8058eddb6e37c9629a6a.1920x1080.jpg?t=1784714077"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_8640d9db74f7cad714f6ecfb0e1aceaa3f887e58.600x338.jpg?t=1784714077",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_8640d9db74f7cad714f6ecfb0e1aceaa3f887e58.1920x1080.jpg?t=1784714077"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_9284d1c5b248726760233a933dbb83757d7d5d95.600x338.jpg?t=1784714077",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_9284d1c5b248726760233a933dbb83757d7d5d95.1920x1080.jpg?t=1784714077"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_4bda6f67580d94832ed2d5814e41ebe018ba1d9e.600x338.jpg?t=1784714077",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_4bda6f67580d94832ed2d5814e41ebe018ba1d9e.1920x1080.jpg?t=1784714077"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_e5a94665dbfa5a30931cff2f45cdc0ebea9fcebb.600x338.jpg?t=1784714077",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_e5a94665dbfa5a30931cff2f45cdc0ebea9fcebb.1920x1080.jpg?t=1784714077"
+    },
+    {
+     "id": 10,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_429db1d013a0366417d650d84f1eff02d1a18c2d.600x338.jpg?t=1784714077",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_429db1d013a0366417d650d84f1eff02d1a18c2d.1920x1080.jpg?t=1784714077"
+    },
+    {
+     "id": 11,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_872822c5e50dc71f345416098d29fc3ae5cd26c1.600x338.jpg?t=1784714077",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_872822c5e50dc71f345416098d29fc3ae5cd26c1.1920x1080.jpg?t=1784714077"
+    },
+    {
+     "id": 12,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_ae4465fa8a44dd330dbeb7992ba196c2f32cabb1.600x338.jpg?t=1784714077",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_ae4465fa8a44dd330dbeb7992ba196c2f32cabb1.1920x1080.jpg?t=1784714077"
+    },
+    {
+     "id": 13,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_f79fda81e6f3a37e0978054102102d71840f8b57.600x338.jpg?t=1784714077",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_f79fda81e6f3a37e0978054102102d71840f8b57.1920x1080.jpg?t=1784714077"
+    },
+    {
+     "id": 14,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_bb1a60b8e5061caef7208369f42c5c9d574c9ac4.600x338.jpg?t=1784714077",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_bb1a60b8e5061caef7208369f42c5c9d574c9ac4.1920x1080.jpg?t=1784714077"
+    },
+    {
+     "id": 15,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_a0c4e4015b5cf766d19bf97eee8b086183510e04.600x338.jpg?t=1784714077",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_a0c4e4015b5cf766d19bf97eee8b086183510e04.1920x1080.jpg?t=1784714077"
+    },
+    {
+     "id": 16,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_b20689e73e3ac19bcc5fad2c18d0353c769de144.600x338.jpg?t=1784714077",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_b20689e73e3ac19bcc5fad2c18d0353c769de144.1920x1080.jpg?t=1784714077"
+    },
+    {
+     "id": 17,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_ff3d920e254d18aa2a25d3765ac2ebe845efd208.600x338.jpg?t=1784714077",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_ff3d920e254d18aa2a25d3765ac2ebe845efd208.1920x1080.jpg?t=1784714077"
+    },
+    {
+     "id": 18,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_0002f18563d313bdd1d82c725d411408ebf762b0.600x338.jpg?t=1784714077",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_0002f18563d313bdd1d82c725d411408ebf762b0.1920x1080.jpg?t=1784714077"
+    },
+    {
+     "id": 19,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_526123764d1c628caa1eb62c596f1b732f416c8c.600x338.jpg?t=1784714077",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_526123764d1c628caa1eb62c596f1b732f416c8c.1920x1080.jpg?t=1784714077"
+    },
+    {
+     "id": 20,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_284ba40590de8f604ae693631c751a0aefdc452e.600x338.jpg?t=1784714077",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_284ba40590de8f604ae693631c751a0aefdc452e.1920x1080.jpg?t=1784714077"
+    },
+    {
+     "id": 21,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_9beef14102f164fa1163536d0fb3a51d0a2e4a3f.600x338.jpg?t=1784714077",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_9beef14102f164fa1163536d0fb3a51d0a2e4a3f.1920x1080.jpg?t=1784714077"
+    }
+   ],
+   "movies": [
+    {
+     "id": 257082817,
+     "name": "《電馭叛客 2077：終極版》 夢想之城",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257082817/609e4f6e90019adb46c4638c74c655eeaf9c38e2/movie_600x337.jpg?t=1734434671",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1091500/801269/d711da648679d70345753f22024b6fdbfeab2f7c/1750618076/dash_av1.mpd?t=1734434671",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/801269/d711da648679d70345753f22024b6fdbfeab2f7c/1750618076/dash_h264.mpd?t=1734434671",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/801269/d711da648679d70345753f22024b6fdbfeab2f7c/1750618076/hls_264_master.m3u8?t=1734434671",
+     "highlight": true
+    },
+    {
+     "id": 256987144,
+     "name": "042_2_1_UpdateTrailer_ZH-T_NoRating_16x9_1080_Burned in Subs",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256987144/movie.293x165.jpg?t=1701872717",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1091500/637456/e6427eee81f0c905917dd0182da9785f334be0ba/1750617857/dash_av1.mpd?t=1701872717",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/637456/e6427eee81f0c905917dd0182da9785f334be0ba/1750617857/dash_h264.mpd?t=1701872717",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/637456/e6427eee81f0c905917dd0182da9785f334be0ba/1750617857/hls_264_master.m3u8?t=1701872717",
+     "highlight": true
+    },
+    {
+     "id": 256984157,
+     "name": "011 BaseGame Accolades Trailer ZHT NoRating 16x9 1080",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256984157/movie.293x165.jpg?t=1700653136",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1091500/632438/19eb72345f336ff3b17d88b36f14382eec5cefdb/1750617706/dash_av1.mpd?t=1700653136",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/632438/19eb72345f336ff3b17d88b36f14382eec5cefdb/1750617706/dash_h264.mpd?t=1700653136",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/632438/19eb72345f336ff3b17d88b36f14382eec5cefdb/1750617706/hls_264_master.m3u8?t=1700653136",
+     "highlight": true
+    },
+    {
+     "id": 256977950,
+     "name": "010_EP1_2.0_trailer_ZH-T_NoRating_16x9_1080",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256977950/movie.293x165.jpg?t=1698157597",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1091500/622183/7e759cdf2e5a5721f4e7983ae7680928d7104c61/1750617470/dash_av1.mpd?t=1698157597",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/622183/7e759cdf2e5a5721f4e7983ae7680928d7104c61/1750617470/dash_h264.mpd?t=1698157597",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/622183/7e759cdf2e5a5721f4e7983ae7680928d7104c61/1750617470/hls_264_master.m3u8?t=1698157597",
+     "highlight": true
+    },
+    {
+     "id": 256979908,
+     "name": "107_NWTP_trailer_ZH-T_NoRating_16x9_1080_",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256979908/movie.293x165.jpg?t=1699262634",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1091500/625549/22c7a076560e6f9b3006ce78d05a108f47ef1734/1750617624/dash_av1.mpd?t=1699262634",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/625549/22c7a076560e6f9b3006ce78d05a108f47ef1734/1750617624/dash_h264.mpd?t=1699262634",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/625549/22c7a076560e6f9b3006ce78d05a108f47ef1734/1750617624/hls_264_master.m3u8?t=1699262634",
+     "highlight": true
+    },
+    {
+     "id": 256975601,
+     "name": "076_BuildVideos_Ninja_ZH-T_NoRating_16x9_1080__Burned in Subs",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256975601/movie.293x165.jpg?t=1697117059",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1091500/617963/e486732ab9ef879b1f4a2044f72afde98fbac2ea/1750617423/dash_av1.mpd?t=1697117059",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/617963/e486732ab9ef879b1f4a2044f72afde98fbac2ea/1750617423/dash_h264.mpd?t=1697117059",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/617963/e486732ab9ef879b1f4a2044f72afde98fbac2ea/1750617423/hls_264_master.m3u8?t=1697117059",
+     "highlight": true
+    },
+    {
+     "id": 256975569,
+     "name": "058_BuildVideos_Netrunner_ZH-T_NoRating_16x9_1080__Burned in Subs",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256975569/movie.293x165.jpg?t=1697117148",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1091500/617912/54b3b5f2624dae42f70d62d739054566478e830b/1750617261/dash_av1.mpd?t=1697117148",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/617912/54b3b5f2624dae42f70d62d739054566478e830b/1750617261/dash_h264.mpd?t=1697117148",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/617912/54b3b5f2624dae42f70d62d739054566478e830b/1750617261/hls_264_master.m3u8?t=1697117148",
+     "highlight": true
+    },
+    {
+     "id": 256975527,
+     "name": "040_BuildVideos_Solo_ZH-T_NoRating_16x9_1080__Burned in Subs",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256975527/movie.293x165.jpg?t=1697117236",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1091500/617842/5f219228cc4a5fd940304c3dd14487134c19cc24/1750617108/dash_av1.mpd?t=1697117236",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/617842/5f219228cc4a5fd940304c3dd14487134c19cc24/1750617108/dash_h264.mpd?t=1697117236",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/617842/5f219228cc4a5fd940304c3dd14487134c19cc24/1750617108/hls_264_master.m3u8?t=1697117236",
+     "highlight": true
+    },
+    {
+     "id": 256904435,
+     "name": "061_CP_ER_trailer_ZH-T_NoRating_16x9_1080__",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256904435/movie.293x165.jpg?t=1662480334",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1091500/493798/32016948395f03d282e61d923f5b4315bc85dd01/1750616817/dash_av1.mpd?t=1662480334",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/493798/32016948395f03d282e61d923f5b4315bc85dd01/1750616817/dash_h264.mpd?t=1662480334",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/493798/32016948395f03d282e61d923f5b4315bc85dd01/1750616817/hls_264_master.m3u8?t=1662480334",
+     "highlight": true
+    },
+    {
+     "id": 256876067,
+     "name": "185_CPNG_LOBI_ZH-T_NoRating_16x9_1080_PC__",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256876067/movie.293x165.jpg?t=1646231388",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1091500/443842/615d27a2abe5ebc8f2b75a102f72c6b6f4672d58/1750616553/dash_av1.mpd?t=1646231388",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/443842/615d27a2abe5ebc8f2b75a102f72c6b6f4672d58/1750616553/dash_h264.mpd?t=1646231388",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/443842/615d27a2abe5ebc8f2b75a102f72c6b6f4672d58/1750616553/hls_264_master.m3u8?t=1646231388",
+     "highlight": true
+    },
+    {
+     "id": 256810271,
+     "name": "037_CP_Gameplay_Trailer_ZH-T_NoRating_16x9_1080__",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256810271/movie.293x165.jpg?t=1611326268",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1091500/327956/3fde6ceb532bf71ca87d29f2d34a57833bb61568/1750616267/dash_av1.mpd?t=1611326268",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/327956/3fde6ceb532bf71ca87d29f2d34a57833bb61568/1750616267/dash_h264.mpd?t=1611326268",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/327956/3fde6ceb532bf71ca87d29f2d34a57833bb61568/1750616267/hls_264_master.m3u8?t=1611326268",
+     "highlight": true
+    },
+    {
+     "id": 256812935,
+     "name": "039_CP_Launch_Trailer_ZH-T_NoRating_16x9_1080__",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256812935/movie.293x165.jpg?t=1611328302",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1091500/332467/5d5ba7355ae942702d413e5075260cd3397a4b5d/1750616434/dash_av1.mpd?t=1611328302",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/332467/5d5ba7355ae942702d413e5075260cd3397a4b5d/1750616434/dash_h264.mpd?t=1611328302",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1091500/332467/5d5ba7355ae942702d413e5075260cd3397a4b5d/1750616434/hls_264_master.m3u8?t=1611328302",
+     "highlight": true
+    }
+   ],
+   "recommendations": {
+    "total": 897405
+   },
+   "achievements": {
+    "total": 57,
+    "highlighted": [
+     {
+      "icon": "7975d6e5d790b88f030195e3b1a38e49a5de1c8d.jpg",
+      "localized_name": "愚者",
+      "archived": 0,
+      "hidden": 1,
+      "name": "愚者",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1091500/7975d6e5d790b88f030195e3b1a38e49a5de1c8d.jpg"
+     },
+     {
+      "icon": "25bab7e2288262ad801664e62f241e2839edb457.jpg",
+      "localized_name": "戀人",
+      "archived": 0,
+      "hidden": 1,
+      "name": "戀人",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1091500/25bab7e2288262ad801664e62f241e2839edb457.jpg"
+     },
+     {
+      "icon": "d1e79618b612be87bff4f5c70b1e825e37b05540.jpg",
+      "localized_name": "隱士",
+      "archived": 0,
+      "hidden": 1,
+      "name": "隱士",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1091500/d1e79618b612be87bff4f5c70b1e825e37b05540.jpg"
+     },
+     {
+      "icon": "61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg",
+      "localized_name": "命運之輪",
+      "archived": 0,
+      "hidden": 1,
+      "name": "命運之輪",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1091500/61c7ccea74b66ef3f5d51c078d900d930346e74a.jpg"
+     },
+     {
+      "icon": "8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg",
+      "localized_name": "女祭司",
+      "archived": 0,
+      "hidden": 1,
+      "name": "女祭司",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1091500/8f5eacf50eb2ad11fe9dbd1d3a98c306d54ff545.jpg"
+     },
+     {
+      "icon": "25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg",
+      "localized_name": "世界",
+      "archived": 0,
+      "hidden": 0,
+      "name": "世界",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1091500/25c57ecea783efc3f9d04eec43401264ed5eb9b2.jpg"
+     },
+     {
+      "icon": "e63819b5dc0e127a2535e4fd76f726b1ba442afa.jpg",
+      "localized_name": "惡魔",
+      "archived": 0,
+      "hidden": 1,
+      "name": "惡魔",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1091500/e63819b5dc0e127a2535e4fd76f726b1ba442afa.jpg"
+     },
+     {
+      "icon": "96506dab554565fd3dc78446a6df17040b353f16.jpg",
+      "localized_name": "星星",
+      "archived": 0,
+      "hidden": 1,
+      "name": "星星",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1091500/96506dab554565fd3dc78446a6df17040b353f16.jpg"
+     },
+     {
+      "icon": "8bf8ad71b62614b329eab2bac069724d34d69b27.jpg",
+      "localized_name": "太陽",
+      "archived": 0,
+      "hidden": 1,
+      "name": "太陽",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1091500/8bf8ad71b62614b329eab2bac069724d34d69b27.jpg"
+     },
+     {
+      "icon": "c81713b7813e1675add335a1ce778588b70d09f9.jpg",
+      "localized_name": "節制",
+      "archived": 0,
+      "hidden": 1,
+      "name": "節制",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1091500/c81713b7813e1675add335a1ce778588b70d09f9.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2020 年 12 月 9 日"
+   },
+   "support_info": {
+    "url": "http://en.cdprojektred.com/support",
+    "email": ""
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1091500?t=1784714077",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/644eb087007768417a847e52c38eeaf34b57fd12/page_bg_raw.jpg?t=1784714077",
+   "content_descriptors": {
+    "ids": [
+     1,
+     2,
+     5
+    ],
+    "notes": "Cyberpunk 2077 contains strong language, intense violence, blood and gore, as well as nudity and sexual material.\r\n"
+   },
+   "ratings": {
+    "esrb": {
+     "rating": "m",
+     "descriptors": "Blood and Gore\r\nIntense Violence\r\nNudity\r\nStrong Language\r\nStrong Sexual Content\r\nUse of Drugs\r\nUse of Alcohol",
+     "required_age": "17",
+     "use_age_gate": "true"
+    },
+    "pegi": {
+     "rating": "18",
+     "descriptors": "Violence\r\nSex\r\nBad Language\r\nIn-game purchases",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "oflc": {
+     "rating": "r18",
+     "descriptors": "High impact themes\r\nSex\r\nViolence\r\nReferences to sexual violence",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "nzoflc": {
+     "rating": "r18",
+     "descriptors": "Violence\r\nOffensive language\r\nSex scenes",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "kgrb": {
+     "rating": "18",
+     "descriptors": "Sexuality\r\nViolence\r\nCrude Language\r\nUsage of Drugs",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "dejus": {
+     "rating": "18",
+     "descriptors": "Conteúdo sexual\r\nDrogas\r\nViolência Extrema",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "mda": {
+     "rating": "M18",
+     "descriptors": "Violence\r\nSexual scenes\r\nCoarse language",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "csrr": {
+     "rating": "R",
+     "descriptors": "Sex\r\nViolence\r\nTabacco\r\nAlcohol",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "crl": {
+     "rating": "18",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "usk": {
+     "rating": "18",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "gmedia": {
+     "rating": "18",
+     "required_age": "18"
+    },
+    "cero": {
+     "rating": "z",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "fpb": {
+     "rating": "18",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "18",
+     "required_age": "18",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Sexuelle Inhalte\nDrastische Gewalt\nDrogen"
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "BANNED",
+     "required_age": "2147483647",
+     "banned": "1",
+     "use_age_gate": "0",
+     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nPenampilan Tokoh\nKekerasan"
+    },
+    "steam_australia": {
+     "rating_generated": "1",
+     "rating": "R18",
+     "required_age": "18",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "High Impact Sexual Themes\nStrong Violence\nMature themes\nDrug Themes"
+    }
+   }
+  }
+ }
+}

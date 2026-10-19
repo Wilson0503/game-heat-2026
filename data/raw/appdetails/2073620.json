@@ -1,0 +1,380 @@
+{
+ "2073620": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "Arena Breakout: Infinite",
+   "steam_appid": 2073620,
+   "required_age": 0,
+   "is_free": true,
+   "detailed_description": "<h1>最新更新</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/3d4ad65712ab13dd8d22797a2a7d390c.poster.avif?t=1791983571\" width=1128 height=480 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/3d4ad65712ab13dd8d22797a2a7d390c.webm?t=1791983571\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/3d4ad65712ab13dd8d22797a2a7d390c.mp4?t=1791983571\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>最近更新</strong></p><p class=\"bb_paragraph\" >S7「烏托邦」延續 ABI 核心的 PvP 戰術撤離體驗，同時透過全新殭屍模式進一步拓展玩法邊界：感染區（PvPvE）與殭屍無盡（PvE）。本賽季還帶來了 PvP 與主模式的大幅優化、全新武器與配件，以及更深入的局外成長系統，為每一局戰鬥帶來更多戰術選擇與配裝可能。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >殭屍模式更新</p><p class=\"bb_paragraph\" >-感染區（PvPvE）</p><p class=\"bb_paragraph\" >-殭屍無盡（PvE）</p><p class=\"bb_paragraph\" >-商人系統</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >PvP 與平衡性重大更新</p><p class=\"bb_paragraph\" >-提升武器多樣性</p><p class=\"bb_paragraph\" >-模式與戰鬥平衡調整</p><p class=\"bb_paragraph\" >-強化戰後正向回饋</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >玩法與系統更新</p><p class=\"bb_paragraph\" >-局外成長與專精系統更新</p><p class=\"bb_paragraph\" >-全新大金（社群共創 &amp; 互動）</p><p class=\"bb_paragraph\" >-物資爭奪戰 2.0</p><p class=\"bb_paragraph\" >-畫面表現升級</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/28f714613188bc0310d6715b738a7c02.avif?t=1791983571\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras_big/28f714613188bc0310d6715b738a7c02.avif?t=1791983571 width=1560 height=878 /></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/c4c0ebcf022f31a20a39b4dd08e9dd61.avif?t=1791983571\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras_big/c4c0ebcf022f31a20a39b4dd08e9dd61.avif?t=1791983571 width=1560 height=878 /></span></p></p><br><h1>關於此遊戲</h1><p class=\"bb_paragraph\" > <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/6a223b6316ef888690091bb0714a0d55.avif?t=1791983571\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras_big/6a223b6316ef888690091bb0714a0d55.webp?t=1791983571 width=1560 height=117 /></span></p><p class=\"bb_paragraph\" >在《Arena Breakout: Infinite》中，每一次入局都是一場在榮耀與毀滅之間的博弈。從激烈的PvP交火到充滿挑戰的PvE遭遇戰，每一個決定都伴隨著風險、回報和後果。智取、力敵並成功撤離——在暗區將你完全吞噬之前。在卡莫納，真正的勝利屬於那些能夠適應環境、生存下來並帶著戰利品滿載而歸的人。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/0241799e7596cd4ac24dc6e37c7d437f.poster.avif?t=1791983571\" width=1128 height=480 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/0241799e7596cd4ac24dc6e37c7d437f.webm?t=1791983571\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/0241799e7596cd4ac24dc6e37c7d437f.mp4?t=1791983571\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/3754e30e3d49d9e137bcbb6bffe10409.avif?t=1791983571\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras_big/3754e30e3d49d9e137bcbb6bffe10409.webp?t=1791983571 width=1560 height=117 /></span></p><p class=\"bb_paragraph\" >掌握6張各具特色的地圖，涵蓋混亂的室內近戰、開闊地形以及充滿變數的野外火拼。適應逼真的動態天氣系統——包括晴天、黑夜、大霧、暴雨和極寒暴雪——在這裡，能見度的驟降可能就是撤離與死亡的分水嶺。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/35363ba129d760d47e2272ef5044970e.poster.avif?t=1791983571\" width=1128 height=480 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/35363ba129d760d47e2272ef5044970e.webm?t=1791983571\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/35363ba129d760d47e2272ef5044970e.mp4?t=1791983571\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/dfd52b8e8417b310b8883907061d9968.avif?t=1791983571\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras_big/dfd52b8e8417b310b8883907061d9968.webp?t=1791983571 width=1560 height=117 /></span></p><p class=\"bb_paragraph\" >體驗專為軍事愛好者打造的無與倫比的改槍系統。在75多把基礎槍械上，你可以透過20多個配件位置和900多種改裝零件，親手打造出獨一無二的戰術傑作。微調操控性、後座力和射程，為不同的對戰優化你的裝備配置，讓每一次改裝都完全契合你的手感。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/53731eb60448e2aa7039c7a3789cefb3.poster.avif?t=1791983571\" width=1128 height=480 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/53731eb60448e2aa7039c7a3789cefb3.webm?t=1791983571\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/53731eb60448e2aa7039c7a3789cefb3.mp4?t=1791983571\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/19f4e004623d3a5b0beb19dd11a7be26.avif?t=1791983571\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras_big/19f4e004623d3a5b0beb19dd11a7be26.webp?t=1791983571 width=1560 height=117 /></span></p><p class=\"bb_paragraph\" >踏入卡莫納，體驗更加順暢的入局流程。直觀的教學和豐富的易用性功能將幫助你熟悉規則並掌握基礎操作。隨著你從一名新兵成長為傳奇的專業特遣隊員，你將在三個不同的難度等級中不斷進階——普通模式、封鎖區和強化封鎖區。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/80e097a8dffb97a548d514e494edf0f4.poster.avif?t=1791983571\" width=1128 height=480 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/80e097a8dffb97a548d514e494edf0f4.webm?t=1791983571\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/80e097a8dffb97a548d514e494edf0f4.mp4?t=1791983571\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/45be9458d59f50a007452a7dc96c0483.avif?t=1791983571\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras_big/45be9458d59f50a007452a7dc96c0483.webp?t=1791983571 width=1560 height=117 /></span></p><p class=\"bb_paragraph\" >《Arena Breakout: Infinite》為所有特遣隊員提供了多種遊戲模式，包括戰術行動、單人模式、偽裝潛入，以及限時玩法活動。無論你偏好戰術配合還是孤軍奮戰，戰鬥方式由你作主。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/1a1f050946dbe1a09f820ec985ef4e10.poster.avif?t=1791983571\" width=1170 height=496 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/1a1f050946dbe1a09f820ec985ef4e10.webm?t=1791983571\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/1a1f050946dbe1a09f820ec985ef4e10.mp4?t=1791983571\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/821e42582634e319cc342d8bdedbcead.avif?t=1791983571\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras_big/821e42582634e319cc342d8bdedbcead.webp?t=1791983571 width=1560 height=117 /></span></p><p class=\"bb_paragraph\" >在《Arena Breakout: Infinite》中，公平戰鬥不只是一句承諾——更是我們不斷進化的反作弊系統給予的保證。系統內支援淘汰重播功能，當你發現可疑行為時，可快速檢舉。此外，若確認你因作弊行為而輸掉對戰，系統將自動向你的倉庫發放遊戲內補償。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/ea524183bc643195a06de5b878553f5c.poster.avif?t=1791983571\" width=1170 height=496 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/ea524183bc643195a06de5b878553f5c.webm?t=1791983571\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/ea524183bc643195a06de5b878553f5c.mp4?t=1791983571\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p>",
+   "about_the_game": "<p class=\"bb_paragraph\" > <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/6a223b6316ef888690091bb0714a0d55.avif?t=1791983571\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras_big/6a223b6316ef888690091bb0714a0d55.webp?t=1791983571 width=1560 height=117 /></span></p><p class=\"bb_paragraph\" >在《Arena Breakout: Infinite》中，每一次入局都是一場在榮耀與毀滅之間的博弈。從激烈的PvP交火到充滿挑戰的PvE遭遇戰，每一個決定都伴隨著風險、回報和後果。智取、力敵並成功撤離——在暗區將你完全吞噬之前。在卡莫納，真正的勝利屬於那些能夠適應環境、生存下來並帶著戰利品滿載而歸的人。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/0241799e7596cd4ac24dc6e37c7d437f.poster.avif?t=1791983571\" width=1128 height=480 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/0241799e7596cd4ac24dc6e37c7d437f.webm?t=1791983571\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/0241799e7596cd4ac24dc6e37c7d437f.mp4?t=1791983571\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/3754e30e3d49d9e137bcbb6bffe10409.avif?t=1791983571\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras_big/3754e30e3d49d9e137bcbb6bffe10409.webp?t=1791983571 width=1560 height=117 /></span></p><p class=\"bb_paragraph\" >掌握6張各具特色的地圖，涵蓋混亂的室內近戰、開闊地形以及充滿變數的野外火拼。適應逼真的動態天氣系統——包括晴天、黑夜、大霧、暴雨和極寒暴雪——在這裡，能見度的驟降可能就是撤離與死亡的分水嶺。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/35363ba129d760d47e2272ef5044970e.poster.avif?t=1791983571\" width=1128 height=480 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/35363ba129d760d47e2272ef5044970e.webm?t=1791983571\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/35363ba129d760d47e2272ef5044970e.mp4?t=1791983571\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/dfd52b8e8417b310b8883907061d9968.avif?t=1791983571\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras_big/dfd52b8e8417b310b8883907061d9968.webp?t=1791983571 width=1560 height=117 /></span></p><p class=\"bb_paragraph\" >體驗專為軍事愛好者打造的無與倫比的改槍系統。在75多把基礎槍械上，你可以透過20多個配件位置和900多種改裝零件，親手打造出獨一無二的戰術傑作。微調操控性、後座力和射程，為不同的對戰優化你的裝備配置，讓每一次改裝都完全契合你的手感。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/53731eb60448e2aa7039c7a3789cefb3.poster.avif?t=1791983571\" width=1128 height=480 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/53731eb60448e2aa7039c7a3789cefb3.webm?t=1791983571\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/53731eb60448e2aa7039c7a3789cefb3.mp4?t=1791983571\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/19f4e004623d3a5b0beb19dd11a7be26.avif?t=1791983571\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras_big/19f4e004623d3a5b0beb19dd11a7be26.webp?t=1791983571 width=1560 height=117 /></span></p><p class=\"bb_paragraph\" >踏入卡莫納，體驗更加順暢的入局流程。直觀的教學和豐富的易用性功能將幫助你熟悉規則並掌握基礎操作。隨著你從一名新兵成長為傳奇的專業特遣隊員，你將在三個不同的難度等級中不斷進階——普通模式、封鎖區和強化封鎖區。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/80e097a8dffb97a548d514e494edf0f4.poster.avif?t=1791983571\" width=1128 height=480 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/80e097a8dffb97a548d514e494edf0f4.webm?t=1791983571\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/80e097a8dffb97a548d514e494edf0f4.mp4?t=1791983571\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/45be9458d59f50a007452a7dc96c0483.avif?t=1791983571\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras_big/45be9458d59f50a007452a7dc96c0483.webp?t=1791983571 width=1560 height=117 /></span></p><p class=\"bb_paragraph\" >《Arena Breakout: Infinite》為所有特遣隊員提供了多種遊戲模式，包括戰術行動、單人模式、偽裝潛入，以及限時玩法活動。無論你偏好戰術配合還是孤軍奮戰，戰鬥方式由你作主。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/1a1f050946dbe1a09f820ec985ef4e10.poster.avif?t=1791983571\" width=1170 height=496 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/1a1f050946dbe1a09f820ec985ef4e10.webm?t=1791983571\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/1a1f050946dbe1a09f820ec985ef4e10.mp4?t=1791983571\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/821e42582634e319cc342d8bdedbcead.avif?t=1791983571\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras_big/821e42582634e319cc342d8bdedbcead.webp?t=1791983571 width=1560 height=117 /></span></p><p class=\"bb_paragraph\" >在《Arena Breakout: Infinite》中，公平戰鬥不只是一句承諾——更是我們不斷進化的反作弊系統給予的保證。系統內支援淘汰重播功能，當你發現可疑行為時，可快速檢舉。此外，若確認你因作弊行為而輸掉對戰，系統將自動向你的倉庫發放遊戲內補償。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/ea524183bc643195a06de5b878553f5c.poster.avif?t=1791983571\" width=1170 height=496 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/ea524183bc643195a06de5b878553f5c.webm?t=1791983571\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/extras/ea524183bc643195a06de5b878553f5c.mp4?t=1791983571\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p>",
+   "short_description": "《Arena Breakout:  Infinite》是一款高風險的戰術撤離射擊遊戲，每一次決策都至關重要。 在激烈交火中生存，搜尋珍貴物資並活著逃脫——否則將失去一切。憑藉令人驚嘆的真實畫面、貼近真實的音效設計，以及殘酷的PvPvE戰鬥，每一次突襲都是一場關乎榮耀或毀滅的豪賭。",
+   "supported_languages": "英文<strong>*</strong>, 繁體中文<strong>*</strong>, 德文, 俄文, 日文, 葡萄牙文 - 巴西, 西班牙文 - 拉丁美洲, 簡體中文<strong>*</strong>, 法文<br><strong>*</strong>具備完整音效支援的語言",
+   "reviews": "“Arena Breakout aims to be a steely military simulator.”<br>IGN<br><br>“Arena Breakout: Infinite is a fun game that I can see myself turning to again and again.”<br>PC Gamer<br><br>“If you are a fan of realistic military shooters, you should definitely check out Arena Breakout Infinite.”<br>Sportskeeda<br>",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/28dc583a01d6ad4df4539f0bcf74c15311a4524e/header_tchinese.jpg?t=1791983571",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/c6c27fa8fc7a5bf4bb27215f13b0543a1d2a2edf/capsule_231x87_tchinese.jpg?t=1791983571",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/c6c27fa8fc7a5bf4bb27215f13b0543a1d2a2edf/capsule_184x69_tchinese.jpg?t=1791983571",
+   "website": "https://www.arenabreakoutinfinite.com/",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> 64-bit Windows 10<br></li><li><strong>處理器:</strong> Intel Core i5-7500 or AMD Ryzen 5 1400<br></li><li><strong>記憶體:</strong> 12 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA GTX 960 2G or AMD Radeon RX 5500 or Intel Arc A380<br></li><li><strong>DirectX:</strong> 版本：12<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 70 GB 可用空間</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> 64-bit Windows 10<br></li><li><strong>處理器:</strong> Intel Core i7-9700 or AMD Ryzen 5 3600X<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA RT X2060 or AMD Radeon Rx 6600<br></li><li><strong>DirectX:</strong> 版本：12<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 70 GB 可用空間</li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "linux_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "ext_user_account_notice": " LEVEL INFINITE PASS ",
+   "developers": [
+    "Morefun Studios"
+   ],
+   "publishers": [
+    "Morefun Studios"
+   ],
+   "package_groups": [],
+   "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+   },
+   "categories": [
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 20,
+     "description": "大型多人線上"
+    },
+    {
+     "id": 49,
+     "description": "玩家對戰"
+    },
+    {
+     "id": 36,
+     "description": "線上玩家對戰"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 29,
+     "description": "Steam 交換卡片"
+    },
+    {
+     "id": 35,
+     "description": "應用程式內購買"
+    },
+    {
+     "id": 62,
+     "description": "親友同享"
+    }
+   ],
+   "genres": [
+    {
+     "id": "1",
+     "description": "動作"
+    },
+    {
+     "id": "25",
+     "description": "冒險"
+    },
+    {
+     "id": "29",
+     "description": "大型多人連線"
+    },
+    {
+     "id": "3",
+     "description": "角色扮演"
+    },
+    {
+     "id": "2",
+     "description": "策略"
+    },
+    {
+     "id": "37",
+     "description": "免費遊玩"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/07af5dc6a885afd9c290748af3fe5416bb0423fe/ss_07af5dc6a885afd9c290748af3fe5416bb0423fe.600x338.jpg?t=1791983571",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/07af5dc6a885afd9c290748af3fe5416bb0423fe/ss_07af5dc6a885afd9c290748af3fe5416bb0423fe.1920x1080.jpg?t=1791983571"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/b992207904414c33d7870b7e4f1ab751ff91f4da/ss_b992207904414c33d7870b7e4f1ab751ff91f4da.600x338.jpg?t=1791983571",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/b992207904414c33d7870b7e4f1ab751ff91f4da/ss_b992207904414c33d7870b7e4f1ab751ff91f4da.1920x1080.jpg?t=1791983571"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/c97f55c6c5b2223ee28e38658ed5e4c0fd8b743c/ss_c97f55c6c5b2223ee28e38658ed5e4c0fd8b743c.600x338.jpg?t=1791983571",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/c97f55c6c5b2223ee28e38658ed5e4c0fd8b743c/ss_c97f55c6c5b2223ee28e38658ed5e4c0fd8b743c.1920x1080.jpg?t=1791983571"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/aaa2241d936afa09764ee8091f216aeeb385e500/ss_aaa2241d936afa09764ee8091f216aeeb385e500.600x338.jpg?t=1791983571",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/aaa2241d936afa09764ee8091f216aeeb385e500/ss_aaa2241d936afa09764ee8091f216aeeb385e500.1920x1080.jpg?t=1791983571"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/52c4c8be39ce0f25a46d30546ffa224c47a905b6/ss_52c4c8be39ce0f25a46d30546ffa224c47a905b6.600x338.jpg?t=1791983571",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/52c4c8be39ce0f25a46d30546ffa224c47a905b6/ss_52c4c8be39ce0f25a46d30546ffa224c47a905b6.1920x1080.jpg?t=1791983571"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/52ab1c8049b6cebe87aab569ee967ad6d74315a2/ss_52ab1c8049b6cebe87aab569ee967ad6d74315a2.600x338.jpg?t=1791983571",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/52ab1c8049b6cebe87aab569ee967ad6d74315a2/ss_52ab1c8049b6cebe87aab569ee967ad6d74315a2.1920x1080.jpg?t=1791983571"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/d056abb31c206833a06c838b69157e528bb11007/ss_d056abb31c206833a06c838b69157e528bb11007.600x338.jpg?t=1791983571",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/d056abb31c206833a06c838b69157e528bb11007/ss_d056abb31c206833a06c838b69157e528bb11007.1920x1080.jpg?t=1791983571"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/5616f77f5c2cc8a7471df7919b8b509527a3fd91/ss_5616f77f5c2cc8a7471df7919b8b509527a3fd91.600x338.jpg?t=1791983571",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/5616f77f5c2cc8a7471df7919b8b509527a3fd91/ss_5616f77f5c2cc8a7471df7919b8b509527a3fd91.1920x1080.jpg?t=1791983571"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/c16ab4987d10419345dca6725c609ca099d79f58/ss_c16ab4987d10419345dca6725c609ca099d79f58.600x338.jpg?t=1791983571",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/c16ab4987d10419345dca6725c609ca099d79f58/ss_c16ab4987d10419345dca6725c609ca099d79f58.1920x1080.jpg?t=1791983571"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/c3794e9ff25fd5aa9b1af51343991f2086630cb2/ss_c3794e9ff25fd5aa9b1af51343991f2086630cb2.600x338.jpg?t=1791983571",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/c3794e9ff25fd5aa9b1af51343991f2086630cb2/ss_c3794e9ff25fd5aa9b1af51343991f2086630cb2.1920x1080.jpg?t=1791983571"
+    },
+    {
+     "id": 10,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/f07dee097525d366f582c966f7eb2d53eacd7e81/ss_f07dee097525d366f582c966f7eb2d53eacd7e81.600x338.jpg?t=1791983571",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/f07dee097525d366f582c966f7eb2d53eacd7e81/ss_f07dee097525d366f582c966f7eb2d53eacd7e81.1920x1080.jpg?t=1791983571"
+    },
+    {
+     "id": 11,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/9f14c2a793cffd7d52306f5e08e23abbe26ea352/ss_9f14c2a793cffd7d52306f5e08e23abbe26ea352.600x338.jpg?t=1791983571",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/9f14c2a793cffd7d52306f5e08e23abbe26ea352/ss_9f14c2a793cffd7d52306f5e08e23abbe26ea352.1920x1080.jpg?t=1791983571"
+    },
+    {
+     "id": 12,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/54e254b65fb9b4206ca7e7ca1d4d36a9c293ceab/ss_54e254b65fb9b4206ca7e7ca1d4d36a9c293ceab.600x338.jpg?t=1791983571",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/54e254b65fb9b4206ca7e7ca1d4d36a9c293ceab/ss_54e254b65fb9b4206ca7e7ca1d4d36a9c293ceab.1920x1080.jpg?t=1791983571"
+    },
+    {
+     "id": 13,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/5bf2022e58443cc63a3b2337f6055a3ed3af8a80/ss_5bf2022e58443cc63a3b2337f6055a3ed3af8a80.600x338.jpg?t=1791983571",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/5bf2022e58443cc63a3b2337f6055a3ed3af8a80/ss_5bf2022e58443cc63a3b2337f6055a3ed3af8a80.1920x1080.jpg?t=1791983571"
+    },
+    {
+     "id": 14,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/f070ecc6634b9c587a9964b95ebb2a1661e6ff57/ss_f070ecc6634b9c587a9964b95ebb2a1661e6ff57.600x338.jpg?t=1791983571",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/f070ecc6634b9c587a9964b95ebb2a1661e6ff57/ss_f070ecc6634b9c587a9964b95ebb2a1661e6ff57.1920x1080.jpg?t=1791983571"
+    },
+    {
+     "id": 15,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/effe214008146ed0d482ed3a65f722bce46dd819/ss_effe214008146ed0d482ed3a65f722bce46dd819.600x338.jpg?t=1791983571",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/effe214008146ed0d482ed3a65f722bce46dd819/ss_effe214008146ed0d482ed3a65f722bce46dd819.1920x1080.jpg?t=1791983571"
+    }
+   ],
+   "movies": [
+    {
+     "id": 257457626,
+     "name": "S7-Girls' Frontline-PV",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257457626/d9548e64dfca0f7d53609017ccb3679c3b5e7c0a/movie_600x337.jpg?t=1791807695",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2073620/446987961/6c41c4dd9badc33e337ad476089c284551911111/1791788443/dash_av1.mpd?t=1791807695",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2073620/446987961/6c41c4dd9badc33e337ad476089c284551911111/1791788443/dash_h264.mpd?t=1791807695",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2073620/446987961/6c41c4dd9badc33e337ad476089c284551911111/1791788443/hls_264_master.m3u8?t=1791807695",
+     "highlight": true
+    },
+    {
+     "id": 257426244,
+     "name": "S7-pv",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257426244/52267342ce7eb025f0747247d391698c7570c89a/movie_600x337.jpg?t=1789546549",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2073620/861455452/526a362beb70635c1219ab93090548664c3c5ab7/1789534101/dash_av1.mpd?t=1789546549",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2073620/861455452/526a362beb70635c1219ab93090548664c3c5ab7/1789534101/dash_h264.mpd?t=1789546549",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2073620/861455452/526a362beb70635c1219ab93090548664c3c5ab7/1789534101/hls_264_master.m3u8?t=1789546549",
+     "highlight": true
+    },
+    {
+     "id": 257419781,
+     "name": "S7-dev talk",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257419781/804b8c252d6363399b168f5065bf35dc177bd0e4/movie_600x337.jpg?t=1788880913",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2073620/246982869/91ea560337689fe323f1ea64edbe88d604631637/1788863949/dash_av1.mpd?t=1788880913",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2073620/246982869/91ea560337689fe323f1ea64edbe88d604631637/1788863949/dash_h264.mpd?t=1788880913",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2073620/246982869/91ea560337689fe323f1ea64edbe88d604631637/1788863949/hls_264_master.m3u8?t=1788880913",
+     "highlight": true
+    },
+    {
+     "id": 257418831,
+     "name": "S7-preview",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257418831/975059b174cc2709d6ea7a4b69cb63c3ed427018/movie_600x337.jpg?t=1788770438",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2073620/1018359316/b9ee74dd135c3f1dafb082564cc2ddcfa7eab862/1788762311/dash_av1.mpd?t=1788770438",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2073620/1018359316/b9ee74dd135c3f1dafb082564cc2ddcfa7eab862/1788762311/dash_h264.mpd?t=1788770438",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2073620/1018359316/b9ee74dd135c3f1dafb082564cc2ddcfa7eab862/1788762311/hls_264_master.m3u8?t=1788770438",
+     "highlight": true
+    },
+    {
+     "id": 257383090,
+     "name": "RE4-EN",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257383090/fe71cf2ccca88189b77dd04bfa2a86332cbf12b6/movie_600x337.jpg?t=1784879787",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2073620/110913445/249e3f6037fa04b14fb9d3a2fa4e081c32353a81/1784800608/dash_av1.mpd?t=1784879787",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2073620/110913445/249e3f6037fa04b14fb9d3a2fa4e081c32353a81/1784800608/dash_h264.mpd?t=1784879787",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2073620/110913445/249e3f6037fa04b14fb9d3a2fa4e081c32353a81/1784800608/hls_264_master.m3u8?t=1784879787",
+     "highlight": true
+    }
+   ],
+   "achievements": {
+    "total": 33,
+    "highlighted": [
+     {
+      "icon": "71be685decc29809b2dbefebed2511d94120431a.jpg",
+      "localized_name": "最初的一步",
+      "archived": 0,
+      "hidden": 0,
+      "name": "最初的一步",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2073620/71be685decc29809b2dbefebed2511d94120431a.jpg"
+     },
+     {
+      "icon": "58d8465145224feaf50753650e30ac15e46ac806.jpg",
+      "localized_name": "老手",
+      "archived": 0,
+      "hidden": 0,
+      "name": "老手",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2073620/58d8465145224feaf50753650e30ac15e46ac806.jpg"
+     },
+     {
+      "icon": "76a15522aca38c05bf3c0e88d6c4ad48a98d8c4c.jpg",
+      "localized_name": "主線過關",
+      "archived": 0,
+      "hidden": 0,
+      "name": "主線過關",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2073620/76a15522aca38c05bf3c0e88d6c4ad48a98d8c4c.jpg"
+     },
+     {
+      "icon": "0b2192883c34dd7ac9f136cc7ff71c26723ec68d.jpg",
+      "localized_name": "家底豐厚",
+      "archived": 0,
+      "hidden": 0,
+      "name": "家底豐厚",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2073620/0b2192883c34dd7ac9f136cc7ff71c26723ec68d.jpg"
+     },
+     {
+      "icon": "63abf2c7896a24975ed0f8634c0b9e4fd2ec44c0.jpg",
+      "localized_name": "財富大亨",
+      "archived": 0,
+      "hidden": 0,
+      "name": "財富大亨",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2073620/63abf2c7896a24975ed0f8634c0b9e4fd2ec44c0.jpg"
+     },
+     {
+      "icon": "37eb76807a9816cadc946ac2310ceaea4c6f8eb4.jpg",
+      "localized_name": "撤離專家",
+      "archived": 0,
+      "hidden": 0,
+      "name": "撤離專家",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2073620/37eb76807a9816cadc946ac2310ceaea4c6f8eb4.jpg"
+     },
+     {
+      "icon": "b175ef4e8d0aa10e498423672069fb7ac7ece9d7.jpg",
+      "localized_name": "撤離大師",
+      "archived": 0,
+      "hidden": 0,
+      "name": "撤離大師",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2073620/b175ef4e8d0aa10e498423672069fb7ac7ece9d7.jpg"
+     },
+     {
+      "icon": "eb9d782c1430705fa247912e3737ccc83ac4d5c9.jpg",
+      "localized_name": "競技達人",
+      "archived": 0,
+      "hidden": 0,
+      "name": "競技達人",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2073620/eb9d782c1430705fa247912e3737ccc83ac4d5c9.jpg"
+     },
+     {
+      "icon": "112d27873f1dc2a6fa77a221c60c05b2a8a34241.jpg",
+      "localized_name": "齊心協力",
+      "archived": 0,
+      "hidden": 0,
+      "name": "齊心協力",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2073620/112d27873f1dc2a6fa77a221c60c05b2a8a34241.jpg"
+     },
+     {
+      "icon": "c1de94b95eeee667505c79f1540a07ed5219b5bc.jpg",
+      "localized_name": "妙手回春",
+      "archived": 0,
+      "hidden": 0,
+      "name": "妙手回春",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2073620/c1de94b95eeee667505c79f1540a07ed5219b5bc.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2025 年 9 月 15 日"
+   },
+   "support_info": {
+    "url": "",
+    "email": "service@arenabreakoutinfinite.com"
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2073620?t=1791983571",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/page_bg_raw.jpg?t=1791983571",
+   "content_descriptors": {
+    "ids": [
+     5
+    ],
+    "notes": "遊戲內包含槍械射擊與血腥內容"
+   },
+   "ratings": {
+    "usk": {
+     "rating": "16",
+     "rating_id": "55708/24"
+    },
+    "esrb": {
+     "rating": "m"
+    },
+    "pegi": {
+     "rating": "16"
+    },
+    "dejus": {
+     "rating_generated": "1",
+     "rating": "18",
+     "required_age": "18",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Violência"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "16",
+     "required_age": "16",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Gewalt"
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "18",
+     "required_age": "18",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Interaksi Daring\nKekerasan"
+    }
+   }
+  }
+ }
+}

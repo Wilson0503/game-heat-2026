@@ -1,0 +1,257 @@
+{
+ "1281930": {
+  "success": true,
+  "data": {
+   "type": "mod",
+   "name": "tModLoader",
+   "steam_appid": 1281930,
+   "required_age": 0,
+   "is_free": true,
+   "detailed_description": "挖掘、戰鬥、建造，使用 tModLoader 在 Terraria 的玩家自製模組世界中闖蕩——這個 DLC 讓 Terraria 模組化成為現實！<br><br>tModLoader（TML）是開放原始碼、由社群驅動的 Terraria 改造與擴充，讓製作與遊玩模組成為可能。TML 以 Terraria 社群創作、可供探索的新內容，拓展你的 Terraria 冒險之旅！TML 讓玩家可以製作與遊玩 Terraria 模組，其設計讓你無論獨自遊玩或與朋友同樂——使用單一或多個模組，隨心所欲選擇你喜愛的玩法！<br><br>注意：若想與朋友一同遊玩，他們也必須安裝 TML；原版玩家無法與使用 TML 的玩家連線遊玩。<br><br>---<br><br><strong><u><h2 class=\"bb_tag\" >支援</h2></u></strong><br>需要協助嗎？你可以從我們在 Terraria 社群論壇（Terraria Community Forums）的討論串，或我們的 Discord 伺服器獲得支援！這些是獲得支援的最佳管道，兩者都可直接從我們的官方網站連結前往，官網位置在下方 Steam 商店頁面上。<br><br>tModLoader 是開放原始碼專案，代表其程式碼公開取得，任何人都能為專案貢獻心力。我們的專案可在 GitHub 上找到，可經由官方網站連結前往。<br><br>想更深入瞭解 tModLoader 的運作原理嗎？或者你現在就想開始使用 tModLoader？你可以從我們的玩家指南開始，指南位於 Steam 商店頁面下方的「查看手冊」。另外也有為模組開發者與貢獻者準備的頁面。我們的 Wiki 收錄了豐富的指南，教你如何使用 tModLoader 製作模組。<br><br>---<br><br><strong><u><h2 class=\"bb_tag\" >常見問題</h2></u></strong><br>當你安裝並準備好深入體驗 tModLoader 時，有幾件重要事項需要你知道：<br><br><strong><ul class=\"bb_ul\"><li>你不需要做任何備份<br></li><li>只要將 Terraria 更新到 1.4，並在 Steam 上安裝 tModLoader<br></li><li>你可以同時遊玩原版 Terraria 與 TML；透過 Steam 安裝的 tModLoader 會被視為獨立的遊戲<br></li><li>tModLoader 支援 Terraria 1.3 與 1.4<br></li><li>支援 Steam 工作坊（但非必要，我們有遊戲內的模組瀏覽器）<br></li><li>在新版本中，tModLoader 可以安裝在任何位置，無論安裝位置為何或是否為 Steam 安裝<br></li><li>tModLoader 支援 Windows、Mac 與 Linux</li></ul></strong><br><br><strong>這會對我有什麼影響？Terraria 1.4 推出後，我的模組還能用嗎？</strong><br>由於這次更新為 tModLoader 帶來許多變動，大多數甚至所有的模組都會無法使用。儘管我們已給模組作者時間更新他們的模組，仍有一些模組很可能永遠不會更新到這個版本。請謹記，你在 1.3 能使用的模組，未必全部都能繼續使用。<br><br><strong>這代表 tModLoader 已更新到 1.4 了嗎？</strong><br>Steam 上的 tModLoader 支援 Terraria 1.3.5 與 Terraria 1.4。<br><br><strong>那 Steam 工作坊支援呢？</strong><br>支援 Steam 工作坊。<br>",
+   "about_the_game": "挖掘、戰鬥、建造，使用 tModLoader 在 Terraria 的玩家自製模組世界中闖蕩——這個 DLC 讓 Terraria 模組化成為現實！<br><br>tModLoader（TML）是開放原始碼、由社群驅動的 Terraria 改造與擴充，讓製作與遊玩模組成為可能。TML 以 Terraria 社群創作、可供探索的新內容，拓展你的 Terraria 冒險之旅！TML 讓玩家可以製作與遊玩 Terraria 模組，其設計讓你無論獨自遊玩或與朋友同樂——使用單一或多個模組，隨心所欲選擇你喜愛的玩法！<br><br>注意：若想與朋友一同遊玩，他們也必須安裝 TML；原版玩家無法與使用 TML 的玩家連線遊玩。<br><br>---<br><br><strong><u><h2 class=\"bb_tag\" >支援</h2></u></strong><br>需要協助嗎？你可以從我們在 Terraria 社群論壇（Terraria Community Forums）的討論串，或我們的 Discord 伺服器獲得支援！這些是獲得支援的最佳管道，兩者都可直接從我們的官方網站連結前往，官網位置在下方 Steam 商店頁面上。<br><br>tModLoader 是開放原始碼專案，代表其程式碼公開取得，任何人都能為專案貢獻心力。我們的專案可在 GitHub 上找到，可經由官方網站連結前往。<br><br>想更深入瞭解 tModLoader 的運作原理嗎？或者你現在就想開始使用 tModLoader？你可以從我們的玩家指南開始，指南位於 Steam 商店頁面下方的「查看手冊」。另外也有為模組開發者與貢獻者準備的頁面。我們的 Wiki 收錄了豐富的指南，教你如何使用 tModLoader 製作模組。<br><br>---<br><br><strong><u><h2 class=\"bb_tag\" >常見問題</h2></u></strong><br>當你安裝並準備好深入體驗 tModLoader 時，有幾件重要事項需要你知道：<br><br><strong><ul class=\"bb_ul\"><li>你不需要做任何備份<br></li><li>只要將 Terraria 更新到 1.4，並在 Steam 上安裝 tModLoader<br></li><li>你可以同時遊玩原版 Terraria 與 TML；透過 Steam 安裝的 tModLoader 會被視為獨立的遊戲<br></li><li>tModLoader 支援 Terraria 1.3 與 1.4<br></li><li>支援 Steam 工作坊（但非必要，我們有遊戲內的模組瀏覽器）<br></li><li>在新版本中，tModLoader 可以安裝在任何位置，無論安裝位置為何或是否為 Steam 安裝<br></li><li>tModLoader 支援 Windows、Mac 與 Linux</li></ul></strong><br><br><strong>這會對我有什麼影響？Terraria 1.4 推出後，我的模組還能用嗎？</strong><br>由於這次更新為 tModLoader 帶來許多變動，大多數甚至所有的模組都會無法使用。儘管我們已給模組作者時間更新他們的模組，仍有一些模組很可能永遠不會更新到這個版本。請謹記，你在 1.3 能使用的模組，未必全部都能繼續使用。<br><br><strong>這代表 tModLoader 已更新到 1.4 了嗎？</strong><br>Steam 上的 tModLoader 支援 Terraria 1.3.5 與 Terraria 1.4。<br><br><strong>那 Steam 工作坊支援呢？</strong><br>支援 Steam 工作坊。<br>",
+   "short_description": "挖掘、戰鬥、建造，使用 tModLoader 在 Terraria 的玩家自製模組世界中闖蕩——這個 DLC 讓 Terraria 模組化成為現實！",
+   "fullgame": {
+    "appid": "105600",
+    "name": "Terraria"
+   },
+   "supported_languages": "英文, 法文, 義大利文, 德文, 西班牙文 - 西班牙, 波蘭文, 葡萄牙文 - 巴西, 俄文, 簡體中文",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/header.jpg?t=1788369465",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/capsule_231x87.jpg?t=1788369465",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/capsule_184x69.jpg?t=1788369465",
+   "website": "https://tmodloader.net/",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統 *:</strong> Windows 7 x64, 8/8.1 x64, 10, 11<br></li><li><strong>處理器:</strong> 2.0 Ghz<br></li><li><strong>記憶體:</strong> 6 GB 記憶體<br></li><li><strong>顯示卡:</strong> FNA 需求：<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>儲存空間:</strong> 500 MB 可用空間<br></li><li><strong>備註:</strong> tModLoader 依賴 NET 8 執行階段。NET 8 需求：</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 10, 11<br></li><li><strong>處理器:</strong> Dual Core 3.0 Ghz<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> FNA Requirements: <br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>儲存空間:</strong> 20000 MB 可用空間<br></li><li><strong>備註:</strong> tModLoader relies on NET 8 runtime. NET 8 requirements: . Additional Requirements may vary with installed Workshop Items</li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> (1.4.4) OSX 12 Monterey; (1.4.3) OSX 10.15 Catalina<br></li><li><strong>處理器:</strong> 2.0 Ghz<br></li><li><strong>記憶體:</strong> 4 GB 記憶體<br></li><li><strong>顯示卡:</strong> FNA 需求：<br></li><li><strong>儲存空間:</strong> 500 MB 可用空間<br></li><li><strong>備註:</strong> tModLoader 依賴 NET 8 執行階段。NET 8 需求：</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> OSX 12 Monterey or Higher<br></li><li><strong>處理器:</strong> Dual Core 3.0 Ghz<br></li><li><strong>記憶體:</strong> 12 GB 記憶體<br></li><li><strong>顯示卡:</strong> FNA Requirements: <br></li><li><strong>儲存空間:</strong> 20000 MB 可用空間<br></li><li><strong>備註:</strong> tModLoader relies on NET 8 runtime. NET 8 requirements: . Additional Requirements may vary with installed Workshop Items</li></ul>"
+   },
+   "linux_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Ubuntu 16.04 LTS 或更高版本<br></li><li><strong>處理器:</strong> 2.0 Ghz<br></li><li><strong>記憶體:</strong> 4 GB 記憶體<br></li><li><strong>顯示卡:</strong> FNA 需求：<br></li><li><strong>儲存空間:</strong> 500 MB 可用空間<br></li><li><strong>備註:</strong> tModLoader 依賴 NET 8 執行階段。NET 8 需求：</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Ubuntu 16.04 LTS or higher<br></li><li><strong>處理器:</strong> Dual Core 3.0 Ghz<br></li><li><strong>記憶體:</strong> 12 GB 記憶體<br></li><li><strong>顯示卡:</strong> FNA Requirements: <br></li><li><strong>儲存空間:</strong> 20000 MB 可用空間<br></li><li><strong>備註:</strong> tModLoader relies on NET 8 runtime. NET 8 requirements: . Additional Requirements may vary with installed Workshop Items</li></ul>"
+   },
+   "developers": [
+    "TML Team"
+   ],
+   "publishers": [
+    "Re-Logic",
+    "TML Team"
+   ],
+   "package_groups": [],
+   "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 49,
+     "description": "玩家對戰"
+    },
+    {
+     "id": 36,
+     "description": "線上玩家對戰"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 30,
+     "description": "Steam 工作坊"
+    },
+    {
+     "id": 23,
+     "description": "Steam 雲端"
+    },
+    {
+     "id": 62,
+     "description": "親友同享"
+    }
+   ],
+   "genres": [
+    {
+     "id": "1",
+     "description": "動作"
+    },
+    {
+     "id": "25",
+     "description": "冒險"
+    },
+    {
+     "id": "23",
+     "description": "獨立製作"
+    },
+    {
+     "id": "3",
+     "description": "角色扮演"
+    },
+    {
+     "id": "37",
+     "description": "免費遊玩"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_6720f972448c85c6a8062a80047202a591aba913.600x338.jpg?t=1788369465",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_6720f972448c85c6a8062a80047202a591aba913.1920x1080.jpg?t=1788369465"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_8f628f9bcc6da81fdd81676d3f235420c5237458.600x338.jpg?t=1788369465",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_8f628f9bcc6da81fdd81676d3f235420c5237458.1920x1080.jpg?t=1788369465"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_9fae3fc7e23e5a29f4fbe46c9208d485ececc2ca.600x338.jpg?t=1788369465",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_9fae3fc7e23e5a29f4fbe46c9208d485ececc2ca.1920x1080.jpg?t=1788369465"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_cbd08080c38bc6814a4562780d313dd7331b02a1.600x338.jpg?t=1788369465",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_cbd08080c38bc6814a4562780d313dd7331b02a1.1920x1080.jpg?t=1788369465"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_c2829b132cf00dad0d17c546420cbfa3a122cf9d.600x338.jpg?t=1788369465",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_c2829b132cf00dad0d17c546420cbfa3a122cf9d.1920x1080.jpg?t=1788369465"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_70192ef5332af5291082282b14af62ba7267b092.600x338.jpg?t=1788369465",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_70192ef5332af5291082282b14af62ba7267b092.1920x1080.jpg?t=1788369465"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_3e666a6ba30bfd3c0b8c846cf22ce285e3defccd.600x338.jpg?t=1788369465",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_3e666a6ba30bfd3c0b8c846cf22ce285e3defccd.1920x1080.jpg?t=1788369465"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_ce6c416374827f504aef35d237ee43518f170e3a.600x338.jpg?t=1788369465",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_ce6c416374827f504aef35d237ee43518f170e3a.1920x1080.jpg?t=1788369465"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_5d8ab51c5a9233afe51256bb55c35ba730d10f4a.600x338.jpg?t=1788369465",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_5d8ab51c5a9233afe51256bb55c35ba730d10f4a.1920x1080.jpg?t=1788369465"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_98a6c5ddbabd296f01f5060a7341fad769a4e445.600x338.jpg?t=1788369465",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_98a6c5ddbabd296f01f5060a7341fad769a4e445.1920x1080.jpg?t=1788369465"
+    },
+    {
+     "id": 10,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_7b2b276b5e1ffc10993734408be2bf52e2cd2185.600x338.jpg?t=1788369465",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_7b2b276b5e1ffc10993734408be2bf52e2cd2185.1920x1080.jpg?t=1788369465"
+    },
+    {
+     "id": 11,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_a1f99679d7be725b18ec02ad68c2a88450ded845.600x338.jpg?t=1788369465",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_a1f99679d7be725b18ec02ad68c2a88450ded845.1920x1080.jpg?t=1788369465"
+    },
+    {
+     "id": 12,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_3d3867abb1eded55ecfcca61b1a973509d023af3.600x338.jpg?t=1788369465",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_3d3867abb1eded55ecfcca61b1a973509d023af3.1920x1080.jpg?t=1788369465"
+    },
+    {
+     "id": 13,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_8bb2e72c3e7316b9e9566debb76de3649aa6bbb7.600x338.jpg?t=1788369465",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_8bb2e72c3e7316b9e9566debb76de3649aa6bbb7.1920x1080.jpg?t=1788369465"
+    },
+    {
+     "id": 14,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_3b6b15040ba9981ea6442420101a6e35c48a3feb.600x338.jpg?t=1788369465",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_3b6b15040ba9981ea6442420101a6e35c48a3feb.1920x1080.jpg?t=1788369465"
+    },
+    {
+     "id": 15,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_ec8bfd9aba99eefba7ab55ff10204441b329e7ae.600x338.jpg?t=1788369465",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_ec8bfd9aba99eefba7ab55ff10204441b329e7ae.1920x1080.jpg?t=1788369465"
+    },
+    {
+     "id": 16,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_f496626a9d3167f4bc4901c1d2a983a1bb53ca1e.600x338.jpg?t=1788369465",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_f496626a9d3167f4bc4901c1d2a983a1bb53ca1e.1920x1080.jpg?t=1788369465"
+    },
+    {
+     "id": 17,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_0e6ad0038b47e72a79c01ebb74b68abca6a5a3a4.600x338.jpg?t=1788369465",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_0e6ad0038b47e72a79c01ebb74b68abca6a5a3a4.1920x1080.jpg?t=1788369465"
+    },
+    {
+     "id": 18,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_02de8ddbefe40cd568e35a36078f567be71ce533.600x338.jpg?t=1788369465",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/ss_02de8ddbefe40cd568e35a36078f567be71ce533.1920x1080.jpg?t=1788369465"
+    }
+   ],
+   "movies": [
+    {
+     "id": 256784635,
+     "name": "tModLoader Official Steam Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256784635/movie.293x165.jpg?t=1589401429",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1281930/284084/5d89ffad3a58de575a3ec3a46208bd49056ff194/1751214519/dash_av1.mpd?t=1589401429",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1281930/284084/5d89ffad3a58de575a3ec3a46208bd49056ff194/1751214519/dash_h264.mpd?t=1589401429",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1281930/284084/5d89ffad3a58de575a3ec3a46208bd49056ff194/1751214519/hls_264_master.m3u8?t=1589401429",
+     "highlight": true
+    }
+   ],
+   "release_date": {
+    "coming_soon": false,
+    "date": "2020 年 5 月 16 日"
+   },
+   "support_info": {
+    "url": "https://www.tmodloader.net/",
+    "email": ""
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1281930?t=1788369465",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281930/page_bg_raw.jpg?t=1788369465",
+   "content_descriptors": {
+    "ids": [],
+    "notes": null
+   },
+   "ratings": {
+    "dejus": {
+     "rating_generated": "1",
+     "rating": "14",
+     "required_age": "14",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Linguagem imprópria\nViolência"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "12",
+     "required_age": "12",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Gewalt\nAlkohol / Tabak\nDerbe Sprache"
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "18",
+     "required_age": "18",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Interaksi Daring\nRokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nPenggunaan bahasa"
+    }
+   }
+  }
+ }
+}

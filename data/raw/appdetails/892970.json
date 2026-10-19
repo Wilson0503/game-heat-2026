@@ -1,0 +1,438 @@
+{
+ "892970": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "Valheim",
+   "steam_appid": 892970,
+   "required_age": 0,
+   "is_free": false,
+   "controller_support": "full",
+   "dlc": [
+    1620250
+   ],
+   "detailed_description": "<p class=\"bb_paragraph\" >《Valheim》是一款可供 1 至 10 人合作探索的生存遊戲。玩家將踏入受北歐神話啟發、隨機生成的世界，打造強大的武器、建造宏偉的殿堂，並擊敗強敵，向奧丁證明自己的價值！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/fde7609cce1c42ed185ba1a000a4ae59.poster.avif?t=1791544831\" width=1170 height=340 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/fde7609cce1c42ed185ba1a000a4ae59.webm?t=1791544831\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/fde7609cce1c42ed185ba1a000a4ae59.mp4?t=1791544831\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/6df985372c935ca0551c0bda004dcffa.avif?t=1791544831\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras_big/6df985372c935ca0551c0bda004dcffa.avif?t=1791544831 width=1560 height=160 /></span></p><p class=\"bb_paragraph\" >探索沉浸感十足的隨機生成世界。每個生物域都有獨特環境、稀有資源與危險敵人。化身維京人，獨自一人或與最多九名好友揚帆遠航，尋找未知的大地！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/197ad3ead350b82e6feddf03ad690c90.poster.avif?t=1791544831\" width=1170 height=340 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/197ad3ead350b82e6feddf03ad690c90.webm?t=1791544831\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/197ad3ead350b82e6feddf03ad690c90.mp4?t=1791544831\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/8960756a84ec12e69d2eddc685e51202.avif?t=1791544831\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras_big/8960756a84ec12e69d2eddc685e51202.avif?t=1791544831 width=1560 height=160 /></span></p><p class=\"bb_paragraph\" >第十世界已遭充滿憎恨的力量腐化，化為各地強大的首領「被遺棄者」。磨練斧、劍與弓的戰鬥技巧，打造最精良的裝備做好準備。唯有擊敗這些被遺棄者，你才能繼續前進，並向眾神之父證明自己。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/5c8d1008b52f7c96a574131a357c5f71.poster.avif?t=1791544831\" width=1170 height=340 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/5c8d1008b52f7c96a574131a357c5f71.webm?t=1791544831\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/5c8d1008b52f7c96a574131a357c5f71.mp4?t=1791544831\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/6d9d97a4f43b3cedde6cce3bd029cceb.avif?t=1791544831\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras_big/6d9d97a4f43b3cedde6cce3bd029cceb.avif?t=1791544831 width=1560 height=160 /></span></p><p class=\"bb_paragraph\" >建造維京長屋與基地，在前方重重危險中暫得喘息之處。無論是想打造簡陋的小屋、完整的村莊，還是山腰上的堡壘，防禦與結構穩固性都至關重要；當然，也別忘了好好裝飾一番，讓舒適度達到最佳狀態！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/686e974fc2c644b71aa70bb277fc4227.poster.avif?t=1791544831\" width=1170 height=340 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/686e974fc2c644b71aa70bb277fc4227.webm?t=1791544831\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/686e974fc2c644b71aa70bb277fc4227.mp4?t=1791544831\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/733e7feb95b00aeb435b4a8c29be1f5d.avif?t=1791544831\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras_big/733e7feb95b00aeb435b4a8c29be1f5d.avif?t=1791544831 width=1560 height=160 /></span></p><p class=\"bb_paragraph\" >隨著你發現新的材料，你也能學會新的製作、建造與烹飪配方，滿足維京人生存所需的一切！食物系統重視獎勵而非懲罰，會依照你吃下的食物賦予各種加成與效果，並與戰鬥系統直接相連。生命值與耐力，往往就是生死之間的關鍵差異。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>社群翻譯語言</strong></p><p class=\"bb_paragraph\" >除了官方支援的語言之外，《Valheim》也提供多種社群翻譯語言。顧名思義，這些翻譯皆由粉絲與社群成員完成，且翻譯工作通常仍在持續進行。因此，我們無法保證任何特定翻譯的品質或完整性。</p>",
+   "about_the_game": "<p class=\"bb_paragraph\" >《Valheim》是一款可供 1 至 10 人合作探索的生存遊戲。玩家將踏入受北歐神話啟發、隨機生成的世界，打造強大的武器、建造宏偉的殿堂，並擊敗強敵，向奧丁證明自己的價值！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/fde7609cce1c42ed185ba1a000a4ae59.poster.avif?t=1791544831\" width=1170 height=340 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/fde7609cce1c42ed185ba1a000a4ae59.webm?t=1791544831\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/fde7609cce1c42ed185ba1a000a4ae59.mp4?t=1791544831\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/6df985372c935ca0551c0bda004dcffa.avif?t=1791544831\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras_big/6df985372c935ca0551c0bda004dcffa.avif?t=1791544831 width=1560 height=160 /></span></p><p class=\"bb_paragraph\" >探索沉浸感十足的隨機生成世界。每個生物域都有獨特環境、稀有資源與危險敵人。化身維京人，獨自一人或與最多九名好友揚帆遠航，尋找未知的大地！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/197ad3ead350b82e6feddf03ad690c90.poster.avif?t=1791544831\" width=1170 height=340 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/197ad3ead350b82e6feddf03ad690c90.webm?t=1791544831\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/197ad3ead350b82e6feddf03ad690c90.mp4?t=1791544831\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/8960756a84ec12e69d2eddc685e51202.avif?t=1791544831\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras_big/8960756a84ec12e69d2eddc685e51202.avif?t=1791544831 width=1560 height=160 /></span></p><p class=\"bb_paragraph\" >第十世界已遭充滿憎恨的力量腐化，化為各地強大的首領「被遺棄者」。磨練斧、劍與弓的戰鬥技巧，打造最精良的裝備做好準備。唯有擊敗這些被遺棄者，你才能繼續前進，並向眾神之父證明自己。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/5c8d1008b52f7c96a574131a357c5f71.poster.avif?t=1791544831\" width=1170 height=340 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/5c8d1008b52f7c96a574131a357c5f71.webm?t=1791544831\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/5c8d1008b52f7c96a574131a357c5f71.mp4?t=1791544831\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/6d9d97a4f43b3cedde6cce3bd029cceb.avif?t=1791544831\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras_big/6d9d97a4f43b3cedde6cce3bd029cceb.avif?t=1791544831 width=1560 height=160 /></span></p><p class=\"bb_paragraph\" >建造維京長屋與基地，在前方重重危險中暫得喘息之處。無論是想打造簡陋的小屋、完整的村莊，還是山腰上的堡壘，防禦與結構穩固性都至關重要；當然，也別忘了好好裝飾一番，讓舒適度達到最佳狀態！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/686e974fc2c644b71aa70bb277fc4227.poster.avif?t=1791544831\" width=1170 height=340 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/686e974fc2c644b71aa70bb277fc4227.webm?t=1791544831\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/686e974fc2c644b71aa70bb277fc4227.mp4?t=1791544831\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras/733e7feb95b00aeb435b4a8c29be1f5d.avif?t=1791544831\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/extras_big/733e7feb95b00aeb435b4a8c29be1f5d.avif?t=1791544831 width=1560 height=160 /></span></p><p class=\"bb_paragraph\" >隨著你發現新的材料，你也能學會新的製作、建造與烹飪配方，滿足維京人生存所需的一切！食物系統重視獎勵而非懲罰，會依照你吃下的食物賦予各種加成與效果，並與戰鬥系統直接相連。生命值與耐力，往往就是生死之間的關鍵差異。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>社群翻譯語言</strong></p><p class=\"bb_paragraph\" >除了官方支援的語言之外，《Valheim》也提供多種社群翻譯語言。顧名思義，這些翻譯皆由粉絲與社群成員完成，且翻譯工作通常仍在持續進行。因此，我們無法保證任何特定翻譯的品質或完整性。</p>",
+   "short_description": "一款支援 1 至 10 人合作探索的生存遊戲。踏入受維京文化啟發、隨機生成的死後世界，戰鬥、建造、征服，創造你的傳奇，贏得奧丁的青睞！",
+   "supported_languages": "英文, 法文, 德文, 西班牙文 - 西班牙, 俄文, 簡體中文, 土耳其文, 日文, 葡萄牙文 - 巴西, 波蘭文, 烏克蘭文, 義大利文, 韓文, 繁體中文",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1791544831",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/4e8fffa2161ff5bf23058cc72c43ef1032059b5b/capsule_231x87_alt_assets_6.jpg?t=1791544831",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/4e8fffa2161ff5bf23058cc72c43ef1032059b5b/capsule_184x69_alt_assets_6.jpg?t=1791544831",
+   "website": "http://www.valheim.com",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 10 or later<br></li><li><strong>處理器:</strong> 2.6 GHz Quad Core or similar<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> GeForce GTX 950 or Radeon HD 7970<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>儲存空間:</strong> 1 GB 可用空間<br></li><li><strong>備註:</strong> The following languages have been partially translated by the community: Svenska, Italiano, Romanian, български, македонски, Suomi, Dansk, íslenska, Lietuvių kalba, čeština, Magyar nyelv, Português europeu, 한국어 (불완전한), Norsk, ภาษาไทย, ქართული ენა, Abenaki, Slovenčina</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 10 or later<br></li><li><strong>處理器:</strong> i5 3GHz or Ryzen 5 3GHz<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> GeForce GTX 1060 or Radeon RX 580<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 1 GB 可用空間</li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> MacOS 11 or later<br></li><li><strong>處理器:</strong> 2.6 GHz Quad Core or similar<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> Radeon Pro 450 or R9 M290X<br></li><li><strong>儲存空間:</strong> 3 GB 可用空間</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> MacOS 14 or later<br></li><li><strong>處理器:</strong> Apple M1<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> M1 Integrated GPU or Radeon Pro 570X<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 3 GB 可用空間</li></ul>"
+   },
+   "linux_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Any up to date version<br></li><li><strong>處理器:</strong> 2.6 GHz Dual Core or similar<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> GeForce GTX 950 or Radeon HD 7970<br></li><li><strong>儲存空間:</strong> 2 GB 可用空間</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Any up to date version<br></li><li><strong>處理器:</strong> i5 3GHz or Ryzen 5 3GHz<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> GeForce GTX 1060 or Radeon RX 580<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 2 GB 可用空間</li></ul>"
+   },
+   "developers": [
+    "Iron Gate AB"
+   ],
+   "publishers": [
+    "Coffee Stain Publishing"
+   ],
+   "price_overview": {
+    "currency": "TWD",
+    "initial": 64800,
+    "final": 64800,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "NT$ 648"
+   },
+   "packages": [
+    285032
+   ],
+   "package_groups": [
+    {
+     "name": "default",
+     "title": "購買 Valheim",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 285032,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "Valheim - NT$ 648",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 64800
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+   },
+   "metacritic": {
+    "score": 89,
+    "url": "https://www.metacritic.com/game/pc/valheim?ftag=MCD-06-10aaa1f"
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 28,
+     "description": "完整控制器支援"
+    },
+    {
+     "id": 67,
+     "description": "鏡頭舒適度"
+    },
+    {
+     "id": 68,
+     "description": "自訂音量控制"
+    },
+    {
+     "id": 78,
+     "description": "可調整難度"
+    },
+    {
+     "id": 55,
+     "description": "DUALSHOCK 控制器支援"
+    },
+    {
+     "id": 56,
+     "description": "DUALSHOCK 控制器支援"
+    },
+    {
+     "id": 57,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 58,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 79,
+     "description": "隨時儲存"
+    },
+    {
+     "id": 69,
+     "description": "立體聲"
+    },
+    {
+     "id": 23,
+     "description": "Steam 雲端"
+    },
+    {
+     "id": 15,
+     "description": "統計"
+    },
+    {
+     "id": 42,
+     "description": "在平板上遠端暢玩"
+    },
+    {
+     "id": 62,
+     "description": "親友同享"
+    }
+   ],
+   "genres": [
+    {
+     "id": "1",
+     "description": "動作"
+    },
+    {
+     "id": "25",
+     "description": "冒險"
+    },
+    {
+     "id": "23",
+     "description": "獨立製作"
+    },
+    {
+     "id": "3",
+     "description": "角色扮演"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/5a31353178f635b67f0c8720ebb8a1a95b637276/ss_5a31353178f635b67f0c8720ebb8a1a95b637276.600x338.jpg?t=1791544831",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/5a31353178f635b67f0c8720ebb8a1a95b637276/ss_5a31353178f635b67f0c8720ebb8a1a95b637276.1920x1080.jpg?t=1791544831"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/bc7c361dab1780543a3ceca50c8fba831e5bc8db/ss_bc7c361dab1780543a3ceca50c8fba831e5bc8db.600x338.jpg?t=1791544831",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/bc7c361dab1780543a3ceca50c8fba831e5bc8db/ss_bc7c361dab1780543a3ceca50c8fba831e5bc8db.1920x1080.jpg?t=1791544831"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_a600a7d4ca954543e22f571a9629521a13f82143.600x338.jpg?t=1791544831",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_a600a7d4ca954543e22f571a9629521a13f82143.1920x1080.jpg?t=1791544831"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/f7a47b4bd150ce1a2c6ec88f7d79fd57e7c538c8/ss_f7a47b4bd150ce1a2c6ec88f7d79fd57e7c538c8.600x338.jpg?t=1791544831",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/f7a47b4bd150ce1a2c6ec88f7d79fd57e7c538c8/ss_f7a47b4bd150ce1a2c6ec88f7d79fd57e7c538c8.1920x1080.jpg?t=1791544831"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_cd0262c5abf8a90ee5e1059acafc5a92b6be0e73.600x338.jpg?t=1791544831",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_cd0262c5abf8a90ee5e1059acafc5a92b6be0e73.1920x1080.jpg?t=1791544831"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_3db385fc1223914dadb199ac8682683a8c59454e.600x338.jpg?t=1791544831",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_3db385fc1223914dadb199ac8682683a8c59454e.1920x1080.jpg?t=1791544831"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/f84c97e07548b1c2a0c38944d80c6967c0928625/ss_f84c97e07548b1c2a0c38944d80c6967c0928625.600x338.jpg?t=1791544831",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/f84c97e07548b1c2a0c38944d80c6967c0928625/ss_f84c97e07548b1c2a0c38944d80c6967c0928625.1920x1080.jpg?t=1791544831"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_f6cbfeea728d557fa9f483685fea3205f08f5d9e.600x338.jpg?t=1791544831",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_f6cbfeea728d557fa9f483685fea3205f08f5d9e.1920x1080.jpg?t=1791544831"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_551f06a43b72609d7ca3cd63e93c58e949d58384.600x338.jpg?t=1791544831",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_551f06a43b72609d7ca3cd63e93c58e949d58384.1920x1080.jpg?t=1791544831"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_6032c9336c6cf9c1ebc914cedf022b38e97fd271.600x338.jpg?t=1791544831",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_6032c9336c6cf9c1ebc914cedf022b38e97fd271.1920x1080.jpg?t=1791544831"
+    },
+    {
+     "id": 10,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_f4ea4f0f93cc8b38042f6d5916413da185ec221c.600x338.jpg?t=1791544831",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_f4ea4f0f93cc8b38042f6d5916413da185ec221c.1920x1080.jpg?t=1791544831"
+    },
+    {
+     "id": 11,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_553301e2432883e9f026fe1dd0e91d7a8886d6f1.600x338.jpg?t=1791544831",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_553301e2432883e9f026fe1dd0e91d7a8886d6f1.1920x1080.jpg?t=1791544831"
+    },
+    {
+     "id": 12,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_9b4abc60696de192c40064364a1395ad5074e5c3.600x338.jpg?t=1791544831",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_9b4abc60696de192c40064364a1395ad5074e5c3.1920x1080.jpg?t=1791544831"
+    },
+    {
+     "id": 13,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_15a86a1c4175f9392127265735c177a91535de65.600x338.jpg?t=1791544831",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_15a86a1c4175f9392127265735c177a91535de65.1920x1080.jpg?t=1791544831"
+    },
+    {
+     "id": 14,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_ad81cc7ced8585ad344ba50e9d0b4bf9c597e62e.600x338.jpg?t=1791544831",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_ad81cc7ced8585ad344ba50e9d0b4bf9c597e62e.1920x1080.jpg?t=1791544831"
+    },
+    {
+     "id": 15,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_4ba939a383dc363c14e6cb7995322f39a5a26b07.600x338.jpg?t=1791544831",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_4ba939a383dc363c14e6cb7995322f39a5a26b07.1920x1080.jpg?t=1791544831"
+    },
+    {
+     "id": 16,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_988d92f03856895ef73a636ad20c2951086b865c.600x338.jpg?t=1791544831",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_988d92f03856895ef73a636ad20c2951086b865c.1920x1080.jpg?t=1791544831"
+    },
+    {
+     "id": 17,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_64ae63dcfde6612266cf72884132fa144908b777.600x338.jpg?t=1791544831",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_64ae63dcfde6612266cf72884132fa144908b777.1920x1080.jpg?t=1791544831"
+    },
+    {
+     "id": 18,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_0c218f8040f1d7850baff4ff4e3109942388ac98.600x338.jpg?t=1791544831",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_0c218f8040f1d7850baff4ff4e3109942388ac98.1920x1080.jpg?t=1791544831"
+    },
+    {
+     "id": 19,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_e79d3106549c1269a14888f2095e4c667643c3ad.600x338.jpg?t=1791544831",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_e79d3106549c1269a14888f2095e4c667643c3ad.1920x1080.jpg?t=1791544831"
+    }
+   ],
+   "movies": [
+    {
+     "id": 257420513,
+     "name": "1.0 Out Now",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420513/3f5dcfbddfe4cca65abe94a03a46b3b5546c46ab/movie_600x337.jpg?t=1788958575",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/892970/1773403435/2417a8f159c3b08912ee0c08e6a78d70452a083f/1788934690/dash_av1.mpd?t=1788958575",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/892970/1773403435/2417a8f159c3b08912ee0c08e6a78d70452a083f/1788934690/dash_h264.mpd?t=1788958575",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/892970/1773403435/2417a8f159c3b08912ee0c08e6a78d70452a083f/1788934690/hls_264_master.m3u8?t=1788958575",
+     "highlight": true
+    },
+    {
+     "id": 257419620,
+     "name": "Deep North Animated Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257419620/cf3dd9631b1181dd1dcf3416f0961ecf0c1bf7a5/movie_600x337.jpg?t=1788957576",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/892970/1466264581/4dbfd08fcffaaccab3f9477f8f55df0a98ab29ef/1788851619/dash_av1.mpd?t=1788957576",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/892970/1466264581/4dbfd08fcffaaccab3f9477f8f55df0a98ab29ef/1788851619/dash_h264.mpd?t=1788957576",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/892970/1466264581/4dbfd08fcffaaccab3f9477f8f55df0a98ab29ef/1788851619/hls_264_master.m3u8?t=1788957576",
+     "highlight": true
+    },
+    {
+     "id": 257363622,
+     "name": "1.0 Release Date Reveal Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257363622/e979dd1440c9a792e9439d71c4982874abf19a0e/movie_600x337.jpg?t=1782130908",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/892970/1497098081/82852b46712774fa05d84fbaf0fb0ab9679a07f0/1782129560/dash_av1.mpd?t=1782130908",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/892970/1497098081/82852b46712774fa05d84fbaf0fb0ab9679a07f0/1782129560/dash_h264.mpd?t=1782130908",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/892970/1497098081/82852b46712774fa05d84fbaf0fb0ab9679a07f0/1782129560/hls_264_master.m3u8?t=1782130908",
+     "highlight": true
+    }
+   ],
+   "recommendations": {
+    "total": 474444
+   },
+   "achievements": {
+    "total": 53,
+    "highlighted": [
+     {
+      "icon": "c67946326d7a3cfa190e23c092abcb6203d4b48d.jpg",
+      "localized_name": "宏偉廳堂",
+      "archived": 0,
+      "hidden": 0,
+      "name": "宏偉廳堂",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/892970/c67946326d7a3cfa190e23c092abcb6203d4b48d.jpg"
+     },
+     {
+      "icon": "80dcbeb36d0a38c48b59366c65a510607b2f3976.jpg",
+      "localized_name": "世界之巔",
+      "archived": 0,
+      "hidden": 0,
+      "name": "世界之巔",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/892970/80dcbeb36d0a38c48b59366c65a510607b2f3976.jpg"
+     },
+     {
+      "icon": "df80631637ec0de3c4d7017f3d25a7a0f9c2a4e4.jpg",
+      "localized_name": "你還好嗎？",
+      "archived": 0,
+      "hidden": 0,
+      "name": "你還好嗎？",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/892970/df80631637ec0de3c4d7017f3d25a7a0f9c2a4e4.jpg"
+     },
+     {
+      "icon": "190dea63a8f7f82a7688f764416e7843b36062c2.jpg",
+      "localized_name": "維京人",
+      "archived": 0,
+      "hidden": 0,
+      "name": "維京人",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/892970/190dea63a8f7f82a7688f764416e7843b36062c2.jpg"
+     },
+     {
+      "icon": "7f3f3cd06e079bc2a00507f97429a81c4bda6ddf.jpg",
+      "localized_name": "奧丁很滿意",
+      "archived": 0,
+      "hidden": 0,
+      "name": "奧丁很滿意",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/892970/7f3f3cd06e079bc2a00507f97429a81c4bda6ddf.jpg"
+     },
+     {
+      "icon": "63534b06771e32d358b7f7aa40cadbfcce7e6a6d.jpg",
+      "localized_name": "我已抵達！",
+      "archived": 0,
+      "hidden": 1,
+      "name": "我已抵達！",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/892970/63534b06771e32d358b7f7aa40cadbfcce7e6a6d.jpg"
+     },
+     {
+      "icon": "35b3d161c17d9b09ed002c5d0c5ab243ecc9b8d1.jpg",
+      "localized_name": "眾多死亡的開端",
+      "archived": 0,
+      "hidden": 1,
+      "name": "眾多死亡的開端",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/892970/35b3d161c17d9b09ed002c5d0c5ab243ecc9b8d1.jpg"
+     },
+     {
+      "icon": "7e1cf56c4043d2b2aad0274942709f29acba6f62.jpg",
+      "localized_name": "艾克西爾巨鹿",
+      "archived": 0,
+      "hidden": 1,
+      "name": "艾克西爾巨鹿",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/892970/7e1cf56c4043d2b2aad0274942709f29acba6f62.jpg"
+     },
+     {
+      "icon": "4310afd3ed9fffa67496b56bbe994ac8743ca51c.jpg",
+      "localized_name": "神木長老",
+      "archived": 0,
+      "hidden": 1,
+      "name": "神木長老",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/892970/4310afd3ed9fffa67496b56bbe994ac8743ca51c.jpg"
+     },
+     {
+      "icon": "31b3b3e61e213de6416b931544da4f14f3293323.jpg",
+      "localized_name": "千骸骨魔",
+      "archived": 0,
+      "hidden": 1,
+      "name": "千骸骨魔",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/892970/31b3b3e61e213de6416b931544da4f14f3293323.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2026 年 9 月 9 日"
+   },
+   "support_info": {
+    "url": "https://valheim.com/support",
+    "email": "contact@irongatestudio.se"
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/892970?t=1791544831",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/page_bg_raw.jpg?t=1791544831",
+   "content_descriptors": {
+    "ids": [],
+    "notes": null
+   },
+   "ratings": {
+    "dejus": {
+     "rating": "12",
+     "descriptors": "Violência\r\nNudez",
+     "use_age_gate": "true",
+     "required_age": "12"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "16",
+     "required_age": "16",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Gewalt\nAlkohol / Tabak"
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "15",
+     "required_age": "15",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nKekerasan\nInteraksi Daring"
+    }
+   }
+  }
+ }
+}

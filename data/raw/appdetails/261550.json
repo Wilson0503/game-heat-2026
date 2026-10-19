@@ -1,0 +1,435 @@
+{
+ "261550": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "Mount & Blade II: Bannerlord",
+   "steam_appid": 261550,
+   "required_age": "15",
+   "is_free": false,
+   "dlc": [
+    2927200,
+    2194520,
+    2240110
+   ],
+   "detailed_description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/extras/ec15dba81ad56b9e5802724f688fc580.poster.avif?t=1764252300\" width=616 height=224 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/extras/ec15dba81ad56b9e5802724f688fc580.webm?t=1764252300\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/extras/ec15dba81ad56b9e5802724f688fc580.mp4?t=1764252300\" type=\"video/mp4\"></video></span><br><br>號角響起、鴉群紛飛。被內戰撕成碎片的帝國正面臨境外新生王國的威脅。拔劍披甲、招兵買馬、奔赴卡拉迪亞戰場。贏得榮耀、建立霸權、從舊勢力的灰燼中創建一個新的世界。<br><br>《Mount &amp; Blade II: Bannerlord》是好評如潮的中世紀戰鬥模擬遊戲與角色扮演遊戲《Mount &amp; Blade: Warband》期待已久的續作。<br><br>建立一個與您遊戲風格相配的角色。在巨大的中世紀沙盒遊戲中砥礪前行。探索、掠奪、征服，每輪遊戲都是獨一無二的。<br><br>創立自己的家族。透過組織軍隊、參與政治、貿易、製造武器累積金錢、聲望與榮譽，在卡拉迪亞的貴族圈中闖出名聲。周遊卡拉迪亞，招募志同道合的夥伴並管理您的封地。<br><br>透過沿襲經典《Mount &amp; Blade》風格、基於技能的直觀戰鬥系統在大型即時戰鬥中以第一或第三人稱指揮部隊或親身與您的戰士們並肩作戰。<br><br>在多人PvP（包括排位配對和休閒模式）中與來自世界各地的玩家較量，或者使用Mount &amp; Blade II: Dedicated Server建立自己的伺服器。<br><br>使用《Mount &amp; Blade II: Bannerlord》的各類mod量身打造完全不同的冒險，並透過Steam工作坊與其他人分享您的創意。<br><br>本遊戲由騎砍中文站傾情漢化，支援簡體/繁體中文。",
+   "about_the_game": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/extras/ec15dba81ad56b9e5802724f688fc580.poster.avif?t=1764252300\" width=616 height=224 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/extras/ec15dba81ad56b9e5802724f688fc580.webm?t=1764252300\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/extras/ec15dba81ad56b9e5802724f688fc580.mp4?t=1764252300\" type=\"video/mp4\"></video></span><br><br>號角響起、鴉群紛飛。被內戰撕成碎片的帝國正面臨境外新生王國的威脅。拔劍披甲、招兵買馬、奔赴卡拉迪亞戰場。贏得榮耀、建立霸權、從舊勢力的灰燼中創建一個新的世界。<br><br>《Mount &amp; Blade II: Bannerlord》是好評如潮的中世紀戰鬥模擬遊戲與角色扮演遊戲《Mount &amp; Blade: Warband》期待已久的續作。<br><br>建立一個與您遊戲風格相配的角色。在巨大的中世紀沙盒遊戲中砥礪前行。探索、掠奪、征服，每輪遊戲都是獨一無二的。<br><br>創立自己的家族。透過組織軍隊、參與政治、貿易、製造武器累積金錢、聲望與榮譽，在卡拉迪亞的貴族圈中闖出名聲。周遊卡拉迪亞，招募志同道合的夥伴並管理您的封地。<br><br>透過沿襲經典《Mount &amp; Blade》風格、基於技能的直觀戰鬥系統在大型即時戰鬥中以第一或第三人稱指揮部隊或親身與您的戰士們並肩作戰。<br><br>在多人PvP（包括排位配對和休閒模式）中與來自世界各地的玩家較量，或者使用Mount &amp; Blade II: Dedicated Server建立自己的伺服器。<br><br>使用《Mount &amp; Blade II: Bannerlord》的各類mod量身打造完全不同的冒險，並透過Steam工作坊與其他人分享您的創意。<br><br>本遊戲由騎砍中文站傾情漢化，支援簡體/繁體中文。",
+   "short_description": "策略/動作類角色扮演遊戲。投身中世紀戰場，在巨大的沙盒世界中憑藉外交、智計、貿易與征服讓家族發展茁壯、開疆拓土。召集軍隊奔赴戰場，在大規模即時戰鬥中體驗基於技能的直觀戰鬥系統、與您忠誠的戰士們並肩作戰、邁向勝利。",
+   "supported_languages": "英文<strong>*</strong>, 簡體中文, 土耳其文, 繁體中文, 法文, 義大利文, 日文, 韓文, 波蘭文, 葡萄牙文 - 巴西, 俄文, 西班牙文 - 拉丁美洲, 德文<br><strong>*</strong>具備完整音效支援的語言",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/header.jpg?t=1764252300",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/capsule_231x87.jpg?t=1764252300",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/capsule_184x69.jpg?t=1764252300",
+   "website": "https://www.taleworlds.com/en/Games/Bannerlord",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統 *:</strong> Windows 7 (64-bit only)<br></li><li><strong>處理器:</strong> Intel® Core™ i3-8100 / AMD Ryzen™ 3 1200 / Snapdragon X Elite<br></li><li><strong>記憶體:</strong> 6 GB 記憶體<br></li><li><strong>顯示卡:</strong> Intel® UHD Graphics 630 / NVIDIA® GeForce® GTX 660 2GB / AMD Radeon™ HD 7850 2GB<br></li><li><strong>儲存空間:</strong> 60 GB 可用空間<br></li><li><strong>備註:</strong> Integrated GPUs require additional 2GB of system RAM.</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 10 (64-bit only)<br></li><li><strong>處理器:</strong> Intel® Core™ i5-9600K / AMD Ryzen™ 5 3600X<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA® GeForce® GTX 1060 3GB / AMD Radeon™ RX 580<br></li><li><strong>儲存空間:</strong> 60 GB 可用空間<br></li><li><strong>備註:</strong> </li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "linux_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "legal_notice": "© 2005 - 2024 TaleWorlds Entertainment, Mount & Blade, Bannerlord and related logos are trademarks of TaleWorlds Entertainment. All rights reserved. All other trademarks, logos and copyrights are the property of their respective owners.",
+   "developers": [
+    "TaleWorlds Entertainment"
+   ],
+   "publishers": [
+    "TaleWorlds Entertainment"
+   ],
+   "price_overview": {
+    "currency": "TWD",
+    "initial": 139900,
+    "final": 139900,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "NT$ 1,399"
+   },
+   "packages": [
+    805352,
+    805633
+   ],
+   "package_groups": [
+    {
+     "name": "default",
+     "title": "購買 Mount & Blade II: Bannerlord",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 805352,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "Mount & Blade II: Bannerlord - NT$ 1,399",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 139900
+      },
+      {
+       "packageid": 805633,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "Mount & Blade II: Bannerlord Digital Deluxe - NT$ 1,678",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 167800
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+   },
+   "metacritic": {
+    "score": 77,
+    "url": "https://www.metacritic.com/game/pc/mount-blade-ii-bannerlord?ftag=MCD-06-10aaa1f"
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 49,
+     "description": "玩家對戰"
+    },
+    {
+     "id": 36,
+     "description": "線上玩家對戰"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 29,
+     "description": "Steam 交換卡片"
+    },
+    {
+     "id": 30,
+     "description": "Steam 工作坊"
+    },
+    {
+     "id": 18,
+     "description": "部分控制器支援"
+    },
+    {
+     "id": 23,
+     "description": "Steam 雲端"
+    },
+    {
+     "id": 17,
+     "description": "包含關卡編輯器"
+    },
+    {
+     "id": 42,
+     "description": "在平板上遠端暢玩"
+    },
+    {
+     "id": 62,
+     "description": "親友同享"
+    }
+   ],
+   "genres": [
+    {
+     "id": "1",
+     "description": "動作"
+    },
+    {
+     "id": "23",
+     "description": "獨立製作"
+    },
+    {
+     "id": "3",
+     "description": "角色扮演"
+    },
+    {
+     "id": "28",
+     "description": "模擬"
+    },
+    {
+     "id": "2",
+     "description": "策略"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_569257e92fd31d58a6fe08053de637071b4518d3.600x338.jpg?t=1764252300",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_569257e92fd31d58a6fe08053de637071b4518d3.1920x1080.jpg?t=1764252300"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_9682cf43bf605e9c655c1dbb4b23d1aac73165dc.600x338.jpg?t=1764252300",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_9682cf43bf605e9c655c1dbb4b23d1aac73165dc.1920x1080.jpg?t=1764252300"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_4c9270723717c633c9ec16fa394dab82a071f41c.600x338.jpg?t=1764252300",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_4c9270723717c633c9ec16fa394dab82a071f41c.1920x1080.jpg?t=1764252300"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_1ab88f5c0198a16f75db23af8477811c0996b864.600x338.jpg?t=1764252300",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_1ab88f5c0198a16f75db23af8477811c0996b864.1920x1080.jpg?t=1764252300"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_7858b1826060b9344b35569e027f6441f146e6aa.600x338.jpg?t=1764252300",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_7858b1826060b9344b35569e027f6441f146e6aa.1920x1080.jpg?t=1764252300"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_69922060ef35debd2a1f00060c81c66e4b9bd5a8.600x338.jpg?t=1764252300",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_69922060ef35debd2a1f00060c81c66e4b9bd5a8.1920x1080.jpg?t=1764252300"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_eda4ec26be60bf8a1787db9b37e609e41e42ec21.600x338.jpg?t=1764252300",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_eda4ec26be60bf8a1787db9b37e609e41e42ec21.1920x1080.jpg?t=1764252300"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_2885840eb2e4a2b4a00acb8a8a40baac41b33cfd.600x338.jpg?t=1764252300",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_2885840eb2e4a2b4a00acb8a8a40baac41b33cfd.1920x1080.jpg?t=1764252300"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_9b312093ce3b848156495e39b1e69aa6047f0fda.600x338.jpg?t=1764252300",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_9b312093ce3b848156495e39b1e69aa6047f0fda.1920x1080.jpg?t=1764252300"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_7491c162be633613ff96f34174aff638883de507.600x338.jpg?t=1764252300",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_7491c162be633613ff96f34174aff638883de507.1920x1080.jpg?t=1764252300"
+    }
+   ],
+   "movies": [
+    {
+     "id": 256910718,
+     "name": "Mount & Blade II: Bannerlord Official Release Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256910718/movie.293x165.jpg?t=1666681395",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/261550/504512/476e368d961936646914b97a28cad87bb2e99872/1750497754/dash_av1.mpd?t=1666681395",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/261550/504512/476e368d961936646914b97a28cad87bb2e99872/1750497754/dash_h264.mpd?t=1666681395",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/261550/504512/476e368d961936646914b97a28cad87bb2e99872/1750497754/hls_264_master.m3u8?t=1666681395",
+     "highlight": true
+    },
+    {
+     "id": 256779591,
+     "name": "Mount & Blade II: Bannerlord Early Access Release Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256779591/movie.293x165.jpg?t=1585560419",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/261550/274968/f0e1dd921fda5d327df4ecccf75a50dc47d675e7/1750497750/dash_av1.mpd?t=1585560419",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/261550/274968/f0e1dd921fda5d327df4ecccf75a50dc47d675e7/1750497750/dash_h264.mpd?t=1585560419",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/261550/274968/f0e1dd921fda5d327df4ecccf75a50dc47d675e7/1750497750/hls_264_master.m3u8?t=1585560419",
+     "highlight": true
+    },
+    {
+     "id": 256775637,
+     "name": "Mount & Blade II: Bannerlord Early Access Announcement Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256775637/movie.293x165.jpg?t=1582137057",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/261550/267698/74f24da6ddcf1517789d9a198d457b08591240da/1750497749/dash_av1.mpd?t=1582137057",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/261550/267698/74f24da6ddcf1517789d9a198d457b08591240da/1750497749/dash_h264.mpd?t=1582137057",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/261550/267698/74f24da6ddcf1517789d9a198d457b08591240da/1750497749/hls_264_master.m3u8?t=1582137057",
+     "highlight": true
+    },
+    {
+     "id": 256775636,
+     "name": "Mount & Blade II: Bannerlord E3 2016 Siege Gameplay Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256775636/movie.293x165.jpg?t=1582137063",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/261550/267697/bd751c3d102edd4439c72969df0179d0dee37476/1750497749/dash_av1.mpd?t=1582137063",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/261550/267697/bd751c3d102edd4439c72969df0179d0dee37476/1750497749/dash_h264.mpd?t=1582137063",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/261550/267697/bd751c3d102edd4439c72969df0179d0dee37476/1750497749/hls_264_master.m3u8?t=1582137063",
+     "highlight": true
+    },
+    {
+     "id": 256671098,
+     "name": "Mount & Blade II: Bannerlord Gamescom 2016 Siege Defence Gameplay",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256671098/movie.293x165.jpg?t=1476892937",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/261550/73464/775ab056ba936383f055e0ce6b653fd8d0b23eb4/1750497734/dash_av1.mpd?t=1476892937",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/261550/73464/775ab056ba936383f055e0ce6b653fd8d0b23eb4/1750497734/dash_h264.mpd?t=1476892937",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/261550/73464/775ab056ba936383f055e0ce6b653fd8d0b23eb4/1750497734/hls_264_master.m3u8?t=1476892937",
+     "highlight": true
+    },
+    {
+     "id": 256671404,
+     "name": "Mount & Blade II: Bannerlord E3 2016 Siege Gameplay Extended",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256671404/movie.293x165.jpg?t=1476892950",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/261550/74067/ff8757042466060aac9a36eab692969c58a46cbd/1750497739/dash_av1.mpd?t=1476892950",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/261550/74067/ff8757042466060aac9a36eab692969c58a46cbd/1750497739/dash_h264.mpd?t=1476892950",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/261550/74067/ff8757042466060aac9a36eab692969c58a46cbd/1750497739/hls_264_master.m3u8?t=1476892950",
+     "highlight": true
+    }
+   ],
+   "recommendations": {
+    "total": 232055
+   },
+   "achievements": {
+    "total": 50,
+    "highlighted": [
+     {
+      "icon": "fed9d85fdf31798c48ee01813bfb43d23b87b48e.jpg",
+      "localized_name": "以一當十",
+      "archived": 0,
+      "hidden": 0,
+      "name": "以一當十",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/261550/fed9d85fdf31798c48ee01813bfb43d23b87b48e.jpg"
+     },
+     {
+      "icon": "4b4931582caf118a9451b5cf327264183083fb4e.jpg",
+      "localized_name": "掌上明珠",
+      "archived": 0,
+      "hidden": 0,
+      "name": "掌上明珠",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/261550/4b4931582caf118a9451b5cf327264183083fb4e.jpg"
+     },
+     {
+      "icon": "0bb83e66c0f20e1ff2e1aa1b54bcd1b4e290da34.jpg",
+      "localized_name": "戰旗領主",
+      "archived": 0,
+      "hidden": 0,
+      "name": "戰旗領主",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/261550/0bb83e66c0f20e1ff2e1aa1b54bcd1b4e290da34.jpg"
+     },
+     {
+      "icon": "e79f94e5beb9af164883b626c235d81cd453e52f.jpg",
+      "localized_name": "睚眥必報",
+      "archived": 0,
+      "hidden": 0,
+      "name": "睚眥必報",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/261550/e79f94e5beb9af164883b626c235d81cd453e52f.jpg"
+     },
+     {
+      "icon": "737c74ae2e852c5146c81a318e5215ce4ba5e05e.jpg",
+      "localized_name": "卡拉迪亞屠夫",
+      "archived": 0,
+      "hidden": 0,
+      "name": "卡拉迪亞屠夫",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/261550/737c74ae2e852c5146c81a318e5215ce4ba5e05e.jpg"
+     },
+     {
+      "icon": "3339949e2d44021820fc5251da64c5fbdbefad8f.jpg",
+      "localized_name": "奶油大亨",
+      "archived": 0,
+      "hidden": 0,
+      "name": "奶油大亨",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/261550/3339949e2d44021820fc5251da64c5fbdbefad8f.jpg"
+     },
+     {
+      "icon": "169f04adfe945e9a3294eeef9169fa30872de834.jpg",
+      "localized_name": "落井下石",
+      "archived": 0,
+      "hidden": 0,
+      "name": "落井下石",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/261550/169f04adfe945e9a3294eeef9169fa30872de834.jpg"
+     },
+     {
+      "icon": "50bf693eb478354f4e6af6cff6b26a9c8e0226c9.jpg",
+      "localized_name": "功成名就",
+      "archived": 0,
+      "hidden": 0,
+      "name": "功成名就",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/261550/50bf693eb478354f4e6af6cff6b26a9c8e0226c9.jpg"
+     },
+     {
+      "icon": "2cdadb016765776fce5bb071519fff0ccd7f36ab.jpg",
+      "localized_name": "百步穿楊",
+      "archived": 0,
+      "hidden": 0,
+      "name": "百步穿楊",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/261550/2cdadb016765776fce5bb071519fff0ccd7f36ab.jpg"
+     },
+     {
+      "icon": "b6bf92167c9725c499d25df9c9fce418e5444e66.jpg",
+      "localized_name": "殺人盈野",
+      "archived": 0,
+      "hidden": 0,
+      "name": "殺人盈野",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/261550/b6bf92167c9725c499d25df9c9fce418e5444e66.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2022 年 10 月 25 日"
+   },
+   "support_info": {
+    "url": "https://forums.taleworlds.com/index.php?forums/mount-blade-ii-bannerlord.528/",
+    "email": ""
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/261550?t=1764252300",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/page_bg_raw.jpg?t=1764252300",
+   "content_descriptors": {
+    "ids": [
+     5
+    ],
+    "notes": "This game is set in a fictional medieval world where the player assumes the role of an adventurer. The player engages in fights and battles and may kill or dispatch enemies and possibly horses using swords, axes, bows and other melee and ranged weapons. The game shows blood effects and rag-doll integrated death animations. Player can purchase wine and ale, and consume these in taverns. Game text includes moderate crude language such as bastard, piss, etc."
+   },
+   "ratings": {
+    "dejus": {
+     "rating": "14",
+     "descriptors": "Violência",
+     "use_age_gate": "true",
+     "required_age": "14"
+    },
+    "kgrb": {
+     "rating": "19",
+     "descriptors": "폭력성\r\n사행성",
+     "use_age_gate": "true",
+     "required_age": "19"
+    },
+    "pegi": {
+     "rating": "16",
+     "descriptors": "Violence"
+    },
+    "usk": {
+     "rating": "12"
+    },
+    "oflc": {
+     "rating": "m",
+     "descriptors": "Mature themes and violence, online interactivity"
+    },
+    "cero": {
+     "rating": "z",
+     "descriptors": "「殺傷」\r\nアイ",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "csrr": {
+     "rating": "C15",
+     "descriptors": "暴力,菸酒,不當言語,牌\r\n類及益智娛樂",
+     "required_age": "15",
+     "use_age_gate": "true"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "16",
+     "required_age": "16",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Drastische Gewalt\nAlkohol / Tabak\nSexuelle Andeutungen"
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "18",
+     "required_age": "18",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nPenampilan Tokoh\nKekerasan"
+    }
+   }
+  }
+ }
+}

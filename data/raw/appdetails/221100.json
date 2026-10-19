@@ -1,0 +1,507 @@
+{
+ "221100": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "DayZ",
+   "steam_appid": 221100,
+   "required_age": 0,
+   "is_free": false,
+   "dlc": [
+    3816030,
+    2968040,
+    2622430
+   ],
+   "detailed_description": "<h1>DAYZ COOL &amp; DELUXE EDITIONS</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/0942283e97684adee8c7508e56e45a73.avif?t=1792059745\" width=1230 height=692 /></span></p></p><br><h1>關於此遊戲</h1><p class=\"bb_paragraph\" ><strong>這是屬於你的故事</strong></p><p class=\"bb_paragraph\" >《DayZ》是一款主打生存的硬核多人生存沙盒遊戲。置身於末日後的荒涼廢土，活下去就是你唯一的目標。這裡沒有任何任務或指令。面對環境的變幻莫測、被感染者的威脅，以及與其他倖存者之間的爾虞我詐，所有挑戰交織碰撞，終將勾勒出獨屬於你的故事。每一個抉擇，都掌握在你手中。這就是你終極的生存故事。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/547e4e65d26a14f427d51313c3a238f3.poster.avif?t=1792059745\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/547e4e65d26a14f427d51313c3a238f3.webm?t=1792059745\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/547e4e65d26a14f427d51313c3a238f3.mp4?t=1792059745\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>沉浸感至上</strong></p><p class=\"bb_paragraph\" >在這裡，你看不到任何地圖標記、小地圖或導航 HUD 介面。從疾病、免疫力到飢餓與體溫，所有資訊都只會透過極簡且可自由切換的 HUD 呈現；更關鍵的是，你必須透過自身的觀察來判斷當下的狀況。為了活下去，你必須親自搜尋每一件工具、每一份口糧與每一個裝備。你的生死存亡，取決於對環境的觀察、對角色狀態的監控，以及深謀遠慮的搜刮策略。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/94503e05acba1a9f71048960b4e79ea5.poster.avif?t=1792059745\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/94503e05acba1a9f71048960b4e79ea5.webm?t=1792059745\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/94503e05acba1a9f71048960b4e79ea5.mp4?t=1792059745\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>兩大探索地圖</strong></p><p class=\"bb_paragraph\" >《DayZ》的故事舞台設定在虛構國家，其場景設計更是極致追求寫實擬真的效果。遊戲本體包含兩張風格迥異的地圖：傳奇的「黑俄羅斯」，以及神秘林地「里沃尼亞」。 </p><p class=\"bb_paragraph\" >黑俄羅斯擁有一片廣袤的 230 平方公里、充滿前蘇聯風貌的遼闊地景，始終是《DayZ》最經典的體驗。這張備受社群喜愛的地圖由手工精心打造，靈感源自捷克共和國北波希米亞地區的真實場景。 </p><p class=\"bb_paragraph\" >里沃尼亞則帶來了截然不同的挑戰。這張 168 平方公里的地圖擁有茂密的森林，乍看之下似乎較為宜居，卻切莫被這般表像所蒙蔽。在平靜的表象之下，暗藏著一個深層的秘密：即使是對最資深的玩家而言，這也將是一場嶄新的生存考驗。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/91a0631f078f4b8a1fecbeeec78d2b4d.poster.avif?t=1792059745\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/91a0631f078f4b8a1fecbeeec78d2b4d.webm?t=1792059745\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/91a0631f078f4b8a1fecbeeec78d2b4d.mp4?t=1792059745\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>活下去、活下去、活下去</strong></p><p class=\"bb_paragraph\" >萬物皆欲置你於死地。危險潛伏於明處與暗影之中，從一見即撲的狂暴感染者，到在林間徘徊的惡狼與巨熊，殺機無所不在。但威脅不僅於此。你還必須對抗各種疾病，學會透過觀察自身狀態來診斷病症，並找出必要的治療手段。 </p><p class=\"bb_paragraph\" >物資與裝備相當稀缺，但製作系統能幫你彌補不足。縫補破損的衣物、生火烹煮口糧、製作簡易工具，並仔細搜查那些寂靜卻暗藏凶險的村莊與城市。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/3d0ff849bfc6ce870c77126b91092766.poster.avif?t=1792059745\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/3d0ff849bfc6ce870c77126b91092766.webm?t=1792059745\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/3d0ff849bfc6ce870c77126b91092766.mp4?t=1792059745\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>是敵是友：由你決定</strong></p><p class=\"bb_paragraph\" >請記住，隨時都有多達 60 名玩家與你一同求生。他們可能是你必須掃除的障礙，也可能是值得珍惜的援手，又或是介於兩者之間的任何存在。你可以透過語音聊天大喊「友軍！」，並做出示好的表情動作。但也許下一秒，你會發現自己被人用槍口指著，遭到五花大綁，嘴裡還塞著破布。又或者，你會遇上一位友善的老手伸出援手，從此結識一位終生摯友。在《DayZ》的世界裡，可能性無窮無盡。每一次遭遇都是獨一無二的體驗。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/be06ba970eb208d70c798eccd32fa5cd.poster.avif?t=1792059745\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/be06ba970eb208d70c798eccd32fa5cd.webm?t=1792059745\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/be06ba970eb208d70c798eccd32fa5cd.mp4?t=1792059745\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>生存之外</strong></p><p class=\"bb_paragraph\" >建立基地、開墾農場、狩獵、釣魚，並設置陷阱來保護你的領地。或是修好一輛轎車或卡車，與好友並肩馳騁于廢土之上。前往列車事故、廢棄軍用車隊、PvP 熱點以及各類重要地標等動態事件區域，搜尋高階物資。你甚至還能找到全套生化防護服，以便進入危險的污染區域。這裡有著龐大的軍火庫等你探索，包含超過 50 種槍械，以及各自專屬的彈匣與彈藥。 </p><p class=\"bb_paragraph\" >這絕非易事。而且每一段人生，都將截然不同。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/2b72b7d02f49d442031b9eaf458846e8.poster.avif?t=1792059745\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/2b72b7d02f49d442031b9eaf458846e8.webm?t=1792059745\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/2b72b7d02f49d442031b9eaf458846e8.mp4?t=1792059745\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>加入《DayZ》社群</strong></p><p class=\"bb_paragraph\" >「這就是《DayZ》，這是屬於你的故事！」這句標語不單只是設計理念，更深植於遊戲的靈魂之中。作為一款源自《DayZ》社群的作品，我們始終高度重視模組創作者與私人伺服器管理者，並將為其提供持續的支援。 </p><p class=\"bb_paragraph\" >探索這個蓬勃發展的生態系統，這裡有數以千計的模組與社群伺服器，讓你能量身打造專屬於你的遊戲體驗。您可以在遊戲啟動器中輕鬆管理所有內容。 </p><p class=\"bb_paragraph\" >除了遊戲本身之外，還有由內容創作者、活動主辦人與社群領袖組成的活躍網絡，不斷打造出各種娛樂與互動的新花樣。你的故事，正等待著你去譜寫。</p><p class=\"bb_paragraph\" ><strong>十年淬鍊，持續進化</strong></p><p class=\"bb_paragraph\" >《DayZ》團隊與遊戲一同成長，十多年來持續致力於提升遊戲的穩定性、豐富內容以及增加新功能。這份長期的支援造就了一個更豐富且穩健的社群，而今天，你也能加入《DayZ》的行列，親自感受這份體驗。</p>",
+   "about_the_game": "<p class=\"bb_paragraph\" ><strong>這是屬於你的故事</strong></p><p class=\"bb_paragraph\" >《DayZ》是一款主打生存的硬核多人生存沙盒遊戲。置身於末日後的荒涼廢土，活下去就是你唯一的目標。這裡沒有任何任務或指令。面對環境的變幻莫測、被感染者的威脅，以及與其他倖存者之間的爾虞我詐，所有挑戰交織碰撞，終將勾勒出獨屬於你的故事。每一個抉擇，都掌握在你手中。這就是你終極的生存故事。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/547e4e65d26a14f427d51313c3a238f3.poster.avif?t=1792059745\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/547e4e65d26a14f427d51313c3a238f3.webm?t=1792059745\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/547e4e65d26a14f427d51313c3a238f3.mp4?t=1792059745\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>沉浸感至上</strong></p><p class=\"bb_paragraph\" >在這裡，你看不到任何地圖標記、小地圖或導航 HUD 介面。從疾病、免疫力到飢餓與體溫，所有資訊都只會透過極簡且可自由切換的 HUD 呈現；更關鍵的是，你必須透過自身的觀察來判斷當下的狀況。為了活下去，你必須親自搜尋每一件工具、每一份口糧與每一個裝備。你的生死存亡，取決於對環境的觀察、對角色狀態的監控，以及深謀遠慮的搜刮策略。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/94503e05acba1a9f71048960b4e79ea5.poster.avif?t=1792059745\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/94503e05acba1a9f71048960b4e79ea5.webm?t=1792059745\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/94503e05acba1a9f71048960b4e79ea5.mp4?t=1792059745\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>兩大探索地圖</strong></p><p class=\"bb_paragraph\" >《DayZ》的故事舞台設定在虛構國家，其場景設計更是極致追求寫實擬真的效果。遊戲本體包含兩張風格迥異的地圖：傳奇的「黑俄羅斯」，以及神秘林地「里沃尼亞」。 </p><p class=\"bb_paragraph\" >黑俄羅斯擁有一片廣袤的 230 平方公里、充滿前蘇聯風貌的遼闊地景，始終是《DayZ》最經典的體驗。這張備受社群喜愛的地圖由手工精心打造，靈感源自捷克共和國北波希米亞地區的真實場景。 </p><p class=\"bb_paragraph\" >里沃尼亞則帶來了截然不同的挑戰。這張 168 平方公里的地圖擁有茂密的森林，乍看之下似乎較為宜居，卻切莫被這般表像所蒙蔽。在平靜的表象之下，暗藏著一個深層的秘密：即使是對最資深的玩家而言，這也將是一場嶄新的生存考驗。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/91a0631f078f4b8a1fecbeeec78d2b4d.poster.avif?t=1792059745\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/91a0631f078f4b8a1fecbeeec78d2b4d.webm?t=1792059745\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/91a0631f078f4b8a1fecbeeec78d2b4d.mp4?t=1792059745\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>活下去、活下去、活下去</strong></p><p class=\"bb_paragraph\" >萬物皆欲置你於死地。危險潛伏於明處與暗影之中，從一見即撲的狂暴感染者，到在林間徘徊的惡狼與巨熊，殺機無所不在。但威脅不僅於此。你還必須對抗各種疾病，學會透過觀察自身狀態來診斷病症，並找出必要的治療手段。 </p><p class=\"bb_paragraph\" >物資與裝備相當稀缺，但製作系統能幫你彌補不足。縫補破損的衣物、生火烹煮口糧、製作簡易工具，並仔細搜查那些寂靜卻暗藏凶險的村莊與城市。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/3d0ff849bfc6ce870c77126b91092766.poster.avif?t=1792059745\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/3d0ff849bfc6ce870c77126b91092766.webm?t=1792059745\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/3d0ff849bfc6ce870c77126b91092766.mp4?t=1792059745\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>是敵是友：由你決定</strong></p><p class=\"bb_paragraph\" >請記住，隨時都有多達 60 名玩家與你一同求生。他們可能是你必須掃除的障礙，也可能是值得珍惜的援手，又或是介於兩者之間的任何存在。你可以透過語音聊天大喊「友軍！」，並做出示好的表情動作。但也許下一秒，你會發現自己被人用槍口指著，遭到五花大綁，嘴裡還塞著破布。又或者，你會遇上一位友善的老手伸出援手，從此結識一位終生摯友。在《DayZ》的世界裡，可能性無窮無盡。每一次遭遇都是獨一無二的體驗。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/be06ba970eb208d70c798eccd32fa5cd.poster.avif?t=1792059745\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/be06ba970eb208d70c798eccd32fa5cd.webm?t=1792059745\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/be06ba970eb208d70c798eccd32fa5cd.mp4?t=1792059745\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>生存之外</strong></p><p class=\"bb_paragraph\" >建立基地、開墾農場、狩獵、釣魚，並設置陷阱來保護你的領地。或是修好一輛轎車或卡車，與好友並肩馳騁于廢土之上。前往列車事故、廢棄軍用車隊、PvP 熱點以及各類重要地標等動態事件區域，搜尋高階物資。你甚至還能找到全套生化防護服，以便進入危險的污染區域。這裡有著龐大的軍火庫等你探索，包含超過 50 種槍械，以及各自專屬的彈匣與彈藥。 </p><p class=\"bb_paragraph\" >這絕非易事。而且每一段人生，都將截然不同。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/2b72b7d02f49d442031b9eaf458846e8.poster.avif?t=1792059745\" width=1170 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/2b72b7d02f49d442031b9eaf458846e8.webm?t=1792059745\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/extras/2b72b7d02f49d442031b9eaf458846e8.mp4?t=1792059745\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>加入《DayZ》社群</strong></p><p class=\"bb_paragraph\" >「這就是《DayZ》，這是屬於你的故事！」這句標語不單只是設計理念，更深植於遊戲的靈魂之中。作為一款源自《DayZ》社群的作品，我們始終高度重視模組創作者與私人伺服器管理者，並將為其提供持續的支援。 </p><p class=\"bb_paragraph\" >探索這個蓬勃發展的生態系統，這裡有數以千計的模組與社群伺服器，讓你能量身打造專屬於你的遊戲體驗。您可以在遊戲啟動器中輕鬆管理所有內容。 </p><p class=\"bb_paragraph\" >除了遊戲本身之外，還有由內容創作者、活動主辦人與社群領袖組成的活躍網絡，不斷打造出各種娛樂與互動的新花樣。你的故事，正等待著你去譜寫。</p><p class=\"bb_paragraph\" ><strong>十年淬鍊，持續進化</strong></p><p class=\"bb_paragraph\" >《DayZ》團隊與遊戲一同成長，十多年來持續致力於提升遊戲的穩定性、豐富內容以及增加新功能。這份長期的支援造就了一個更豐富且穩健的社群，而今天，你也能加入《DayZ》的行列，親自感受這份體驗。</p>",
+   "short_description": "你能在殘酷的後末日世界中生存多久？這片土地遍地都是受感染的「殭屍」，你必須和其倖存者展開競爭，爭奪有限的資源。你會和陌生人一起組隊合作？還是選擇成為一名孤狼，以避免遭到背叛？這是《DayZ》－－這是你的故事。",
+   "supported_languages": "英文, 法文, 義大利文, 德文, 西班牙文 - 西班牙, 捷克文, 俄文, 簡體中文, 繁體中文, 日文, 波蘭文, 葡萄牙文 - 巴西",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg?t=1792059745",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/capsule_231x87.jpg?t=1792059745",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/capsule_184x69.jpg?t=1792059745",
+   "website": "https://www.dayz.com",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 10 64-bit<br></li><li><strong>處理器:</strong> Intel Core i5-4430 or AMD Ryzen 5 2600 Six-Core<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA GeForce GTX 760 or AMD R9 270X<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>儲存空間:</strong> 25 GB 可用空間<br></li><li><strong>音效卡:</strong> DirectX®-compatible<br></li><li><strong>備註:</strong> Internet connection</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 10 / 11 64-bit<br></li><li><strong>處理器:</strong> Intel Core i5-6600K or AMD R5 1600X<br></li><li><strong>記憶體:</strong> 12 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA GeForce GTX 1060 or AMD RX 580<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>儲存空間:</strong> 30 GB 可用空間<br></li><li><strong>音效卡:</strong> DirectX®-compatible<br></li><li><strong>備註:</strong> Internet connection</li></ul>"
+   },
+   "mac_requirements": [],
+   "linux_requirements": [],
+   "legal_notice": "Copyright © 2021 BOHEMIA INTERACTIVE a.s. All Rights Reserved. DAYZ® and BOHEMIA INTERACTIVE® are registered trade marks of BOHEMIA INTERACTIVE a.s.<br />\r\n<br />\r\nThis software product includes BattlEye™ anti-cheat technology © 2021 BattlEye Innovations e.K.. All rights reserved.",
+   "developers": [
+    "Bohemia Interactive"
+   ],
+   "publishers": [
+    "Bohemia Interactive"
+   ],
+   "price_overview": {
+    "currency": "TWD",
+    "initial": 149900,
+    "final": 149900,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "NT$ 1,499"
+   },
+   "packages": [
+    35220,
+    1072570,
+    1174595
+   ],
+   "package_groups": [
+    {
+     "name": "default",
+     "title": "購買 DayZ",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 35220,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "DayZ - NT$ 1,499",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 149900
+      },
+      {
+       "packageid": 1072570,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "DayZ Deluxe Edition - NT$ 1,799",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 179900
+      },
+      {
+       "packageid": 1174595,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "DayZ Cool Edition - NT$ 2,099",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 209900
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+   },
+   "categories": [
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 20,
+     "description": "大型多人線上"
+    },
+    {
+     "id": 49,
+     "description": "玩家對戰"
+    },
+    {
+     "id": 36,
+     "description": "線上玩家對戰"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 29,
+     "description": "Steam 交換卡片"
+    },
+    {
+     "id": 30,
+     "description": "Steam 工作坊"
+    },
+    {
+     "id": 23,
+     "description": "Steam 雲端"
+    },
+    {
+     "id": 8,
+     "description": "具有 Valve 防作弊系統"
+    }
+   ],
+   "genres": [
+    {
+     "id": "1",
+     "description": "動作"
+    },
+    {
+     "id": "25",
+     "description": "冒險"
+    },
+    {
+     "id": "29",
+     "description": "大型多人連線"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_bf0e5d5538d95a1cb943a7963489ba4df2782942.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_bf0e5d5538d95a1cb943a7963489ba4df2782942.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_4b71f0ac633c88e8af8de1c4eec0b5b263f989cc.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_4b71f0ac633c88e8af8de1c4eec0b5b263f989cc.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_0487147f80e9350d9c655deb7f3d25b3876a1958.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_0487147f80e9350d9c655deb7f3d25b3876a1958.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_06f0e97dd31b322d38dfd137b268d793ff62f86f.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_06f0e97dd31b322d38dfd137b268d793ff62f86f.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_9517bb26b6811f70b5b19ece4bce3e90452378d3.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_9517bb26b6811f70b5b19ece4bce3e90452378d3.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_54729794426ffcfb74cb90176edd80b2225eb4fc.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_54729794426ffcfb74cb90176edd80b2225eb4fc.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_476f76f47921785509466357004a1c0d7b50d9f6.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_476f76f47921785509466357004a1c0d7b50d9f6.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_430c62f7756548725429ec13d025dc8a1db70049.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_430c62f7756548725429ec13d025dc8a1db70049.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_6b8e777e93caa0a8f87fd41c8c33d0757cec4e3f.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_6b8e777e93caa0a8f87fd41c8c33d0757cec4e3f.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_64c9f8fe80b71d0a0454835dc85e9e3f682d23b3.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_64c9f8fe80b71d0a0454835dc85e9e3f682d23b3.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 10,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_6cd9e955be805c9c55a95540c325dd74493cc557.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_6cd9e955be805c9c55a95540c325dd74493cc557.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 11,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_5415aa4e40aa183e1bdb2e823a014003333dcc5f.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_5415aa4e40aa183e1bdb2e823a014003333dcc5f.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 12,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_c51e9201225543afd579cd840449082ed61e2497.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_c51e9201225543afd579cd840449082ed61e2497.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 13,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_7419b3ce729dbacedb9e0d7c8e07310ffbdc3f27.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_7419b3ce729dbacedb9e0d7c8e07310ffbdc3f27.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 14,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_503fc7c735fdffe209beff287718be3a13ac0257.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_503fc7c735fdffe209beff287718be3a13ac0257.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 15,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_b5cc30d39cd8338015d18c91a652e0a265ac3003.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_b5cc30d39cd8338015d18c91a652e0a265ac3003.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 16,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_38409876cd91b4946ce6b9450024df0bedf4347a.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_38409876cd91b4946ce6b9450024df0bedf4347a.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 17,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_8280fd5f119096bcdda930bc4d0bb6c80abe7358.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_8280fd5f119096bcdda930bc4d0bb6c80abe7358.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 18,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_dbfbfca0515cf9ad74a9ae8ad615169c54da3cf1.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_dbfbfca0515cf9ad74a9ae8ad615169c54da3cf1.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 19,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_6e2dee07a908f32e116ac48b27e1e3420bee82ce.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_6e2dee07a908f32e116ac48b27e1e3420bee82ce.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 20,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_ab2f77712949173b80e72be8dda9cc8c5bd9d835.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_ab2f77712949173b80e72be8dda9cc8c5bd9d835.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 21,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_e106890554f0871e8cb0245393c26814cb78118d.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_e106890554f0871e8cb0245393c26814cb78118d.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 22,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_2ff624b9eb0dc9ca8d305a333ddb1028aa3a63b2.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_2ff624b9eb0dc9ca8d305a333ddb1028aa3a63b2.1920x1080.jpg?t=1792059745"
+    },
+    {
+     "id": 23,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_be988f1e5348389ca072a60cbcd74ea68bdca855.600x338.jpg?t=1792059745",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/ss_be988f1e5348389ca072a60cbcd74ea68bdca855.1920x1080.jpg?t=1792059745"
+    }
+   ],
+   "movies": [
+    {
+     "id": 257026030,
+     "name": "DayZReduxFinal",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257026030/movie.293x165.jpg?t=1716813072",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/221100/705385/8e5a282248273dbe81eb27e48309ce3989d5d5d0/1750481651/dash_av1.mpd?t=1716813072",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/221100/705385/8e5a282248273dbe81eb27e48309ce3989d5d5d0/1750481651/dash_h264.mpd?t=1716813072",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/221100/705385/8e5a282248273dbe81eb27e48309ce3989d5d5d0/1750481651/hls_264_master.m3u8?t=1716813072",
+     "highlight": true
+    },
+    {
+     "id": 256790906,
+     "name": "DayZ Final Trailer ESRB",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256790906/movie.293x165.jpg?t=1593118262",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/221100/295006/72499e85db67a883394a70ee674d2ef754884882/1750481645/dash_av1.mpd?t=1593118262",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/221100/295006/72499e85db67a883394a70ee674d2ef754884882/1750481645/dash_h264.mpd?t=1593118262",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/221100/295006/72499e85db67a883394a70ee674d2ef754884882/1750481645/hls_264_master.m3u8?t=1593118262",
+     "highlight": true
+    },
+    {
+     "id": 256754405,
+     "name": "DayZ Gameplay Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256754405/movie.293x165.jpg?t=1577825105",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/221100/229881/e97c55c1bb25273deb023321759608e79ca668db/1750481640/dash_av1.mpd?t=1577825105",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/221100/229881/e97c55c1bb25273deb023321759608e79ca668db/1750481640/dash_h264.mpd?t=1577825105",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/221100/229881/e97c55c1bb25273deb023321759608e79ca668db/1750481640/hls_264_master.m3u8?t=1577825105",
+     "highlight": true
+    },
+    {
+     "id": 256734797,
+     "name": "DayZ Beta Launch Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256734797/movie.293x165.jpg?t=1577825130",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/221100/194705/da1449ef24ebe11944cbda0ac28084ac2c4733b2/1750481631/dash_av1.mpd?t=1577825130",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/221100/194705/da1449ef24ebe11944cbda0ac28084ac2c4733b2/1750481631/dash_h264.mpd?t=1577825130",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/221100/194705/da1449ef24ebe11944cbda0ac28084ac2c4733b2/1750481631/hls_264_master.m3u8?t=1577825130",
+     "highlight": true
+    }
+   ],
+   "recommendations": {
+    "total": 389562
+   },
+   "achievements": {
+    "total": 13,
+    "highlighted": [
+     {
+      "icon": "421a04478fea3e23e31bf6eaf6ab013548c421ab.jpg",
+      "localized_name": "口腹之慾",
+      "archived": 0,
+      "hidden": 0,
+      "name": "口腹之慾",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/221100/421a04478fea3e23e31bf6eaf6ab013548c421ab.jpg"
+     },
+     {
+      "icon": "5774c79f9791165844b3b301dc6101864373305b.jpg",
+      "localized_name": "整裝待發",
+      "archived": 0,
+      "hidden": 0,
+      "name": "整裝待發",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/221100/5774c79f9791165844b3b301dc6101864373305b.jpg"
+     },
+     {
+      "icon": "6e6f90964daf90b48be3c3bcb9ab0dfb3043c012.jpg",
+      "localized_name": "悲天憫人",
+      "archived": 0,
+      "hidden": 0,
+      "name": "悲天憫人",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/221100/6e6f90964daf90b48be3c3bcb9ab0dfb3043c012.jpg"
+     },
+     {
+      "icon": "2fc0c1726b1e125139e52d1785623686d8171c43.jpg",
+      "localized_name": "野戰廚師",
+      "archived": 0,
+      "hidden": 0,
+      "name": "野戰廚師",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/221100/2fc0c1726b1e125139e52d1785623686d8171c43.jpg"
+     },
+     {
+      "icon": "01b253f506175f7385acb54263c8e29463c0dffe.jpg",
+      "localized_name": "已知用火",
+      "archived": 0,
+      "hidden": 0,
+      "name": "已知用火",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/221100/01b253f506175f7385acb54263c8e29463c0dffe.jpg"
+     },
+     {
+      "icon": "51c1bad3aebace0c26b18cb24ec11f9c0ee913a5.jpg",
+      "localized_name": "吹彈可破",
+      "archived": 0,
+      "hidden": 0,
+      "name": "吹彈可破",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/221100/51c1bad3aebace0c26b18cb24ec11f9c0ee913a5.jpg"
+     },
+     {
+      "icon": "3d5b450d9fffdf38100c8db557a9dd33661b9841.jpg",
+      "localized_name": "自然本能",
+      "archived": 0,
+      "hidden": 0,
+      "name": "自然本能",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/221100/3d5b450d9fffdf38100c8db557a9dd33661b9841.jpg"
+     },
+     {
+      "icon": "d0850331ea7745c163e8fbd381077a8600e730ac.jpg",
+      "localized_name": "射手",
+      "archived": 0,
+      "hidden": 0,
+      "name": "射手",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/221100/d0850331ea7745c163e8fbd381077a8600e730ac.jpg"
+     },
+     {
+      "icon": "c5566ebbaa445b473e555fecb77e6fe8e3318b2b.jpg",
+      "localized_name": "安撫",
+      "archived": 0,
+      "hidden": 0,
+      "name": "安撫",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/221100/c5566ebbaa445b473e555fecb77e6fe8e3318b2b.jpg"
+     },
+     {
+      "icon": "73251bf5eb582d49e288c53c340ed9a2f5283275.jpg",
+      "localized_name": "治療全世界",
+      "archived": 0,
+      "hidden": 0,
+      "name": "治療全世界",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/221100/73251bf5eb582d49e288c53c340ed9a2f5283275.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2018 年 12 月 13 日"
+   },
+   "support_info": {
+    "url": "https://forums.dayz.com/",
+    "email": "support@bohemia.net"
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/221100?t=1792059745",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/page_bg_raw.jpg?t=1792059745",
+   "content_descriptors": {
+    "ids": [
+     2,
+     5
+    ],
+    "notes": "This game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content\r\n\r\nDayZ is a multiplayer-focused sandbox game. Other players might behave unpredictably and impact the game experience significantly. Voice chat and text chat can be disabled from the in-game options menu."
+   },
+   "ratings": {
+    "esrb": {
+     "use_age_gate": "true",
+     "required_age": "17",
+     "rating": "m",
+     "descriptors": "Intense Violence\r\nBlood"
+    },
+    "pegi": {
+     "rating": "18",
+     "descriptors": "Violence",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "bbfc": {
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "usk": {
+     "use_age_gate": "true",
+     "required_age": "18",
+     "rating": "18"
+    },
+    "oflc": {
+     "use_age_gate": "true",
+     "required_age": "15",
+     "rating": "ma15",
+     "descriptors": "Strong themes and violence\r\nOnline interactivity"
+    },
+    "nzoflc": {
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "cero": {
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "kgrb": {
+     "use_age_gate": "true",
+     "required_age": "18",
+     "rating": "18",
+     "descriptors": "Expression of excessive violence\r\nExcessive vulgar, profanity and swear words\r\nDirect drug expression"
+    },
+    "dejus": {
+     "rating_generated": "1",
+     "rating": "18",
+     "required_age": "18",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Violência Extrema\nTemas sensíveis\nDrogas lícitas"
+    },
+    "mda": {
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "fpb": {
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "csrr": {
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "crl": {
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "18",
+     "required_age": "18",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Drastische Gewalt\nAlkohol / Tabak"
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "18",
+     "required_age": "18",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Kekerasan\nRokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nInteraksi Daring"
+    }
+   }
+  }
+ }
+}

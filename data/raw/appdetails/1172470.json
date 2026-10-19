@@ -1,0 +1,347 @@
+{
+ "1172470": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "《Apex 英雄》",
+   "steam_appid": 1172470,
+   "required_age": 0,
+   "is_free": true,
+   "controller_support": "full",
+   "detailed_description": "<h1>Apex 英雄：諸神烙印</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/extras/917c92fe8fd0fdbac35b2c45eb68bdf1.avif?t=1790164440\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/extras_big/917c92fe8fd0fdbac35b2c45eb68bdf1.avif?t=1790164440 width=1560 height=1986 /></span><br></p><br><h1>關於此遊戲</h1>在《Apex 英雄》中和你的角色一起爭霸，這是一款免費遊玩*的英雄射擊遊戲，其中擁有強大技能的傳說級角色將在戰場上一起組隊合作來在邊境上取得名聲與財富。<br><br>在這個超越大逃殺體驗的殘破而紛亂的世界中，掌握不斷增加的多種英雄、精深的戰術小隊遊戲和大膽的創新。歡迎來到新一代的英雄射擊遊戲。<br><br><strong>重點特色：</strong><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/extras/3f07b48209603a1a8bb888bb68790a1b.avif?t=1790164440\" width=610 height=2884 /></span><br><br>此遊戲包含可選的遊戲內虛擬點數購買，可用於獲取遊戲內虛擬物品，包括隨機選擇的虛擬遊戲內物品。",
+   "about_the_game": "在《Apex 英雄》中和你的角色一起爭霸，這是一款免費遊玩*的英雄射擊遊戲，其中擁有強大技能的傳說級角色將在戰場上一起組隊合作來在邊境上取得名聲與財富。<br><br>在這個超越大逃殺體驗的殘破而紛亂的世界中，掌握不斷增加的多種英雄、精深的戰術小隊遊戲和大膽的創新。歡迎來到新一代的英雄射擊遊戲。<br><br><strong>重點特色：</strong><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/extras/3f07b48209603a1a8bb888bb68790a1b.avif?t=1790164440\" width=610 height=2884 /></span><br><br>此遊戲包含可選的遊戲內虛擬點數購買，可用於獲取遊戲內虛擬物品，包括隨機選擇的虛擬遊戲內物品。",
+   "short_description": "《Apex 英雄》是一款由 Respawn Entertainment 打造的獲獎免費英雄射擊遊戲。掌握一系列不斷增加且擁有強大技能的傳說級角色，並體驗戰略性小隊玩法和新一代英雄射擊與大逃殺遊戲中的創新玩法。",
+   "supported_languages": "英文<strong>*</strong>, 法文<strong>*</strong>, 義大利文<strong>*</strong>, 德文<strong>*</strong>, 西班牙文 - 西班牙<strong>*</strong>, 日文<strong>*</strong>, 韓文<strong>*</strong>, 波蘭文<strong>*</strong>, 葡萄牙文 - 巴西, 俄文<strong>*</strong>, 簡體中文<strong>*</strong>, 繁體中文, 西班牙文 - 拉丁美洲, 阿拉伯文<br><strong>*</strong>具備完整音效支援的語言",
+   "reviews": "“The champion of Battle Royales.”<br>9/10 – GameSpot<br><br>“The best Battle Royale game.”<br>5/5 – GamesRadar+<br><br>“Free, friendly, and consistently fun.  It's the best Battle Royale game available today.”<br>93/100 – PC Gamer<br>",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6cf04767652d703b6050da84b82cfb1194258d7d/header.jpg?t=1790164440",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/9d25b2de9ae52a1ec06797daeaf700feba1459cc/capsule_231x87.jpg?t=1790164440",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/9d25b2de9ae52a1ec06797daeaf700feba1459cc/capsule_184x69.jpg?t=1790164440",
+   "website": "https://www.ea.com/games/apex-legends",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> 64-bit Windows 10<br></li><li><strong>處理器:</strong> AMD FX 4350 or Equivalent, Intel Core i3 6300 or Equivalent<br></li><li><strong>記憶體:</strong> 6 GB 記憶體<br></li><li><strong>顯示卡:</strong> AMD Radeon™ HD 7790 (2 GB), NVIDIA GeForce® GTX 950<br></li><li><strong>DirectX:</strong> 版本：12<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 75 GB 可用空間<br></li><li><strong>備註:</strong> ~3.8GB for 1 localized language</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> 64-bit Windows 10<br></li><li><strong>處理器:</strong> Ryzen 5 CPU or Equivalent<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> AMD Radeon™ R9 290, NVIDIA GeForce® GTX 970<br></li><li><strong>DirectX:</strong> 版本：12<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 75 GB 可用空間<br></li><li><strong>備註:</strong> ~3.8GB for 1 localized language</li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "linux_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "legal_notice": "僅限德國、奧地利和瑞士： 適用 EA 的隱私與COOKIE政策 (privacy.ea.com/de)。<br />\r\n其他歐盟國家、英國、挪威、冰島、安道爾、波士尼亞和黑塞哥維那、喬治亞、科索沃、馬其頓 (FYROM)、摩爾多瓦、摩納哥、蒙特內哥羅、聖馬利諾、塞爾維亞、土耳其、梵蒂岡城（聖座）、列支敦斯登： 必須認可 EA 的隱私與COOKIE政策 (privacy.ea.com/tc) 才能遊玩。<br />\r\n所有其他地區居民： 必須接受 EA 隱私與COOKIE政策 (privacy.ea.com/tc) 才能遊玩。<br />\r\n<br />\r\n必須要有網際網路連線；EA 帳號；STEAM 帳號；接受 EA 使用者協議 (terms.ea.com/tc) 才能遊玩。必須連結 EA 帳號和 STEAM 帳號才能遊玩；EA 將與 STEAM 分享您的帳號 ID 和個人遊戲與遊玩記錄，以驗證您的購買和/或退款請求。只能使用一個 EA 帳號和 STEAM 帳號來存取軟體內容，購買後不得轉讓。你可能需要年滿 13 或 16 歲才能註冊 EA 帳號（年齡限制各地會有不同，詳細資訊請參閱 https://o.ea.com/ea/child-access）。可能需要遊玩遊戲才能解鎖某些內容。可能會自動下載內容更新，可能需要額外的儲存空間並支付頻寬使用費。EA 可能會提供特定的免費額外內容及/或更新。EA在下列網址發佈通知30天後，可能將其線上功能收回：www.ea.com/zh-tw/service-updates。<br />\r\n<br />\r\nEA 使用者協議： 德國居民為 terms.ea.com/de，所有其他地區居民為 terms.ea.com/tc。<br />\r\nEA 隱私與Cookie政策： 德國居民為 privacy.ea.com/de，所有其他地區居民為 privacy.ea.com/tc。",
+   "ext_user_account_notice": "EA Account （支援與 Steam 帳戶連結）",
+   "developers": [
+    "Respawn"
+   ],
+   "publishers": [
+    "Electronic Arts"
+   ],
+   "package_groups": [],
+   "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+   },
+   "metacritic": {
+    "score": 88,
+    "url": "https://www.metacritic.com/game/pc/apex-legends?ftag=MCD-06-10aaa1f"
+   },
+   "categories": [
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 49,
+     "description": "玩家對戰"
+    },
+    {
+     "id": 36,
+     "description": "線上玩家對戰"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 28,
+     "description": "完整控制器支援"
+    },
+    {
+     "id": 29,
+     "description": "Steam 交換卡片"
+    },
+    {
+     "id": 35,
+     "description": "應用程式內購買"
+    },
+    {
+     "id": 72,
+     "description": "聊天語音轉文字"
+    },
+    {
+     "id": 74,
+     "description": "遊玩無需快速反應"
+    },
+    {
+     "id": 55,
+     "description": "DUALSHOCK 控制器支援"
+    },
+    {
+     "id": 57,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 58,
+     "description": "DualSense 控制器支援"
+    }
+   ],
+   "genres": [
+    {
+     "id": "1",
+     "description": "動作"
+    },
+    {
+     "id": "25",
+     "description": "冒險"
+    },
+    {
+     "id": "37",
+     "description": "免費遊玩"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/3fc2dfcf0e8d7d7202a3ca32ae26c7afaec723e2/ss_3fc2dfcf0e8d7d7202a3ca32ae26c7afaec723e2.600x338.jpg?t=1790164440",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/3fc2dfcf0e8d7d7202a3ca32ae26c7afaec723e2/ss_3fc2dfcf0e8d7d7202a3ca32ae26c7afaec723e2.1920x1080.jpg?t=1790164440"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/d64ce54903a3ba6429c6e3189ad746a7db70ee3e/ss_d64ce54903a3ba6429c6e3189ad746a7db70ee3e.600x338.jpg?t=1790164440",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/d64ce54903a3ba6429c6e3189ad746a7db70ee3e/ss_d64ce54903a3ba6429c6e3189ad746a7db70ee3e.1920x1080.jpg?t=1790164440"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6593905f527d4b1bf01b0bb148b9c9a39616a2e4/ss_6593905f527d4b1bf01b0bb148b9c9a39616a2e4.600x338.jpg?t=1790164440",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6593905f527d4b1bf01b0bb148b9c9a39616a2e4/ss_6593905f527d4b1bf01b0bb148b9c9a39616a2e4.1920x1080.jpg?t=1790164440"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/d8a07de4444fb8f43ad19c7aa9e3fa8e26eb94d6/ss_d8a07de4444fb8f43ad19c7aa9e3fa8e26eb94d6.600x338.jpg?t=1790164440",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/d8a07de4444fb8f43ad19c7aa9e3fa8e26eb94d6/ss_d8a07de4444fb8f43ad19c7aa9e3fa8e26eb94d6.1920x1080.jpg?t=1790164440"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/4a30ba1dd184e8ebdbab3814ea3726008647ea17/ss_4a30ba1dd184e8ebdbab3814ea3726008647ea17.600x338.jpg?t=1790164440",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/4a30ba1dd184e8ebdbab3814ea3726008647ea17/ss_4a30ba1dd184e8ebdbab3814ea3726008647ea17.1920x1080.jpg?t=1790164440"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/f880e64654baad384f3afb9e4b0004e411770241/ss_f880e64654baad384f3afb9e4b0004e411770241.600x338.jpg?t=1790164440",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/f880e64654baad384f3afb9e4b0004e411770241/ss_f880e64654baad384f3afb9e4b0004e411770241.1920x1080.jpg?t=1790164440"
+    }
+   ],
+   "movies": [
+    {
+     "id": 257426789,
+     "name": "Apex Legends VS Street Fighter 6 Event WW",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257426789/b98e7f8ca2ed27df3326e4e5823ff5438767adf6/movie_600x337.jpg?t=1789582444",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1172470/343063211/62821b5e8c30fe0232997e3a83b36292aea323af/1789580842/dash_av1.mpd?t=1789582444",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1172470/343063211/62821b5e8c30fe0232997e3a83b36292aea323af/1789580842/dash_h264.mpd?t=1789582444",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1172470/343063211/62821b5e8c30fe0232997e3a83b36292aea323af/1789580842/hls_264_master.m3u8?t=1789582444",
+     "highlight": true
+    },
+    {
+     "id": 257391801,
+     "name": "Apex Legends: Marked Gameplay Trailer EN  ",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257391801/a8d21c02f35b1aea10893708f9f744552f770377/movie_600x337.jpg?t=1786031865",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1172470/1182889611/d98a0365413af7dca2b67039b260d8849a97627d/1785867041/dash_av1.mpd?t=1786031865",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1172470/1182889611/d98a0365413af7dca2b67039b260d8849a97627d/1785867041/dash_h264.mpd?t=1786031865",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1172470/1182889611/d98a0365413af7dca2b67039b260d8849a97627d/1785867041/hls_264_master.m3u8?t=1786031865",
+     "highlight": true
+    }
+   ],
+   "recommendations": {
+    "total": 1587
+   },
+   "achievements": {
+    "total": 12,
+    "highlighted": [
+     {
+      "icon": "cde23ba5b41f315f5d399064ed0bb9ff51fc1342.jpg",
+      "localized_name": "玩家",
+      "archived": 0,
+      "hidden": 0,
+      "name": "玩家",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1172470/cde23ba5b41f315f5d399064ed0bb9ff51fc1342.jpg"
+     },
+     {
+      "icon": "dc4f9a6c122b4890a3852818cb14430a7ae692b9.jpg",
+      "localized_name": "盛裝打扮",
+      "archived": 0,
+      "hidden": 0,
+      "name": "盛裝打扮",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1172470/dc4f9a6c122b4890a3852818cb14430a7ae692b9.jpg"
+     },
+     {
+      "icon": "03754c9a8c98ec9362e245a8bd0e8cdbb2e22aea.jpg",
+      "localized_name": "團隊合作",
+      "archived": 0,
+      "hidden": 0,
+      "name": "團隊合作",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1172470/03754c9a8c98ec9362e245a8bd0e8cdbb2e22aea.jpg"
+     },
+     {
+      "icon": "8a11ed285547d9d5e04d3278c61255058da5cfce.jpg",
+      "localized_name": "全套武器",
+      "archived": 0,
+      "hidden": 0,
+      "name": "全套武器",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1172470/8a11ed285547d9d5e04d3278c61255058da5cfce.jpg"
+     },
+     {
+      "icon": "2828944fd7bb6f31f3f26c957d2dd2aea1e5d3ab.jpg",
+      "localized_name": "跳傘隊長",
+      "archived": 0,
+      "hidden": 0,
+      "name": "跳傘隊長",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1172470/2828944fd7bb6f31f3f26c957d2dd2aea1e5d3ab.jpg"
+     },
+     {
+      "icon": "6f44b7a073fb4fe324f9f12b527a910046f2809c.jpg",
+      "localized_name": "面面俱到",
+      "archived": 0,
+      "hidden": 0,
+      "name": "面面俱到",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1172470/6f44b7a073fb4fe324f9f12b527a910046f2809c.jpg"
+     },
+     {
+      "icon": "88c298423ddcf009d522b6833086bb51f9ee4fe6.jpg",
+      "localized_name": "擊殺首領",
+      "archived": 0,
+      "hidden": 0,
+      "name": "擊殺首領",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1172470/88c298423ddcf009d522b6833086bb51f9ee4fe6.jpg"
+     },
+     {
+      "icon": "65bc35fdbe07c89fe3e3b06ab3079e6fc143cc38.jpg",
+      "localized_name": "頂尖突擊",
+      "archived": 0,
+      "hidden": 0,
+      "name": "頂尖突擊",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1172470/65bc35fdbe07c89fe3e3b06ab3079e6fc143cc38.jpg"
+     },
+     {
+      "icon": "31a63848bdf4ae32577c6d2bd35e4db6875033a0.jpg",
+      "localized_name": "頂尖控制",
+      "archived": 0,
+      "hidden": 0,
+      "name": "頂尖控制",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1172470/31a63848bdf4ae32577c6d2bd35e4db6875033a0.jpg"
+     },
+     {
+      "icon": "527fbb4017b393f13d34bacb1fe58bcc616a1c27.jpg",
+      "localized_name": "頂尖支援",
+      "archived": 0,
+      "hidden": 0,
+      "name": "頂尖支援",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1172470/527fbb4017b393f13d34bacb1fe58bcc616a1c27.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2020 年 11 月 4 日"
+   },
+   "support_info": {
+    "url": "https://help.ea.com/",
+    "email": ""
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1172470?t=1790164440",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/bc83ae85fb762b73c7365e7c034c4b4f545e8e17/page_bg_raw.jpg?t=1790164440",
+   "content_descriptors": {
+    "ids": [],
+    "notes": null
+   },
+   "ratings": {
+    "esrb": {
+     "rating": "t",
+     "descriptors": "Blood\r\nViolence",
+     "interactive_elements": "Users Interact\r\nIn-Game Purchases (includes Random Items)"
+    },
+    "pegi": {
+     "rating": "16",
+     "descriptors": "Violence\r\nIn-Game Purchases"
+    },
+    "usk": {
+     "rating": "16"
+    },
+    "oflc": {
+     "rating": "ma15",
+     "descriptors": "Strong Violence\r\nOnline Interactivity"
+    },
+    "nzoflc": {
+     "rating": "r13",
+     "descriptors": "Violence"
+    },
+    "kgrb": {
+     "rating": "18",
+     "descriptors": "Violence"
+    },
+    "dejus": {
+     "rating": "18",
+     "descriptors": "Violência (Violence)"
+    },
+    "fpb": {
+     "rating": "16",
+     "descriptors": "V CI"
+    },
+    "csrr": {
+     "rating": "C15",
+     "descriptors": "Violence"
+    },
+    "crl": {
+     "rating": "18",
+     "descriptors": "Contains or justifies violence"
+    },
+    "bbfc": {
+     "rating": "PG"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "16",
+     "required_age": "16",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Drastische Gewalt\nAlkohol / Tabak\nDerbe Sprache"
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "18",
+     "required_age": "18",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Interaksi Daring\nKekerasan\nRokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya"
+    },
+    "steam_australia": {
+     "rating_generated": "1",
+     "rating": "MA15",
+     "required_age": "16",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Strong Violence\nMild Coarse Language\nMild Drug Themes"
+    }
+   }
+  }
+ }
+}

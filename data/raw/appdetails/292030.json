@@ -1,0 +1,483 @@
+{
+ "292030": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "巫師3：狂獵 — 重製版",
+   "steam_appid": 292030,
+   "required_age": "18",
+   "is_free": false,
+   "dlc": [
+    5006530,
+    1229320,
+    1233280,
+    1233340
+   ],
+   "detailed_description": "<h1>準備迎接充滿取捨和後果的《巫師》壯闊故事。</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/extras/87b8f20913598e9650dc407fbe8723df.avif?t=1790845156\" width=780 height=300 /></span></p></p><br><h1>關於此遊戲</h1><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/extras/901031157f874984004ec0d3d62ba8d7.avif?t=1790845156\" width=780 height=300 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/extras/09067ec82750ccd49557aebc42cfecb9.avif?t=1790845156\" width=780 height=300 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/extras/00fa0690176a6ee06d0bc9fad6b55888.avif?t=1790845156\" width=780 height=300 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/extras/e50b84717e8421fec2236828d35a42ec.avif?t=1790845156\" width=780 height=300 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/extras/3c106ec99e7a751c1f13246aaf8d631e.avif?t=1790845156\" width=780 height=300 /></span></p>",
+   "about_the_game": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/extras/901031157f874984004ec0d3d62ba8d7.avif?t=1790845156\" width=780 height=300 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/extras/09067ec82750ccd49557aebc42cfecb9.avif?t=1790845156\" width=780 height=300 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/extras/00fa0690176a6ee06d0bc9fad6b55888.avif?t=1790845156\" width=780 height=300 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/extras/e50b84717e8421fec2236828d35a42ec.avif?t=1790845156\" width=780 height=300 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/extras/3c106ec99e7a751c1f13246aaf8d631e.avif?t=1790845156\" width=780 height=300 /></span></p>",
+   "short_description": "《巫師 3：狂獵－重製版》帶來多項升級與強化，讓這款備受好評的角色扮演遊戲重煥新生。化身受雇的狩魔獵人「利維亞的傑洛特」，踏入黑暗奇幻的開放世界，展開尋找養女希里的壯闊冒險。",
+   "supported_languages": "英文<strong>*</strong>, 法文<strong>*</strong>, 義大利文, 德文<strong>*</strong>, 西班牙文 - 西班牙, 阿拉伯文, 捷克文, 匈牙利文, 日文<strong>*</strong>, 韓文<strong>*</strong>, 波蘭文<strong>*</strong>, 葡萄牙文 - 巴西<strong>*</strong>, 俄文<strong>*</strong>, 繁體中文, 土耳其文, 簡體中文<strong>*</strong>, 西班牙文 - 拉丁美洲, 烏克蘭文<br><strong>*</strong>具備完整音效支援的語言",
+   "reviews": "“ONE OF THE BEST GAMES EVER MADE”<br>10/10 – GameSpot<br><br>“AMAZING”<br>9.3/10 – IGN<br><br>“ONE OF THE BEST RPGs EVER MADE”<br>9.8/10 – Game Trailers<br>",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/408e30010636a7186def1a7a447a7712373512aa/header_alt_assets_1_tchinese.jpg?t=1790845156",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/174f2f55b370ce1b22db0f62cfb43aa88fcd4bce/capsule_231x87_alt_assets_1_tchinese.jpg?t=1790845156",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/174f2f55b370ce1b22db0f62cfb43aa88fcd4bce/capsule_184x69_alt_assets_1_tchinese.jpg?t=1790845156",
+   "website": "https://www.thewitcher.com/witcher3",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> 64-bit Windows 11<br></li><li><strong>處理器:</strong> Core i5-8400 / Ryzen 5 2600<br></li><li><strong>記憶體:</strong> 12 GB 記憶體<br></li><li><strong>顯示卡:</strong> GeForce GTX 1660 / Radeon RX 5500 XT 8GB / Arc A580<br></li><li><strong>儲存空間:</strong> 60 SSD GB 可用空間<br></li><li><strong>備註:</strong> VRAM 6 GB</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> 64-bit Windows 11<br></li><li><strong>處理器:</strong> Intel Core i7 8700K / AMD Ryzen 5 3600X<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> RTX 2060 Super / AMD Radeon RX 6600 XT / Intel Arc B580<br></li><li><strong>儲存空間:</strong> 60 SSD GB 可用空間<br></li><li><strong>備註:</strong> VRAM 8 GB</li></ul>"
+   },
+   "mac_requirements": [],
+   "linux_requirements": [],
+   "legal_notice": "CD PROJEKT RED®, CD PROJEKT®, The Witcher® are registered trademarks of CD PROJEKT RED S.A. The Witcher game © 2015–2026 CD PROJEKT RED S.A. Developed by CD PROJEKT RED S.A. All rights reserved. The Witcher game is set in the universe created by Andrzej Sapkowski in his series of books. All other copyrights and trademarks are the property of their respective owners.",
+   "developers": [
+    "CD PROJEKT RED"
+   ],
+   "publishers": [
+    "CD PROJEKT RED"
+   ],
+   "price_overview": {
+    "currency": "TWD",
+    "initial": 99900,
+    "final": 99900,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "NT$ 999"
+   },
+   "packages": [
+    68476
+   ],
+   "package_groups": [
+    {
+     "name": "default",
+     "title": "購買 巫師3：狂獵 — 重製版",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 68476,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "The Witcher 3: Wild Hunt — Remastered - NT$ 999",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 99900
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+   },
+   "metacritic": {
+    "score": 93,
+    "url": "https://www.metacritic.com/game/pc/the-witcher-3-wild-hunt?ftag=MCD-06-10aaa1f"
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 29,
+     "description": "Steam 交換卡片"
+    },
+    {
+     "id": 30,
+     "description": "Steam 工作坊"
+    },
+    {
+     "id": 64,
+     "description": "可調整文字大小"
+    },
+    {
+     "id": 67,
+     "description": "鏡頭舒適度"
+    },
+    {
+     "id": 66,
+     "description": "顏色替代選項"
+    },
+    {
+     "id": 68,
+     "description": "自訂音量控制"
+    },
+    {
+     "id": 78,
+     "description": "可調整難度"
+    },
+    {
+     "id": 74,
+     "description": "遊玩無需快速反應"
+    },
+    {
+     "id": 57,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 58,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 79,
+     "description": "隨時儲存"
+    },
+    {
+     "id": 69,
+     "description": "立體聲"
+    },
+    {
+     "id": 70,
+     "description": "環繞音效"
+    },
+    {
+     "id": 18,
+     "description": "部分控制器支援"
+    },
+    {
+     "id": 23,
+     "description": "Steam 雲端"
+    },
+    {
+     "id": 42,
+     "description": "在平板上遠端暢玩"
+    },
+    {
+     "id": 43,
+     "description": "在電視上遠端暢玩"
+    },
+    {
+     "id": 61,
+     "description": "可用 HDR"
+    },
+    {
+     "id": 62,
+     "description": "親友同享"
+    }
+   ],
+   "genres": [
+    {
+     "id": "3",
+     "description": "角色扮演"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/f7f564ecedd09b3e503b071a637aeefdedbeedd8/ss_f7f564ecedd09b3e503b071a637aeefdedbeedd8.600x338.jpg?t=1790845156",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/f7f564ecedd09b3e503b071a637aeefdedbeedd8/ss_f7f564ecedd09b3e503b071a637aeefdedbeedd8.1920x1080.jpg?t=1790845156"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/0a38e4d0d57f15934772dbe09b322d08132d5518/ss_0a38e4d0d57f15934772dbe09b322d08132d5518.600x338.jpg?t=1790845156",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/0a38e4d0d57f15934772dbe09b322d08132d5518/ss_0a38e4d0d57f15934772dbe09b322d08132d5518.1920x1080.jpg?t=1790845156"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/19c03c2b997d3a393fc629fd42f55ddb4a3d8dd0/ss_19c03c2b997d3a393fc629fd42f55ddb4a3d8dd0.600x338.jpg?t=1790845156",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/19c03c2b997d3a393fc629fd42f55ddb4a3d8dd0/ss_19c03c2b997d3a393fc629fd42f55ddb4a3d8dd0.1920x1080.jpg?t=1790845156"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/3a3f430982cc3bccac1633d3ea60a30bf3d1ae9e/ss_3a3f430982cc3bccac1633d3ea60a30bf3d1ae9e.600x338.jpg?t=1790845156",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/3a3f430982cc3bccac1633d3ea60a30bf3d1ae9e/ss_3a3f430982cc3bccac1633d3ea60a30bf3d1ae9e.1920x1080.jpg?t=1790845156"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/78ecbfb8bc64b8e9d4a372f4a8ffa5069e9325d0/ss_78ecbfb8bc64b8e9d4a372f4a8ffa5069e9325d0.600x338.jpg?t=1790845156",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/78ecbfb8bc64b8e9d4a372f4a8ffa5069e9325d0/ss_78ecbfb8bc64b8e9d4a372f4a8ffa5069e9325d0.1920x1080.jpg?t=1790845156"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/203487f667e4ac00baf482b1c93c87a2b830a6fc/ss_203487f667e4ac00baf482b1c93c87a2b830a6fc.600x338.jpg?t=1790845156",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/203487f667e4ac00baf482b1c93c87a2b830a6fc/ss_203487f667e4ac00baf482b1c93c87a2b830a6fc.1920x1080.jpg?t=1790845156"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/bd815be52023e2632855e01d3d7ba813a0b8d1a3/ss_bd815be52023e2632855e01d3d7ba813a0b8d1a3.600x338.jpg?t=1790845156",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/bd815be52023e2632855e01d3d7ba813a0b8d1a3/ss_bd815be52023e2632855e01d3d7ba813a0b8d1a3.1920x1080.jpg?t=1790845156"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/a8bb0ff704918927e07002cf0901d7195bb6a13e/ss_a8bb0ff704918927e07002cf0901d7195bb6a13e.600x338.jpg?t=1790845156",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/a8bb0ff704918927e07002cf0901d7195bb6a13e/ss_a8bb0ff704918927e07002cf0901d7195bb6a13e.1920x1080.jpg?t=1790845156"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/9436c0e2632ea9e2db315fc3483d8f9ff3facc8d/ss_9436c0e2632ea9e2db315fc3483d8f9ff3facc8d.600x338.jpg?t=1790845156",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/9436c0e2632ea9e2db315fc3483d8f9ff3facc8d/ss_9436c0e2632ea9e2db315fc3483d8f9ff3facc8d.1920x1080.jpg?t=1790845156"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/f6816851eaf092be4b646f4c1dd9a7b91dd77c89/ss_f6816851eaf092be4b646f4c1dd9a7b91dd77c89.600x338.jpg?t=1790845156",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/f6816851eaf092be4b646f4c1dd9a7b91dd77c89/ss_f6816851eaf092be4b646f4c1dd9a7b91dd77c89.1920x1080.jpg?t=1790845156"
+    },
+    {
+     "id": 10,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/8a97157ec7e4f3d458d70a0942779f093f404d8c/ss_8a97157ec7e4f3d458d70a0942779f093f404d8c.600x338.jpg?t=1790845156",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/8a97157ec7e4f3d458d70a0942779f093f404d8c/ss_8a97157ec7e4f3d458d70a0942779f093f404d8c.1920x1080.jpg?t=1790845156"
+    },
+    {
+     "id": 11,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/7c7a239b3b1c58c5c5eb25ece042b81819286823/ss_7c7a239b3b1c58c5c5eb25ece042b81819286823.600x338.jpg?t=1790845156",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/7c7a239b3b1c58c5c5eb25ece042b81819286823/ss_7c7a239b3b1c58c5c5eb25ece042b81819286823.1920x1080.jpg?t=1790845156"
+    },
+    {
+     "id": 12,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/c39f886647cdd361a31d775e0f817dd1e46d97db/ss_c39f886647cdd361a31d775e0f817dd1e46d97db.600x338.jpg?t=1790845156",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/c39f886647cdd361a31d775e0f817dd1e46d97db/ss_c39f886647cdd361a31d775e0f817dd1e46d97db.1920x1080.jpg?t=1790845156"
+    },
+    {
+     "id": 13,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/4b4e193c62cc367962b7b9e682e8b3824e75022a/ss_4b4e193c62cc367962b7b9e682e8b3824e75022a.600x338.jpg?t=1790845156",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/4b4e193c62cc367962b7b9e682e8b3824e75022a/ss_4b4e193c62cc367962b7b9e682e8b3824e75022a.1920x1080.jpg?t=1790845156"
+    },
+    {
+     "id": 14,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/8420c5eafbae128550c1d7e41b32da90a0bde9ca/ss_8420c5eafbae128550c1d7e41b32da90a0bde9ca.600x338.jpg?t=1790845156",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/8420c5eafbae128550c1d7e41b32da90a0bde9ca/ss_8420c5eafbae128550c1d7e41b32da90a0bde9ca.1920x1080.jpg?t=1790845156"
+    },
+    {
+     "id": 15,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ba2c8dfce29d6cca82edb1b69c2479d64cc1db23/ss_ba2c8dfce29d6cca82edb1b69c2479d64cc1db23.600x338.jpg?t=1790845156",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ba2c8dfce29d6cca82edb1b69c2479d64cc1db23/ss_ba2c8dfce29d6cca82edb1b69c2479d64cc1db23.1920x1080.jpg?t=1790845156"
+    },
+    {
+     "id": 16,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/f62c314f6695b6e2b4dc2e0c94101482c9edf6ac/ss_f62c314f6695b6e2b4dc2e0c94101482c9edf6ac.600x338.jpg?t=1790845156",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/f62c314f6695b6e2b4dc2e0c94101482c9edf6ac/ss_f62c314f6695b6e2b4dc2e0c94101482c9edf6ac.1920x1080.jpg?t=1790845156"
+    },
+    {
+     "id": 17,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/bbf2225688fc42fd8b31ccd07885e0064f7da201/ss_bbf2225688fc42fd8b31ccd07885e0064f7da201.600x338.jpg?t=1790845156",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/bbf2225688fc42fd8b31ccd07885e0064f7da201/ss_bbf2225688fc42fd8b31ccd07885e0064f7da201.1920x1080.jpg?t=1790845156"
+    },
+    {
+     "id": 18,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/c6d0b7eee8d40b55d33621fcd700151f3325b501/ss_c6d0b7eee8d40b55d33621fcd700151f3325b501.600x338.jpg?t=1790845156",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/c6d0b7eee8d40b55d33621fcd700151f3325b501/ss_c6d0b7eee8d40b55d33621fcd700151f3325b501.1920x1080.jpg?t=1790845156"
+    },
+    {
+     "id": 19,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ff255a17c339af5a4f17bf825b9500802180d717/ss_ff255a17c339af5a4f17bf825b9500802180d717.600x338.jpg?t=1790845156",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ff255a17c339af5a4f17bf825b9500802180d717/ss_ff255a17c339af5a4f17bf825b9500802180d717.1920x1080.jpg?t=1790845156"
+    }
+   ],
+   "movies": [
+    {
+     "id": 257439716,
+     "name": "《巫師 3：狂獵－重製版》｜官方發售預告片",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257439716/570f10ee04d3db61314b40c6e795ccaa598f0645/movie_600x337.jpg?t=1790693323",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/292030/1321213754/487b64b2adfe1358bb243b23edd2a064659cf628/1790685858/dash_av1.mpd?t=1790693323",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/292030/1321213754/487b64b2adfe1358bb243b23edd2a064659cf628/1790685858/dash_h264.mpd?t=1790693323",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/292030/1321213754/487b64b2adfe1358bb243b23edd2a064659cf628/1790685858/hls_264_master.m3u8?t=1790693323",
+     "highlight": true
+    },
+    {
+     "id": 257411215,
+     "name": "《巫師 3：狂獵 — 重製版》｜公布預告",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257411215/51b044b5c804c4b788bd456724f42d3894783427/movie_600x337.jpg?t=1788333491",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/292030/278147532/09a5c494daccef8b964c82e55dba1b0a4aefea69/1787923313/dash_av1.mpd?t=1788333491",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/292030/278147532/09a5c494daccef8b964c82e55dba1b0a4aefea69/1787923313/dash_h264.mpd?t=1788333491",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/292030/278147532/09a5c494daccef8b964c82e55dba1b0a4aefea69/1787923313/hls_264_master.m3u8?t=1788333491",
+     "highlight": true
+    }
+   ],
+   "recommendations": {
+    "total": 849313
+   },
+   "achievements": {
+    "total": 78,
+    "highlighted": [
+     {
+      "icon": "6078587189483353f06f48d0eefdaaa0791e9e13.jpg",
+      "localized_name": "丁香與醋栗",
+      "archived": 0,
+      "hidden": 1,
+      "name": "丁香與醋栗",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/292030/6078587189483353f06f48d0eefdaaa0791e9e13.jpg"
+     },
+     {
+      "icon": "07bae88f1ee9b856ddfc1d8e28ae7eedd4bcde95.jpg",
+      "localized_name": "伸出援手",
+      "archived": 0,
+      "hidden": 1,
+      "name": "伸出援手",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/292030/07bae88f1ee9b856ddfc1d8e28ae7eedd4bcde95.jpg"
+     },
+     {
+      "icon": "652e39d4e750183a390a4e9f2f99018c1b335a20.jpg",
+      "localized_name": "招魂問卜",
+      "archived": 0,
+      "hidden": 1,
+      "name": "招魂問卜",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/292030/652e39d4e750183a390a4e9f2f99018c1b335a20.jpg"
+     },
+     {
+      "icon": "883f82ffa933d6d12da3e8733f340b082a08c325.jpg",
+      "localized_name": "家庭諮商師",
+      "archived": 0,
+      "hidden": 1,
+      "name": "家庭諮商師",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/292030/883f82ffa933d6d12da3e8733f340b082a08c325.jpg"
+     },
+     {
+      "icon": "97246533609245ba270e7a8eb39a64d319ce5011.jpg",
+      "localized_name": "未了之事",
+      "archived": 0,
+      "hidden": 1,
+      "name": "未了之事",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/292030/97246533609245ba270e7a8eb39a64d319ce5011.jpg"
+     },
+     {
+      "icon": "46b0b574e6334d81211e0c3db1539d3a76364144.jpg",
+      "localized_name": "舌燦蓮花",
+      "archived": 0,
+      "hidden": 1,
+      "name": "舌燦蓮花",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/292030/46b0b574e6334d81211e0c3db1539d3a76364144.jpg"
+     },
+     {
+      "icon": "53e0820b82445eeafe38f4991b947ed6ef64406d.jpg",
+      "localized_name": "國王已死",
+      "archived": 0,
+      "hidden": 1,
+      "name": "國王已死",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/292030/53e0820b82445eeafe38f4991b947ed6ef64406d.jpg"
+     },
+     {
+      "icon": "bc1da5cdbd6e323308f012851cf4c3f6a1439c3f.jpg",
+      "localized_name": "通過試煉",
+      "archived": 0,
+      "hidden": 0,
+      "name": "通過試煉",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/292030/bc1da5cdbd6e323308f012851cf4c3f6a1439c3f.jpg"
+     },
+     {
+      "icon": "cba4abe872ecb92a755cbc9cf1ffa708b7aef42e.jpg",
+      "localized_name": "完成冒險",
+      "archived": 0,
+      "hidden": 0,
+      "name": "完成冒險",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/292030/cba4abe872ecb92a755cbc9cf1ffa708b7aef42e.jpg"
+     },
+     {
+      "icon": "03afa403f58958f72f7540345ba16a3439d1f830.jpg",
+      "localized_name": "旅途終點",
+      "archived": 0,
+      "hidden": 0,
+      "name": "旅途終點",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/292030/03afa403f58958f72f7540345ba16a3439d1f830.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2015 年 5 月 18 日"
+   },
+   "support_info": {
+    "url": "http://en.cdprojektred.com/support",
+    "email": "http://en.cdprojektred.com/contact-support/"
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/292030?t=1790845156",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/94a3c7f9db82538b752312f6e17f912f0899ca30/page_bg_raw.jpg?t=1790845156",
+   "content_descriptors": {
+    "ids": [
+     1,
+     5
+    ],
+    "notes": "The Witcher 3: Wild Hunt contains strong language, intense violence, blood and gore, as well as nudity and sexual material.\r\n"
+   },
+   "ratings": {
+    "esrb": {
+     "rating": "m",
+     "descriptors": "Blood and Gore\r\nIntense Violence\r\nNudity\r\nStrong Language\r\nStrong Sexual Content\r\nUse of Alcohol",
+     "use_age_gate": "true",
+     "required_age": "17",
+     "interactive_elements": "In-Game Purchases\r\n"
+    },
+    "pegi": {
+     "rating": "18",
+     "descriptors": "Violence\r\nBad language\r\nIn-game Purchases",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "usk": {
+     "rating": "18",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "oflc": {
+     "rating": "r18",
+     "descriptors": "High impact violence and sex",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "nzoflc": {
+     "rating": "r16",
+     "descriptors": "Violence\r\nSexual violence\r\nOffensive language and sex scenes",
+     "use_age_gate": "true",
+     "required_age": "16"
+    },
+    "kgrb": {
+     "rating": "18",
+     "descriptors": "Sexuality\r\nViolence\r\nLanguage\r\nDrugs",
+     "use_age_gate": "true",
+     "required_age": "19"
+    },
+    "dejus": {
+     "rating": "16",
+     "descriptors": "Conteúdo Sexual\r\nDrogas Lícitas\r\nViolência",
+     "use_age_gate": "true",
+     "required_age": "16"
+    },
+    "mda": {
+     "rating": "M18",
+     "descriptors": "STRONG VIOLENCE, NUDITY AND SEXUAL SCENES",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "fpb": {
+     "rating": "18",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "csrr": {
+     "rating": "R",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "crl": {
+     "rating": "18",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "16",
+     "required_age": "16",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Sexuelle Inhalte\nDrastische Gewalt\nAlkohol / Tabak"
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "BANNED",
+     "required_age": "2147483647",
+     "banned": "1",
+     "use_age_gate": "0",
+     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nPenampilan Tokoh\nKekerasan"
+    }
+   }
+  }
+ }
+}

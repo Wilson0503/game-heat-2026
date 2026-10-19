@@ -1,0 +1,345 @@
+{
+ "1174180": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "Red Dead Redemption 2",
+   "steam_appid": 1174180,
+   "required_age": 0,
+   "is_free": false,
+   "detailed_description": "<h1>Ultimate Edition</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/extras/53502f85ab23215cde9e1f8ed71c5993.avif?t=1759502961\" width=614 height=346 /></span><br>Red Dead Redemption 2：終極版內除了包含特別版的所有故事模式內容外，外加線上模式額外內容，包括線上模式角色服裝獎勵、等級獎勵、黑栗色純種馬，還可免費取得生還者營地主題。<br><br>此外還可免費取得線上模式額外武器。</p><br><h1>關於此遊戲</h1>美國，1899 年。亞瑟．摩根與范特林幫派是逃亡中的亡命之徒。遭到聯邦探員和國內最出色賞金獵人群起追捕的他們為了生存，必須一路劫掠與戰鬥，跨越整個蠻荒的美國腹地。隨著內部分歧越趨惡化，幫派即將分崩離析之際，亞瑟必須做出抉擇：忠於自己的理想，還是一心忠於扶養他長大的幫派。<br><br>Red Dead Redemption 2 是一款囊括超過 175 座年度遊戲獎項，並獲得超過 250 筆滿分評價的大作，講述在邁向現代化之初的美國，關於榮耀和忠誠的詩篇。<br><br>Red Dead Redemption 2 還包括 Red Dead 線上模式（以 Red Dead Redemption 2 的生動世界為背景的多人遊戲體驗），千里走單騎或組成武裝隊，在美國邊境開闢自己的道路，經營私釀酒事業，對抗執法人員、不法幫派分子或凶猛的野獸，以及更多。",
+   "about_the_game": "美國，1899 年。亞瑟．摩根與范特林幫派是逃亡中的亡命之徒。遭到聯邦探員和國內最出色賞金獵人群起追捕的他們為了生存，必須一路劫掠與戰鬥，跨越整個蠻荒的美國腹地。隨著內部分歧越趨惡化，幫派即將分崩離析之際，亞瑟必須做出抉擇：忠於自己的理想，還是一心忠於扶養他長大的幫派。<br />\r\n<br />\r\nRed Dead Redemption 2 是一款囊括超過 175 座年度遊戲獎項，並獲得超過 250 筆滿分評價的大作，講述在邁向現代化之初的美國，關於榮耀和忠誠的詩篇。<br />\r\n<br />\r\nRed Dead Redemption 2 還包括 Red Dead 線上模式（以 Red Dead Redemption 2 的生動世界為背景的多人遊戲體驗），千里走單騎或組成武裝隊，在美國邊境開闢自己的道路，經營私釀酒事業，對抗執法人員、不法幫派分子或凶猛的野獸，以及更多。",
+   "short_description": "亞瑟．摩根與范特林幫派是逃亡中的亡命之徒。遭到聯邦探員與賞金獵人群起追捕的他們為了生存，必須一路劫掠與戰鬥，跨越整個蠻荒腹地。",
+   "supported_languages": "英文<strong>*</strong>, 法文, 義大利文, 德文, 西班牙文 - 西班牙, 日文, 韓文, 波蘭文, 俄文, 簡體中文, 西班牙文 - 拉丁美洲, 繁體中文, 葡萄牙文 - 巴西<br><strong>*</strong>具備完整音效支援的語言",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_231x87.jpg?t=1759502961",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_184x69.jpg?t=1759502961",
+   "website": "https://www.rockstargames.com/reddeadredemption2/",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 10 - 64-bit<br></li><li><strong>處理器:</strong> Intel® Core™ i5-2500K / AMD FX-6300<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> Nvidia GeForce GTX 770 2GB / AMD Radeon R9 280 3GB<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 150 GB 可用空間<br></li><li><strong>音效卡:</strong> Direct X Compatible</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 10 - 64-bit<br></li><li><strong>處理器:</strong> Intel® Core™ i7-4770K / AMD Ryzen 5 1500X<br></li><li><strong>記憶體:</strong> 12 GB 記憶體<br></li><li><strong>顯示卡:</strong> Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 150 GB 可用空間<br></li><li><strong>音效卡:</strong> Direct X Compatible</li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "linux_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "legal_notice": "軟體授權條款請參考遊戲內與 www.rockstargames.com/eula ；線上遊戲帳號的相關使用條款請參考  www.rockstargames.com/socialclub。使用不得轉讓之特殊功能，例如獨家提供、可解鎖、可下載、多人遊戲、線上與額外內容、服務、功能時，可能需要單次使用式序號、額外負擔費用和/或不可轉讓的線上註冊帳號（年滿 13 歲方可註冊）。使用特別遊戲功能可能需要配備網際網路連線，並非所有使用者或在任何時間內皆能使用，並且可能不經通知而終止、修改或以不同條款提供。違反 EULA、行為規範或是其他政策，可能導致使用本遊戲或線上遊戲帳號的權利遭到限制或終止。資訊、客戶和技術支援，請造訪 www.rockstargames.com/support。本遊戲純屬虛構，其中所描繪的人物、地點、公司、團體、事件、建築和其他事物可能與現實世界中的人、事、物有所雷同；這些人、事、物絕與本遊戲絕無任何關聯，相關描述亦非事實。此電玩遊戲之製造商、發行商及授權人並未認同、原宥或鼓勵任何內容。未經授權的拷貝、變更、還原工程、反編譯、傳輸、公開表演、租賃、收費進行遊戲，或規避版權保護均違反 EULA，屬禁止行為。購買、使用及兌換受某些限制規範，欲知詳情，請造訪 www.rockstargames.com/eula 和服務條款 www.rockstargames.com/legal。<br />\r\n <br />\r\nRockstar Games, Inc.  ©2005-19。Rockstar Games、Red Dead Redemption、R*、Redemption、Red Dead、Dead Eye 是 Take-Two Interactive 的標章/標誌/版權。Dolby 和雙 D 符號是 Dolby Laboratories 的商標。所有其他標章和商標是其各自擁有者之財產。保留一切權利。",
+   "ext_user_account_notice": "Rockstar Games （支援與 Steam 帳戶連結）",
+   "developers": [
+    "Rockstar Games"
+   ],
+   "publishers": [
+    "Rockstar Games"
+   ],
+   "price_overview": {
+    "currency": "TWD",
+    "initial": 179000,
+    "final": 44700,
+    "discount_percent": 75,
+    "initial_formatted": "NT$ 1,790",
+    "final_formatted": "NT$ 447"
+   },
+   "packages": [
+    402134,
+    412454
+   ],
+   "package_groups": [
+    {
+     "name": "default",
+     "title": "購買 Red Dead Redemption 2",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 402134,
+       "percent_savings_text": "-75% ",
+       "percent_savings": 0,
+       "option_text": "Red Dead Redemption 2 - <span class=\"discount_original_price\">NT$ 1,790</span> NT$ 447",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 44700
+      },
+      {
+       "packageid": 412454,
+       "percent_savings_text": "-80% ",
+       "percent_savings": 0,
+       "option_text": "Red Dead Redemption 2: Ultimate Edition - <span class=\"discount_original_price\">NT$ 2,999</span> NT$ 599",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 59900
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+   },
+   "metacritic": {
+    "score": 93,
+    "url": "https://www.metacritic.com/game/pc/red-dead-redemption-2?ftag=MCD-06-10aaa1f"
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 49,
+     "description": "玩家對戰"
+    },
+    {
+     "id": 36,
+     "description": "線上玩家對戰"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 35,
+     "description": "應用程式內購買"
+    },
+    {
+     "id": 18,
+     "description": "部分控制器支援"
+    },
+    {
+     "id": 41,
+     "description": "在手機上遠端暢玩"
+    },
+    {
+     "id": 42,
+     "description": "在平板上遠端暢玩"
+    }
+   ],
+   "genres": [
+    {
+     "id": "1",
+     "description": "動作"
+    },
+    {
+     "id": "25",
+     "description": "冒險"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_66b553f4c209476d3e4ce25fa4714002cc914c4f.600x338.jpg?t=1759502961",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_66b553f4c209476d3e4ce25fa4714002cc914c4f.1920x1080.jpg?t=1759502961"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_bac60bacbf5da8945103648c08d27d5e202444ca.600x338.jpg?t=1759502961",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_bac60bacbf5da8945103648c08d27d5e202444ca.1920x1080.jpg?t=1759502961"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_668dafe477743f8b50b818d5bbfcec669e9ba93e.600x338.jpg?t=1759502961",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_668dafe477743f8b50b818d5bbfcec669e9ba93e.1920x1080.jpg?t=1759502961"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_4ce07ae360b166f0f650e9a895a3b4b7bf15e34f.600x338.jpg?t=1759502961",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_4ce07ae360b166f0f650e9a895a3b4b7bf15e34f.1920x1080.jpg?t=1759502961"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_d1a8f5a69155c3186c65d1da90491fcfd43663d9.600x338.jpg?t=1759502961",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_d1a8f5a69155c3186c65d1da90491fcfd43663d9.1920x1080.jpg?t=1759502961"
+    }
+   ],
+   "movies": [
+    {
+     "id": 256768380,
+     "name": "RDR2 60 FPS Trailer (TW)",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256768380/movie.293x165.jpg?t=1574881269",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1174180/254776/6acbf6d3af2c6e7db22f12b520e540665e34f98b/1750634272/dash_av1.mpd?t=1574881269",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1174180/254776/6acbf6d3af2c6e7db22f12b520e540665e34f98b/1750634272/dash_h264.mpd?t=1574881269",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1174180/254776/6acbf6d3af2c6e7db22f12b520e540665e34f98b/1750634272/hls_264_master.m3u8?t=1574881269",
+     "highlight": true
+    },
+    {
+     "id": 256768379,
+     "name": "RDR2 Launch Trailer (TW)",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256768379/movie.293x165.jpg?t=1574881280",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1174180/254775/1a7ba2179d533d255b61b1bcee33f5094dd70684/1750634272/dash_av1.mpd?t=1574881280",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1174180/254775/1a7ba2179d533d255b61b1bcee33f5094dd70684/1750634272/dash_h264.mpd?t=1574881280",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1174180/254775/1a7ba2179d533d255b61b1bcee33f5094dd70684/1750634272/hls_264_master.m3u8?t=1574881280",
+     "highlight": true
+    }
+   ],
+   "recommendations": {
+    "total": 855683
+   },
+   "achievements": {
+    "total": 51,
+    "highlighted": [
+     {
+      "icon": "3f5b6b4295a58d39b7619e5723f94b8f475dd81e.jpg",
+      "localized_name": "重回泥淖",
+      "archived": 0,
+      "hidden": 1,
+      "name": "重回泥淖",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1174180/3f5b6b4295a58d39b7619e5723f94b8f475dd81e.jpg"
+     },
+     {
+      "icon": "1d0bdc25d376a74b0ee37355ee32f9eb308dd90c.jpg",
+      "localized_name": "皮肉小傷",
+      "archived": 0,
+      "hidden": 1,
+      "name": "皮肉小傷",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1174180/1d0bdc25d376a74b0ee37355ee32f9eb308dd90c.jpg"
+     },
+     {
+      "icon": "cede247d21de983c4d0d8aed8b75d1324cac9bf3.jpg",
+      "localized_name": "柳暗花明",
+      "archived": 0,
+      "hidden": 1,
+      "name": "柳暗花明",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1174180/cede247d21de983c4d0d8aed8b75d1324cac9bf3.jpg"
+     },
+     {
+      "icon": "ab025f0eacc998f62125d7a7bb186e9fbdd95d24.jpg",
+      "localized_name": "化解深仇",
+      "archived": 0,
+      "hidden": 1,
+      "name": "化解深仇",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1174180/ab025f0eacc998f62125d7a7bb186e9fbdd95d24.jpg"
+     },
+     {
+      "icon": "a07e4dac160f638c24ac851ffc0aea19bc51f12d.jpg",
+      "localized_name": "沖刷上岸",
+      "archived": 0,
+      "hidden": 1,
+      "name": "沖刷上岸",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1174180/a07e4dac160f638c24ac851ffc0aea19bc51f12d.jpg"
+     },
+     {
+      "icon": "79a6c1cb5ac1f88150802768ab8c6a7078d272c1.jpg",
+      "localized_name": "叛徒必死",
+      "archived": 0,
+      "hidden": 1,
+      "name": "叛徒必死",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1174180/79a6c1cb5ac1f88150802768ab8c6a7078d272c1.jpg"
+     },
+     {
+      "icon": "70286589047c58568477e6ba124161d6047cd023.jpg",
+      "localized_name": "無三不成運",
+      "archived": 0,
+      "hidden": 1,
+      "name": "無三不成運",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1174180/70286589047c58568477e6ba124161d6047cd023.jpg"
+     },
+     {
+      "icon": "94fa0722da3453c6cd222b97b77880c29f7dc97c.jpg",
+      "localized_name": "救贖",
+      "archived": 0,
+      "hidden": 1,
+      "name": "救贖",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1174180/94fa0722da3453c6cd222b97b77880c29f7dc97c.jpg"
+     },
+     {
+      "icon": "d2fdc9461799c466b1ff7a9f3666cd2dbb4f61e3.jpg",
+      "localized_name": "牛仔建築工",
+      "archived": 0,
+      "hidden": 1,
+      "name": "牛仔建築工",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1174180/d2fdc9461799c466b1ff7a9f3666cd2dbb4f61e3.jpg"
+     },
+     {
+      "icon": "caca2e3bed70ec5ce18c7d7e9a261aef5cf55737.jpg",
+      "localized_name": "無盡夏日",
+      "archived": 0,
+      "hidden": 1,
+      "name": "無盡夏日",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1174180/caca2e3bed70ec5ce18c7d7e9a261aef5cf55737.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2019 年 12 月 5 日"
+   },
+   "support_info": {
+    "url": "https://support.rockstargames.com/",
+    "email": ""
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1174180?t=1759502961",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/page_bg_raw.jpg?t=1759502961",
+   "content_descriptors": {
+    "ids": [
+     5
+    ],
+    "notes": null
+   },
+   "ratings": {
+    "esrb": {
+     "rating": "m",
+     "use_age_gate": "true",
+     "required_age": "17",
+     "descriptors": "Blood and Gore\r\nIntense Violence\r\nNudity\r\nSexual Content\r\nStrong Language\r\nUse of Drugs and Alcohol",
+     "interactive_elements": "In-Game Purchases\r\nUsers Interact"
+    },
+    "pegi": {
+     "rating": "18",
+     "descriptors": "Strong Language\r\nViolence\r\nGambling"
+    },
+    "usk": {
+     "rating": "18",
+     "descriptors": "No youth"
+    },
+    "oflc": {
+     "rating": "ma15",
+     "descriptors": "Online Interactivity\r\nStrong Themes\r\nViolence"
+    },
+    "nzoflc": {
+     "rating": "r16",
+     "descriptors": "Cruelty\r\nOffensive Language\r\nViolence"
+    },
+    "kgrb": {
+     "rating": "18",
+     "descriptors": "Alcohol, Tobacco, Drug\r\nCrime, Anti-Societal or Anti-Governmental\r\nMessages\r\nGambling\r\nLanguage\r\nSexuality\r\nViolence"
+    },
+    "dejus": {
+     "rating": "18",
+     "descriptors": "Violência\r\nAtos criminosos\r\nDrogas ilícitas"
+    },
+    "fpb": {
+     "rating": "18",
+     "descriptors": "Competitive Intensity\r\nLanguage\r\nNudity\r\nPrejudice\r\nSex\r\nViolence"
+    },
+    "csrr": {
+     "rating": "R",
+     "descriptors": "Inappropriate Language\r\nSex\r\nViolence"
+    },
+    "crl": {
+     "rating": "18"
+    }
+   }
+  }
+ }
+}

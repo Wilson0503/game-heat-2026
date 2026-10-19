@@ -1,0 +1,389 @@
+{
+ "2300320": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "Farming Simulator 25",
+   "steam_appid": 2300320,
+   "required_age": 0,
+   "is_free": false,
+   "controller_support": "full",
+   "dlc": [
+    4404070,
+    4664870,
+    4348800,
+    4651570,
+    3453810,
+    4348790,
+    4054370,
+    2981100,
+    3453970,
+    3453960,
+    3453950,
+    3450870,
+    2981090,
+    2981110,
+    3816190
+   ],
+   "detailed_description": "<p class=\"bb_paragraph\" >Farming Simulator 25 邀請你加入收穫滿滿的農村生活。不論是一手打造你的傳奇，或是在多人遊戲中合作，你的農場由你決定！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/15a356885415bc0fcc959c125bef1697.poster.avif?t=1788874602\" width=616 height=180 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/15a356885415bc0fcc959c125bef1697.webm?t=1788874602\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/15a356885415bc0fcc959c125bef1697.mp4?t=1788874602\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >這是屬於你的農場！</h2><p class=\"bb_paragraph\" >沿著北美的蜿蜒河流和古樸的穀物升運機、在中歐池塘的圍繞之下，或在滿是霓虹燈的東亞港口城市附近的鬱蔥稻田景色中，建立你的農場。種植作物、照顧牲畜、發展林業，管理農業王國的農產品店、生產與建設！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/11bacb76ee6b79390fb5dfe6311e5105.poster.avif?t=1788874602\" width=616 height=180 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/11bacb76ee6b79390fb5dfe6311e5105.webm?t=1788874602\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/11bacb76ee6b79390fb5dfe6311e5105.mp4?t=1788874602\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >多變的天氣，受氣候影響的地形變化</h2><p class=\"bb_paragraph\" >龍捲風和冰雹帶來新的挑戰，農夫必須做好準備，評估它們對作物的影響。胎痕帶來的影響會使地面變形，還有豐富的新天氣效果，讓你的農場景色更浪漫真實。一天將從陽光穿透樹頂開始，金黃色的光芒照亮早晨的霧氣！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/43ec238fbcc8945ad1587980623f90a9.poster.avif?t=1788874602\" width=616 height=180 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/43ec238fbcc8945ad1587980623f90a9.webm?t=1788874602\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/43ec238fbcc8945ad1587980623f90a9.mp4?t=1788874602\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >亞洲農業、新的作物和牲畜</h2><p class=\"bb_paragraph\" >在能蓄水的稻田中種植兩種稻米，或是種植菠菜、豌豆和綠豆。Farming Simulator 25 提供更多作物選項，共有 25 種，各種樹木加上溫室蔬菜帶來更豐富的多樣性。新增亞洲農業，你可以操作新類型設備穿越田地，圍欄和牧場除了牛、綿羊、豬、雞、馬等牲畜，還有強壯的水牛和山羊加入，甚至包括牲畜幼崽！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/1b6352b95e7293cf1bb29dc8648f0c54.poster.avif?t=1788874602\" width=616 height=180 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/1b6352b95e7293cf1bb29dc8648f0c54.webm?t=1788874602\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/1b6352b95e7293cf1bb29dc8648f0c54.mp4?t=1788874602\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >真實的機具，GPS 已啟動！</h2><p class=\"bb_paragraph\" >利用 GPS 導航和更進步的自動化更精準地耕作。操作超過 150 個國際頂級品牌的 400 多種真實機具和工具，包括 Case IH、CLAAS、Fendt、John Deere、Kubota、Massey Ferguson、New Holland、Valtra 等等。選擇你最愛的品牌或是探索超棒的新科技！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/09fec49e9c3b0dc72dbdf9a927f144bc.poster.avif?t=1788874602\" width=616 height=180 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/09fec49e9c3b0dc72dbdf9a927f144bc.webm?t=1788874602\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/09fec49e9c3b0dc72dbdf9a927f144bc.mp4?t=1788874602\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >農業生活改良</h2><p class=\"bb_paragraph\" >全面技術升級，你會感受到和田地與大自然產生更深的連結。利用最新的 GIANTS Engine 10 強化圖像和物理運算，提供更精緻的體驗。Farming Simulator 25 提升操作性並改良介面功能，最適合剛要展開新生活的新手，資深農夫更能盡情享受。如果這樣還不夠，請從遊戲中的 ModHub 下載經過開發者測試的玩家創作內容！</p>",
+   "about_the_game": "<p class=\"bb_paragraph\" >Farming Simulator 25 邀請你加入收穫滿滿的農村生活。不論是一手打造你的傳奇，或是在多人遊戲中合作，你的農場由你決定！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/15a356885415bc0fcc959c125bef1697.poster.avif?t=1788874602\" width=616 height=180 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/15a356885415bc0fcc959c125bef1697.webm?t=1788874602\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/15a356885415bc0fcc959c125bef1697.mp4?t=1788874602\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >這是屬於你的農場！</h2><p class=\"bb_paragraph\" >沿著北美的蜿蜒河流和古樸的穀物升運機、在中歐池塘的圍繞之下，或在滿是霓虹燈的東亞港口城市附近的鬱蔥稻田景色中，建立你的農場。種植作物、照顧牲畜、發展林業，管理農業王國的農產品店、生產與建設！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/11bacb76ee6b79390fb5dfe6311e5105.poster.avif?t=1788874602\" width=616 height=180 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/11bacb76ee6b79390fb5dfe6311e5105.webm?t=1788874602\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/11bacb76ee6b79390fb5dfe6311e5105.mp4?t=1788874602\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >多變的天氣，受氣候影響的地形變化</h2><p class=\"bb_paragraph\" >龍捲風和冰雹帶來新的挑戰，農夫必須做好準備，評估它們對作物的影響。胎痕帶來的影響會使地面變形，還有豐富的新天氣效果，讓你的農場景色更浪漫真實。一天將從陽光穿透樹頂開始，金黃色的光芒照亮早晨的霧氣！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/43ec238fbcc8945ad1587980623f90a9.poster.avif?t=1788874602\" width=616 height=180 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/43ec238fbcc8945ad1587980623f90a9.webm?t=1788874602\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/43ec238fbcc8945ad1587980623f90a9.mp4?t=1788874602\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >亞洲農業、新的作物和牲畜</h2><p class=\"bb_paragraph\" >在能蓄水的稻田中種植兩種稻米，或是種植菠菜、豌豆和綠豆。Farming Simulator 25 提供更多作物選項，共有 25 種，各種樹木加上溫室蔬菜帶來更豐富的多樣性。新增亞洲農業，你可以操作新類型設備穿越田地，圍欄和牧場除了牛、綿羊、豬、雞、馬等牲畜，還有強壯的水牛和山羊加入，甚至包括牲畜幼崽！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/1b6352b95e7293cf1bb29dc8648f0c54.poster.avif?t=1788874602\" width=616 height=180 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/1b6352b95e7293cf1bb29dc8648f0c54.webm?t=1788874602\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/1b6352b95e7293cf1bb29dc8648f0c54.mp4?t=1788874602\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >真實的機具，GPS 已啟動！</h2><p class=\"bb_paragraph\" >利用 GPS 導航和更進步的自動化更精準地耕作。操作超過 150 個國際頂級品牌的 400 多種真實機具和工具，包括 Case IH、CLAAS、Fendt、John Deere、Kubota、Massey Ferguson、New Holland、Valtra 等等。選擇你最愛的品牌或是探索超棒的新科技！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/09fec49e9c3b0dc72dbdf9a927f144bc.poster.avif?t=1788874602\" width=616 height=180 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/09fec49e9c3b0dc72dbdf9a927f144bc.webm?t=1788874602\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/extras/09fec49e9c3b0dc72dbdf9a927f144bc.mp4?t=1788874602\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >農業生活改良</h2><p class=\"bb_paragraph\" >全面技術升級，你會感受到和田地與大自然產生更深的連結。利用最新的 GIANTS Engine 10 強化圖像和物理運算，提供更精緻的體驗。Farming Simulator 25 提升操作性並改良介面功能，最適合剛要展開新生活的新手，資深農夫更能盡情享受。如果這樣還不夠，請從遊戲中的 ModHub 下載經過開發者測試的玩家創作內容！</p>",
+   "short_description": "Farming Simulator 25 邀請你加入收穫滿滿的農村生活，一手打造或在多人遊戲中合作。這是屬於你的農場！",
+   "supported_languages": "英文<strong>*</strong>, 法文, 義大利文, 德文, 西班牙文 - 西班牙, 捷克文, 丹麥文, 荷蘭文, 芬蘭文, 匈牙利文, 日文, 韓文, 挪威文, 波蘭文, 葡萄牙文 - 巴西, 葡萄牙文 - 葡萄牙, 羅馬尼亞文, 俄文, 簡體中文, 西班牙文 - 拉丁美洲, 瑞典文, 繁體中文, 土耳其文, 烏克蘭文, 越南文, 印尼語<br><strong>*</strong>具備完整音效支援的語言",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/c2a205133d23cd24faf3c152d972a1d0177661b8/header.jpg?t=1788874602",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/f56e9279a16ad2f6a0532a7ef72042d7428c00c7/capsule_231x87.jpg?t=1788874602",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/f56e9279a16ad2f6a0532a7ef72042d7428c00c7/capsule_184x69.jpg?t=1788874602",
+   "website": "https://farming-simulator.com/",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 10 64bit<br></li><li><strong>處理器:</strong> Intel Core i5-6400, AMD Ryzen 5 1400, or better<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> Nvidia GeForce GTX 1050Ti, AMD Radeon RX 470 graphics card or better (min 3GB VRAM, DX12 support)<br></li><li><strong>DirectX:</strong> 版本：12<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 50 GB 可用空間<br></li><li><strong>音效卡:</strong> Sound card<br></li><li><strong>VR 支援:</strong> N/A<br></li><li><strong>備註:</strong> These system requirements can´t cover all possible system configurations so issues could occur that avoid or influence the functionality in some cases.</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 10 64bit<br></li><li><strong>處理器:</strong> Intel Core i7-10700, AMD Ryzen 7 3800X, or better<br></li><li><strong>記憶體:</strong> 12 GB 記憶體<br></li><li><strong>顯示卡:</strong> Nvidia GeForce RTX 2070, AMD Radeon RX 5700 XT, Intel Arc A750 graphics card or better (min 8GB VRAM, DX12 support)<br></li><li><strong>DirectX:</strong> 版本：12<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 50 GB 可用空間<br></li><li><strong>音效卡:</strong> Sound card<br></li><li><strong>VR 支援:</strong> N/A<br></li><li><strong>備註:</strong> These system requirements can´t cover all possible system configurations so issues could occur that influence the functionality in some cases.</li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> MacOS 11.3 or newer<br></li><li><strong>處理器:</strong> Intel Core i5-6400, Apple M1, or better<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> AMD Radeon RX 470 or Apple M1 or better (min. 3 GB VRAM, DX12 support)<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 50 GB 可用空間<br></li><li><strong>音效卡:</strong> Sound Card<br></li><li><strong>備註:</strong> These system requirements can´t cover all possible system configurations so issues could occur that avoid or influence the functionality in some cases.</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> MacOS 11.3 or newer<br></li><li><strong>處理器:</strong> Apple M1 Pro or better<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> Apple M1 Pro or better<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 50 GB 可用空間<br></li><li><strong>音效卡:</strong> Sound Card<br></li><li><strong>備註:</strong> These system requirements can´t cover all possible system configurations so issues could occur that influence the functionality in some cases.</li></ul>"
+   },
+   "linux_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "legal_notice": "© 2024 GIANTS Software GmbH. Published and developed by GIANTS Software. Farming Simulator, GIANTS Software and its logos are trademarks or registered trademarks of GIANTS Software. All rights reserved. All manufacturers, agricultural machinery, agricultural equipment, names, brands and associated imagery featured in this game in some cases include trademarks and/or copyrighted materials of their respective owners. The agricultural machines and equipment in this game may be different from the actual machines in shapes, colours and performance. All other names, trademarks and logos are property of their respective owners.",
+   "developers": [
+    "GIANTS Software"
+   ],
+   "publishers": [
+    "GIANTS Software"
+   ],
+   "price_overview": {
+    "currency": "TWD",
+    "initial": 77800,
+    "final": 77800,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "NT$ 778"
+   },
+   "packages": [
+    825695
+   ],
+   "package_groups": [
+    {
+     "name": "default",
+     "title": "購買 Farming Simulator 25",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 825695,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "Farming Simulator 25 - NT$ 778",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 77800
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 28,
+     "description": "完整控制器支援"
+    },
+    {
+     "id": 29,
+     "description": "Steam 交換卡片"
+    },
+    {
+     "id": 55,
+     "description": "DUALSHOCK 控制器支援"
+    },
+    {
+     "id": 57,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 23,
+     "description": "Steam 雲端"
+    },
+    {
+     "id": 62,
+     "description": "親友同享"
+    }
+   ],
+   "genres": [
+    {
+     "id": "28",
+     "description": "模擬"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/0bd36a1bd96d3c4a428bfd56f8697d045011e23c/ss_0bd36a1bd96d3c4a428bfd56f8697d045011e23c.600x338.jpg?t=1788874602",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/0bd36a1bd96d3c4a428bfd56f8697d045011e23c/ss_0bd36a1bd96d3c4a428bfd56f8697d045011e23c.1920x1080.jpg?t=1788874602"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/4fa589ab4b102a4b346d03295b5d26c6a14726be/ss_4fa589ab4b102a4b346d03295b5d26c6a14726be.600x338.jpg?t=1788874602",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/4fa589ab4b102a4b346d03295b5d26c6a14726be/ss_4fa589ab4b102a4b346d03295b5d26c6a14726be.1920x1080.jpg?t=1788874602"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/a91040d614c5f319b0fa5d02dde31e9835d0cc4e/ss_a91040d614c5f319b0fa5d02dde31e9835d0cc4e.600x338.jpg?t=1788874602",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/a91040d614c5f319b0fa5d02dde31e9835d0cc4e/ss_a91040d614c5f319b0fa5d02dde31e9835d0cc4e.1920x1080.jpg?t=1788874602"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/a7ee675587f7fd56a486ff28cf0c141a1a12b920/ss_a7ee675587f7fd56a486ff28cf0c141a1a12b920.600x338.jpg?t=1788874602",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/a7ee675587f7fd56a486ff28cf0c141a1a12b920/ss_a7ee675587f7fd56a486ff28cf0c141a1a12b920.1920x1080.jpg?t=1788874602"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/cb7fbbbf5cf11862685e5c022ebc56913771b48d/ss_cb7fbbbf5cf11862685e5c022ebc56913771b48d.600x338.jpg?t=1788874602",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/cb7fbbbf5cf11862685e5c022ebc56913771b48d/ss_cb7fbbbf5cf11862685e5c022ebc56913771b48d.1920x1080.jpg?t=1788874602"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/3c4c7112a992787be2ee0933af733d846f199d71/ss_3c4c7112a992787be2ee0933af733d846f199d71.600x338.jpg?t=1788874602",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/3c4c7112a992787be2ee0933af733d846f199d71/ss_3c4c7112a992787be2ee0933af733d846f199d71.1920x1080.jpg?t=1788874602"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/8ed79fc4455f081e8909838239c0aad021aa5e4d/ss_8ed79fc4455f081e8909838239c0aad021aa5e4d.600x338.jpg?t=1788874602",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/8ed79fc4455f081e8909838239c0aad021aa5e4d/ss_8ed79fc4455f081e8909838239c0aad021aa5e4d.1920x1080.jpg?t=1788874602"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/b1d845a4793140373481f6c807cc601532f029c4/ss_b1d845a4793140373481f6c807cc601532f029c4.600x338.jpg?t=1788874602",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/b1d845a4793140373481f6c807cc601532f029c4/ss_b1d845a4793140373481f6c807cc601532f029c4.1920x1080.jpg?t=1788874602"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/6b90a19669c7a5238cd0ba379859e41790b703cb/ss_6b90a19669c7a5238cd0ba379859e41790b703cb.600x338.jpg?t=1788874602",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/6b90a19669c7a5238cd0ba379859e41790b703cb/ss_6b90a19669c7a5238cd0ba379859e41790b703cb.1920x1080.jpg?t=1788874602"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/64d57813c045b3e590afa7a742ce23692f35a13e/ss_64d57813c045b3e590afa7a742ce23692f35a13e.600x338.jpg?t=1788874602",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/64d57813c045b3e590afa7a742ce23692f35a13e/ss_64d57813c045b3e590afa7a742ce23692f35a13e.1920x1080.jpg?t=1788874602"
+    },
+    {
+     "id": 10,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/83696dd445bcfa950e138d96b67d1738da6d896d/ss_83696dd445bcfa950e138d96b67d1738da6d896d.600x338.jpg?t=1788874602",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/83696dd445bcfa950e138d96b67d1738da6d896d/ss_83696dd445bcfa950e138d96b67d1738da6d896d.1920x1080.jpg?t=1788874602"
+    },
+    {
+     "id": 11,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/e168903215c0598a74fe6367ff4f250bca200813/ss_e168903215c0598a74fe6367ff4f250bca200813.600x338.jpg?t=1788874602",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/e168903215c0598a74fe6367ff4f250bca200813/ss_e168903215c0598a74fe6367ff4f250bca200813.1920x1080.jpg?t=1788874602"
+    }
+   ],
+   "movies": [
+    {
+     "id": 257031043,
+     "name": "FS25 - CGI Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257031043/990301404e8b66f1d4ef5b0aed47c9525e99fd43/movie_600x337.jpg?t=1775135523",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2300320/713557/d80de41c4a3311bc73a4d5d317bc461dff2657d5/1750811169/dash_av1.mpd?t=1775135523",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2300320/713557/d80de41c4a3311bc73a4d5d317bc461dff2657d5/1750811169/dash_h264.mpd?t=1775135523",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2300320/713557/d80de41c4a3311bc73a4d5d317bc461dff2657d5/1750811169/hls_264_master.m3u8?t=1775135523",
+     "highlight": true
+    },
+    {
+     "id": 257073020,
+     "name": "FS25 - Launch Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257073020/47f9a6a9eac3b2af052c02ebb458a37788440df9/movie_600x337.jpg?t=1731509683",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2300320/785196/06e239d4c358ae0935c00dc97da09762a68e9195/1750812242/dash_av1.mpd?t=1731509683",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2300320/785196/06e239d4c358ae0935c00dc97da09762a68e9195/1750812242/dash_h264.mpd?t=1731509683",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2300320/785196/06e239d4c358ae0935c00dc97da09762a68e9195/1750812242/hls_264_master.m3u8?t=1731509683",
+     "highlight": true
+    },
+    {
+     "id": 257067301,
+     "name": "FS25 - Feature Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257067301/59d7f0822dba8f19f34a355de13be3fff29674fe/movie_600x337.jpg?t=1729598537",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2300320/775326/49edf5c8a647f420fc0336fe88053b2316ad4650/1750811169/dash_av1.mpd?t=1729598537",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2300320/775326/49edf5c8a647f420fc0336fe88053b2316ad4650/1750811169/dash_h264.mpd?t=1729598537",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2300320/775326/49edf5c8a647f420fc0336fe88053b2316ad4650/1750811169/hls_264_master.m3u8?t=1729598537",
+     "highlight": false
+    }
+   ],
+   "recommendations": {
+    "total": 40950
+   },
+   "achievements": {
+    "total": 45,
+    "highlighted": [
+     {
+      "icon": "583476a60bf0e8da5099b173630d9282a559a751.jpg",
+      "localized_name": "公路旅行",
+      "archived": 0,
+      "hidden": 0,
+      "name": "公路旅行",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2300320/583476a60bf0e8da5099b173630d9282a559a751.jpg"
+     },
+     {
+      "icon": "5fac284c966a43d045c8f49497156f97536dbf56.jpg",
+      "localized_name": "作物不嫌少",
+      "archived": 0,
+      "hidden": 0,
+      "name": "作物不嫌少",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2300320/5fac284c966a43d045c8f49497156f97536dbf56.jpg"
+     },
+     {
+      "icon": "1fadc410ae97730cf328e0faba4f5a8ff999b6e9.jpg",
+      "localized_name": "越發複雜",
+      "archived": 0,
+      "hidden": 0,
+      "name": "越發複雜",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2300320/1fadc410ae97730cf328e0faba4f5a8ff999b6e9.jpg"
+     },
+     {
+      "icon": "bb496974b428b431d85431ec2e310581b2d24f8c.jpg",
+      "localized_name": "跳吧，駿馬",
+      "archived": 0,
+      "hidden": 0,
+      "name": "跳吧，駿馬",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2300320/bb496974b428b431d85431ec2e310581b2d24f8c.jpg"
+     },
+     {
+      "icon": "10080eabf698b24ca07e51ae20c550a93c445c64.jpg",
+      "localized_name": "你不是袋鼠",
+      "archived": 0,
+      "hidden": 0,
+      "name": "你不是袋鼠",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2300320/10080eabf698b24ca07e51ae20c550a93c445c64.jpg"
+     },
+     {
+      "icon": "9a2edcf7e6f1815d608612c641165a3cd8d2031a.jpg",
+      "localized_name": "愛馬前進！",
+      "archived": 0,
+      "hidden": 0,
+      "name": "愛馬前進！",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2300320/9a2edcf7e6f1815d608612c641165a3cd8d2031a.jpg"
+     },
+     {
+      "icon": "81ff0dcd737e1e9d0b8085ee73b1ec349bfa7a13.jpg",
+      "localized_name": "純種駿馬！",
+      "archived": 0,
+      "hidden": 0,
+      "name": "純種駿馬！",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2300320/81ff0dcd737e1e9d0b8085ee73b1ec349bfa7a13.jpg"
+     },
+     {
+      "icon": "4761e34b7db8df9df4386ff49cdccd66a77dedb2.jpg",
+      "localized_name": "助人者人助之",
+      "archived": 0,
+      "hidden": 0,
+      "name": "助人者人助之",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2300320/4761e34b7db8df9df4386ff49cdccd66a77dedb2.jpg"
+     },
+     {
+      "icon": "5e9ed49754942293a041cfb142936c17b054a178.jpg",
+      "localized_name": "幫手絕不休息",
+      "archived": 0,
+      "hidden": 0,
+      "name": "幫手絕不休息",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2300320/5e9ed49754942293a041cfb142936c17b054a178.jpg"
+     },
+     {
+      "icon": "9ca903400c47edd5d2584e2783ee221f4f90f1e9.jpg",
+      "localized_name": "剛剛開始",
+      "archived": 0,
+      "hidden": 0,
+      "name": "剛剛開始",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2300320/9ca903400c47edd5d2584e2783ee221f4f90f1e9.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2024 年 11 月 12 日"
+   },
+   "support_info": {
+    "url": "http://www.farming-simulator.com/support.php",
+    "email": "support@giants-software.com"
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2300320?t=1788874602",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/page_bg_raw.jpg?t=1788874602",
+   "content_descriptors": {
+    "ids": [],
+    "notes": null
+   },
+   "ratings": {
+    "pegi": {
+     "descriptors": "In-game purchases",
+     "rating": "3"
+    },
+    "usk": {
+     "rating": "0",
+     "descriptors": "In-Game-Käufe\r\nChats",
+     "rating_id": "55595/24"
+    },
+    "esrb": {
+     "rating": "e",
+     "interactive_elements": "Users Interact\r\nIn-Game Purchases"
+    },
+    "oflc": {
+     "rating": "g"
+    },
+    "cero": {
+     "rating": "a"
+    },
+    "kgrb": {
+     "rating": "all"
+    },
+    "dejus": {
+     "rating_generated": "1",
+     "rating": "14",
+     "required_age": "14",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": ""
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "12",
+     "required_age": "12",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": ""
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "18",
+     "required_age": "18",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Interaksi Daring"
+    }
+   }
+  }
+ }
+}

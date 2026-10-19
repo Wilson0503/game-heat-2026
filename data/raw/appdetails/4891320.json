@@ -1,0 +1,280 @@
+{
+ "4891320": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "[WoG] War of Genesis: Idle Loot",
+   "steam_appid": 4891320,
+   "required_age": 0,
+   "is_free": true,
+   "detailed_description": "<p class=\"bb_paragraph\" ><strong><u>桌面一隅，專屬於你的小戰場。</u></strong></p><p class=\"bb_paragraph\" >沒有笨重的遊戲視窗，也沒有礙眼的背景地圖。</p><p class=\"bb_paragraph\" >《War of Genesis: Idle Loot》是一款擁有透明背景、能在螢幕角落小空間流暢運行的放置刷寶 RPG。</p><p class=\"bb_paragraph\" >3D 角色進駐你的桌面角落，無論你正在做什麼，都會在你身旁不知疲倦地戰鬥。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>掛著就好，角色會自動變強。</u></strong></p><p class=\"bb_paragraph\" >無需任何複雜操作。</p><p class=\"bb_paragraph\" >無論是在工作還是睡覺，角色的成長永不停歇。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>獲得的裝備道具可在 Steam 社群市集交易。</u></strong></p><p class=\"bb_paragraph\" >在冒險中刷到的戰利品均可在市集與其他玩家進行交易。</p><p class=\"bb_paragraph\" >感受買賣辛苦收集的戰利品、充實 Steam 錢包的滿滿樂趣。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>真正的核心樂趣在於「掉寶與神裝」。</u></strong></p><p class=\"bb_paragraph\" >闖關過程中，裝備不斷掉落。</p><p class=\"bb_paragraph\" >武器、防具，甚至還有寶石！</p><p class=\"bb_paragraph\" >透過無止境的刷寶收集，打造出只屬於你的最強裝備配置。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>加入聯盟，共同成長。</u></strong></p><p class=\"bb_paragraph\" >與聯盟成員齊心協力，一同挑戰聯盟團本中的強大 Boss。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>與全球玩家同台競技的連線玩法。</u></strong></p><p class=\"bb_paragraph\" >與世界各地的玩家一同挑戰世界 Boss，帶著自己培養的角色在競技場 (PvP) 一較高下，還能在社群聊天中交流互動。</p><p class=\"bb_paragraph\" >掛機自動成長、刷寶交易獲利、與全球玩家一較高下。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >War of Genesis: Idle Loot。現在，就在你的電腦桌面。</p>",
+   "about_the_game": "<p class=\"bb_paragraph\" ><strong><u>桌面一隅，專屬於你的小戰場。</u></strong></p><p class=\"bb_paragraph\" >沒有笨重的遊戲視窗，也沒有礙眼的背景地圖。</p><p class=\"bb_paragraph\" >《War of Genesis: Idle Loot》是一款擁有透明背景、能在螢幕角落小空間流暢運行的放置刷寶 RPG。</p><p class=\"bb_paragraph\" >3D 角色進駐你的桌面角落，無論你正在做什麼，都會在你身旁不知疲倦地戰鬥。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>掛著就好，角色會自動變強。</u></strong></p><p class=\"bb_paragraph\" >無需任何複雜操作。</p><p class=\"bb_paragraph\" >無論是在工作還是睡覺，角色的成長永不停歇。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>獲得的裝備道具可在 Steam 社群市集交易。</u></strong></p><p class=\"bb_paragraph\" >在冒險中刷到的戰利品均可在市集與其他玩家進行交易。</p><p class=\"bb_paragraph\" >感受買賣辛苦收集的戰利品、充實 Steam 錢包的滿滿樂趣。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>真正的核心樂趣在於「掉寶與神裝」。</u></strong></p><p class=\"bb_paragraph\" >闖關過程中，裝備不斷掉落。</p><p class=\"bb_paragraph\" >武器、防具，甚至還有寶石！</p><p class=\"bb_paragraph\" >透過無止境的刷寶收集，打造出只屬於你的最強裝備配置。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>加入聯盟，共同成長。</u></strong></p><p class=\"bb_paragraph\" >與聯盟成員齊心協力，一同挑戰聯盟團本中的強大 Boss。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>與全球玩家同台競技的連線玩法。</u></strong></p><p class=\"bb_paragraph\" >與世界各地的玩家一同挑戰世界 Boss，帶著自己培養的角色在競技場 (PvP) 一較高下，還能在社群聊天中交流互動。</p><p class=\"bb_paragraph\" >掛機自動成長、刷寶交易獲利、與全球玩家一較高下。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >War of Genesis: Idle Loot。現在，就在你的電腦桌面。</p>",
+   "short_description": "掛著就好，其餘的交給它。在桌面的一角小空間裡，3D 角色會自己戰鬥、自己撿寶。撿到好裝備，還能上 Steam 社群市集交易。明明是放置遊戲，卻讓人忍不住一直盯著看，會上癮的刷寶樂趣。",
+   "supported_languages": "英文, 韓文, 法文, 義大利文, 德文, 西班牙文 - 西班牙, 俄文, 越南文, 烏克蘭文, 印尼語, 日文, 簡體中文, 繁體中文, 泰文, 土耳其文, 波蘭文, 葡萄牙文 - 巴西",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/80d3cc10f37c03a6b520846baf44883651132896/header.jpg?t=1791357492",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/38fa6fd404358f1eab2d2391e6b20095a32a17cb/capsule_231x87.jpg?t=1791357492",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/38fa6fd404358f1eab2d2391e6b20095a32a17cb/capsule_184x69.jpg?t=1791357492",
+   "website": null,
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 10 (64-Bit)<br></li><li><strong>處理器:</strong> Intel Core i3-6100 / AMD Ryzen 3 1200<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> GeForce GT 1030 / Intel Iris Xe / Radeon Vega 8 or better (DirectX 11 compatible)<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 3 GB 可用空間</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 11 (64-Bit)<br></li><li><strong>處理器:</strong> Intel Core i5-8400 / AMD Ryzen 5 2600<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> GeForce GTX 1050 Ti / GTX 1650 / Radeon RX 560 or better<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 3 GB 可用空間</li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "linux_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "developers": [
+    "New Normal Soft Inc."
+   ],
+   "publishers": [
+    "New Normal Soft Inc."
+   ],
+   "package_groups": [],
+   "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 49,
+     "description": "玩家對戰"
+    },
+    {
+     "id": 36,
+     "description": "線上玩家對戰"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 35,
+     "description": "應用程式內購買"
+    },
+    {
+     "id": 64,
+     "description": "可調整文字大小"
+    },
+    {
+     "id": 68,
+     "description": "自訂音量控制"
+    },
+    {
+     "id": 78,
+     "description": "可調整難度"
+    },
+    {
+     "id": 80,
+     "description": "#category_playable_at_your_own_pace"
+    },
+    {
+     "id": 74,
+     "description": "遊玩無需快速反應"
+    },
+    {
+     "id": 62,
+     "description": "親友同享"
+    }
+   ],
+   "genres": [
+    {
+     "id": "1",
+     "description": "動作"
+    },
+    {
+     "id": "4",
+     "description": "休閒"
+    },
+    {
+     "id": "3",
+     "description": "角色扮演"
+    },
+    {
+     "id": "37",
+     "description": "免費遊玩"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/fe24d82c4e9e21036d63f91835ec9ffcc390149a/ss_fe24d82c4e9e21036d63f91835ec9ffcc390149a.600x338.jpg?t=1791357492",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/fe24d82c4e9e21036d63f91835ec9ffcc390149a/ss_fe24d82c4e9e21036d63f91835ec9ffcc390149a.1920x1080.jpg?t=1791357492"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/3868c1e9d6c2c27bb684d8a3968af22fe23eed8f/ss_3868c1e9d6c2c27bb684d8a3968af22fe23eed8f.600x338.jpg?t=1791357492",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/3868c1e9d6c2c27bb684d8a3968af22fe23eed8f/ss_3868c1e9d6c2c27bb684d8a3968af22fe23eed8f.1920x1080.jpg?t=1791357492"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/f224eab9bfd6d99e7d1df006cbaed282641c0a20/ss_f224eab9bfd6d99e7d1df006cbaed282641c0a20.600x338.jpg?t=1791357492",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/f224eab9bfd6d99e7d1df006cbaed282641c0a20/ss_f224eab9bfd6d99e7d1df006cbaed282641c0a20.1920x1080.jpg?t=1791357492"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/48ac32ec6a50acd6f49c681686b3a9cb194ecdfd/ss_48ac32ec6a50acd6f49c681686b3a9cb194ecdfd.600x338.jpg?t=1791357492",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/48ac32ec6a50acd6f49c681686b3a9cb194ecdfd/ss_48ac32ec6a50acd6f49c681686b3a9cb194ecdfd.1920x1080.jpg?t=1791357492"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/5eca6687939653ed0b91a3b96e55d027fc75a925/ss_5eca6687939653ed0b91a3b96e55d027fc75a925.600x338.jpg?t=1791357492",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/5eca6687939653ed0b91a3b96e55d027fc75a925/ss_5eca6687939653ed0b91a3b96e55d027fc75a925.1920x1080.jpg?t=1791357492"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/a749243efba6c744bbfae0dde5697cddcb6b0cf9/ss_a749243efba6c744bbfae0dde5697cddcb6b0cf9.600x338.jpg?t=1791357492",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/a749243efba6c744bbfae0dde5697cddcb6b0cf9/ss_a749243efba6c744bbfae0dde5697cddcb6b0cf9.1920x1080.jpg?t=1791357492"
+    }
+   ],
+   "movies": [
+    {
+     "id": 257420333,
+     "name": "War of Genesis: Idle Loot",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420333/7c00f6ca9b5935dbc576ca76bb2c312cd9d8d6fb/movie_600x337.jpg?t=1788921196",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/4891320/1876978912/9babab644a4a8edafa685d66282a20a744629193/1788920800/dash_av1.mpd?t=1788921196",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/4891320/1876978912/9babab644a4a8edafa685d66282a20a744629193/1788920800/dash_h264.mpd?t=1788921196",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/4891320/1876978912/9babab644a4a8edafa685d66282a20a744629193/1788920800/hls_264_master.m3u8?t=1788921196",
+     "highlight": true
+    }
+   ],
+   "achievements": {
+    "total": 82,
+    "highlighted": [
+     {
+      "icon": "3d4e4a80751578463e019d3796ca70a767708cbf.jpg",
+      "localized_name": "終於摘掉新手標籤",
+      "archived": 0,
+      "hidden": 0,
+      "name": "終於摘掉新手標籤",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4891320/3d4e4a80751578463e019d3796ca70a767708cbf.jpg"
+     },
+     {
+      "icon": "8e122ec2ac682b75e08bf6d5754bede589d6c37d.jpg",
+      "localized_name": "漸漸有點名氣了？",
+      "archived": 0,
+      "hidden": 0,
+      "name": "漸漸有點名氣了？",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4891320/8e122ec2ac682b75e08bf6d5754bede589d6c37d.jpg"
+     },
+     {
+      "icon": "02549c4777ed3b692c00f7024f9081328fa75c35.jpg",
+      "localized_name": "等級就是實力",
+      "archived": 0,
+      "hidden": 0,
+      "name": "等級就是實力",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4891320/02549c4777ed3b692c00f7024f9081328fa75c35.jpg"
+     },
+     {
+      "icon": "73e101ffc86d6471edf50b36fd90f8b4d4479230.jpg",
+      "localized_name": "三位數的威嚴",
+      "archived": 0,
+      "hidden": 0,
+      "name": "三位數的威嚴",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4891320/73e101ffc86d6471edf50b36fd90f8b4d4479230.jpg"
+     },
+     {
+      "icon": "95d41f0f1f72b39b61aeec7a01f83ff9454982e9.jpg",
+      "localized_name": "口袋越來越沉了",
+      "archived": 0,
+      "hidden": 0,
+      "name": "口袋越來越沉了",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4891320/95d41f0f1f72b39b61aeec7a01f83ff9454982e9.jpg"
+     },
+     {
+      "icon": "e3006e53414221e256a549c069e4b331a0cab893.jpg",
+      "localized_name": "金幣當然越多越好",
+      "archived": 0,
+      "hidden": 0,
+      "name": "金幣當然越多越好",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4891320/e3006e53414221e256a549c069e4b331a0cab893.jpg"
+     },
+     {
+      "icon": "19a77831f4c666ec05462a4384db02758a53cac0.jpg",
+      "localized_name": "富人的格調",
+      "archived": 0,
+      "hidden": 0,
+      "name": "富人的格調",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4891320/19a77831f4c666ec05462a4384db02758a53cac0.jpg"
+     },
+     {
+      "icon": "4eb6a03f35d3f109e735016e07da84493650c148.jpg",
+      "localized_name": "金庫在尖叫",
+      "archived": 0,
+      "hidden": 0,
+      "name": "金庫在尖叫",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4891320/4eb6a03f35d3f109e735016e07da84493650c148.jpg"
+     },
+     {
+      "icon": "9efc08a9418532145b2fcc45a645fdfdf2193a28.jpg",
+      "localized_name": "遺跡只是散步路線",
+      "archived": 0,
+      "hidden": 0,
+      "name": "遺跡只是散步路線",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4891320/9efc08a9418532145b2fcc45a645fdfdf2193a28.jpg"
+     },
+     {
+      "icon": "c15cce06b6884fb53658b448e4583feb9f00af03.jpg",
+      "localized_name": "絕望也有出路",
+      "archived": 0,
+      "hidden": 0,
+      "name": "絕望也有出路",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4891320/c15cce06b6884fb53658b448e4583feb9f00af03.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2026 年 10 月 7 日"
+   },
+   "support_info": {
+    "url": "https://genesis-idleloot.zendesk.com/hc/en-us/requests/new",
+    "email": "support@newnormalsoft.com"
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4891320?t=1791357492",
+   "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4891320?t=1791357492",
+   "content_descriptors": {
+    "ids": [],
+    "notes": null
+   },
+   "ratings": {
+    "dejus": {
+     "rating_generated": "1",
+     "rating": "14",
+     "required_age": "14",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Violência"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "12",
+     "required_age": "12",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Gewalt"
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "18",
+     "required_age": "18",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Interaksi Daring\nKekerasan"
+    }
+   }
+  }
+ }
+}

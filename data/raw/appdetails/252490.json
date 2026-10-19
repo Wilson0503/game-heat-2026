@@ -1,0 +1,584 @@
+{
+ "252490": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "Rust",
+   "steam_appid": 252490,
+   "required_age": 0,
+   "is_free": false,
+   "dlc": [
+    3891560,
+    1174370,
+    1353060,
+    1670430,
+    1701720
+   ],
+   "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/extras/c3c0d6ee2da2ef810b97942e3a4c9a72.avif?t=1781536981\" width=780 height=240 /></span><br><br>在《Rust》的世界里，生存即是唯一目标。万事万物都想要置你于死地：岛上的野生动物、其他居民、环境以及其他幸存者。尽一切可能，再熬过一个晚上吧。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/extras/a7b04d13c945e945c7c813ac1a5a7706.poster.avif?t=1781536981\" width=616 height=230 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/extras/a7b04d13c945e945c7c813ac1a5a7706.webm?t=1781536981\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/extras/a7b04d13c945e945c7c813ac1a5a7706.mp4?t=1781536981\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >关于这款游戏</h2><p class=\"bb_paragraph\" >在《Rust》的世界里，生存即是唯一目标。万事万物都想要置你于死地：岛上的野生动物、其他居民、环境以及其他幸存者。尽一切可能，再熬过一个晚上吧。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >《Rust》如今已步入持续扩展的第13年，发布了超过395次内容更新，且承诺每月都将推出内容补丁。其中包括定期修复平衡性、改进人工智能和图像、更新生态环境和频繁推出新内容，例如新地图、更多武器、额外载具和大量设施物品。留意定期推出的季度活动，因为岛上总会有些趣事或险情（或有趣的险情）发生。 <br>游戏更新包括：</p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >程序生成的世界，支持社区地图编辑器</p></li><li><p class=\"bb_paragraph\" >主持你自己的服务器，可定制服务器端</p></li><li><p class=\"bb_paragraph\" >交通工具：马匹、模组化汽车、热气球、直升机、自行车、火车、游船等</p></li><li><p class=\"bb_paragraph\" >建设与洗劫基地</p></li><li><p class=\"bb_paragraph\" >全新派系、敌人和野生动物</p></li><li><p class=\"bb_paragraph\" >可供探索的进阶水下区域</p></li><li><p class=\"bb_paragraph\" >错综复杂的电力、农业和自动化系统</p></li><li><p class=\"bb_paragraph\" >可供探索的全新纪念碑、地形和区域</p></li><li><p class=\"bb_paragraph\" >大型地面和地下列车网络</p></li><li><p class=\"bb_paragraph\" >演奏乐器，在玩家们面前尽情表演</p></li><li><p class=\"bb_paragraph\" >近期的图像大升级和环境改造</p></li><li><p class=\"bb_paragraph\" >原始游戏模式、攻城武器和载具 </p></li><li><p class=\"bb_paragraph\" >全新丛林生态系，其中包括更多野兽、任务和纪念碑  </p></li><li><p class=\"bb_paragraph\" >2026年新增内容：模组化游船、深海、热带岛屿、浮游城市，以及更多精彩内容！</p></li></ul><p class=\"bb_paragraph\" >本年后续还将推出更多内容，其中包括玩家角色的模型更新、公寓楼群纪念碑、更多动物，以及针对洞穴和隧道的升级！<br><br><br><strong>探索</strong><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/extras/556d91d6a80c24f9b834691f3cbc708a.avif?t=1781536981\" width=628 height=200 /></span></p><p class=\"bb_paragraph\" >你在某座神秘岛屿上醒来，身上一丝不挂，随身物品只有一块石头和一支火炬。你需要勇敢面对大自然中的危险和挑战（从炎热和寒冷，再到口渴和饥饿）、建造庇护所、进食（或成为别人的盘中餐），以及搜刮素材。探索岛屿及其废弃的定居点、神秘的纪念碑和霸占它们的派系。 <br>但最关键的是，密切关注其他幸存者的动向……</p><h2 class=\"bb_tag\" ><strong>建造</strong><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/extras/3c3add8a8c81131fc72d637ecbb61e51.avif?t=1781536981\" width=628 height=200 /></span></h2><p class=\"bb_paragraph\" >设计和建造基地来存放你的战利品、捍卫你的领土并控制岛上的资源。研究科技树、发展农场、分配电力并征用各种交通工具穿越岛屿。尽一切可能夺得先机。</p><h2 class=\"bb_tag\" ><strong>求生</strong><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/extras/3e32097a3c30052cf4ef0f0abb2be54b.avif?t=1781536981\" width=628 height=200 /></span></h2><p class=\"bb_paragraph\" >《Rust》的世界里没有规则，规则由你来定。制作工具、盔甲和武器来保护自己。与朋友合作、结盟，共同建立定居点。探索岛屿，了解岛上动态，与其他玩家交易，或将他们洗劫一空，突袭他们的基地并抢走他们来之不易的货物。</p><p class=\"bb_paragraph\" ></p>",
+   "about_the_game": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/extras/c3c0d6ee2da2ef810b97942e3a4c9a72.avif?t=1781536981\" width=780 height=240 /></span><br><br>在《Rust》的世界里，生存即是唯一目标。万事万物都想要置你于死地：岛上的野生动物、其他居民、环境以及其他幸存者。尽一切可能，再熬过一个晚上吧。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/extras/a7b04d13c945e945c7c813ac1a5a7706.poster.avif?t=1781536981\" width=616 height=230 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/extras/a7b04d13c945e945c7c813ac1a5a7706.webm?t=1781536981\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/extras/a7b04d13c945e945c7c813ac1a5a7706.mp4?t=1781536981\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >关于这款游戏</h2><p class=\"bb_paragraph\" >在《Rust》的世界里，生存即是唯一目标。万事万物都想要置你于死地：岛上的野生动物、其他居民、环境以及其他幸存者。尽一切可能，再熬过一个晚上吧。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >《Rust》如今已步入持续扩展的第13年，发布了超过395次内容更新，且承诺每月都将推出内容补丁。其中包括定期修复平衡性、改进人工智能和图像、更新生态环境和频繁推出新内容，例如新地图、更多武器、额外载具和大量设施物品。留意定期推出的季度活动，因为岛上总会有些趣事或险情（或有趣的险情）发生。 <br>游戏更新包括：</p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >程序生成的世界，支持社区地图编辑器</p></li><li><p class=\"bb_paragraph\" >主持你自己的服务器，可定制服务器端</p></li><li><p class=\"bb_paragraph\" >交通工具：马匹、模组化汽车、热气球、直升机、自行车、火车、游船等</p></li><li><p class=\"bb_paragraph\" >建设与洗劫基地</p></li><li><p class=\"bb_paragraph\" >全新派系、敌人和野生动物</p></li><li><p class=\"bb_paragraph\" >可供探索的进阶水下区域</p></li><li><p class=\"bb_paragraph\" >错综复杂的电力、农业和自动化系统</p></li><li><p class=\"bb_paragraph\" >可供探索的全新纪念碑、地形和区域</p></li><li><p class=\"bb_paragraph\" >大型地面和地下列车网络</p></li><li><p class=\"bb_paragraph\" >演奏乐器，在玩家们面前尽情表演</p></li><li><p class=\"bb_paragraph\" >近期的图像大升级和环境改造</p></li><li><p class=\"bb_paragraph\" >原始游戏模式、攻城武器和载具 </p></li><li><p class=\"bb_paragraph\" >全新丛林生态系，其中包括更多野兽、任务和纪念碑  </p></li><li><p class=\"bb_paragraph\" >2026年新增内容：模组化游船、深海、热带岛屿、浮游城市，以及更多精彩内容！</p></li></ul><p class=\"bb_paragraph\" >本年后续还将推出更多内容，其中包括玩家角色的模型更新、公寓楼群纪念碑、更多动物，以及针对洞穴和隧道的升级！<br><br><br><strong>探索</strong><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/extras/556d91d6a80c24f9b834691f3cbc708a.avif?t=1781536981\" width=628 height=200 /></span></p><p class=\"bb_paragraph\" >你在某座神秘岛屿上醒来，身上一丝不挂，随身物品只有一块石头和一支火炬。你需要勇敢面对大自然中的危险和挑战（从炎热和寒冷，再到口渴和饥饿）、建造庇护所、进食（或成为别人的盘中餐），以及搜刮素材。探索岛屿及其废弃的定居点、神秘的纪念碑和霸占它们的派系。 <br>但最关键的是，密切关注其他幸存者的动向……</p><h2 class=\"bb_tag\" ><strong>建造</strong><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/extras/3c3add8a8c81131fc72d637ecbb61e51.avif?t=1781536981\" width=628 height=200 /></span></h2><p class=\"bb_paragraph\" >设计和建造基地来存放你的战利品、捍卫你的领土并控制岛上的资源。研究科技树、发展农场、分配电力并征用各种交通工具穿越岛屿。尽一切可能夺得先机。</p><h2 class=\"bb_tag\" ><strong>求生</strong><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/extras/3e32097a3c30052cf4ef0f0abb2be54b.avif?t=1781536981\" width=628 height=200 /></span></h2><p class=\"bb_paragraph\" >《Rust》的世界里没有规则，规则由你来定。制作工具、盔甲和武器来保护自己。与朋友合作、结盟，共同建立定居点。探索岛屿，了解岛上动态，与其他玩家交易，或将他们洗劫一空，突袭他们的基地并抢走他们来之不易的货物。</p><p class=\"bb_paragraph\" ></p>",
+   "short_description": "The only aim in Rust is to survive. Everything wants you to die - the island’s wildlife, other inhabitants, the environment, and other survivors. Do whatever it takes to last another night.",
+   "supported_languages": "英文<strong>*</strong>, 法文<strong>*</strong>, 義大利文<strong>*</strong>, 德文<strong>*</strong>, 西班牙文 - 西班牙<strong>*</strong>, 日文<strong>*</strong>, 韓文<strong>*</strong>, 俄文<strong>*</strong>, 簡體中文<strong>*</strong>, 烏克蘭文<strong>*</strong>, 波蘭文<strong>*</strong>, 葡萄牙文 - 葡萄牙<strong>*</strong>, 土耳其文<strong>*</strong>, 阿拉伯文, 捷克文, 丹麥文, 荷蘭文, 芬蘭文, 希臘文, 挪威文, 葡萄牙文 - 巴西, 西班牙文 - 拉丁美洲, 瑞典文, 繁體中文, 越南文<br><strong>*</strong>具備完整音效支援的語言",
+   "reviews": "“Rust is one of the cruelest games on Steam, and that's what makes it so compelling.”<br>PC Gamer<br><br>“Usually, people will just kill you on sight, but not always.”<br>Rock Paper Shotgun<br><br>“For competitive players who want a mix of survival and crafting, Rust is the best there is”<br>IGN<br>",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/21aac0b6e20e1ba12f635e7deb730e32a51afbd5/capsule_231x87.jpg?t=1781536981",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/21aac0b6e20e1ba12f635e7deb730e32a51afbd5/capsule_184x69.jpg?t=1781536981",
+   "website": "http://rust.facepunch.com/",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 11 64bit<br></li><li><strong>處理器:</strong> AMD Ryzen 5 1400 or Intel Core i5-6600<br></li><li><strong>記憶體:</strong> 12 GB 記憶體<br></li><li><strong>顯示卡:</strong> AMD Radeon RX 470, NVIDIA GeForce GTX 1060, Intel® Arc™ A580<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 45 GB 可用空間<br></li><li><strong>備註:</strong> SSD is highly recommended or expect longer than average load times.</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 11 64bit<br></li><li><strong>處理器:</strong> AMD Ryzen 7 3700X or Intel® Core i7-6700K<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> AMD Radeon RX 6600XT, NVIDIA GeForce RTX 3060, Intel Arc B580<br></li><li><strong>DirectX:</strong> 版本：12<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 45 GB 可用空間<br></li><li><strong>備註:</strong> SSD Required</li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> macOS Monterey (version 12)<br></li><li><strong>處理器:</strong> Apple M1<br></li><li><strong>記憶體:</strong> 12 GB 記憶體<br></li><li><strong>顯示卡:</strong> Apple M1<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 45 GB 可用空間</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> macOS Monterey (version 12)<br></li><li><strong>處理器:</strong> Apple M1 Pro / Max / Ultra<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> Apple M1 Pro / Max / Ultra<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 45 GB 可用空間</li></ul>"
+   },
+   "linux_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>處理器:</strong> Intel Core i7-3770 / AMD FX-9590 or better<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> GTX 670 2GB / AMD R9 280 better<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 10 GB 可用空間</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>處理器:</strong> Intel Core i7-4690K / AMD Ryzen 5 1600<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> GTX 980 / AMD R9 Fury<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 12 GB 可用空間</li></ul>"
+   },
+   "developers": [
+    "Facepunch Studios"
+   ],
+   "publishers": [
+    "Facepunch Studios"
+   ],
+   "price_overview": {
+    "currency": "TWD",
+    "initial": 69900,
+    "final": 69900,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "NT$ 699"
+   },
+   "packages": [
+    244390
+   ],
+   "package_groups": [
+    {
+     "name": "default",
+     "title": "購買 Rust",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 244390,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "Rust - NT$ 699",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 69900
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+   },
+   "metacritic": {
+    "score": 69,
+    "url": "https://www.metacritic.com/game/pc/rust?ftag=MCD-06-10aaa1f"
+   },
+   "categories": [
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 20,
+     "description": "大型多人線上"
+    },
+    {
+     "id": 49,
+     "description": "玩家對戰"
+    },
+    {
+     "id": 36,
+     "description": "線上玩家對戰"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 27,
+     "description": "跨平台多人連線"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 29,
+     "description": "Steam 交換卡片"
+    },
+    {
+     "id": 30,
+     "description": "Steam 工作坊"
+    },
+    {
+     "id": 35,
+     "description": "應用程式內購買"
+    },
+    {
+     "id": 64,
+     "description": "可調整文字大小"
+    },
+    {
+     "id": 67,
+     "description": "鏡頭舒適度"
+    },
+    {
+     "id": 66,
+     "description": "顏色替代選項"
+    },
+    {
+     "id": 68,
+     "description": "自訂音量控制"
+    },
+    {
+     "id": 78,
+     "description": "可調整難度"
+    },
+    {
+     "id": 69,
+     "description": "立體聲"
+    },
+    {
+     "id": 65,
+     "description": "字幕選項"
+    },
+    {
+     "id": 70,
+     "description": "環繞音效"
+    },
+    {
+     "id": 8,
+     "description": "具有 Valve 防作弊系統"
+    },
+    {
+     "id": 15,
+     "description": "統計"
+    },
+    {
+     "id": 42,
+     "description": "在平板上遠端暢玩"
+    }
+   ],
+   "genres": [
+    {
+     "id": "1",
+     "description": "動作"
+    },
+    {
+     "id": "25",
+     "description": "冒險"
+    },
+    {
+     "id": "23",
+     "description": "獨立製作"
+    },
+    {
+     "id": "29",
+     "description": "大型多人連線"
+    },
+    {
+     "id": "3",
+     "description": "角色扮演"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_271feae67943bdc141c1249aba116349397e9ba9.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_271feae67943bdc141c1249aba116349397e9ba9.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_e825b087b95e51c3534383cfd75ad6e8038147c3.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_e825b087b95e51c3534383cfd75ad6e8038147c3.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_0e646f1a70e5cb8eed00efef8adb9579d40d5b2e.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_0e646f1a70e5cb8eed00efef8adb9579d40d5b2e.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/69dc23d53163b755e809a562a377bd276154c70e/ss_69dc23d53163b755e809a562a377bd276154c70e.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/69dc23d53163b755e809a562a377bd276154c70e/ss_69dc23d53163b755e809a562a377bd276154c70e.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_1c2d0d1eefee54f0c67626c74eb21699bbb0ef52.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_1c2d0d1eefee54f0c67626c74eb21699bbb0ef52.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_d0fdacaeef5a28a7cee525fd73376adfe083c964.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_d0fdacaeef5a28a7cee525fd73376adfe083c964.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_bbf6c96e490326ec877ae548cb148e53516b5f83.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_bbf6c96e490326ec877ae548cb148e53516b5f83.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_2a8518810024a5fbf9c714e697a43a1201b5d53e.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_2a8518810024a5fbf9c714e697a43a1201b5d53e.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_c88939db635d959b25eb1bcf9b4c4dcdec04b3fe.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_c88939db635d959b25eb1bcf9b4c4dcdec04b3fe.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_eafe26f0577f9fc25d7a89884ea6f40381973c8a.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_eafe26f0577f9fc25d7a89884ea6f40381973c8a.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 10,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_9652dbaf2de41b8c8f8305af714ee258564c453d.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_9652dbaf2de41b8c8f8305af714ee258564c453d.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 11,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/69d62fcffcc5db58fb8459b84ca9d0f2c0b5cf53/ss_69d62fcffcc5db58fb8459b84ca9d0f2c0b5cf53.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/69d62fcffcc5db58fb8459b84ca9d0f2c0b5cf53/ss_69d62fcffcc5db58fb8459b84ca9d0f2c0b5cf53.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 12,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_803a18bcbf6004706f12a1f88bb3cadbd9ac5f5b.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_803a18bcbf6004706f12a1f88bb3cadbd9ac5f5b.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 13,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_aaa718a3cb0696a816456283526842c4f2d6b1bc.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_aaa718a3cb0696a816456283526842c4f2d6b1bc.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 14,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_24483e657f7e59d74e4914f79c51d9c821454e98.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_24483e657f7e59d74e4914f79c51d9c821454e98.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 15,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_dd5a5bf9a19b8b8a078dfdae8b7e09c0e78d2b4d.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_dd5a5bf9a19b8b8a078dfdae8b7e09c0e78d2b4d.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 16,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_651097c65458ae555b42c42dd9667d7174397bdf.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_651097c65458ae555b42c42dd9667d7174397bdf.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 17,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_40bde646d6ed6ebda0d7f42f52d66d147935bbfa.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_40bde646d6ed6ebda0d7f42f52d66d147935bbfa.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 18,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_21afaa3e6697adbb9173e0266c9de913a5a05457.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_21afaa3e6697adbb9173e0266c9de913a5a05457.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 19,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_9264a17b6bc1b3f9df55cf2aafcc25c6188bba59.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_9264a17b6bc1b3f9df55cf2aafcc25c6188bba59.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 20,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_69b259a1ab43e2e12f119ecb6b48117a7ff0b216.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_69b259a1ab43e2e12f119ecb6b48117a7ff0b216.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 21,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ab3ddbe806dc742b564edd41ce5fa6480a0e1a47/ss_ab3ddbe806dc742b564edd41ce5fa6480a0e1a47.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ab3ddbe806dc742b564edd41ce5fa6480a0e1a47/ss_ab3ddbe806dc742b564edd41ce5fa6480a0e1a47.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 22,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_2166031b7e6eaedae3dfd8966421c6c4703b89ef.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_2166031b7e6eaedae3dfd8966421c6c4703b89ef.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 23,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_6c6269c7c6164876585e0728742156b49af966af.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_6c6269c7c6164876585e0728742156b49af966af.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 24,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_3834344f4f347f133a70096113d71ab3c5a7d587.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_3834344f4f347f133a70096113d71ab3c5a7d587.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 25,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_f05168330593f4f476cd4a6a6094b248c7c8556e.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_f05168330593f4f476cd4a6a6094b248c7c8556e.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 26,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/6235d6bfe7e623b96de879dd6d57e1890464206f/ss_6235d6bfe7e623b96de879dd6d57e1890464206f.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/6235d6bfe7e623b96de879dd6d57e1890464206f/ss_6235d6bfe7e623b96de879dd6d57e1890464206f.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 27,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_a63f203245f322f28cf489bf46beaeec780cccec.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_a63f203245f322f28cf489bf46beaeec780cccec.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 28,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/adcd2bf3ace8622d1654865ac3c461f6e122df76/ss_adcd2bf3ace8622d1654865ac3c461f6e122df76.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/adcd2bf3ace8622d1654865ac3c461f6e122df76/ss_adcd2bf3ace8622d1654865ac3c461f6e122df76.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 29,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_326282c7485e8aff1ebf6750c82622afef098998.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_326282c7485e8aff1ebf6750c82622afef098998.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 30,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_08a111660a92c33c10d62e74620d258c216fd0bb.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_08a111660a92c33c10d62e74620d258c216fd0bb.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 31,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/48b357bc6bb912333f362629bae43b32ec4c8081/ss_48b357bc6bb912333f362629bae43b32ec4c8081.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/48b357bc6bb912333f362629bae43b32ec4c8081/ss_48b357bc6bb912333f362629bae43b32ec4c8081.1920x1080.jpg?t=1781536981"
+    },
+    {
+     "id": 32,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/166928c0b3ccffbf0ed14bde3ecffeeadc541e7a/ss_166928c0b3ccffbf0ed14bde3ecffeeadc541e7a.600x338.jpg?t=1781536981",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/166928c0b3ccffbf0ed14bde3ecffeeadc541e7a/ss_166928c0b3ccffbf0ed14bde3ecffeeadc541e7a.1920x1080.jpg?t=1781536981"
+    }
+   ],
+   "movies": [
+    {
+     "id": 256684736,
+     "name": "Official Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256684736/movie.293x165.jpg?t=1699598112",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/252490/102019/c573f5b01317174c7ae20a0abbcc3a39ccad32c2/1750487766/dash_av1.mpd?t=1699598112",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/252490/102019/c573f5b01317174c7ae20a0abbcc3a39ccad32c2/1750487766/dash_h264.mpd?t=1699598112",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/252490/102019/c573f5b01317174c7ae20a0abbcc3a39ccad32c2/1750487766/hls_264_master.m3u8?t=1699598112",
+     "highlight": true
+    },
+    {
+     "id": 257095612,
+     "name": "The Primitive Update",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257095612/39280f7c0269609c64da103a559d2476201324e4/movie_600x337.jpg?t=1738927715",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/252490/824633/5cc1654f16b5276ffc863ba20a16278255996ceb/1750487790/dash_av1.mpd?t=1738927715",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/252490/824633/5cc1654f16b5276ffc863ba20a16278255996ceb/1750487790/dash_h264.mpd?t=1738927715",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/252490/824633/5cc1654f16b5276ffc863ba20a16278255996ceb/1750487790/hls_264_master.m3u8?t=1738927715",
+     "highlight": true
+    },
+    {
+     "id": 256791647,
+     "name": "World Update 2.0",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256791647/20493083c046e6a02ba9af308eb683872764af34/movie_600x337.jpg?t=1736337052",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/252490/296402/e37c6d86e5500349a2eb83ba4c4691b59a3f6944/1750487788/dash_av1.mpd?t=1736337052",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/252490/296402/e37c6d86e5500349a2eb83ba4c4691b59a3f6944/1750487788/dash_h264.mpd?t=1736337052",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/252490/296402/e37c6d86e5500349a2eb83ba4c4691b59a3f6944/1750487788/hls_264_master.m3u8?t=1736337052",
+     "highlight": true
+    },
+    {
+     "id": 256761600,
+     "name": "Scrap Helicopter",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256761600/movie.293x165.jpg?t=1699598120",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/252490/242376/dc8326605886898c86189b549303e57fad692554/1750487768/dash_av1.mpd?t=1699598120",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/252490/242376/dc8326605886898c86189b549303e57fad692554/1750487768/dash_h264.mpd?t=1699598120",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/252490/242376/dc8326605886898c86189b549303e57fad692554/1750487768/hls_264_master.m3u8?t=1699598120",
+     "highlight": true
+    }
+   ],
+   "recommendations": {
+    "total": 1175818
+   },
+   "achievements": {
+    "total": 116,
+    "highlighted": [
+     {
+      "icon": "8dde5848abac85e61a376bcadc2a6f267c909324.jpg",
+      "localized_name": "Place Camp Fire",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Place Camp Fire",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/252490/8dde5848abac85e61a376bcadc2a6f267c909324.jpg"
+     },
+     {
+      "icon": "f0284c3969b32b838a65da0327c72055182244a7.jpg",
+      "localized_name": "Craft Camp Fire",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Craft Camp Fire",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/252490/f0284c3969b32b838a65da0327c72055182244a7.jpg"
+     },
+     {
+      "icon": "d896ed9975dc2b03acc89625ed7b70827354f625.jpg",
+      "localized_name": "Collect Wood",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Collect Wood",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/252490/d896ed9975dc2b03acc89625ed7b70827354f625.jpg"
+     },
+     {
+      "icon": "e73a5b8d19963a652ed5bd3b63a8e5cb24d8969d.jpg",
+      "localized_name": "Craft Stone Hatchet",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Craft Stone Hatchet",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/252490/e73a5b8d19963a652ed5bd3b63a8e5cb24d8969d.jpg"
+     },
+     {
+      "icon": "9bb0de24d60c60fed3ecf424a8c88138d32768aa.jpg",
+      "localized_name": "Collect 200 Stone",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Collect 200 Stone",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/252490/9bb0de24d60c60fed3ecf424a8c88138d32768aa.jpg"
+     },
+     {
+      "icon": "d02b8e1965d9d46c94406740bf87b50ff309f476.jpg",
+      "localized_name": "Craft Stone Pickaxe",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Craft Stone Pickaxe",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/252490/d02b8e1965d9d46c94406740bf87b50ff309f476.jpg"
+     },
+     {
+      "icon": "1de5839ab559cf5e0254b56edaf08056d064b6af.jpg",
+      "localized_name": "Place Sleeping Bag",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Place Sleeping Bag",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/252490/1de5839ab559cf5e0254b56edaf08056d064b6af.jpg"
+     },
+     {
+      "icon": "4ddf4089ef99a6127829e55fcd83882bd5a5115f.jpg",
+      "localized_name": "Collect 700 Wood",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Collect 700 Wood",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/252490/4ddf4089ef99a6127829e55fcd83882bd5a5115f.jpg"
+     },
+     {
+      "icon": "508043e2b9e9a18435f06128bc157c4b87d38437.jpg",
+      "localized_name": "Craft Spear",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Craft Spear",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/252490/508043e2b9e9a18435f06128bc157c4b87d38437.jpg"
+     },
+     {
+      "icon": "8fbbef71f79837d2b1fd523de8dbd66725d437a1.jpg",
+      "localized_name": "Craft Sleeping Bag",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Craft Sleeping Bag",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/252490/8fbbef71f79837d2b1fd523de8dbd66725d437a1.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2018 年 2 月 8 日"
+   },
+   "support_info": {
+    "url": "http://support.facepunchstudios.com/",
+    "email": ""
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/252490?t=1781536981",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/page_bg_raw.jpg?t=1781536981",
+   "content_descriptors": {
+    "ids": [
+     1,
+     2,
+     5
+    ],
+    "notes": "Contains violence and caveman themed nudity.\r\n\r\nIn-game nudity, blood, player-made signs, voice chat and text chat can be disabled from the in-game options menu."
+   },
+   "ratings": {
+    "esrb": {
+     "use_age_gate": "true",
+     "required_age": "17"
+    },
+    "pegi": {
+     "use_age_gate": "true",
+     "required_age": "17"
+    },
+    "bbfc": {
+     "use_age_gate": "true",
+     "required_age": "17"
+    },
+    "usk": {
+     "use_age_gate": "true",
+     "required_age": "17"
+    },
+    "oflc": {
+     "use_age_gate": "true",
+     "required_age": "17"
+    },
+    "nzoflc": {
+     "use_age_gate": "true",
+     "required_age": "17"
+    },
+    "cero": {
+     "use_age_gate": "true",
+     "required_age": "17"
+    },
+    "dejus": {
+     "use_age_gate": "true",
+     "required_age": "18",
+     "rating": "18",
+     "descriptors": "Violência fantasiosa\r\nViolência\r\nMedo\r\nLinguagem imprópria\r\nNudez"
+    },
+    "mda": {
+     "use_age_gate": "true",
+     "required_age": "17"
+    },
+    "fpb": {
+     "use_age_gate": "true",
+     "required_age": "17"
+    },
+    "csrr": {
+     "use_age_gate": "true",
+     "required_age": "17"
+    },
+    "crl": {
+     "use_age_gate": "true",
+     "required_age": "17"
+    },
+    "kgrb": {
+     "rating": "18",
+     "required_age": "18"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "16",
+     "required_age": "16",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Drastische Gewalt"
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "BANNED",
+     "required_age": "2147483647",
+     "banned": "1",
+     "use_age_gate": "0",
+     "descriptors": "Interaksi Daring\nKekerasan"
+    }
+   }
+  }
+ }
+}

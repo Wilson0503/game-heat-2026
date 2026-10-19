@@ -1,0 +1,380 @@
+{
+ "1085660": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "天命2",
+   "steam_appid": 1085660,
+   "required_age": 0,
+   "is_free": true,
+   "dlc": [
+    3186540,
+    3186490,
+    2336880,
+    1945340,
+    1656330,
+    1656370,
+    1314563,
+    1090200,
+    1090150,
+    1745440,
+    1569630,
+    4562000
+   ],
+   "detailed_description": "<p class=\"bb_paragraph\" >探索太陽系的謎團，體驗《天命2》緊張刺激的第一人稱射擊戰鬥。解鎖強大的元素技能並收集獨一無二的裝備，自訂你守護者的外觀和遊戲風格。單人或與朋友投身《天命2》電影般的劇情、高難度任務，以及各種PvP模式。今天就免費下載，在浩瀚的宇宙星空中寫下自己的傳奇。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>引人入勝的劇情</strong></p><p class=\"bb_paragraph\" >邪惡勢力壟罩著太陽系，你是守護者，捍衛著人類的最終城邦。守護星空、誓死抵禦黯黑力量。你的傳奇就此展開。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>守護者職業</strong></p><p class=\"bb_paragraph\" >選擇重裝的泰坦、神秘的術士、或是迅捷的獵人。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>泰坦</strong></p><p class=\"bb_paragraph\" >嚴守戒律、無比自豪的泰坦，可以成為積極進攻者或堅實的禦牆。舉起你炙熱的鐵鎚，用閃電劈開九重天，與對手正面對決。你的戰隊會在你強大的護盾後無堅不摧。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>術士</strong></p><p class=\"bb_paragraph\" >術士將宇宙的神祕力量化為武器，一方面保護自己，另一方面毀滅他們的敵人。戰場上大雨的毀滅，眨眼之間，成群敵人一一潰散。與你並肩作戰的人會知道光能的真實力量。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>獵人</strong></p><p class=\"bb_paragraph\" >靈敏且大膽。獵人行動敏捷、出手迅捷。扇動你黃金槍之鎚，像風一樣橫掃眾敵，或者從黯黑力量中突襲。找到敵人、瞄準目標，然後先發制人。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>團隊合作和競賽對戰的多人遊戲</strong></p><p class=\"bb_paragraph\" >在各種PvE與PvP遊戲模式中和好友一起玩，或是跟朋友和其他守護者對戰。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>團隊合作的多人遊戲</strong></p><p class=\"bb_paragraph\" >驚心動魄的合作探險任務等你掠奪稀有、強大的獎勵。享受有著各種主、副任務與巡邏任務的故事情節。召集一支火力戰隊，在完成迅雷不急掩耳的突擊任務後收下寶箱，或是進行掠奪任務耐久戰——所有火力戰隊的終極挑戰。如何撰寫你的傳奇，你說了算。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>競賽對戰的多人遊戲</strong></p><p class=\"bb_paragraph\" >在免費開放且快節奏的自由混戰、團隊競技場和PvE/PvP混合競賽中與其他玩家正面對決。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>異域武器與防具</strong></p><p class=\"bb_paragraph\" >數以千計的武器、數以萬計的選擇。發掘全新的裝備組合、定義自己的個人風格。完美軍火之旅正式展開。</p>",
+   "about_the_game": "<p class=\"bb_paragraph\" >探索太陽系的謎團，體驗《天命2》緊張刺激的第一人稱射擊戰鬥。解鎖強大的元素技能並收集獨一無二的裝備，自訂你守護者的外觀和遊戲風格。單人或與朋友投身《天命2》電影般的劇情、高難度任務，以及各種PvP模式。今天就免費下載，在浩瀚的宇宙星空中寫下自己的傳奇。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>引人入勝的劇情</strong></p><p class=\"bb_paragraph\" >邪惡勢力壟罩著太陽系，你是守護者，捍衛著人類的最終城邦。守護星空、誓死抵禦黯黑力量。你的傳奇就此展開。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>守護者職業</strong></p><p class=\"bb_paragraph\" >選擇重裝的泰坦、神秘的術士、或是迅捷的獵人。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>泰坦</strong></p><p class=\"bb_paragraph\" >嚴守戒律、無比自豪的泰坦，可以成為積極進攻者或堅實的禦牆。舉起你炙熱的鐵鎚，用閃電劈開九重天，與對手正面對決。你的戰隊會在你強大的護盾後無堅不摧。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>術士</strong></p><p class=\"bb_paragraph\" >術士將宇宙的神祕力量化為武器，一方面保護自己，另一方面毀滅他們的敵人。戰場上大雨的毀滅，眨眼之間，成群敵人一一潰散。與你並肩作戰的人會知道光能的真實力量。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>獵人</strong></p><p class=\"bb_paragraph\" >靈敏且大膽。獵人行動敏捷、出手迅捷。扇動你黃金槍之鎚，像風一樣橫掃眾敵，或者從黯黑力量中突襲。找到敵人、瞄準目標，然後先發制人。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>團隊合作和競賽對戰的多人遊戲</strong></p><p class=\"bb_paragraph\" >在各種PvE與PvP遊戲模式中和好友一起玩，或是跟朋友和其他守護者對戰。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>團隊合作的多人遊戲</strong></p><p class=\"bb_paragraph\" >驚心動魄的合作探險任務等你掠奪稀有、強大的獎勵。享受有著各種主、副任務與巡邏任務的故事情節。召集一支火力戰隊，在完成迅雷不急掩耳的突擊任務後收下寶箱，或是進行掠奪任務耐久戰——所有火力戰隊的終極挑戰。如何撰寫你的傳奇，你說了算。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>競賽對戰的多人遊戲</strong></p><p class=\"bb_paragraph\" >在免費開放且快節奏的自由混戰、團隊競技場和PvE/PvP混合競賽中與其他玩家正面對決。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>異域武器與防具</strong></p><p class=\"bb_paragraph\" >數以千計的武器、數以萬計的選擇。發掘全新的裝備組合、定義自己的個人風格。完美軍火之旅正式展開。</p>",
+   "short_description": "探索太陽系的謎團，體驗《天命2》緊張刺激的第一人稱射擊戰鬥。解鎖強大技能，並在劇情任務、合作模式與PvP模式中收集獨特裝備。",
+   "supported_languages": "英文<strong>*</strong>, 法文<strong>*</strong>, 義大利文<strong>*</strong>, 德文<strong>*</strong>, 西班牙文 - 西班牙<strong>*</strong>, 日文<strong>*</strong>, 韓文<strong>*</strong>, 波蘭文<strong>*</strong>, 葡萄牙文 - 巴西<strong>*</strong>, 俄文<strong>*</strong>, 簡體中文<strong>*</strong>, 西班牙文 - 拉丁美洲<strong>*</strong>, 繁體中文<br><strong>*</strong>具備完整音效支援的語言",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/0ccf0dc0a8c4ec078db7ab99ddc820b2fa884441/header.jpg?t=1781815889",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/953a00adc58cc0758102a5026dda6f2a76a5a6a1/capsule_231x87.jpg?t=1781815889",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/953a00adc58cc0758102a5026dda6f2a76a5a6a1/capsule_184x69.jpg?t=1781815889",
+   "website": "https://www.bungie.net/",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows® 10 64-bit (latest Service Pack)<br></li><li><strong>處理器:</strong> Intel® Core™ i3 3250 3.5 GHz or Intel Pentium G4560 3.5 GHz / AMD FX-4350 4.2 GHz<br></li><li><strong>記憶體:</strong> 6 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA® GeForce® GTX 660 2GB or GTX 1050 2GB / AMD Radeon HD 7850 2GB<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 105 GB 可用空間<br></li><li><strong>備註:</strong> Beginning on June 4, 2024, Destiny 2 is ending support for Windows 7, Windows 8, and Windows 8.1 operating systems.</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows® 10 64-bit (latest Service Pack)<br></li><li><strong>處理器:</strong> Processor Intel® Core™ i5 2400 3.4 GHz or i5 7400 3.5 GHz / AMD Ryzen R5 1600X 3.6 GHz<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA® GeForce® GTX 970 4GB or GTX 1060 6GB / AMD R9 390 8GB Memory 8 GB RAM<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 105 GB 可用空間<br></li><li><strong>備註:</strong> Beginning on June 4, 2024, Destiny 2 is ending support for Windows 7, Windows 8, and Windows 8.1 operating systems.</li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "linux_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "legal_notice": "最少需要105 GB的可用硬碟儲存空間，以2020年11月11日為準。容量要求有可能增加。在2020年11月11日後，請於購買前造訪www.destinythegame.com/size-requirements瞭解現行的需求。相關設定、功能、以及更新可能需要額外容量，包括下載繼續遊玩所必需之遊戲更新等。使用者必須自行負擔遊玩遊戲所需之寬頻網路費用。線上內容與功能可能需要額外收費<br />\r\n <br />\r\n《天命2》包含閃爍的圖形和影像，並可能會對一小部分敏感的人造成影響，敬請留意。<br />\r\n<br />\r\n使用本軟體，代表你已接受《天命》軟體授權協議：www.bungie.net/sla。Bungie有權隨時修改或終止線上服務，而不另行通知。<br />\r\n <br />\r\n© 2026 Bungie, Inc. 版權所有。天命、天命標誌、Bungie及Bungie標誌為Bungie, Inc.的商標。",
+   "developers": [
+    "Bungie"
+   ],
+   "publishers": [
+    "Bungie"
+   ],
+   "packages": [
+    400554
+   ],
+   "package_groups": [
+    {
+     "name": "default",
+     "title": "購買 天命2",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 400554,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "Destiny 2 - Commercial License (Free) - 免費",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": true,
+       "price_in_cents_with_discount": 0
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+   },
+   "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/destiny-2?ftag=MCD-06-10aaa1f"
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 49,
+     "description": "玩家對戰"
+    },
+    {
+     "id": 36,
+     "description": "線上玩家對戰"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 35,
+     "description": "應用程式內購買"
+    },
+    {
+     "id": 66,
+     "description": "顏色替代選項"
+    },
+    {
+     "id": 68,
+     "description": "自訂音量控制"
+    },
+    {
+     "id": 55,
+     "description": "DUALSHOCK 控制器支援"
+    },
+    {
+     "id": 57,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 65,
+     "description": "字幕選項"
+    },
+    {
+     "id": 18,
+     "description": "部分控制器支援"
+    },
+    {
+     "id": 62,
+     "description": "親友同享"
+    }
+   ],
+   "genres": [
+    {
+     "id": "1",
+     "description": "動作"
+    },
+    {
+     "id": "25",
+     "description": "冒險"
+    },
+    {
+     "id": "37",
+     "description": "免費遊玩"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/d7038cee22b9de60003e7bbc07d65069ad6044ab/ss_d7038cee22b9de60003e7bbc07d65069ad6044ab.600x338.jpg?t=1781815889",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/d7038cee22b9de60003e7bbc07d65069ad6044ab/ss_d7038cee22b9de60003e7bbc07d65069ad6044ab.1920x1080.jpg?t=1781815889"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/766aedcb8d2eb8fcb08002919ee10f5ac6c02d79/ss_766aedcb8d2eb8fcb08002919ee10f5ac6c02d79.600x338.jpg?t=1781815889",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/766aedcb8d2eb8fcb08002919ee10f5ac6c02d79/ss_766aedcb8d2eb8fcb08002919ee10f5ac6c02d79.1920x1080.jpg?t=1781815889"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/d3a51ac12ac9b30af96b7e7a5bcef8f56abf5ca4/ss_d3a51ac12ac9b30af96b7e7a5bcef8f56abf5ca4.600x338.jpg?t=1781815889",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/d3a51ac12ac9b30af96b7e7a5bcef8f56abf5ca4/ss_d3a51ac12ac9b30af96b7e7a5bcef8f56abf5ca4.1920x1080.jpg?t=1781815889"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/2349f3a573a24b1b655c6572cac875dc5b2a614b/ss_2349f3a573a24b1b655c6572cac875dc5b2a614b.600x338.jpg?t=1781815889",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/2349f3a573a24b1b655c6572cac875dc5b2a614b/ss_2349f3a573a24b1b655c6572cac875dc5b2a614b.1920x1080.jpg?t=1781815889"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/ee7a094acba3af1870aee7c8ed51aeaf64093450/ss_ee7a094acba3af1870aee7c8ed51aeaf64093450.600x338.jpg?t=1781815889",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/ee7a094acba3af1870aee7c8ed51aeaf64093450/ss_ee7a094acba3af1870aee7c8ed51aeaf64093450.1920x1080.jpg?t=1781815889"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/d01f2b8da7c45f28011349fe023ffad3cedfa7a1/ss_d01f2b8da7c45f28011349fe023ffad3cedfa7a1.600x338.jpg?t=1781815889",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/d01f2b8da7c45f28011349fe023ffad3cedfa7a1/ss_d01f2b8da7c45f28011349fe023ffad3cedfa7a1.1920x1080.jpg?t=1781815889"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/9ae9e66d390ec9f2fd1996b62b8459b44071c8e5/ss_9ae9e66d390ec9f2fd1996b62b8459b44071c8e5.600x338.jpg?t=1781815889",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/9ae9e66d390ec9f2fd1996b62b8459b44071c8e5/ss_9ae9e66d390ec9f2fd1996b62b8459b44071c8e5.1920x1080.jpg?t=1781815889"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/514d9e7e54a361d66877d0af31a6c3a8e2c95382/ss_514d9e7e54a361d66877d0af31a6c3a8e2c95382.600x338.jpg?t=1781815889",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/514d9e7e54a361d66877d0af31a6c3a8e2c95382/ss_514d9e7e54a361d66877d0af31a6c3a8e2c95382.1920x1080.jpg?t=1781815889"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/adbbe5f916e2539a02062f6740b5c3d4bf1e1bd2/ss_adbbe5f916e2539a02062f6740b5c3d4bf1e1bd2.600x338.jpg?t=1781815889",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/adbbe5f916e2539a02062f6740b5c3d4bf1e1bd2/ss_adbbe5f916e2539a02062f6740b5c3d4bf1e1bd2.1920x1080.jpg?t=1781815889"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/84ee7a1c0e73745436c4a7ad9a809894b2679bc6/ss_84ee7a1c0e73745436c4a7ad9a809894b2679bc6.600x338.jpg?t=1781815889",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/84ee7a1c0e73745436c4a7ad9a809894b2679bc6/ss_84ee7a1c0e73745436c4a7ad9a809894b2679bc6.1920x1080.jpg?t=1781815889"
+    }
+   ],
+   "movies": [
+    {
+     "id": 257354727,
+     "name": "D2Collection - TW",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257354727/67f3add5bf331cc2b95c7b8d72eb37ee329aca05/movie_600x337.jpg?t=1781045573",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1085660/878718978/b930ffd4039ce1a3878b4b772784ae52400d47a2/1781044200/dash_av1.mpd?t=1781045573",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1085660/878718978/b930ffd4039ce1a3878b4b772784ae52400d47a2/1781044200/dash_h264.mpd?t=1781045573",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1085660/878718978/b930ffd4039ce1a3878b4b772784ae52400d47a2/1781044200/hls_264_master.m3u8?t=1781045573",
+     "highlight": true
+    }
+   ],
+   "recommendations": {
+    "total": 139786
+   },
+   "achievements": {
+    "total": 23,
+    "highlighted": [
+     {
+      "icon": "18c2c6e05659aed26cd374da8a75b722121b37f0.jpg",
+      "localized_name": "蜿蜒曲折路",
+      "archived": 0,
+      "hidden": 0,
+      "name": "蜿蜒曲折路",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1085660/18c2c6e05659aed26cd374da8a75b722121b37f0.jpg"
+     },
+     {
+      "icon": "c4b32b8cc89ee429acd52cada5520af99fd253e9.jpg",
+      "localized_name": "薩瓦拉的副官",
+      "archived": 0,
+      "hidden": 0,
+      "name": "薩瓦拉的副官",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1085660/c4b32b8cc89ee429acd52cada5520af99fd253e9.jpg"
+     },
+     {
+      "icon": "8f23007de716cd93b5abc02560dbef7a8d2f053c.jpg",
+      "localized_name": "凱德的探勘專家",
+      "archived": 0,
+      "hidden": 0,
+      "name": "凱德的探勘專家",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1085660/8f23007de716cd93b5abc02560dbef7a8d2f053c.jpg"
+     },
+     {
+      "icon": "a00b8c7394b8af482a2d3fea70e152310d6d8a2f.jpg",
+      "localized_name": "愛蔻菈的門徒",
+      "archived": 0,
+      "hidden": 0,
+      "name": "愛蔻菈的門徒",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1085660/a00b8c7394b8af482a2d3fea70e152310d6d8a2f.jpg"
+     },
+     {
+      "icon": "d79a37583b5bef753e6d17e420e558c277e391c3.jpg",
+      "localized_name": "實力展現",
+      "archived": 0,
+      "hidden": 0,
+      "name": "實力展現",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1085660/d79a37583b5bef753e6d17e420e558c277e391c3.jpg"
+     },
+     {
+      "icon": "d5d441bce37d3997c314de2dde4155da58a45ea9.jpg",
+      "localized_name": "快如閃電",
+      "archived": 0,
+      "hidden": 0,
+      "name": "快如閃電",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1085660/d5d441bce37d3997c314de2dde4155da58a45ea9.jpg"
+     },
+     {
+      "icon": "4f1d1d43b60c087bf99bba3061b375fe0f327be7.jpg",
+      "localized_name": "人民英雄",
+      "archived": 0,
+      "hidden": 0,
+      "name": "人民英雄",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1085660/4f1d1d43b60c087bf99bba3061b375fe0f327be7.jpg"
+     },
+     {
+      "icon": "feacf3708386388730de45cf538e96cd90e5ec5e.jpg",
+      "localized_name": "黑暗之心",
+      "archived": 0,
+      "hidden": 0,
+      "name": "黑暗之心",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1085660/feacf3708386388730de45cf538e96cd90e5ec5e.jpg"
+     },
+     {
+      "icon": "bc3b74c2422e55faae5a2fceb5c5218afd06afe5.jpg",
+      "localized_name": "異域人生",
+      "archived": 0,
+      "hidden": 0,
+      "name": "異域人生",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1085660/bc3b74c2422e55faae5a2fceb5c5218afd06afe5.jpg"
+     },
+     {
+      "icon": "08c8201a669107e6ebcccb50be6e7980e2d6a1d6.jpg",
+      "localized_name": "挑戰接受",
+      "archived": 0,
+      "hidden": 0,
+      "name": "挑戰接受",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1085660/08c8201a669107e6ebcccb50be6e7980e2d6a1d6.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2019 年 10 月 1 日"
+   },
+   "support_info": {
+    "url": "https://www.bungie.net/help",
+    "email": ""
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1085660?t=1781815889",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/37709fbb60c675484fff3a7a768338d4540b25d0/page_bg_raw.jpg?t=1781815889",
+   "content_descriptors": {
+    "ids": [],
+    "notes": null
+   },
+   "ratings": {
+    "esrb": {
+     "rating": "t",
+     "descriptors": "Blood \r\nLanguage \r\nViolence",
+     "display_online_notice": "true",
+     "interactive_elements": "Online Interactions Not Rated by the ESRB"
+    },
+    "pegi": {
+     "rating": "16",
+     "descriptors": "Violence\r\nIn game purchases"
+    },
+    "usk": {
+     "rating": "16"
+    },
+    "oflc": {
+     "rating": "m",
+     "descriptors": "Science Fiction Themes\r\nScience Fiction Violence\r\nOnline Interactivity"
+    },
+    "nzoflc": {
+     "rating": "m",
+     "descriptors": "Science Fiction Themes\r\nScience Fiction Violence\r\nOnline Interactivity"
+    },
+    "dejus": {
+     "rating": "14",
+     "descriptors": "Violence"
+    },
+    "crl": {
+     "rating": "16"
+    },
+    "bbfc": {
+     "descriptors": "Blood \r\nLanguage \r\nViolence"
+    },
+    "kgrb": {
+     "rating": "15",
+     "descriptors": "Violence"
+    },
+    "mda": {
+     "rating": "AA16"
+    },
+    "fpb": {
+     "rating": "16"
+    },
+    "csrr": {
+     "rating": "C15",
+     "descriptors": "Violence\r\nTerror\r\nInappropriate Language"
+    },
+    "cero": {
+     "rating": "d",
+     "descriptors": "Violence"
+    }
+   }
+  }
+ }
+}

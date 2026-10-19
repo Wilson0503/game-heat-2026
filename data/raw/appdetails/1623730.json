@@ -1,0 +1,408 @@
+{
+ "1623730": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "Palworld / 幻獸帕魯",
+   "steam_appid": 1623730,
+   "required_age": 0,
+   "is_free": false,
+   "controller_support": "full",
+   "dlc": [
+    2771110
+   ],
+   "detailed_description": "Q. 這是一款怎樣的遊戲呢？<br><br>A. 在帕魯的世界，你可以選擇與神奇的生物「帕魯」一同享受悠閑的生活，也可以投身於與偷獵者進行生死搏鬥的冒險。<br><br>玩家能夠派出帕魯們戰鬥、交配繁衍、幫忙務農，或是讓牠們在工廠裡幫忙。<br>或是看情況把牠們賣掉，甚至是肢解作為食材也可以。<br><br><br><strong><u>生存</u></strong><br>糧食不足、嚴酷的環境……以及違法盜獵者。這個世界四處充滿著危險。為了存活下去只能不擇手段。就算是得將帕魯們作為食物……<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/2b2402730f698b3c10c82c054cd4c47d.poster.avif?t=1790336367\" width=616 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/2b2402730f698b3c10c82c054cd4c47d.webm?t=1790336367\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/2b2402730f698b3c10c82c054cd4c47d.mp4?t=1790336367\" type=\"video/mp4\"></video></span><br><br><strong><u>騎乘、探索</u></strong><br>乘坐上帕魯就能在陸、海、空的各種地帶盡情遨遊跟探索。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/f2524dd877a8705d3bd6ae8a68a206f3.poster.avif?t=1790336367\" width=616 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/f2524dd877a8705d3bd6ae8a68a206f3.webm?t=1790336367\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/f2524dd877a8705d3bd6ae8a68a206f3.mp4?t=1790336367\" type=\"video/mp4\"></video></span><br><br><strong><u>建築</u></strong><br>想要蓋一座雄偉的金字塔嗎？那就呼喊大量的帕魯來當苦力吧。帕魯們不適用於勞基法，不用怕會有人告上門來。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/5b945d8350fe14110dd3f542df0eced1.poster.avif?t=1790336367\" width=616 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/5b945d8350fe14110dd3f542df0eced1.webm?t=1790336367\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/5b945d8350fe14110dd3f542df0eced1.mp4?t=1790336367\" type=\"video/mp4\"></video></span><br><br><strong><u>生活</u></strong><br>生火、發電、采掘……。收集各種不同類型的便利帕魯，來享受舒適的生活吧。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/a8ab4ca622ac6c491541fae9ea3b672f.poster.avif?t=1790336367\" width=616 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/a8ab4ca622ac6c491541fae9ea3b672f.webm?t=1790336367\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/a8ab4ca622ac6c491541fae9ea3b672f.mp4?t=1790336367\" type=\"video/mp4\"></video></span><br><br><strong><u>農業</u></strong><br>帕魯們各有牠們擅長的工作，像是播種、澆水、收成作物等等。和帕魯們一起打造出魅力十足的農園吧。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/ba80ddf24602c2de6aae326e95d6d228.poster.avif?t=1790336367\" width=616 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/ba80ddf24602c2de6aae326e95d6d228.webm?t=1790336367\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/ba80ddf24602c2de6aae326e95d6d228.mp4?t=1790336367\" type=\"video/mp4\"></video></span><br><br><strong><u>自動化工業</u></strong><br>為了實現自動化，將手工作業交給帕魯就尤為重要。建造工廠，並安排帕魯在其中工作吧。只要有足夠的食物，帕魯就可以不斷地工作，直到牠們生命的盡頭。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/2ae72a791bb84ca97e46e9227e6ac4d7.poster.avif?t=1790336367\" width=616 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/2ae72a791bb84ca97e46e9227e6ac4d7.webm?t=1790336367\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/2ae72a791bb84ca97e46e9227e6ac4d7.mp4?t=1790336367\" type=\"video/mp4\"></video></span><br><br><strong><u>探索地下城</u></strong><br>有帕魯在，哪怕危險的區域也大可放心。在危機時刻，你可以讓帕魯做你的替身。牠們會不惜一切，哪怕舍棄自己的生命也會保護你。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/752721ee7db99e1eb6cb7d588d464769.poster.avif?t=1790336367\" width=616 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/752721ee7db99e1eb6cb7d588d464769.webm?t=1790336367\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/752721ee7db99e1eb6cb7d588d464769.mp4?t=1790336367\" type=\"video/mp4\"></video></span><br><br><strong><u>繁殖、遺傳</u></strong><br>讓帕魯們繁殖，下一代就會繼承到雙親的特徵。透過組合稀有的帕魯們來繁育出最強大的帕魯吧！<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/6abae7ea3d546cf9e98359f801f4784f.poster.avif?t=1790336367\" width=616 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/6abae7ea3d546cf9e98359f801f4784f.webm?t=1790336367\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/6abae7ea3d546cf9e98359f801f4784f.mp4?t=1790336367\" type=\"video/mp4\"></video></span><br><br><strong><u>盜獵、犯罪</u></strong><br>在禁獵區棲息著瀕臨滅絕的稀有帕魯。只要偷偷潛入捕抓起來就能一夜致富！別怕，沒被發現就不算是犯罪。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/2030b4c9bba0cd0a8258452c410e0483.poster.avif?t=1790336367\" width=616 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/2030b4c9bba0cd0a8258452c410e0483.webm?t=1790336367\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/2030b4c9bba0cd0a8258452c410e0483.mp4?t=1790336367\" type=\"video/mp4\"></video></span><br><br><strong><u>多人同樂</u></strong><br>本作品支持多人同樂。快邀請親朋好友們一起來冒險吧。當然也能夠進行對戰和交易哦。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/cb75478a82fdce7adc094a8ae8d4d541.poster.avif?t=1790336367\" width=616 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/cb75478a82fdce7adc094a8ae8d4d541.webm?t=1790336367\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/cb75478a82fdce7adc094a8ae8d4d541.mp4?t=1790336367\" type=\"video/mp4\"></video></span>",
+   "about_the_game": "Q. 這是一款怎樣的遊戲呢？<br><br>A. 在帕魯的世界，你可以選擇與神奇的生物「帕魯」一同享受悠閑的生活，也可以投身於與偷獵者進行生死搏鬥的冒險。<br><br>玩家能夠派出帕魯們戰鬥、交配繁衍、幫忙務農，或是讓牠們在工廠裡幫忙。<br>或是看情況把牠們賣掉，甚至是肢解作為食材也可以。<br><br><br><strong><u>生存</u></strong><br>糧食不足、嚴酷的環境……以及違法盜獵者。這個世界四處充滿著危險。為了存活下去只能不擇手段。就算是得將帕魯們作為食物……<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/2b2402730f698b3c10c82c054cd4c47d.poster.avif?t=1790336367\" width=616 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/2b2402730f698b3c10c82c054cd4c47d.webm?t=1790336367\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/2b2402730f698b3c10c82c054cd4c47d.mp4?t=1790336367\" type=\"video/mp4\"></video></span><br><br><strong><u>騎乘、探索</u></strong><br>乘坐上帕魯就能在陸、海、空的各種地帶盡情遨遊跟探索。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/f2524dd877a8705d3bd6ae8a68a206f3.poster.avif?t=1790336367\" width=616 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/f2524dd877a8705d3bd6ae8a68a206f3.webm?t=1790336367\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/f2524dd877a8705d3bd6ae8a68a206f3.mp4?t=1790336367\" type=\"video/mp4\"></video></span><br><br><strong><u>建築</u></strong><br>想要蓋一座雄偉的金字塔嗎？那就呼喊大量的帕魯來當苦力吧。帕魯們不適用於勞基法，不用怕會有人告上門來。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/5b945d8350fe14110dd3f542df0eced1.poster.avif?t=1790336367\" width=616 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/5b945d8350fe14110dd3f542df0eced1.webm?t=1790336367\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/5b945d8350fe14110dd3f542df0eced1.mp4?t=1790336367\" type=\"video/mp4\"></video></span><br><br><strong><u>生活</u></strong><br>生火、發電、采掘……。收集各種不同類型的便利帕魯，來享受舒適的生活吧。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/a8ab4ca622ac6c491541fae9ea3b672f.poster.avif?t=1790336367\" width=616 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/a8ab4ca622ac6c491541fae9ea3b672f.webm?t=1790336367\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/a8ab4ca622ac6c491541fae9ea3b672f.mp4?t=1790336367\" type=\"video/mp4\"></video></span><br><br><strong><u>農業</u></strong><br>帕魯們各有牠們擅長的工作，像是播種、澆水、收成作物等等。和帕魯們一起打造出魅力十足的農園吧。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/ba80ddf24602c2de6aae326e95d6d228.poster.avif?t=1790336367\" width=616 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/ba80ddf24602c2de6aae326e95d6d228.webm?t=1790336367\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/ba80ddf24602c2de6aae326e95d6d228.mp4?t=1790336367\" type=\"video/mp4\"></video></span><br><br><strong><u>自動化工業</u></strong><br>為了實現自動化，將手工作業交給帕魯就尤為重要。建造工廠，並安排帕魯在其中工作吧。只要有足夠的食物，帕魯就可以不斷地工作，直到牠們生命的盡頭。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/2ae72a791bb84ca97e46e9227e6ac4d7.poster.avif?t=1790336367\" width=616 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/2ae72a791bb84ca97e46e9227e6ac4d7.webm?t=1790336367\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/2ae72a791bb84ca97e46e9227e6ac4d7.mp4?t=1790336367\" type=\"video/mp4\"></video></span><br><br><strong><u>探索地下城</u></strong><br>有帕魯在，哪怕危險的區域也大可放心。在危機時刻，你可以讓帕魯做你的替身。牠們會不惜一切，哪怕舍棄自己的生命也會保護你。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/752721ee7db99e1eb6cb7d588d464769.poster.avif?t=1790336367\" width=616 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/752721ee7db99e1eb6cb7d588d464769.webm?t=1790336367\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/752721ee7db99e1eb6cb7d588d464769.mp4?t=1790336367\" type=\"video/mp4\"></video></span><br><br><strong><u>繁殖、遺傳</u></strong><br>讓帕魯們繁殖，下一代就會繼承到雙親的特徵。透過組合稀有的帕魯們來繁育出最強大的帕魯吧！<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/6abae7ea3d546cf9e98359f801f4784f.poster.avif?t=1790336367\" width=616 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/6abae7ea3d546cf9e98359f801f4784f.webm?t=1790336367\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/6abae7ea3d546cf9e98359f801f4784f.mp4?t=1790336367\" type=\"video/mp4\"></video></span><br><br><strong><u>盜獵、犯罪</u></strong><br>在禁獵區棲息著瀕臨滅絕的稀有帕魯。只要偷偷潛入捕抓起來就能一夜致富！別怕，沒被發現就不算是犯罪。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/2030b4c9bba0cd0a8258452c410e0483.poster.avif?t=1790336367\" width=616 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/2030b4c9bba0cd0a8258452c410e0483.webm?t=1790336367\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/2030b4c9bba0cd0a8258452c410e0483.mp4?t=1790336367\" type=\"video/mp4\"></video></span><br><br><strong><u>多人同樂</u></strong><br>本作品支持多人同樂。快邀請親朋好友們一起來冒險吧。當然也能夠進行對戰和交易哦。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/cb75478a82fdce7adc094a8ae8d4d541.poster.avif?t=1790336367\" width=616 height=252 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/cb75478a82fdce7adc094a8ae8d4d541.webm?t=1790336367\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/extras/cb75478a82fdce7adc094a8ae8d4d541.mp4?t=1790336367\" type=\"video/mp4\"></video></span>",
+   "short_description": "在廣大的世界裡闖蕩並蒐集不可思議的生物『帕魯』，享受戰鬥、建造、農業和工業的樂趣。這是一款能對應多人同樂的全新開放世界生存工藝遊戲。",
+   "supported_languages": "英文, 簡體中文, 繁體中文, 日文, 法文, 義大利文, 德文, 西班牙文 - 西班牙, 葡萄牙文 - 巴西, 俄文, 韓文, 印尼語, 西班牙文 - 拉丁美洲, 泰文, 土耳其文, 越南文, 波蘭文",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/bd42a8e528806c8eb3b0fd672156bf7f021eba94/header_tchinese.jpg?t=1790336367",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/78adce5a2b52f6c58dfae1e85c666fd36e533dab/capsule_231x87_tchinese.jpg?t=1790336367",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/78adce5a2b52f6c58dfae1e85c666fd36e533dab/capsule_184x69_tchinese.jpg?t=1790336367",
+   "website": "https://www.pocketpair.jp/palworld",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 10 (64-Bit)<br></li><li><strong>處理器:</strong> Intel Core i5-9400F<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> GeForce GTX 1660<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 40 GB 可用空間<br></li><li><strong>備註:</strong> SSD Required - Performance may vary depending on the amount of active Pals.</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 11 (64-Bit)<br></li><li><strong>處理器:</strong> Intel Core i5-12400 / AMD Ryzen 5 5600X<br></li><li><strong>記憶體:</strong> 32 GB 記憶體<br></li><li><strong>顯示卡:</strong> GeForce RTX 3060 Ti / Radeon RX 6700 XT<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 40 GB 可用空間<br></li><li><strong>備註:</strong> SSD Required - Performance may vary depending on the amount of active Pals.</li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "linux_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "developers": [
+    "Pocketpair"
+   ],
+   "publishers": [
+    "Pocketpair"
+   ],
+   "price_overview": {
+    "currency": "TWD",
+    "initial": 48800,
+    "final": 34100,
+    "discount_percent": 30,
+    "initial_formatted": "NT$ 488",
+    "final_formatted": "NT$ 341"
+   },
+   "packages": [
+    576498
+   ],
+   "package_groups": [
+    {
+     "name": "default",
+     "title": "購買 Palworld / 幻獸帕魯",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 576498,
+       "percent_savings_text": "-30% ",
+       "percent_savings": 0,
+       "option_text": "Palworld / 幻獸帕魯 - <span class=\"discount_original_price\">NT$ 488</span> NT$ 341",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 34100
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 27,
+     "description": "跨平台多人連線"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 28,
+     "description": "完整控制器支援"
+    },
+    {
+     "id": 29,
+     "description": "Steam 交換卡片"
+    },
+    {
+     "id": 30,
+     "description": "Steam 工作坊"
+    },
+    {
+     "id": 55,
+     "description": "DUALSHOCK 控制器支援"
+    },
+    {
+     "id": 56,
+     "description": "DUALSHOCK 控制器支援"
+    },
+    {
+     "id": 57,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 58,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 23,
+     "description": "Steam 雲端"
+    },
+    {
+     "id": 62,
+     "description": "親友同享"
+    }
+   ],
+   "genres": [
+    {
+     "id": "1",
+     "description": "動作"
+    },
+    {
+     "id": "25",
+     "description": "冒險"
+    },
+    {
+     "id": "23",
+     "description": "獨立製作"
+    },
+    {
+     "id": "3",
+     "description": "角色扮演"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_f81b7c4f20be3b99f76a1415c4cdb9b444c99b97.600x338.jpg?t=1790336367",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_f81b7c4f20be3b99f76a1415c4cdb9b444c99b97.1920x1080.jpg?t=1790336367"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/648ed4266fc18f413292292741304ef648421c55/ss_648ed4266fc18f413292292741304ef648421c55.600x338.jpg?t=1790336367",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/648ed4266fc18f413292292741304ef648421c55/ss_648ed4266fc18f413292292741304ef648421c55.1920x1080.jpg?t=1790336367"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_b3cea7c9f04a67d784d4c6a0c157a11d6268b189.600x338.jpg?t=1790336367",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_b3cea7c9f04a67d784d4c6a0c157a11d6268b189.1920x1080.jpg?t=1790336367"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/cd7b46028d10c21db8fc8217192094d309efcebc/ss_cd7b46028d10c21db8fc8217192094d309efcebc.600x338.jpg?t=1790336367",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/cd7b46028d10c21db8fc8217192094d309efcebc/ss_cd7b46028d10c21db8fc8217192094d309efcebc.1920x1080.jpg?t=1790336367"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_06e27c15c7b4b10233c937b887cf6a6925c83009.600x338.jpg?t=1790336367",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_06e27c15c7b4b10233c937b887cf6a6925c83009.1920x1080.jpg?t=1790336367"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_a99fba5536acde781bd863cb3555c10b5b96c0ae.600x338.jpg?t=1790336367",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_a99fba5536acde781bd863cb3555c10b5b96c0ae.1920x1080.jpg?t=1790336367"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_1e6f7cf3c58086df2a3e9b13a988c2681d372b2d.600x338.jpg?t=1790336367",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_1e6f7cf3c58086df2a3e9b13a988c2681d372b2d.1920x1080.jpg?t=1790336367"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/b463e0cc770b5ea81230a1db561c100f5fdb3c30/ss_b463e0cc770b5ea81230a1db561c100f5fdb3c30.600x338.jpg?t=1790336367",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/b463e0cc770b5ea81230a1db561c100f5fdb3c30/ss_b463e0cc770b5ea81230a1db561c100f5fdb3c30.1920x1080.jpg?t=1790336367"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/e2c34987fa3f3893480afed747b0c2ede52e5a31/ss_e2c34987fa3f3893480afed747b0c2ede52e5a31.600x338.jpg?t=1790336367",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/e2c34987fa3f3893480afed747b0c2ede52e5a31/ss_e2c34987fa3f3893480afed747b0c2ede52e5a31.1920x1080.jpg?t=1790336367"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/348aae38bc825f667656e5f9c1287761c1d339f7/ss_348aae38bc825f667656e5f9c1287761c1d339f7.600x338.jpg?t=1790336367",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/348aae38bc825f667656e5f9c1287761c1d339f7/ss_348aae38bc825f667656e5f9c1287761c1d339f7.1920x1080.jpg?t=1790336367"
+    },
+    {
+     "id": 10,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_6ce0960860f1009b7d10ba225ead4cc377286115.600x338.jpg?t=1790336367",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_6ce0960860f1009b7d10ba225ead4cc377286115.1920x1080.jpg?t=1790336367"
+    },
+    {
+     "id": 11,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/efec2f6aaaca15d66e30455e3b57383fdaa246c5/ss_efec2f6aaaca15d66e30455e3b57383fdaa246c5.600x338.jpg?t=1790336367",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/efec2f6aaaca15d66e30455e3b57383fdaa246c5/ss_efec2f6aaaca15d66e30455e3b57383fdaa246c5.1920x1080.jpg?t=1790336367"
+    },
+    {
+     "id": 12,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_43ed640c916ec689981a74f0818e5b9c77204d1c.600x338.jpg?t=1790336367",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_43ed640c916ec689981a74f0818e5b9c77204d1c.1920x1080.jpg?t=1790336367"
+    },
+    {
+     "id": 13,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_c6a8e8dc8640ebd1409b1e72fe6e9db7d1c1d57a.600x338.jpg?t=1790336367",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_c6a8e8dc8640ebd1409b1e72fe6e9db7d1c1d57a.1920x1080.jpg?t=1790336367"
+    },
+    {
+     "id": 14,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/c386fc9813a95c54a4c9c024bf21e5011bcaadad/ss_c386fc9813a95c54a4c9c024bf21e5011bcaadad.600x338.jpg?t=1790336367",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/c386fc9813a95c54a4c9c024bf21e5011bcaadad/ss_c386fc9813a95c54a4c9c024bf21e5011bcaadad.1920x1080.jpg?t=1790336367"
+    },
+    {
+     "id": 15,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/84c7d900e173e6933057bf2038eb61288db8f5bb/ss_84c7d900e173e6933057bf2038eb61288db8f5bb.600x338.jpg?t=1790336367",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/84c7d900e173e6933057bf2038eb61288db8f5bb/ss_84c7d900e173e6933057bf2038eb61288db8f5bb.1920x1080.jpg?t=1790336367"
+    },
+    {
+     "id": 16,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_88c603ab6cd66c229d3283d312a50d14e3e4c77c.600x338.jpg?t=1790336367",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_88c603ab6cd66c229d3283d312a50d14e3e4c77c.1920x1080.jpg?t=1790336367"
+    }
+   ],
+   "movies": [
+    {
+     "id": 257373728,
+     "name": "Palworld 1.0 Official Launch Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257373728/7e13113e161160ac94f46ef35ac809e374f7ab7e/movie_600x337.jpg?t=1783652949",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1623730/1248102289/5810f9197a1aa0ad560333997b04947d443c7bcd/1783607226/dash_av1.mpd?t=1783652949",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1623730/1248102289/5810f9197a1aa0ad560333997b04947d443c7bcd/1783607226/dash_h264.mpd?t=1783652949",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1623730/1248102289/5810f9197a1aa0ad560333997b04947d443c7bcd/1783607226/hls_264_master.m3u8?t=1783652949",
+     "highlight": true
+    },
+    {
+     "id": 257351727,
+     "name": "Palworld 1.0 Cinematic Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257351727/aa6c1eb3713c2e6707bba09081ec940168052ab8/movie_600x337.jpg?t=1780701306",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1623730/1835768144/fe4d152e82cc30c4a0c6b66de7a4326410e0cf5d/1780700542/dash_av1.mpd?t=1780701306",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1623730/1835768144/fe4d152e82cc30c4a0c6b66de7a4326410e0cf5d/1780700542/dash_h264.mpd?t=1780701306",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1623730/1835768144/fe4d152e82cc30c4a0c6b66de7a4326410e0cf5d/1780700542/hls_264_master.m3u8?t=1780701306",
+     "highlight": true
+    },
+    {
+     "id": 257161157,
+     "name": "Tides of Terraria Update Gameplay Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257161157/cc767bd10cc47563631ab24e71ed811ac2f4d4e0/movie_600x337.jpg?t=1752129517",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1623730/113039709/3b5ebaedd8250085a582f5078ba2f873d868f6ed/1750822061/dash_av1.mpd?t=1752129517",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1623730/113039709/3b5ebaedd8250085a582f5078ba2f873d868f6ed/1750822061/dash_h264.mpd?t=1752129517",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1623730/113039709/3b5ebaedd8250085a582f5078ba2f873d868f6ed/1750822061/hls_264_master.m3u8?t=1752129517",
+     "highlight": true
+    }
+   ],
+   "recommendations": {
+    "total": 416206
+   },
+   "achievements": {
+    "total": 75,
+    "highlighted": [
+     {
+      "icon": "31f82fc3fe2150c4edb78788d0817c59692866ab.jpg",
+      "localized_name": "丘陵統治者",
+      "archived": 0,
+      "hidden": 1,
+      "name": "丘陵統治者",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1623730/31f82fc3fe2150c4edb78788d0817c59692866ab.jpg"
+     },
+     {
+      "icon": "6c71aedbb272a0d87a565d250cdf42eaf73776e1.jpg",
+      "localized_name": "森林統治者",
+      "archived": 0,
+      "hidden": 1,
+      "name": "森林統治者",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1623730/6c71aedbb272a0d87a565d250cdf42eaf73776e1.jpg"
+     },
+     {
+      "icon": "20df0a9ab57794a9417daf737bd7b2360e08e921.jpg",
+      "localized_name": "沙漠統治者",
+      "archived": 0,
+      "hidden": 1,
+      "name": "沙漠統治者",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1623730/20df0a9ab57794a9417daf737bd7b2360e08e921.jpg"
+     },
+     {
+      "icon": "b956caa29cdb30af1de837ecedbdb50862c2fb4a.jpg",
+      "localized_name": "火山統治者",
+      "archived": 0,
+      "hidden": 1,
+      "name": "火山統治者",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1623730/b956caa29cdb30af1de837ecedbdb50862c2fb4a.jpg"
+     },
+     {
+      "icon": "3abe0bc18025dbf8966cb5af540ed6509fb074a7.jpg",
+      "localized_name": "靈峰統治者",
+      "archived": 0,
+      "hidden": 1,
+      "name": "靈峰統治者",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1623730/3abe0bc18025dbf8966cb5af540ed6509fb074a7.jpg"
+     },
+     {
+      "icon": "6832ae260dca45c56b64f9144bddb7ecb961e607.jpg",
+      "localized_name": "傳說之始",
+      "archived": 0,
+      "hidden": 0,
+      "name": "傳說之始",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1623730/6832ae260dca45c56b64f9144bddb7ecb961e607.jpg"
+     },
+     {
+      "icon": "7d8d2321fb6e1fe51beff6f078ee9a06ac46bf9f.jpg",
+      "localized_name": "初級帕魯馴養師",
+      "archived": 0,
+      "hidden": 0,
+      "name": "初級帕魯馴養師",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1623730/7d8d2321fb6e1fe51beff6f078ee9a06ac46bf9f.jpg"
+     },
+     {
+      "icon": "b5f72f2c4ff91f493ffab3b437317c92a289be15.jpg",
+      "localized_name": "中級帕魯馴養師",
+      "archived": 0,
+      "hidden": 0,
+      "name": "中級帕魯馴養師",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1623730/b5f72f2c4ff91f493ffab3b437317c92a289be15.jpg"
+     },
+     {
+      "icon": "2308a9900f12b3cdf8bc7f1229bc4b2488a4fcb3.jpg",
+      "localized_name": "高級帕魯馴養師",
+      "archived": 0,
+      "hidden": 0,
+      "name": "高級帕魯馴養師",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1623730/2308a9900f12b3cdf8bc7f1229bc4b2488a4fcb3.jpg"
+     },
+     {
+      "icon": "1e563b90a76ab22e938ddac69e039311cd129ab8.jpg",
+      "localized_name": "專業帕魯馴養師",
+      "archived": 0,
+      "hidden": 0,
+      "name": "專業帕魯馴養師",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1623730/1e563b90a76ab22e938ddac69e039311cd129ab8.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2026 年 7 月 9 日"
+   },
+   "support_info": {
+    "url": "https://www.pocketpair.jp/",
+    "email": "support_palworld@pocketpair.jp"
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1623730?t=1790336367",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/643b32bce59631e1894cf6b5b46e4ddd6d6e2dfe/page_bg_raw.jpg?t=1790336367",
+   "content_descriptors": {
+    "ids": [],
+    "notes": null
+   },
+   "ratings": {
+    "dejus": {
+     "rating": "l"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "12",
+     "required_age": "12",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Gewalt"
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "13",
+     "required_age": "13",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Kekerasan\nInteraksi Daring"
+    },
+    "steam_australia": {
+     "rating_generated": "1",
+     "rating": "PG",
+     "required_age": "14",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Mild Violence"
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,841 @@
+{
+ "271590": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "Grand Theft Auto V 傳承版",
+   "steam_appid": 271590,
+   "required_age": 0,
+   "is_free": false,
+   "controller_support": "full",
+   "detailed_description": "當一個年輕的街頭騙子、退休的銀行搶犯和一個腦子有問題的神經病，發現自己身陷在由地下犯罪集團、美國政府和娛樂業交織成的恐怖困境時，他們必須完成一連串的搶劫任務，才得以在這個無情的城市生存下去。在這裡，他們不可以相信任何人，更不可以信賴彼此。<br />\r\n<br />\r\n <br />\r\nPC 版 Grand Theft Auto V 可讓玩家以 4K 或更高的解析度，探索獲得大獎肯定的洛聖都和布雷恩郡遊戲世界，而且也可讓玩家體驗每秒 60 影格的遊戲執行效果。<br />\r\n<br />\r\n <br />\r\n本遊戲可為玩家提供許多 PC 專用自訂選項，包括超過 25 種紋理品質、著色器、曲面細分、反鋸齒等不同的設定，還有多種滑鼠和鍵盤控制專用的支援和自訂功能。其他選項包括可控制車輛和行人流量的人口密集程度滑桿，以及雙螢幕和三螢幕支援、3D 相容性和隨插即用的控制器支援功能。<br />\r\n<br />\r\n <br />\r\nPC 版 Grand Theft Auto V 也包含 GTA 線上模式，並且支援可讓 30 名玩家和 2 名旁觀玩家共同進行遊戲。PC 版 GTA 線上模式將包含自推出至今的所有遊戲更新內容，其中更有最近推出的搶劫任務和競爭模式。<br />\r\n<br />\r\n <br />\r\nPC 版 Grand Theft Auto V 和 GTA 線上模式也特別提供第一人稱模式，讓玩家能夠以全新的方式探索洛聖都和布雷恩郡遊戲世界中各項細膩無比的細節。<br />\r\n<br />\r\n <br />\r\n隨著 PC 版 Grand Theft Auto V 的推出，Rockstar 編輯器也一併登場；這是一種效能強大的創作工具套件，可讓玩家快速輕鬆地錄製、編輯和分享在 Grand Theft Auto V 及 GTA 線上模式中錄製的影片。Rockstar 編輯器的導演模式可讓玩家使用故事模式中主要的人物角色、行人、甚至是動物來安排自己的場景，讓影片創作更生動。除了有進階的攝影機操作和編輯效果 (包括快動作和慢動作) 以及多種攝影機濾鏡以外，玩家還可以利用 GTA 5 電台中的歌曲來加入他們自己的配樂，或者也可以動態控制遊戲配樂的強度。影片製作完成後，就可以直接從 Rockstar 編輯器上傳至 YouTube 和 Rockstar Games Social Club，方便玩家分享。<br />\r\n<br />\r\n <br />\r\n音樂創作者 The Alchemist 和 Oh No 這次也回來當遊戲內的廣播電台 The Lab FM 主持人。這個電台主打以遊戲原聲帶音樂歌曲為靈感、製作的全新獨家歌曲音樂，另外我們也邀請了多位特別來賓藝人，包括 Earl Sweatshirt、Freddie Gibbs、Little Dragon、Killer Mike、Future Islands 的 Sam Herring 及更多嘉賓。玩家也可以一邊探索洛聖都和布雷恩郡，一邊透過個人廣播電台聆聽自己的音樂。個人廣播電台是一種全新的廣播電台，可播放玩家的自訂歌曲音樂。",
+   "about_the_game": "當一個年輕的街頭騙子、退休的銀行搶犯和一個腦子有問題的神經病，發現自己身陷在由地下犯罪集團、美國政府和娛樂業交織成的恐怖困境時，他們必須完成一連串的搶劫任務，才得以在這個無情的城市生存下去。在這裡，他們不可以相信任何人，更不可以信賴彼此。<br />\r\n<br />\r\n <br />\r\nPC 版 Grand Theft Auto V 可讓玩家以 4K 或更高的解析度，探索獲得大獎肯定的洛聖都和布雷恩郡遊戲世界，而且也可讓玩家體驗每秒 60 影格的遊戲執行效果。<br />\r\n<br />\r\n <br />\r\n本遊戲可為玩家提供許多 PC 專用自訂選項，包括超過 25 種紋理品質、著色器、曲面細分、反鋸齒等不同的設定，還有多種滑鼠和鍵盤控制專用的支援和自訂功能。其他選項包括可控制車輛和行人流量的人口密集程度滑桿，以及雙螢幕和三螢幕支援、3D 相容性和隨插即用的控制器支援功能。<br />\r\n<br />\r\n <br />\r\nPC 版 Grand Theft Auto V 也包含 GTA 線上模式，並且支援可讓 30 名玩家和 2 名旁觀玩家共同進行遊戲。PC 版 GTA 線上模式將包含自推出至今的所有遊戲更新內容，其中更有最近推出的搶劫任務和競爭模式。<br />\r\n<br />\r\n <br />\r\nPC 版 Grand Theft Auto V 和 GTA 線上模式也特別提供第一人稱模式，讓玩家能夠以全新的方式探索洛聖都和布雷恩郡遊戲世界中各項細膩無比的細節。<br />\r\n<br />\r\n <br />\r\n隨著 PC 版 Grand Theft Auto V 的推出，Rockstar 編輯器也一併登場；這是一種效能強大的創作工具套件，可讓玩家快速輕鬆地錄製、編輯和分享在 Grand Theft Auto V 及 GTA 線上模式中錄製的影片。Rockstar 編輯器的導演模式可讓玩家使用故事模式中主要的人物角色、行人、甚至是動物來安排自己的場景，讓影片創作更生動。除了有進階的攝影機操作和編輯效果 (包括快動作和慢動作) 以及多種攝影機濾鏡以外，玩家還可以利用 GTA 5 電台中的歌曲來加入他們自己的配樂，或者也可以動態控制遊戲配樂的強度。影片製作完成後，就可以直接從 Rockstar 編輯器上傳至 YouTube 和 Rockstar Games Social Club，方便玩家分享。<br />\r\n<br />\r\n <br />\r\n音樂創作者 The Alchemist 和 Oh No 這次也回來當遊戲內的廣播電台 The Lab FM 主持人。這個電台主打以遊戲原聲帶音樂歌曲為靈感、製作的全新獨家歌曲音樂，另外我們也邀請了多位特別來賓藝人，包括 Earl Sweatshirt、Freddie Gibbs、Little Dragon、Killer Mike、Future Islands 的 Sam Herring 及更多嘉賓。玩家也可以一邊探索洛聖都和布雷恩郡，一邊透過個人廣播電台聆聽自己的音樂。個人廣播電台是一種全新的廣播電台，可播放玩家的自訂歌曲音樂。",
+   "short_description": "PC 版 Grand Theft Auto V 可讓玩家以 4K 或更高的解析度，探索獲得大獎肯定的洛聖都和布雷恩郡遊戲世界，而且也可讓玩家體驗每秒 60 影格的遊戲執行效果。",
+   "supported_languages": "英文<strong>*</strong>, 法文, 義大利文, 德文, 西班牙文 - 西班牙, 韓文, 波蘭文, 葡萄牙文 - 巴西, 俄文, 繁體中文, 日文, 簡體中文, 西班牙文 - 拉丁美洲<br><strong>*</strong>具備完整音效支援的語言",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg?t=1765387725",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/capsule_231x87.jpg?t=1765387725",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/capsule_184x69.jpg?t=1765387725",
+   "website": "https://www.rockstargames.com/V/",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 10 64 位元<br></li><li><strong>處理器:</strong> Intel Core 2 四核心 CPU Q6600 @ 2.40GHz (4 CPUs) / AMD Phenom 9850 四核心處理器 (4 個 CPU) @ 2.5GHz<br></li><li><strong>記憶體:</strong> 4 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA 9800 GT 1GB / AMD HD 4870 1GB (DX 10、10.1、11)<br></li><li><strong>儲存空間:</strong> 125 GB 可用空間<br></li><li><strong>音效卡:</strong> 100% DirectX 10 相容<br></li><li><strong>備註:</strong> 未來推出的下載內容和提供的程式變更將改變此遊戲的系統需求。如需最新相容性資訊，請洽硬體製造商和參閱  AGP 圖形卡等可能不相容。未於上方列出的規格，遊戲發行商可能不支援。     其他需求：安裝遊戲和進行線上遊戲時需登入至 Rockstar Games Social Club (需年滿十三歲) 網路；啟動遊戲、進行線上遊戲和定期資格驗證需有網際網路連線；需安裝的軟體包括 Rockstar Games Social Club 平台、DirectX、Chromium 和 Microsoft Visual C++ 2008 sp1 可轉散發套件，以及可辨識資格、數位權利管理、系統和可供其他支援用途使用的驗證軟體。    需透過網際網路使用限單次使用的序碼註冊；每組序碼限一個 ROCKSTAR GAMES SOCIAL CLUB 帳戶 (需年滿十三歲) 註冊使用；每個 SOCIAL CLUB 帳戶僅限使用一組 PC 登入資料；序碼一經使用即不可轉讓；SOCIAL CLUB 帳戶為不可轉讓之帳戶。    合作夥伴需求：購買此軟體前，請先查看本網站的服務條款。</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 10 64 位元<br></li><li><strong>處理器:</strong> Intel Core i5 3470 @ 3.2GHZ (4 個 CPU) / AMD X8 FX-8350 @ 4GHZ (8 個 CPU)<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA GTX 660 2GB / AMD HD7870 2GB<br></li><li><strong>儲存空間:</strong> 125 GB 可用空間<br></li><li><strong>音效卡:</strong> 100% DirectX 10 相容</li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "linux_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "legal_notice": "©2008 - 2015 Rockstar Games, Inc。Rockstar Games、Rockstar North、Grand Theft Auto、GTA Five，以及 Rockstar Games R* 標章和標誌是 Take-Two Interactive Software, Inc. 在美國及/或其他國家之商標及/或註冊商標。Dolby 和雙 D 符號是 Dolby Laboratories 的商標。採用 Bink Video。© 1997-2012 RAD Game Tools, Inc. 版權所有。「euphoria motion」合成技術由 NaturalMotion 提供。euphoria 程式碼為 (c) NaturalMotion 2008 版權所有。「NaturalMotion」、「euphoria」和 NaturalMotion 及 euphoria 標誌是 NaturalMotion 的商標。依授權使用。此軟體產品包括 Autodesk® Scaleform® 軟體，© 2013 Autodesk, Inc. 保留一切權利。分級圖案是 Entertainment Software Association 的商標。所有其他標章和商標是其各自擁有者之財產。保留一切權利。<br />\r\n<br />\r\n<br />\r\n<br />\r\n軟體授權條款請參閱遊戲內說明及 www.rockstargames.com/eula；線上遊戲帳戶使用條款請參閱 www.rockstargames.com/socialclub。違反 EULA、行為準則或是其他政策，將導致使用本遊戲或線上遊戲帳號之權利遭到終止。†玩家資料轉換可能受到某些限制或必須符合某些需求，如需更多詳細資訊，請造訪 www.rockstargames.com/gtaonline/charactertransfer<br />\r\n<br />\r\n如需顧客和技術支援，請造訪 www.rockstargames.com/support<br />\r\n<br />\r\n以下使用部分特殊功能之權利不得轉讓：獨家提供/可解鎖/可下載/線上內容/服務/功能，例如多玩家服務或獎勵內容，需要單次使用式序號、需額外費用及/或需線上註冊帳號 (需年滿十三歲方可註冊) 才可使用的功能。使用特定遊戲功能可能需要配備網路連線，並非所有用戶皆能使用，並且可能於日後面臨終止、修改或提供條件改變 (會於三十天前通知)。嚴禁未經授權的拷貝、還原工程、傳輸、公開表演、租賃、收費進行遊戲，或規避版權保護的行為。<br />\r\n<br />\r\n<br />\r\n<br />\r\n此電玩遊戲的內容純屬虛構，並不代表或描繪任何實際事件、人物或實體，如有任何雷同，均純屬巧合。此電玩遊戲之製造商及發行商，在任何方面均未替此電玩遊戲內描述的任何行為背書，亦不代表其原宥或鼓勵參與任何此等行為。<br />\r\n<br />\r\n<br />\r\n<br />\r\nRockstar Games, 622 Broadway, New York, NY, 10012  <br />\r\n<br />\r\nT2 Take Two Interactive<br />\r\n<br />\r\n如需關於線上服務、費用、限制或本遊戲的軟體授權條款，請造訪 www.rockstargames.com",
+   "ext_user_account_notice": "Rockstar Games （支援與 Steam 帳戶連結）",
+   "developers": [
+    "Rockstar North"
+   ],
+   "publishers": [
+    "Rockstar Games"
+   ],
+   "package_groups": [],
+   "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+   },
+   "metacritic": {
+    "score": 96,
+    "url": "https://www.metacritic.com/game/pc/grand-theft-auto-v?ftag=MCD-06-10aaa1f"
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 49,
+     "description": "玩家對戰"
+    },
+    {
+     "id": 36,
+     "description": "線上玩家對戰"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 28,
+     "description": "完整控制器支援"
+    },
+    {
+     "id": 41,
+     "description": "在手機上遠端暢玩"
+    },
+    {
+     "id": 42,
+     "description": "在平板上遠端暢玩"
+    },
+    {
+     "id": 43,
+     "description": "在電視上遠端暢玩"
+    }
+   ],
+   "genres": [
+    {
+     "id": "1",
+     "description": "動作"
+    },
+    {
+     "id": "25",
+     "description": "冒險"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_32aa18ab3175e3002217862dd5917646d298ab6b.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_32aa18ab3175e3002217862dd5917646d298ab6b.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_2744f112fa060320d191a50e8b3a92441a648a56.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_2744f112fa060320d191a50e8b3a92441a648a56.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_da39c16db175f6973770bae6b91d411251763152.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_da39c16db175f6973770bae6b91d411251763152.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bd5db78286be0a7c6b2c62519099a9e27e6b06f3.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bd5db78286be0a7c6b2c62519099a9e27e6b06f3.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_b1a1cb7959d6a0e6fcb2d06ebf97a66c9055cef3.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_b1a1cb7959d6a0e6fcb2d06ebf97a66c9055cef3.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bc5fc79d3366c837372327717249a4887aa46d63.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bc5fc79d3366c837372327717249a4887aa46d63.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d2eb9d3e50f9e4cb8db37d2976990b3795da8187.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d2eb9d3e50f9e4cb8db37d2976990b3795da8187.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bd944debbec9936769f6dfb39ee456ca605615e3.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bd944debbec9936769f6dfb39ee456ca605615e3.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_66daaa8e0416b805ffb9a853235e21468d6b85bc.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_66daaa8e0416b805ffb9a853235e21468d6b85bc.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3820844756ae43340809e247fea327025dca1e39.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3820844756ae43340809e247fea327025dca1e39.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 10,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_5eafc9316db476e74c1b38b25f15c1326f4d574a.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_5eafc9316db476e74c1b38b25f15c1326f4d574a.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 11,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_fbb16a4376f0205178de722aa14b9d243c2a47ea.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_fbb16a4376f0205178de722aa14b9d243c2a47ea.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 12,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bab596ea9a6924055cd8c097bba75f052c18025d.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bab596ea9a6924055cd8c097bba75f052c18025d.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 13,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_c5df068273a036bf224c89d3fcd534811790a808.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_c5df068273a036bf224c89d3fcd534811790a808.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 14,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_1487c2c7ddd9a1ae6b55f7e50d5d63ada6915921.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_1487c2c7ddd9a1ae6b55f7e50d5d63ada6915921.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 15,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ef2be2226f012c4c1bc6f04ab8ed35ca3ffc8342.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ef2be2226f012c4c1bc6f04ab8ed35ca3ffc8342.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 16,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3b7d6905185d1fd12eeaba603a55c0a246985f02.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3b7d6905185d1fd12eeaba603a55c0a246985f02.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 17,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_a3d4e239735052cd2c81722aa2930b6fcefa9bec.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_a3d4e239735052cd2c81722aa2930b6fcefa9bec.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 18,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e8cd9901cec9bc5e7c6b8a9dc3e746fa77988a26.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e8cd9901cec9bc5e7c6b8a9dc3e746fa77988a26.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 19,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_549709ca54069eb849986204adb0fe438853e48d.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_549709ca54069eb849986204adb0fe438853e48d.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 20,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e3412658add19155ba35d6c80862559bf002845d.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e3412658add19155ba35d6c80862559bf002845d.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 21,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ea4a3bab5f7ba3a6fcf8067c2864b9d349fe387c.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ea4a3bab5f7ba3a6fcf8067c2864b9d349fe387c.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 22,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_90f67258a3d991fe1b72030e56035ede688a82d7.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_90f67258a3d991fe1b72030e56035ede688a82d7.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 23,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4322495419b762d3e0ca2e31e61dff9a86eac3e9.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4322495419b762d3e0ca2e31e61dff9a86eac3e9.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 24,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d7f501f20ed23e2ee0e5e6b3c09922021c2f9aaa.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d7f501f20ed23e2ee0e5e6b3c09922021c2f9aaa.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 25,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e65286ab9bba88c6d0d9ad30cf6b5d34578c51ce.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e65286ab9bba88c6d0d9ad30cf6b5d34578c51ce.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 26,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e929649b2b98ad76795d92d8489470bc5dbffddb.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e929649b2b98ad76795d92d8489470bc5dbffddb.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 27,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e080b9646300458e7e6fde55ad68c8fd3650371c.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e080b9646300458e7e6fde55ad68c8fd3650371c.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 28,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_62a2f95c1784f138c3abbecf376c5cc99cc94a57.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_62a2f95c1784f138c3abbecf376c5cc99cc94a57.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 29,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_a5ca40b51e95d5c592e5eb77b3d78d5149ea5fd6.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_a5ca40b51e95d5c592e5eb77b3d78d5149ea5fd6.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 30,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1dfbddaafe8e4e8c3a4d8a9e13cdf89e2deb7ab.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1dfbddaafe8e4e8c3a4d8a9e13cdf89e2deb7ab.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 31,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_7bcc40aa6ba276d1ec246127d2e623b75fa315eb.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_7bcc40aa6ba276d1ec246127d2e623b75fa315eb.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 32,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ef673abfaf1555f10c071c4e5e0cd9d513be4c3c.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ef673abfaf1555f10c071c4e5e0cd9d513be4c3c.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 33,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6b3e35dfc1acf5a742998fcd21690b5cddc367df.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6b3e35dfc1acf5a742998fcd21690b5cddc367df.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 34,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_108d9c5f4244a6186662850a56898028913d28a4.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_108d9c5f4244a6186662850a56898028913d28a4.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 35,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_89040ec8716e6422260580640f485f8c825cae62.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_89040ec8716e6422260580640f485f8c825cae62.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 36,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_0cb0627d2d4559ae6ca7be60c43a9dc4aa4e1bb3.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_0cb0627d2d4559ae6ca7be60c43a9dc4aa4e1bb3.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 37,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8b7ae7209f3c3422e76d452c290bd282265caa35.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8b7ae7209f3c3422e76d452c290bd282265caa35.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 38,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d6b4c13c1f59fe3c3973a4289c64047c3d350201.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d6b4c13c1f59fe3c3973a4289c64047c3d350201.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 39,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_fae62fcb24412928d97ec23b6bd9473b26690596.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_fae62fcb24412928d97ec23b6bd9473b26690596.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 40,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_9383e097bbdba1deaa79e77f8bb6664041036066.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_9383e097bbdba1deaa79e77f8bb6664041036066.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 41,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3ce5439cfdd04d1c53487f7057d45360839c0205.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3ce5439cfdd04d1c53487f7057d45360839c0205.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 42,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb5725e2200df97b28908bccb9e8268780489506.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb5725e2200df97b28908bccb9e8268780489506.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 43,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ea299fb00e9789ce97bc6c690d9f99180bab03ab.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ea299fb00e9789ce97bc6c690d9f99180bab03ab.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 44,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ac0dea35915ab1d7f2eacb386befb36a3b684ee6.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ac0dea35915ab1d7f2eacb386befb36a3b684ee6.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 45,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_942afc86f5724f8eafb8075b123cfc848fb736da.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_942afc86f5724f8eafb8075b123cfc848fb736da.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 46,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3a20a814df620793186348058d9201f1c60b1bc2.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3a20a814df620793186348058d9201f1c60b1bc2.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 47,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1f60c9aae855a810bcdabebf43a1e03e9600ac0.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1f60c9aae855a810bcdabebf43a1e03e9600ac0.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 48,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ff987bc8b943034c3bb989710b88dd7d629da783.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ff987bc8b943034c3bb989710b88dd7d629da783.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 49,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_eb0a041f0699ad4c98c6ef2b8222c264e0435864.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_eb0a041f0699ad4c98c6ef2b8222c264e0435864.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 50,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_7454420b01944e4a0f382c3a2d6c7d3d990561fb.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_7454420b01944e4a0f382c3a2d6c7d3d990561fb.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 51,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_99fe78592b8c15211d9b518d921e6a104430c918.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_99fe78592b8c15211d9b518d921e6a104430c918.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 52,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_80b965d66b13d6eb5e1468151a371e12fe159663.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_80b965d66b13d6eb5e1468151a371e12fe159663.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 53,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_1a30befe6a3ed468981a6b2aaed7d2bb79bc1ce0.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_1a30befe6a3ed468981a6b2aaed7d2bb79bc1ce0.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 54,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_9efa694175609b73e9d3dca54190cbd8f6a0bc60.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_9efa694175609b73e9d3dca54190cbd8f6a0bc60.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 55,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ea78dfa1d7d81c3781287cab165f64ca70f1f2ea.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ea78dfa1d7d81c3781287cab165f64ca70f1f2ea.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 56,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 57,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_680684304e38a9c58a55866cde99469ae8ef510c.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_680684304e38a9c58a55866cde99469ae8ef510c.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 58,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_be2b9e45c671f95b8bc9fde58dbbd1154b0b633a.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_be2b9e45c671f95b8bc9fde58dbbd1154b0b633a.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 59,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 60,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_320f7bf17d387eddb1c7153e2bf8de8e14bc4d39.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_320f7bf17d387eddb1c7153e2bf8de8e14bc4d39.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 61,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_c7766bbf4f0800ea989e11b26991a3d90197568c.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_c7766bbf4f0800ea989e11b26991a3d90197568c.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 62,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_65677665937a9164fb10b3194ff1d89bb1f1d848.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_65677665937a9164fb10b3194ff1d89bb1f1d848.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 63,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8ca5134d9826629ea01c9cfb6d8a51c2b1661e28.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8ca5134d9826629ea01c9cfb6d8a51c2b1661e28.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 64,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 65,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3da42391c6317205177248dea0a48ced89998a8d.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3da42391c6317205177248dea0a48ced89998a8d.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 66,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_04c349fc07c4f6244f4426ea0b49e31c8581a97d.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_04c349fc07c4f6244f4426ea0b49e31c8581a97d.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 67,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_fd8843577fb31aba4b4b827b5dad6c5ac3ab890b.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_fd8843577fb31aba4b4b827b5dad6c5ac3ab890b.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 68,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 69,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 70,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_cd721eb1856f0dd3b820e4e998c3b5fe7e7c9b4e.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_cd721eb1856f0dd3b820e4e998c3b5fe7e7c9b4e.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 71,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6efecf505052b51071024f32dc4db364cbb0ab6e.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6efecf505052b51071024f32dc4db364cbb0ab6e.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 72,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 73,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 74,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725"
+    },
+    {
+     "id": 75,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.600x338.jpg?t=1765387725",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725"
+    }
+   ],
+   "movies": [
+    {
+     "id": 257109786,
+     "name": "GTA Online: Oscar Guzman Flies Again EN NR",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257109786/974f93db1b97f206de6f21d585524d598cdbe137/movie_600x337.jpg?t=1741119978",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/844302/de4ad49997171bd3f4d05299cc3e718cfe0307ee/1751269402/dash_av1.mpd?t=1741119978",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/844302/de4ad49997171bd3f4d05299cc3e718cfe0307ee/1751269402/dash_h264.mpd?t=1741119978",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/844302/de4ad49997171bd3f4d05299cc3e718cfe0307ee/1751269402/hls_264_master.m3u8?t=1741119978",
+     "highlight": true
+    },
+    {
+     "id": 257083911,
+     "name": "GTA Online: Agents of Sabotage - NR TC",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257083911/28dd347e182ee47684a8301d00d1628bb3830174/movie_600x337.jpg?t=1734717875",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/802981/317c795ed3583f66cbaf886b6d2247a4f41203c0/1751269401/dash_av1.mpd?t=1734717875",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/802981/317c795ed3583f66cbaf886b6d2247a4f41203c0/1751269401/dash_h264.mpd?t=1734717875",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/802981/317c795ed3583f66cbaf886b6d2247a4f41203c0/1751269401/hls_264_master.m3u8?t=1734717875",
+     "highlight": true
+    },
+    {
+     "id": 257036530,
+     "name": "GTA Online: Bottom Dollar Bounties (TW)",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257036530/movie.293x165.jpg?t=1720472846",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/723604/0c61aecb55121ba98b18a904a8dcebca1b4771bf/1751269374/dash_av1.mpd?t=1720472846",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/723604/0c61aecb55121ba98b18a904a8dcebca1b4771bf/1751269374/dash_h264.mpd?t=1720472846",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/723604/0c61aecb55121ba98b18a904a8dcebca1b4771bf/1751269374/hls_264_master.m3u8?t=1720472846",
+     "highlight": true
+    },
+    {
+     "id": 257010280,
+     "name": "GTA Online: Cluckin' Bell Farm Raid Missions (TW)",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257010280/movie.293x165.jpg?t=1711059344",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/678047/435e937229118586c992f3c4a587fd4e4d9d6a3e/1751269343/dash_av1.mpd?t=1711059344",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/678047/435e937229118586c992f3c4a587fd4e4d9d6a3e/1751269343/dash_h264.mpd?t=1711059344",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/678047/435e937229118586c992f3c4a587fd4e4d9d6a3e/1751269343/hls_264_master.m3u8?t=1711059344",
+     "highlight": true
+    },
+    {
+     "id": 256914078,
+     "name": "GTA Online: Los Santos Summer Special (TW)",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256914078/movie.293x165.jpg?t=1667343777",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/510206/b1de20e9e6f34db5af4647da7b89a16d2cf8454a/1751269301/dash_av1.mpd?t=1667343777",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/510206/b1de20e9e6f34db5af4647da7b89a16d2cf8454a/1751269301/dash_h264.mpd?t=1667343777",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/510206/b1de20e9e6f34db5af4647da7b89a16d2cf8454a/1751269301/hls_264_master.m3u8?t=1667343777",
+     "highlight": true
+    },
+    {
+     "id": 256913347,
+     "name": "GTA Online: The Diamond Casino Heist (TW)",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256913347/movie.293x165.jpg?t=1666976463",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/508964/eda5ae9de78aa0ad743d89cba18c9619d6b02bbf/1751269290/dash_av1.mpd?t=1666976463",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/508964/eda5ae9de78aa0ad743d89cba18c9619d6b02bbf/1751269290/dash_h264.mpd?t=1666976463",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/508964/eda5ae9de78aa0ad743d89cba18c9619d6b02bbf/1751269290/hls_264_master.m3u8?t=1666976463",
+     "highlight": true
+    },
+    {
+     "id": 256757123,
+     "name": "GTA Online: Casino (TW)",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256757123/movie.293x165.jpg?t=1666976601",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/234615/c0c72e95b7cf44ecf5b692c23ed13a0715c66b9f/1751269233/dash_av1.mpd?t=1666976601",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/234615/c0c72e95b7cf44ecf5b692c23ed13a0715c66b9f/1751269233/dash_h264.mpd?t=1666976601",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/234615/c0c72e95b7cf44ecf5b692c23ed13a0715c66b9f/1751269233/hls_264_master.m3u8?t=1666976601",
+     "highlight": true
+    },
+    {
+     "id": 256723130,
+     "name": "GTA Online: After Hours (CN)",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256723130/movie.293x165.jpg?t=1532462475",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/174090/06366d5920b02dd9d31d0ba2f56442a069eb3b8b/1751269197/dash_av1.mpd?t=1532462475",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/174090/06366d5920b02dd9d31d0ba2f56442a069eb3b8b/1751269197/dash_h264.mpd?t=1532462475",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/174090/06366d5920b02dd9d31d0ba2f56442a069eb3b8b/1751269197/hls_264_master.m3u8?t=1532462475",
+     "highlight": true
+    },
+    {
+     "id": 256703163,
+     "name": "GTA Online: The Doomsday Heist (TW)",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256703163/movie.293x165.jpg?t=1512687161",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/137033/f3b7da7b4d2c08bbe71372895bd4f78968013f63/1751269169/dash_av1.mpd?t=1512687161",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/137033/f3b7da7b4d2c08bbe71372895bd4f78968013f63/1751269169/dash_h264.mpd?t=1512687161",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/137033/f3b7da7b4d2c08bbe71372895bd4f78968013f63/1751269169/hls_264_master.m3u8?t=1512687161",
+     "highlight": true
+    },
+    {
+     "id": 256693666,
+     "name": "GTA Online: Smuggler's Run Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256693666/movie.293x165.jpg?t=1504052207",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/119838/626c091a3dd002c9028da3cc40bc644a3864bae0/1751269112/dash_av1.mpd?t=1504052207",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/119838/626c091a3dd002c9028da3cc40bc644a3864bae0/1751269112/dash_h264.mpd?t=1504052207",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/119838/626c091a3dd002c9028da3cc40bc644a3864bae0/1751269112/hls_264_master.m3u8?t=1504052207",
+     "highlight": true
+    },
+    {
+     "id": 256687312,
+     "name": "GTA Online: Gunrunning Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256687312/movie.293x165.jpg?t=1497912510",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/107790/f6eaf411bfd065fe48a0b80f6ffe1c4f1aca5f86/1751269080/dash_av1.mpd?t=1497912510",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/107790/f6eaf411bfd065fe48a0b80f6ffe1c4f1aca5f86/1751269080/dash_h264.mpd?t=1497912510",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/107790/f6eaf411bfd065fe48a0b80f6ffe1c4f1aca5f86/1751269080/hls_264_master.m3u8?t=1497912510",
+     "highlight": true
+    },
+    {
+     "id": 256683842,
+     "name": "GTA Online: Tiny Racers Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256683842/movie.293x165.jpg?t=1496953382",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/99751/1f86413588ed7cbab33318930427ed50eca47611/1751269043/dash_av1.mpd?t=1496953382",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/99751/1f86413588ed7cbab33318930427ed50eca47611/1751269043/dash_h264.mpd?t=1496953382",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/99751/1f86413588ed7cbab33318930427ed50eca47611/1751269043/hls_264_master.m3u8?t=1496953382",
+     "highlight": true
+    },
+    {
+     "id": 256681413,
+     "name": "GTA Online Cunning Stunts: Special Vehicle Circuit Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256681413/movie.293x165.jpg?t=1489701913",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/94576/1bb14f97ee42d66866ce23240c0352d3238c66c2/1751269010/dash_av1.mpd?t=1489701913",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/94576/1bb14f97ee42d66866ce23240c0352d3238c66c2/1751269010/dash_h264.mpd?t=1489701913",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/94576/1bb14f97ee42d66866ce23240c0352d3238c66c2/1751269010/hls_264_master.m3u8?t=1489701913",
+     "highlight": true
+    },
+    {
+     "id": 256676517,
+     "name": "GTA Online: Import/Export",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256676517/movie.293x165.jpg?t=1481922674",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/83940/f162dd88bb8aff809e82dd99159a217305b7c343/1751268979/dash_av1.mpd?t=1481922674",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/83940/f162dd88bb8aff809e82dd99159a217305b7c343/1751268979/dash_h264.mpd?t=1481922674",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/83940/f162dd88bb8aff809e82dd99159a217305b7c343/1751268979/hls_264_master.m3u8?t=1481922674",
+     "highlight": true
+    },
+    {
+     "id": 256674208,
+     "name": "GTA Online: Deadline",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256674208/movie.293x165.jpg?t=1478726587",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/79585/2b3fa24201c9802a763c6a1a358642ac59d1d4c9/1751268966/dash_av1.mpd?t=1478726587",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/79585/2b3fa24201c9802a763c6a1a358642ac59d1d4c9/1751268966/dash_h264.mpd?t=1478726587",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/79585/2b3fa24201c9802a763c6a1a358642ac59d1d4c9/1751268966/hls_264_master.m3u8?t=1478726587",
+     "highlight": true
+    },
+    {
+     "id": 256671981,
+     "name": "GTA Online: Bikers Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256671981/movie.293x165.jpg?t=1475607668",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/75240/888b394bb7c263f399baa8128f518c7890ae4959/1751268930/dash_av1.mpd?t=1475607668",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/75240/888b394bb7c263f399baa8128f518c7890ae4959/1751268930/dash_h264.mpd?t=1475607668",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/75240/888b394bb7c263f399baa8128f518c7890ae4959/1751268930/hls_264_master.m3u8?t=1475607668",
+     "highlight": true
+    },
+    {
+     "id": 256666635,
+     "name": "GTA Online: Cunning Stunts Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256666635/movie.293x165.jpg?t=1468353510",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/64365/f7e03402c1b5c229ed7b5e703f076ee88a0944d0/1751268887/dash_av1.mpd?t=1468353510",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/64365/f7e03402c1b5c229ed7b5e703f076ee88a0944d0/1751268887/dash_h264.mpd?t=1468353510",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/64365/f7e03402c1b5c229ed7b5e703f076ee88a0944d0/1751268887/hls_264_master.m3u8?t=1468353510",
+     "highlight": true
+    },
+    {
+     "id": 256665080,
+     "name": "Further Adventures in Finance and Felony",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256665080/movie.293x165.jpg?t=1465333428",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/61373/f3e98c06760f41c1cb3c3b2014ec83e8c28bd04a/1751268869/dash_av1.mpd?t=1465333428",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/61373/f3e98c06760f41c1cb3c3b2014ec83e8c28bd04a/1751268869/dash_h264.mpd?t=1465333428",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/61373/f3e98c06760f41c1cb3c3b2014ec83e8c28bd04a/1751268869/hls_264_master.m3u8?t=1465333428",
+     "highlight": true
+    },
+    {
+     "id": 256659116,
+     "name": "Executives and Other Criminals",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256659116/movie.293x165.jpg?t=1450306672",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/48704/d81e966e76502458d943922a95a3978f0e473860/1751268839/dash_av1.mpd?t=1450306672",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/48704/d81e966e76502458d943922a95a3978f0e473860/1751268839/dash_h264.mpd?t=1450306672",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/48704/d81e966e76502458d943922a95a3978f0e473860/1751268839/hls_264_master.m3u8?t=1450306672",
+     "highlight": true
+    },
+    {
+     "id": 256657785,
+     "name": "Lowriders Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256657785/movie.293x165.jpg?t=1447378701",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/45733/b854b2ee4a566941a46d1cfae9b919e102726258/1751269275/dash_av1.mpd?t=1447378701",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/45733/b854b2ee4a566941a46d1cfae9b919e102726258/1751269275/dash_h264.mpd?t=1447378701",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/45733/b854b2ee4a566941a46d1cfae9b919e102726258/1751269275/hls_264_master.m3u8?t=1447378701",
+     "highlight": true
+    },
+    {
+     "id": 256656469,
+     "name": "GTA Online Freemode Events Update Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256656469/movie.293x165.jpg?t=1447378093",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/43077/4dceb31ee03baa2ce8a01437a3587495783ad6b6/1751268807/dash_av1.mpd?t=1447378093",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/43077/4dceb31ee03baa2ce8a01437a3587495783ad6b6/1751268807/dash_h264.mpd?t=1447378093",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/43077/4dceb31ee03baa2ce8a01437a3587495783ad6b6/1751268807/hls_264_master.m3u8?t=1447378093",
+     "highlight": true
+    },
+    {
+     "id": 2035420,
+     "name": "Grand Theft Auto V: First Person Experience",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2035420/movie.293x165.jpg?t=1447364873",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/27282/3a5cc58839aa553ce484c9c6290021e343a50fd3/1751268742/dash_av1.mpd?t=1447364873",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/27282/3a5cc58839aa553ce484c9c6290021e343a50fd3/1751268742/dash_h264.mpd?t=1447364873",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/27282/3a5cc58839aa553ce484c9c6290021e343a50fd3/1751268742/hls_264_master.m3u8?t=1447364873",
+     "highlight": true
+    },
+    {
+     "id": 2034933,
+     "name": "A Picket Fence and a Dog Named Skip",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2034933/movie.293x165.jpg?t=1447364175",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/26272/eab437a7795587fecf96d236625708236e07b366/1751268739/dash_av1.mpd?t=1447364175",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/26272/eab437a7795587fecf96d236625708236e07b366/1751268739/dash_h264.mpd?t=1447364175",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/26272/eab437a7795587fecf96d236625708236e07b366/1751268739/hls_264_master.m3u8?t=1447364175",
+     "highlight": true
+    },
+    {
+     "id": 2036645,
+     "name": "Announce Teaser",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036645/movie.293x165.jpg?t=1447367705",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/271590/30064/89c080f1b8858282f400f64754559d1746e0959f/1751268749/dash_av1.mpd?t=1447367705",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/30064/89c080f1b8858282f400f64754559d1746e0959f/1751268749/dash_h264.mpd?t=1447367705",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/271590/30064/89c080f1b8858282f400f64754559d1746e0959f/1751268749/hls_264_master.m3u8?t=1447367705",
+     "highlight": true
+    }
+   ],
+   "recommendations": {
+    "total": 1898492
+   },
+   "achievements": {
+    "total": 77,
+    "highlighted": [
+     {
+      "icon": "348a8015272416e2587965c493877b822fb2bcd1.jpg",
+      "localized_name": "歡迎來到洛聖都",
+      "archived": 0,
+      "hidden": 1,
+      "name": "歡迎來到洛聖都",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/271590/348a8015272416e2587965c493877b822fb2bcd1.jpg"
+     },
+     {
+      "icon": "7424038d40678f398eab78553f71d9832d778ff6.jpg",
+      "localized_name": "重修舊誼",
+      "archived": 0,
+      "hidden": 1,
+      "name": "重修舊誼",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/271590/7424038d40678f398eab78553f71d9832d778ff6.jpg"
+     },
+     {
+      "icon": "4ba73dc8669d5e7090c3efa5b677f34f262049d9.jpg",
+      "localized_name": "辛苦報酬",
+      "archived": 0,
+      "hidden": 1,
+      "name": "辛苦報酬",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/271590/4ba73dc8669d5e7090c3efa5b677f34f262049d9.jpg"
+     },
+     {
+      "icon": "3e96f06594bde75643c502a8f3c82907b07ac594.jpg",
+      "localized_name": "真相大白",
+      "archived": 0,
+      "hidden": 1,
+      "name": "真相大白",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/271590/3e96f06594bde75643c502a8f3c82907b07ac594.jpg"
+     },
+     {
+      "icon": "b785bc5590edfb7a40292702b1f96e5c4ec8d7fa.jpg",
+      "localized_name": "洛聖都生存之戰",
+      "archived": 0,
+      "hidden": 1,
+      "name": "洛聖都生存之戰",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/271590/b785bc5590edfb7a40292702b1f96e5c4ec8d7fa.jpg"
+     },
+     {
+      "icon": "f3bbb0111add48a93dc0ba03b3fe863ecae5dfc6.jpg",
+      "localized_name": "珠光寶盡",
+      "archived": 0,
+      "hidden": 1,
+      "name": "珠光寶盡",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/271590/f3bbb0111add48a93dc0ba03b3fe863ecae5dfc6.jpg"
+     },
+     {
+      "icon": "a9e0377d0560512f8b51bfd496b6b166c7527c4d.jpg",
+      "localized_name": "翻雲覆雨",
+      "archived": 0,
+      "hidden": 1,
+      "name": "翻雲覆雨",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/271590/a9e0377d0560512f8b51bfd496b6b166c7527c4d.jpg"
+     },
+     {
+      "icon": "d64b576aadce4af019a652caf950a5d36f548e3e.jpg",
+      "localized_name": "閃電突擊",
+      "archived": 0,
+      "hidden": 1,
+      "name": "閃電突擊",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/271590/d64b576aadce4af019a652caf950a5d36f548e3e.jpg"
+     },
+     {
+      "icon": "7e3f09a716dcd0aa4b6f811a6d748cad37dfd738.jpg",
+      "localized_name": "小鎮大事",
+      "archived": 0,
+      "hidden": 1,
+      "name": "小鎮大事",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/271590/7e3f09a716dcd0aa4b6f811a6d748cad37dfd738.jpg"
+     },
+     {
+      "icon": "45de6fb89cc1a8c009bccdec10744c33380b481c.jpg",
+      "localized_name": "政府無能",
+      "archived": 0,
+      "hidden": 1,
+      "name": "政府無能",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/271590/45de6fb89cc1a8c009bccdec10744c33380b481c.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2015 年 4 月 13 日"
+   },
+   "support_info": {
+    "url": "https://support.rockstargames.com",
+    "email": ""
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/271590?t=1765387725",
+   "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/271590?t=1765387725",
+   "content_descriptors": {
+    "ids": [
+     5
+    ],
+    "notes": null
+   },
+   "ratings": {
+    "esrb": {
+     "rating": "m",
+     "use_age_gate": "true",
+     "required_age": "17",
+     "descriptors": "Intense Violence\r\nBlood and Gore\r\nNudity\r\nMature Humor\r\nStrong Language\r\nStrong Sexual Content\r\nUse of Drugs and Alcohol"
+    },
+    "kgrb": {
+     "rating": "18",
+     "use_age_gate": "true",
+     "required_age": "18",
+     "descriptors": "Game Descriptive: Sexual Content, Violence, Inappropriate Language, Drug, Crime, Gambling \r\n\r\nTitle Name: Grand Theft Auto V\r\nAge: 18+\r\nCertificate #: CC-NP-150205-002 호\r\nIssue date: 20150205\r\nCompany Name:테이크투인터렉티브유한회사\r\nDistributor No,: 제 2009-00016호\r\n----------------------------------\r\n내용정보표지사항: 선정성, 폭력성, 언어의 부적절성, 약물, 범죄, 사행성\r\n제명: 그랜드 테프트 오토 V\r\n이용등급: 청소년이용불가\r\n등급분류번호: CC-NP-150205-002 호\r\n등급분류일자: 20150205\r\n상호: 테이크투인터렉티브유한회사\r\n제작.배급업 신고번호: 제 2009-00016호"
+    },
+    "pegi": {
+     "rating": "18",
+     "descriptors": "Violence\r\nOnline Play,\r\nStrong Language",
+     "use_age_gate": "true",
+     "required_age": "17"
+    },
+    "usk": {
+     "rating": "18",
+     "use_age_gate": "true",
+     "required_age": "17"
+    },
+    "gmedia": {
+     "rating": "21",
+     "required_age": "21",
+     "use_age_gate": "true"
+    }
+   }
+  }
+ }
+}

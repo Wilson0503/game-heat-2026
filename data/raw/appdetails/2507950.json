@@ -1,0 +1,595 @@
+{
+ "2507950": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "Delta Force",
+   "steam_appid": 2507950,
+   "required_age": 0,
+   "is_free": true,
+   "controller_support": "full",
+   "dlc": [
+    2918370
+   ],
+   "detailed_description": "<h1>群星：賽季活動及獎勵</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/aff3c1d88f5abf0e9a57ea70c7356cf9.avif?t=1790238079\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras_big/aff3c1d88f5abf0e9a57ea70c7356cf9.avif?t=1790238079 width=1560 height=1950 /></span></p></p><br><h1>關於此遊戲</h1><h2 class=\"bb_tag\" ><strong>戰術探員，真實撤離</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/652f6c335d66eb9209730063a330a9e3.poster.avif?t=1790238079\" width=1170 height=378 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/652f6c335d66eb9209730063a330a9e3.webm?t=1790238079\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/652f6c335d66eb9209730063a330a9e3.mp4?t=1790238079\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >加入G.T.I.（全球應急行動組織），集結各懷絕技的精英特戰探員。無論你是用偵察箭索敵、磁吸炸彈爆破，還是啟動動力外骨骼強行衝陣—靈活運用戰術道具與隊友合作，在險象環生的撤離任務中智勝對手。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>前所未有的搜索樂趣</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/0a3769c06708785f035665e2736bae83.poster.avif?t=1790238079\" width=1170 height=378 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/0a3769c06708785f035665e2736bae83.webm?t=1790238079\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/0a3769c06708785f035665e2736bae83.mp4?t=1790238079\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >重燃對戰利品的原始渴望。探索動態地圖，破解密碼，上天掏鳥巢，下海摸蚌殼。每一次重新部署都是一場未知的尋寶博弈，將單純的搜索升格為腎上腺素狂飆的冒險。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>智取首領，槍火制勝</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/1714c15ede69196c9325adca67d2d84d.poster.avif?t=1790238079\" width=1170 height=378 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/1714c15ede69196c9325adca67d2d84d.webm?t=1790238079\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/1714c15ede69196c9325adca67d2d84d.mp4?t=1790238079\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >直面全副武裝的傭兵與殘暴首領，奪取高價值物資。但請隨時保持警惕—最致命的獵手往往是和你一樣覬覦戰利品的敵對玩家。只有活到最後的贏家，才配擁有財富。富貴險中求。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>撤離路線，由你掌控</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/181965c4720d88928eb6fb1254f70a37.poster.avif?t=1790238079\" width=1170 height=378 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/181965c4720d88928eb6fb1254f70a37.webm?t=1790238079\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/181965c4720d88928eb6fb1254f70a37.mp4?t=1790238079\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >撤離是一門藝術。告別枯燥的定點撤離—你可以發射巨型火箭升空，身著飛鼠裝高空滑翔，或是穿越地下管網隱秘潛行。在混亂戰場中隨機應變，用最意想不到的方式全身而退。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>滿載而歸，升級你的特勤局</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/289b106705999bcd156696ec829ae7c9.poster.avif?t=1790238079\" width=1170 height=378 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/289b106705999bcd156696ec829ae7c9.webm?t=1790238079\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/289b106705999bcd156696ec829ae7c9.mp4?t=1790238079\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >生存只是第一步。利用帶出的物資升級特勤局，擴充軍火庫容量，強化身體機能並解鎖頂尖裝備。每一次積累都將轉化為戰場優勢，助你以更強的姿態、更精良的裝備重返前線。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>海陸空三棲，主宰全面戰場</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/2b05bc4cc804393046d6c09d3b9cbf43.poster.avif?t=1790238079\" width=1170 height=378 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/2b05bc4cc804393046d6c09d3b9cbf43.webm?t=1790238079\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/2b05bc4cc804393046d6c09d3b9cbf43.mp4?t=1790238079\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >投身全面戰場，體驗64人的史詩級宏大對決。駕駛坦克和直升機穿梭於城市街道、山巔和廣闊島嶼之間。在支援全場景破壞的地圖上，體驗無縫銜接的純粹戰鬥快感。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>巨量軍械，極致改裝</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/8e83034ce18c8e074872ef74de8a7d5f.poster.avif?t=1790238079\" width=1170 height=378 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/8e83034ce18c8e074872ef74de8a7d5f.webm?t=1790238079\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/8e83034ce18c8e074872ef74de8a7d5f.mp4?t=1790238079\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >在資深軍事顧問的協助下，數十把槍械、每把武器超過10種改裝部位，超過1000種搭配，創造並分享你獨特的改裝方案。不止於槍械，你還可以改裝海陸空載具。定製專屬軍火庫，按你的方式主宰戰場。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>[寫在最後的話，來自製作人Shadow]</strong></h2><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>作為玩家：</strong></h2><p class=\"bb_paragraph\" >《三角洲部隊》是我玩過的第一款射擊遊戲，它開啟了我對射擊遊戲的熱愛和夢想。我非常珍惜製作這款《三角洲行動》的機會，希望能讓更多玩家體驗到那種難忘的遊戲樂趣。我想要新三角洲成為這個宏大的射擊世界。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>作為製作人：</strong></h2><p class=\"bb_paragraph\" >我希望做出Unreal的極致表現，做到真正的跨平台，能讓全球玩家領略到豐富戰術策略、有深度的角色、戰場破壞、頂級動作......對得起「終極體驗」的全平台戰術射擊稱號。</p><p class=\"bb_paragraph\" >希望您們和我一起，共同打造出這款屬於所有三角洲玩家的《三角洲行動》。</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ></p>",
+   "about_the_game": "<h2 class=\"bb_tag\" ><strong>戰術探員，真實撤離</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/652f6c335d66eb9209730063a330a9e3.poster.avif?t=1790238079\" width=1170 height=378 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/652f6c335d66eb9209730063a330a9e3.webm?t=1790238079\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/652f6c335d66eb9209730063a330a9e3.mp4?t=1790238079\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >加入G.T.I.（全球應急行動組織），集結各懷絕技的精英特戰探員。無論你是用偵察箭索敵、磁吸炸彈爆破，還是啟動動力外骨骼強行衝陣—靈活運用戰術道具與隊友合作，在險象環生的撤離任務中智勝對手。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>前所未有的搜索樂趣</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/0a3769c06708785f035665e2736bae83.poster.avif?t=1790238079\" width=1170 height=378 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/0a3769c06708785f035665e2736bae83.webm?t=1790238079\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/0a3769c06708785f035665e2736bae83.mp4?t=1790238079\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >重燃對戰利品的原始渴望。探索動態地圖，破解密碼，上天掏鳥巢，下海摸蚌殼。每一次重新部署都是一場未知的尋寶博弈，將單純的搜索升格為腎上腺素狂飆的冒險。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>智取首領，槍火制勝</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/1714c15ede69196c9325adca67d2d84d.poster.avif?t=1790238079\" width=1170 height=378 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/1714c15ede69196c9325adca67d2d84d.webm?t=1790238079\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/1714c15ede69196c9325adca67d2d84d.mp4?t=1790238079\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >直面全副武裝的傭兵與殘暴首領，奪取高價值物資。但請隨時保持警惕—最致命的獵手往往是和你一樣覬覦戰利品的敵對玩家。只有活到最後的贏家，才配擁有財富。富貴險中求。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>撤離路線，由你掌控</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/181965c4720d88928eb6fb1254f70a37.poster.avif?t=1790238079\" width=1170 height=378 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/181965c4720d88928eb6fb1254f70a37.webm?t=1790238079\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/181965c4720d88928eb6fb1254f70a37.mp4?t=1790238079\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >撤離是一門藝術。告別枯燥的定點撤離—你可以發射巨型火箭升空，身著飛鼠裝高空滑翔，或是穿越地下管網隱秘潛行。在混亂戰場中隨機應變，用最意想不到的方式全身而退。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>滿載而歸，升級你的特勤局</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/289b106705999bcd156696ec829ae7c9.poster.avif?t=1790238079\" width=1170 height=378 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/289b106705999bcd156696ec829ae7c9.webm?t=1790238079\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/289b106705999bcd156696ec829ae7c9.mp4?t=1790238079\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >生存只是第一步。利用帶出的物資升級特勤局，擴充軍火庫容量，強化身體機能並解鎖頂尖裝備。每一次積累都將轉化為戰場優勢，助你以更強的姿態、更精良的裝備重返前線。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>海陸空三棲，主宰全面戰場</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/2b05bc4cc804393046d6c09d3b9cbf43.poster.avif?t=1790238079\" width=1170 height=378 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/2b05bc4cc804393046d6c09d3b9cbf43.webm?t=1790238079\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/2b05bc4cc804393046d6c09d3b9cbf43.mp4?t=1790238079\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >投身全面戰場，體驗64人的史詩級宏大對決。駕駛坦克和直升機穿梭於城市街道、山巔和廣闊島嶼之間。在支援全場景破壞的地圖上，體驗無縫銜接的純粹戰鬥快感。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>巨量軍械，極致改裝</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/8e83034ce18c8e074872ef74de8a7d5f.poster.avif?t=1790238079\" width=1170 height=378 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/8e83034ce18c8e074872ef74de8a7d5f.webm?t=1790238079\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/extras/8e83034ce18c8e074872ef74de8a7d5f.mp4?t=1790238079\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >在資深軍事顧問的協助下，數十把槍械、每把武器超過10種改裝部位，超過1000種搭配，創造並分享你獨特的改裝方案。不止於槍械，你還可以改裝海陸空載具。定製專屬軍火庫，按你的方式主宰戰場。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>[寫在最後的話，來自製作人Shadow]</strong></h2><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>作為玩家：</strong></h2><p class=\"bb_paragraph\" >《三角洲部隊》是我玩過的第一款射擊遊戲，它開啟了我對射擊遊戲的熱愛和夢想。我非常珍惜製作這款《三角洲行動》的機會，希望能讓更多玩家體驗到那種難忘的遊戲樂趣。我想要新三角洲成為這個宏大的射擊世界。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>作為製作人：</strong></h2><p class=\"bb_paragraph\" >我希望做出Unreal的極致表現，做到真正的跨平台，能讓全球玩家領略到豐富戰術策略、有深度的角色、戰場破壞、頂級動作......對得起「終極體驗」的全平台戰術射擊稱號。</p><p class=\"bb_paragraph\" >希望您們和我一起，共同打造出這款屬於所有三角洲玩家的《三角洲行動》。</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ></p>",
+   "short_description": "終極撤離 × 全面戰場 FPS。化身精英特戰探員，定製專屬軍械，在戰術撤離的極限博弈與全面戰爭的宏大史詩中，投身於多種模式下的驚險任務。",
+   "supported_languages": "英文<strong>*</strong>, 簡體中文<strong>*</strong>, 法文, 德文, 俄文, 西班牙文 - 拉丁美洲, 阿拉伯文, 日文, 韓文, 葡萄牙文 - 巴西, 繁體中文, 土耳其文<br><strong>*</strong>具備完整音效支援的語言",
+   "reviews": "“The massive, vehicle-filled battles are respectable fun.”<br />\r\nIGN<br />\r\n<br />\r\n“An FPS game is only as good as it feels to shoot its weapons, and by that metric, Delta Force thrives.”<br />\r\nDot Esports<br />\r\n<br />\r\n“Easy to recommend.”<br />\r\nPC Gamer<br />\r\n",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/09ef134458549352e5b5a06ed7f97cf00d729b62/header_alt_assets_14.jpg?t=1790238079",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/c28c15e52fc6dd75dbf52653a8123930ec399478/capsule_231x87_alt_assets_14.jpg?t=1790238079",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/c28c15e52fc6dd75dbf52653a8123930ec399478/capsule_184x69_alt_assets_14.jpg?t=1790238079",
+   "website": "https://www.playdeltaforce.com",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 10 64 bit<br></li><li><strong>處理器:</strong> Intel Core i3-4150 / AMD FX-6300<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> Nvidia Geforce GTX 660 / AMD HD 7870 / Intel Arc A380<br></li><li><strong>DirectX:</strong> 版本：12<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 88 GB 可用空間</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 10 64 bit<br></li><li><strong>處理器:</strong> Intel Core i5-6500 / AMD Ryzen 5 1500x<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> Nvidia Geforce GTX 1060 5G / AMD RX5500 XT / Intel Arc A580<br></li><li><strong>DirectX:</strong> 版本：12<br></li><li><strong>儲存空間:</strong> 88 GB 可用空間</li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "linux_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "ext_user_account_notice": "LEVEL INFINITE PASS （支援與 Steam 帳戶連結）",
+   "developers": [
+    "Team Jade"
+   ],
+   "publishers": [
+    "TiMi Studio Group"
+   ],
+   "package_groups": [],
+   "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 20,
+     "description": "大型多人線上"
+    },
+    {
+     "id": 49,
+     "description": "玩家對戰"
+    },
+    {
+     "id": 36,
+     "description": "線上玩家對戰"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 27,
+     "description": "跨平台多人連線"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 28,
+     "description": "完整控制器支援"
+    },
+    {
+     "id": 29,
+     "description": "Steam 交換卡片"
+    },
+    {
+     "id": 35,
+     "description": "應用程式內購買"
+    },
+    {
+     "id": 55,
+     "description": "DUALSHOCK 控制器支援"
+    },
+    {
+     "id": 57,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 62,
+     "description": "親友同享"
+    }
+   ],
+   "genres": [
+    {
+     "id": "1",
+     "description": "動作"
+    },
+    {
+     "id": "25",
+     "description": "冒險"
+    },
+    {
+     "id": "29",
+     "description": "大型多人連線"
+    },
+    {
+     "id": "37",
+     "description": "免費遊玩"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/6f153694ed0c1349d554890c2758050ea629f6f0/ss_6f153694ed0c1349d554890c2758050ea629f6f0.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/6f153694ed0c1349d554890c2758050ea629f6f0/ss_6f153694ed0c1349d554890c2758050ea629f6f0.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/6e6783dfed5715c4ac1166dfc12efdf70d6a05ad/ss_6e6783dfed5715c4ac1166dfc12efdf70d6a05ad.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/6e6783dfed5715c4ac1166dfc12efdf70d6a05ad/ss_6e6783dfed5715c4ac1166dfc12efdf70d6a05ad.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/9a43813e3a8e24baa672368b87f3ba486ed7d483/ss_9a43813e3a8e24baa672368b87f3ba486ed7d483.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/9a43813e3a8e24baa672368b87f3ba486ed7d483/ss_9a43813e3a8e24baa672368b87f3ba486ed7d483.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/b8f752f35705bdf9b586cf224672bee45bc6d9bc/ss_b8f752f35705bdf9b586cf224672bee45bc6d9bc.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/b8f752f35705bdf9b586cf224672bee45bc6d9bc/ss_b8f752f35705bdf9b586cf224672bee45bc6d9bc.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/03daf5266860fc6c3b4ecd9dccb9acb45803276d/ss_03daf5266860fc6c3b4ecd9dccb9acb45803276d.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/03daf5266860fc6c3b4ecd9dccb9acb45803276d/ss_03daf5266860fc6c3b4ecd9dccb9acb45803276d.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/7f494c124f7f95e09fd82c78de8efaf973d8e15b/ss_7f494c124f7f95e09fd82c78de8efaf973d8e15b.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/7f494c124f7f95e09fd82c78de8efaf973d8e15b/ss_7f494c124f7f95e09fd82c78de8efaf973d8e15b.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/75a40dec204b7a4ddd3649ed6ce5ee6e731c84d4/ss_75a40dec204b7a4ddd3649ed6ce5ee6e731c84d4.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/75a40dec204b7a4ddd3649ed6ce5ee6e731c84d4/ss_75a40dec204b7a4ddd3649ed6ce5ee6e731c84d4.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/2e1d189fe5f463264ac22525feabb04535e94c84/ss_2e1d189fe5f463264ac22525feabb04535e94c84.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/2e1d189fe5f463264ac22525feabb04535e94c84/ss_2e1d189fe5f463264ac22525feabb04535e94c84.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/06d000cc5c7eb733388f04e4a1662babcd7e0208/ss_06d000cc5c7eb733388f04e4a1662babcd7e0208.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/06d000cc5c7eb733388f04e4a1662babcd7e0208/ss_06d000cc5c7eb733388f04e4a1662babcd7e0208.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/a741fd10896ce4d44f812b93c68f9c01a5aa3e64/ss_a741fd10896ce4d44f812b93c68f9c01a5aa3e64.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/a741fd10896ce4d44f812b93c68f9c01a5aa3e64/ss_a741fd10896ce4d44f812b93c68f9c01a5aa3e64.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 10,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/a5ec9f07c0f9bbfd4bfbbdb142834c94bcf27464/ss_a5ec9f07c0f9bbfd4bfbbdb142834c94bcf27464.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/a5ec9f07c0f9bbfd4bfbbdb142834c94bcf27464/ss_a5ec9f07c0f9bbfd4bfbbdb142834c94bcf27464.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 11,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/d04ff4ce93461915dbe89fe705e70e21dfdb8ca8/ss_d04ff4ce93461915dbe89fe705e70e21dfdb8ca8.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/d04ff4ce93461915dbe89fe705e70e21dfdb8ca8/ss_d04ff4ce93461915dbe89fe705e70e21dfdb8ca8.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 12,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_88d7ff2529260f5782f0fb842ccc78cc09bfba59.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_88d7ff2529260f5782f0fb842ccc78cc09bfba59.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 13,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_2a9fffcd74fb94896bd77a199cd4a7b5033eb8a0.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_2a9fffcd74fb94896bd77a199cd4a7b5033eb8a0.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 14,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_9bad18d36609072b2b9d50816e75cce81b6e4b0f.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_9bad18d36609072b2b9d50816e75cce81b6e4b0f.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 15,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_6921b0b2af4a531ee67ec7c46260da4f572e6934.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_6921b0b2af4a531ee67ec7c46260da4f572e6934.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 16,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_234e46270b0363529a1c695ae0f2637969427000.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_234e46270b0363529a1c695ae0f2637969427000.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 17,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_e25ef30c6cdff5c5ff48e4ac0e7856ec4ebbb10e.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_e25ef30c6cdff5c5ff48e4ac0e7856ec4ebbb10e.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 18,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_b422afeb7e2a02afee53cbba6554ef23b59b6a38.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_b422afeb7e2a02afee53cbba6554ef23b59b6a38.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 19,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_138f7cfa9ed3144f21bb475dbb2ef4afdb2565f1.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_138f7cfa9ed3144f21bb475dbb2ef4afdb2565f1.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 20,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_77974f7b3602b89f690def79b8e0f45f741107e0.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_77974f7b3602b89f690def79b8e0f45f741107e0.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 21,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_2cdeda82af7d7afe2b045cf4977447e2832793cd.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_2cdeda82af7d7afe2b045cf4977447e2832793cd.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 22,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_b0e552eaeffe089173b557b28ddc052613375003.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_b0e552eaeffe089173b557b28ddc052613375003.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 23,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_13a54b2f6d7726b682b9516138b5274fde3157a1.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_13a54b2f6d7726b682b9516138b5274fde3157a1.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 24,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_82cd2089cd2d3f28c7c11bfc70c9e9eb8ce29050.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_82cd2089cd2d3f28c7c11bfc70c9e9eb8ce29050.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 25,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_9ad2ea728c9d4096674658b944bc47a0d083355e.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_9ad2ea728c9d4096674658b944bc47a0d083355e.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 26,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_25b2b14bc38fb5aba1a279bce34e2c1eecab1f4b.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_25b2b14bc38fb5aba1a279bce34e2c1eecab1f4b.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 27,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_8663e44df6db161880072ec2ae32a6dd18b1e5b9.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_8663e44df6db161880072ec2ae32a6dd18b1e5b9.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 28,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_c03014357e514d42d465966d4ea55dcfc20f2c2d.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_c03014357e514d42d465966d4ea55dcfc20f2c2d.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 29,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_7006f261d2d50ef06293e0b29785211db687a9b1.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_7006f261d2d50ef06293e0b29785211db687a9b1.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 30,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_3d51cf2df79516b9b75713b1399d8952737e1246.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_3d51cf2df79516b9b75713b1399d8952737e1246.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 31,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_0336d3bdff28cdb9dcb2c76538af9f8a999a7a0b.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_0336d3bdff28cdb9dcb2c76538af9f8a999a7a0b.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 32,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_c6109219c92d56f09f250a3427e54408c619cf37.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_c6109219c92d56f09f250a3427e54408c619cf37.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 33,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_65aa06bcc1247af269c8879a5ebe212885fefc0a.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_65aa06bcc1247af269c8879a5ebe212885fefc0a.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 34,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_4996dcf29612ea40a821b49099180965a7e86ff0.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_4996dcf29612ea40a821b49099180965a7e86ff0.1920x1080.jpg?t=1790238079"
+    },
+    {
+     "id": 35,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_567c8081ef9b2df8afec0090a39cd97b1600191b.600x338.jpg?t=1790238079",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_567c8081ef9b2df8afec0090a39cd97b1600191b.1920x1080.jpg?t=1790238079"
+    }
+   ],
+   "movies": [
+    {
+     "id": 257416141,
+     "name": "Season 11 Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257416141/742dcbaef216a28dccdd1d3a0454141828df7216/movie_600x337.jpg?t=1788833304",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2507950/822863803/5c9a5df222ba770a7c005a004f3436df71414198/1788403592/dash_av1.mpd?t=1788833304",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/822863803/5c9a5df222ba770a7c005a004f3436df71414198/1788403592/dash_h264.mpd?t=1788833304",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/822863803/5c9a5df222ba770a7c005a004f3436df71414198/1788403592/hls_264_master.m3u8?t=1788833304",
+     "highlight": true
+    },
+    {
+     "id": 257416143,
+     "name": "Season 11 Rover and Clover Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257416143/b44bb8cf7e55554bce4c4010ee069ad3a6301e35/movie_600x337.jpg?t=1788833306",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2507950/265756278/edcabfe69c4c12339ffc5f8bed1c563ecc1b5078/1788403803/dash_av1.mpd?t=1788833306",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/265756278/edcabfe69c4c12339ffc5f8bed1c563ecc1b5078/1788403803/dash_h264.mpd?t=1788833306",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/265756278/edcabfe69c4c12339ffc5f8bed1c563ecc1b5078/1788403803/hls_264_master.m3u8?t=1788833306",
+     "highlight": true
+    },
+    {
+     "id": 257365975,
+     "name": "Season Meltdown Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257365975/9c43c6da090f54b966c7c7bfc3f26bcf5e0a49fc/movie_600x337.jpg?t=1782784884",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2507950/683346032/15e9739289ffb44f40fdcaeab0cedb085d861d3c/1782456746/dash_av1.mpd?t=1782784884",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/683346032/15e9739289ffb44f40fdcaeab0cedb085d861d3c/1782456746/dash_h264.mpd?t=1782784884",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/683346032/15e9739289ffb44f40fdcaeab0cedb085d861d3c/1782456746/hls_264_master.m3u8?t=1782784884",
+     "highlight": true
+    },
+    {
+     "id": 257367720,
+     "name": "Season Meltdown N2 Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257367720/edf5e7eeb543d7806f879b93ed47891d166958ae/movie_600x337.jpg?t=1782784885",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2507950/811368739/55ecb2d1ca45e5099bc7fbef8a19379f4f0fc0aa/1782739820/dash_av1.mpd?t=1782784885",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/811368739/55ecb2d1ca45e5099bc7fbef8a19379f4f0fc0aa/1782739820/dash_h264.mpd?t=1782784885",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/811368739/55ecb2d1ca45e5099bc7fbef8a19379f4f0fc0aa/1782739820/hls_264_master.m3u8?t=1782784885",
+     "highlight": true
+    },
+    {
+     "id": 257321176,
+     "name": "Season Echo Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257321176/49ee78b02a6f379eac8adf287db22d8aa3ea860d/movie_600x337.jpg?t=1776737596",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2507950/1934859050/709b1b84e4fca5f847e615afa7c687d37b28b780/1776395436/dash_av1.mpd?t=1776737596",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/1934859050/709b1b84e4fca5f847e615afa7c687d37b28b780/1776395436/dash_h264.mpd?t=1776737596",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/1934859050/709b1b84e4fca5f847e615afa7c687d37b28b780/1776395436/hls_264_master.m3u8?t=1776737596",
+     "highlight": true
+    },
+    {
+     "id": 257275162,
+     "name": "Season Morphosis Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257275162/0228f6e6a249127f2d405aa28597a8978136ce99/movie_600x337.jpg?t=1770084033",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2507950/1693354452/bfed92d59bfdd820b9be7a54da2944f375e95278/1769674401/dash_av1.mpd?t=1770084033",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/1693354452/bfed92d59bfdd820b9be7a54da2944f375e95278/1769674401/dash_h264.mpd?t=1770084033",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/1693354452/bfed92d59bfdd820b9be7a54da2944f375e95278/1769674401/hls_264_master.m3u8?t=1770084033",
+     "highlight": true
+    },
+    {
+     "id": 257230633,
+     "name": "Season War Ahsarah Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257230633/3b2e77ee5b99f26e50a67ab94a0c576f541732ea/movie_600x337.jpg?t=1763430914",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2507950/1017216293/1ec0f8b2f64b89d7c0a7e1bd5e59d43eef5b026b/1763022861/dash_av1.mpd?t=1763430914",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/1017216293/1ec0f8b2f64b89d7c0a7e1bd5e59d43eef5b026b/1763022861/dash_h264.mpd?t=1763430914",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/1017216293/1ec0f8b2f64b89d7c0a7e1bd5e59d43eef5b026b/1763022861/hls_264_master.m3u8?t=1763430914",
+     "highlight": true
+    },
+    {
+     "id": 257200925,
+     "name": "Season War Ablaze Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257200925/3d5a55b3eddcab1a21a49755f2f73d477d77e51f/movie_600x337.jpg?t=1758592876",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2507950/367528707/8f9bf46b786ed64cf72a1a584e4f743fe37fef3c/1758183578/dash_av1.mpd?t=1758592876",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/367528707/8f9bf46b786ed64cf72a1a584e4f743fe37fef3c/1758183578/dash_h264.mpd?t=1758592876",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/367528707/8f9bf46b786ed64cf72a1a584e4f743fe37fef3c/1758183578/hls_264_master.m3u8?t=1758592876",
+     "highlight": true
+    },
+    {
+     "id": 257166412,
+     "name": "Season Break Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257166412/b7cb6cf5f3141a73d6889103015bbc3faadff880/movie_600x337.jpg?t=1752026525",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2507950/599905685/b015528c44eef6e0d98ad659c926981f9730f878/1751966688/dash_av1.mpd?t=1752026525",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/599905685/b015528c44eef6e0d98ad659c926981f9730f878/1751966688/dash_h264.mpd?t=1752026525",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/599905685/b015528c44eef6e0d98ad659c926981f9730f878/1751966688/hls_264_master.m3u8?t=1752026525",
+     "highlight": true
+    },
+    {
+     "id": 257100297,
+     "name": "Black Hawk Down Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257100297/7bd4ee8a87d004f80c95002573228a6e9cb67a20/movie_600x337.jpg?t=1740053893",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2507950/832186/e465a5d2aae18c1f8f1bb80cc1aa12b8ed5c05cf/1750816018/dash_av1.mpd?t=1740053893",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/832186/e465a5d2aae18c1f8f1bb80cc1aa12b8ed5c05cf/1750816018/dash_h264.mpd?t=1740053893",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/832186/e465a5d2aae18c1f8f1bb80cc1aa12b8ed5c05cf/1750816018/hls_264_master.m3u8?t=1740053893",
+     "highlight": true
+    },
+    {
+     "id": 257127714,
+     "name": "Season Eclipse Vigil Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257127714/b454885a0a256fe36b23828a2b4b0d2983240316/movie_600x337.jpg?t=1745200728",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2507950/872927/7d4e1a54e235de4d5ef47cf48deb9c463b68126d/1750816020/dash_av1.mpd?t=1745200728",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/872927/7d4e1a54e235de4d5ef47cf48deb9c463b68126d/1750816020/dash_h264.mpd?t=1745200728",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/872927/7d4e1a54e235de4d5ef47cf48deb9c463b68126d/1750816020/hls_264_master.m3u8?t=1745200728",
+     "highlight": true
+    },
+    {
+     "id": 257077876,
+     "name": "Warfare Gameplay Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257077876/bb7565941d15250f180ca9c48316f28beccb8e1a/movie_600x337.jpg?t=1733308204",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2507950/793214/a39a041f3de9ca88d7475357f28db3119bc72ff1/1750816011/dash_av1.mpd?t=1733308204",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/793214/a39a041f3de9ca88d7475357f28db3119bc72ff1/1750816011/dash_h264.mpd?t=1733308204",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/793214/a39a041f3de9ca88d7475357f28db3119bc72ff1/1750816011/hls_264_master.m3u8?t=1733308204",
+     "highlight": true
+    },
+    {
+     "id": 257078747,
+     "name": "Operations Gameplay Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257078747/ca9f3cce53568f136eaa2715899f90b9dc3a08eb/movie_600x337.jpg?t=1733308209",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2507950/794799/d8ae72f761bf706bfff3210478024a0cf1472015/1750816014/dash_av1.mpd?t=1733308209",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/794799/d8ae72f761bf706bfff3210478024a0cf1472015/1750816014/dash_h264.mpd?t=1733308209",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/794799/d8ae72f761bf706bfff3210478024a0cf1472015/1750816014/hls_264_master.m3u8?t=1733308209",
+     "highlight": true
+    },
+    {
+     "id": 257047545,
+     "name": "Game Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257047545/movie.293x165.jpg?t=1729651082",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2507950/742682/829efbd5da9276c80438377193e0ef11470fc82a/1750816008/dash_av1.mpd?t=1729651082",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/742682/829efbd5da9276c80438377193e0ef11470fc82a/1750816008/dash_h264.mpd?t=1729651082",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/742682/829efbd5da9276c80438377193e0ef11470fc82a/1750816008/hls_264_master.m3u8?t=1729651082",
+     "highlight": true
+    },
+    {
+     "id": 257031960,
+     "name": "Black Hawk Down Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257031960/movie.293x165.jpg?t=1718768614",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2507950/715277/a05cfe8537e13dab876a13795ae261e3c5e42d63/1750816003/dash_av1.mpd?t=1718768614",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/715277/a05cfe8537e13dab876a13795ae261e3c5e42d63/1750816003/dash_h264.mpd?t=1718768614",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2507950/715277/a05cfe8537e13dab876a13795ae261e3c5e42d63/1750816003/hls_264_master.m3u8?t=1718768614",
+     "highlight": true
+    }
+   ],
+   "achievements": {
+    "total": 53,
+    "highlighted": [
+     {
+      "icon": "dd1857c1760bfb444a5d8b8075b50c774a2b6cba.jpg",
+      "localized_name": "頂級特工",
+      "archived": 0,
+      "hidden": 0,
+      "name": "頂級特工",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2507950/dd1857c1760bfb444a5d8b8075b50c774a2b6cba.jpg"
+     },
+     {
+      "icon": "40a90c0f2d9ae33e1067f18d117968e26e494e84.jpg",
+      "localized_name": "資深特勤",
+      "archived": 0,
+      "hidden": 0,
+      "name": "資深特勤",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2507950/40a90c0f2d9ae33e1067f18d117968e26e494e84.jpg"
+     },
+     {
+      "icon": "3f0e4bc68063bccb9f2d19619a898c230b7b131f.jpg",
+      "localized_name": "戰場指揮官",
+      "archived": 0,
+      "hidden": 0,
+      "name": "戰場指揮官",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2507950/3f0e4bc68063bccb9f2d19619a898c230b7b131f.jpg"
+     },
+     {
+      "icon": "76401240bc86a4e8731344974ee5edec9af2fc34.jpg",
+      "localized_name": "久戰尖兵",
+      "archived": 0,
+      "hidden": 0,
+      "name": "久戰尖兵",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2507950/76401240bc86a4e8731344974ee5edec9af2fc34.jpg"
+     },
+     {
+      "icon": "5801bcfb0bc4349a8e301d62c02ff1ff2170831d.jpg",
+      "localized_name": "一顆永流傳",
+      "archived": 0,
+      "hidden": 1,
+      "name": "一顆永流傳",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2507950/5801bcfb0bc4349a8e301d62c02ff1ff2170831d.jpg"
+     },
+     {
+      "icon": "3d14ed2735dc5496fc6c482b7047367c642c5992.jpg",
+      "localized_name": "軍事愛好者",
+      "archived": 0,
+      "hidden": 1,
+      "name": "軍事愛好者",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2507950/3d14ed2735dc5496fc6c482b7047367c642c5992.jpg"
+     },
+     {
+      "icon": "5b6d17eaaa4eb97e6f7091553e368cd0f78f0f85.jpg",
+      "localized_name": "機械心肺",
+      "archived": 0,
+      "hidden": 1,
+      "name": "機械心肺",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2507950/5b6d17eaaa4eb97e6f7091553e368cd0f78f0f85.jpg"
+     },
+     {
+      "icon": "c039e165cd0410891faeb015c2a42b778e9a636b.jpg",
+      "localized_name": "物理駭客",
+      "archived": 0,
+      "hidden": 1,
+      "name": "物理駭客",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2507950/c039e165cd0410891faeb015c2a42b778e9a636b.jpg"
+     },
+     {
+      "icon": "3d4bef4a33c59aa4fad770df55a4da04774eed1c.jpg",
+      "localized_name": "次世代材料",
+      "archived": 0,
+      "hidden": 1,
+      "name": "次世代材料",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2507950/3d4bef4a33c59aa4fad770df55a4da04774eed1c.jpg"
+     },
+     {
+      "icon": "aea32c7d3a45d1c125d70ce469289708b7c0ff0f.jpg",
+      "localized_name": "精確探測",
+      "archived": 0,
+      "hidden": 1,
+      "name": "精確探測",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2507950/aea32c7d3a45d1c125d70ce469289708b7c0ff0f.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2024 年 12 月 4 日"
+   },
+   "support_info": {
+    "url": "",
+    "email": "service@playdeltaforce.com"
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2507950?t=1790238079",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/page_bg_raw.jpg?t=1790238079",
+   "content_descriptors": {
+    "ids": [],
+    "notes": null
+   },
+   "ratings": {
+    "dejus": {
+     "rating_generated": "1",
+     "rating": "14",
+     "required_age": "14",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Violência"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "16",
+     "required_age": "16",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Drastische Gewalt"
+    },
+    "kgrb": {
+     "rating": "19",
+     "use_age_gate": "true",
+     "required_age": "19"
+    },
+    "pegi": {
+     "rating": "16",
+     "descriptors": "Violence\r\nIn-Game Purchase"
+    },
+    "esrb": {
+     "rating": "t",
+     "descriptors": "Violence\r\nBlood"
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "18",
+     "required_age": "18",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Interaksi Daring\nKekerasan"
+    },
+    "steam_australia": {
+     "rating_generated": "1",
+     "rating": "MA15",
+     "required_age": "16",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Strong Violence"
+    }
+   }
+  }
+ }
+}

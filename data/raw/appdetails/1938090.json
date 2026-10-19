@@ -1,0 +1,652 @@
+{
+ "1938090": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "《決勝時刻®》",
+   "steam_appid": 1938090,
+   "required_age": "18",
+   "is_free": false,
+   "dlc": [
+    4200780,
+    4512480,
+    4233760,
+    4085000,
+    4085010,
+    4085020,
+    4085030,
+    4085040,
+    4085060,
+    4085070,
+    4085080,
+    4085090,
+    4085110,
+    4085120,
+    4085130,
+    4098660,
+    3997750,
+    3696030,
+    3498090,
+    3159170,
+    2790750,
+    2790730,
+    2790710,
+    2790670,
+    2790660,
+    2783780,
+    2795080,
+    2783770,
+    2775840,
+    2731850,
+    2686650,
+    2625050,
+    2596430,
+    2534810,
+    2493660,
+    2459970,
+    2433000,
+    2396490,
+    2387940,
+    2354080,
+    2316850,
+    2278280,
+    2137910,
+    2127791,
+    2127790,
+    2053671
+   ],
+   "detailed_description": "<p class=\"bb_paragraph\" >《決勝時刻®》體驗支援《現代戰爭® 4》、《黑色行動 7》和《決勝時刻®：現代戰域™》。</p><p class=\"bb_paragraph\" >《決勝時刻®：現代戰爭® 4》讓玩家體驗戰火無界。</p><p class=\"bb_paragraph\" >Treyarch和Raven Software聯手打造的最新力作《決勝時刻®：黑色行動 7》將帶領玩家深入史上規模最大的《黑色行動》。</p><p class=\"bb_paragraph\" >《決勝時刻®：現代戰域™》是一座大型免費遊玩戰鬥競技場，提供大逃殺、捲土重來和黑色行動大逃殺。</p><p class=\"bb_paragraph\" >;《決勝時刻®》點數（CP）*是遊戲內貨幣，可用來購買《黑色行動 7》、《黑色行動 6》、《現代戰爭® III 2023》，《現代戰爭® II 2022》 與《決勝時刻®：現代戰域™》的全新內容。</p><p class=\"bb_paragraph\" >需要擁有《決勝時刻®：黑色行動 7》、需要擁有《決勝時刻®：黑色行動 6》、《決勝時刻®：現代戰爭® III 2023》、《決勝時刻®：現代戰爭® II 2022》 或《決勝時刻®：現代戰域™》才可兌換。獨立販售 / 下載。</p><p class=\"bb_paragraph\" >你所購買的《決勝時刻®》點數也可在特定具有《決勝時刻®》點數功能的《決勝時刻®》系列遊戲使用，並用以換取其中的遊戲內容。各款遊戲均為獨立販售。</p>",
+   "about_the_game": "<p class=\"bb_paragraph\" >《決勝時刻®》體驗支援《現代戰爭® 4》、《黑色行動 7》和《決勝時刻®：現代戰域™》。</p><p class=\"bb_paragraph\" >《決勝時刻®：現代戰爭® 4》讓玩家體驗戰火無界。</p><p class=\"bb_paragraph\" >Treyarch和Raven Software聯手打造的最新力作《決勝時刻®：黑色行動 7》將帶領玩家深入史上規模最大的《黑色行動》。</p><p class=\"bb_paragraph\" >《決勝時刻®：現代戰域™》是一座大型免費遊玩戰鬥競技場，提供大逃殺、捲土重來和黑色行動大逃殺。</p><p class=\"bb_paragraph\" >;《決勝時刻®》點數（CP）*是遊戲內貨幣，可用來購買《黑色行動 7》、《黑色行動 6》、《現代戰爭® III 2023》，《現代戰爭® II 2022》 與《決勝時刻®：現代戰域™》的全新內容。</p><p class=\"bb_paragraph\" >需要擁有《決勝時刻®：黑色行動 7》、需要擁有《決勝時刻®：黑色行動 6》、《決勝時刻®：現代戰爭® III 2023》、《決勝時刻®：現代戰爭® II 2022》 或《決勝時刻®：現代戰域™》才可兌換。獨立販售 / 下載。</p><p class=\"bb_paragraph\" >你所購買的《決勝時刻®》點數也可在特定具有《決勝時刻®》點數功能的《決勝時刻®》系列遊戲使用，並用以換取其中的遊戲內容。各款遊戲均為獨立販售。</p>",
+   "short_description": "《決勝時刻®》體驗支援《現代戰爭® 4》、《黑色行動 7》、《黑色行動 6》和《決勝時刻®：現代戰域™》。",
+   "supported_languages": "英文<strong>*</strong>, 法文<strong>*</strong>, 義大利文<strong>*</strong>, 德文<strong>*</strong>, 西班牙文 - 西班牙<strong>*</strong>, 韓文, 波蘭文, 俄文, 繁體中文, 日文<strong>*</strong>, 西班牙文 - 拉丁美洲<strong>*</strong>, 阿拉伯文, 簡體中文<strong>*</strong>, 葡萄牙文 - 巴西<strong>*</strong><br><strong>*</strong>具備完整音效支援的語言",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/f51d8acb7554ff9a5cb3b77c6155c1e9f615ca74/header_tchinese.jpg?t=1792179713",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/30dc5b5fa7e76690aa66a5cb79741b42a5c2dde3/capsule_231x87_tchinese.jpg?t=1792179713",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/30dc5b5fa7e76690aa66a5cb79741b42a5c2dde3/capsule_184x69_tchinese.jpg?t=1792179713",
+   "website": "https://www.callofduty.com/",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows® 10 64位元（最新更新）<br></li><li><strong>處理器:</strong> AMD Ryzen™ 5 1400 或Intel® Core™ i5-6600<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> AMD Radeon™ RX 470, NVIDIA® GeForce® GTX 970 / 1060 或 Intel® Arc™ A580<br></li><li><strong>DirectX:</strong> 版本：12<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>備註:</strong> 發行時擁有最少161GB空間的SSD</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows® 11 64位元（最新更新）<br></li><li><strong>處理器:</strong> AMD Ryzen™ 5 1600X 或Intel® Core™ i7-6700K<br></li><li><strong>記憶體:</strong> 12 GB 記憶體<br></li><li><strong>顯示卡:</strong> AMD Radeon™ RX 6600XT 或者 NVIDIA® GeForce® RTX 3060 或 Intel® Arc™ B580<br></li><li><strong>DirectX:</strong> 版本：12<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>備註:</strong> 發行時擁有最少161GB空間的SSD</li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "linux_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "legal_notice": "可能需要將一組手機號碼連結至你的Activision帳號才能遊玩《決勝時刻®：現代戰域™》、《現代戰爭® 4》、《黑色行動 7》、《黑色行動 6》、《現代戰爭® III (2023)》和《現代戰爭® II (2022)》。<br />\r\n<br />\r\n*並非所有《決勝時刻®》遊戲均可使用CP，功能將視需求做調整，且未來或有變動。你將可以於遊戲內點數功能開放後取得CP。必須啟動《決勝時刻®：黑色行動 7》、《決勝時刻®：黑色行動 6》、《決勝時刻®：現代戰爭® III 2023》、《決勝時刻®：現代戰爭® II 2022》 或《決勝時刻®：現代戰域™》並在遊戲內註冊CP後，這些CP才會出現在其他《決勝時刻®》遊戲中。<br />\r\n<br />\r\n如需更多資訊，請造訪 www.callofduty.com。<br />\r\n<br />\r\n©/TM/® 2026 Activision Publishing, Inc. 本產品內含由Id Software（「Id Technology」）授權的軟體技術。Id Technology © 1999-2026 Id Software, Inc.",
+   "ext_user_account_notice": "Activision Account （支援與 Steam 帳戶連結）",
+   "developers": [
+    "Treyarch",
+    "Raven Software",
+    "Beenox",
+    "High Moon Studios",
+    "Sledgehammer Games",
+    "Infinity Ward",
+    "Activision Shanghai",
+    "Demonware"
+   ],
+   "publishers": [
+    "Activision"
+   ],
+   "packages": [
+    777136,
+    777139,
+    777142,
+    777145,
+    777148,
+    777151,
+    777154,
+    1430343,
+    1641553,
+    1641550
+   ],
+   "package_groups": [
+    {
+     "name": "CallofDuty®:ModernWarfare4",
+     "title": "購買 《決勝時刻®》",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 1641550,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "決勝時刻®：現代戰爭® 4 - NT$ 2,099",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 209900
+      },
+      {
+       "packageid": 1641553,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "《決勝時刻®：現代戰爭® 4》- 寶庫版 - NT$ 3,036",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 303600
+      }
+     ]
+    },
+    {
+     "name": "BlackOps7",
+     "title": "購買 《決勝時刻®》",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 1430343,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "Call of Duty®: Black Ops 7 - NT$ 2,320",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 232000
+      }
+     ]
+    },
+    {
+     "name": "CoDPoints",
+     "title": "Buy Call of Duty® Points",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": "1",
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 777136,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "200點CP - NT$ 62",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 6200
+      },
+      {
+       "packageid": 777139,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "500點CP - NT$ 156",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 15600
+      },
+      {
+       "packageid": 777142,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "1,000點（附送100點）CP - NT$ 312",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 31200
+      },
+      {
+       "packageid": 777145,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "2,000點（附送400點）CP - NT$ 625",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 62500
+      },
+      {
+       "packageid": 777148,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "4,000點（附送1,000點）CP - NT$ 1,249",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 124900
+      },
+      {
+       "packageid": 777151,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "7,500點（附送2,000點）CP - NT$ 2,343",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 234300
+      },
+      {
+       "packageid": 777154,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "10,000點（附送3,000點）CP - NT$ 3,150",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 315000
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 49,
+     "description": "玩家對戰"
+    },
+    {
+     "id": 36,
+     "description": "線上玩家對戰"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 27,
+     "description": "跨平台多人連線"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 13,
+     "description": "有字幕"
+    },
+    {
+     "id": 35,
+     "description": "應用程式內購買"
+    },
+    {
+     "id": 64,
+     "description": "可調整文字大小"
+    },
+    {
+     "id": 67,
+     "description": "鏡頭舒適度"
+    },
+    {
+     "id": 66,
+     "description": "顏色替代選項"
+    },
+    {
+     "id": 68,
+     "description": "自訂音量控制"
+    },
+    {
+     "id": 74,
+     "description": "遊玩無需快速反應"
+    },
+    {
+     "id": 55,
+     "description": "DUALSHOCK 控制器支援"
+    },
+    {
+     "id": 56,
+     "description": "DUALSHOCK 控制器支援"
+    },
+    {
+     "id": 57,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 58,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 59,
+     "description": "Steam 輸入 API 支援"
+    },
+    {
+     "id": 69,
+     "description": "立體聲"
+    },
+    {
+     "id": 65,
+     "description": "字幕選項"
+    },
+    {
+     "id": 70,
+     "description": "環繞音效"
+    },
+    {
+     "id": 18,
+     "description": "部分控制器支援"
+    },
+    {
+     "id": 61,
+     "description": "可用 HDR"
+    }
+   ],
+   "genres": [
+    {
+     "id": "1",
+     "description": "動作"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/ee5f6b6aebe4dc9e86b49c4e309d361b132df308/ss_ee5f6b6aebe4dc9e86b49c4e309d361b132df308.600x338.jpg?t=1792179713",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/ee5f6b6aebe4dc9e86b49c4e309d361b132df308/ss_ee5f6b6aebe4dc9e86b49c4e309d361b132df308.1920x1080.jpg?t=1792179713"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/ca97243a998802a38c7cddf195cee327c5760353/ss_ca97243a998802a38c7cddf195cee327c5760353.600x338.jpg?t=1792179713",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/ca97243a998802a38c7cddf195cee327c5760353/ss_ca97243a998802a38c7cddf195cee327c5760353.1920x1080.jpg?t=1792179713"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/6b8f4040a1e923f036e04d9eb21ecb0f866be57e/ss_6b8f4040a1e923f036e04d9eb21ecb0f866be57e.600x338.jpg?t=1792179713",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/6b8f4040a1e923f036e04d9eb21ecb0f866be57e/ss_6b8f4040a1e923f036e04d9eb21ecb0f866be57e.1920x1080.jpg?t=1792179713"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/c6f865bd79b76a1fa50c59cd17a68d7837abf0b2/ss_c6f865bd79b76a1fa50c59cd17a68d7837abf0b2.600x338.jpg?t=1792179713",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/c6f865bd79b76a1fa50c59cd17a68d7837abf0b2/ss_c6f865bd79b76a1fa50c59cd17a68d7837abf0b2.1920x1080.jpg?t=1792179713"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/619503d5c40001a5e72717bedccbbca027084d94/ss_619503d5c40001a5e72717bedccbbca027084d94.600x338.jpg?t=1792179713",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/619503d5c40001a5e72717bedccbbca027084d94/ss_619503d5c40001a5e72717bedccbbca027084d94.1920x1080.jpg?t=1792179713"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/88dbb0eae312359216204ce3ab34b2f476177efd/ss_88dbb0eae312359216204ce3ab34b2f476177efd.600x338.jpg?t=1792179713",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/88dbb0eae312359216204ce3ab34b2f476177efd/ss_88dbb0eae312359216204ce3ab34b2f476177efd.1920x1080.jpg?t=1792179713"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/90880487f8532ac5f183ac95f721965048056250/ss_90880487f8532ac5f183ac95f721965048056250.600x338.jpg?t=1792179713",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/90880487f8532ac5f183ac95f721965048056250/ss_90880487f8532ac5f183ac95f721965048056250.1920x1080.jpg?t=1792179713"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/69ebde0b83f6d45a259494397402df7a9f5fa50a/ss_69ebde0b83f6d45a259494397402df7a9f5fa50a.600x338.jpg?t=1792179713",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/69ebde0b83f6d45a259494397402df7a9f5fa50a/ss_69ebde0b83f6d45a259494397402df7a9f5fa50a.1920x1080.jpg?t=1792179713"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/ff17c14e86dff06ccdd4ecb29f46758bf24694f3/ss_ff17c14e86dff06ccdd4ecb29f46758bf24694f3.600x338.jpg?t=1792179713",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/ff17c14e86dff06ccdd4ecb29f46758bf24694f3/ss_ff17c14e86dff06ccdd4ecb29f46758bf24694f3.1920x1080.jpg?t=1792179713"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/10d6a60711209aa8019cedab4667532af49f5d2a/ss_10d6a60711209aa8019cedab4667532af49f5d2a.600x338.jpg?t=1792179713",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/10d6a60711209aa8019cedab4667532af49f5d2a/ss_10d6a60711209aa8019cedab4667532af49f5d2a.1920x1080.jpg?t=1792179713"
+    }
+   ],
+   "movies": [
+    {
+     "id": 257463712,
+     "name": "MW4 DMZ EA (zhTW)",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257463712/cb4f72671e82b76c46b5b640bf635dcfcd2a4124/movie_600x337.jpg?t=1792113700",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1938090/2050467559/589e8d90aa535cf7e5bc3f67a63ae9ac553c7ab2/1792110447/dash_av1.mpd?t=1792113700",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1938090/2050467559/589e8d90aa535cf7e5bc3f67a63ae9ac553c7ab2/1792110447/dash_h264.mpd?t=1792113700",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1938090/2050467559/589e8d90aa535cf7e5bc3f67a63ae9ac553c7ab2/1792110447/hls_264_master.m3u8?t=1792113700",
+     "highlight": true
+    },
+    {
+     "id": 257463041,
+     "name": "MW4 PC Trailer (zhTW)",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257463041/f88d653ca3a6d9c47996b2706a60dfccb52c95ca/movie_600x337.jpg?t=1792083063",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1938090/728815293/464ceaa93f0f78fa2f2c07b406a7a667e92723dc/1792077237/dash_av1.mpd?t=1792083063",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1938090/728815293/464ceaa93f0f78fa2f2c07b406a7a667e92723dc/1792077237/dash_h264.mpd?t=1792083063",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1938090/728815293/464ceaa93f0f78fa2f2c07b406a7a667e92723dc/1792077237/hls_264_master.m3u8?t=1792083063",
+     "highlight": true
+    },
+    {
+     "id": 257461830,
+     "name": "DMZ Worldbuilder (zhTW)",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257461830/0c1e513b16d334aa73299033cc6350af851ffc01/movie_600x337.jpg?t=1792083080",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1938090/937291839/b1a9ee7f9d83e15a9e2d89d930d6fb136cf331f9/1792023386/dash_av1.mpd?t=1792083080",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1938090/937291839/b1a9ee7f9d83e15a9e2d89d930d6fb136cf331f9/1792023386/dash_h264.mpd?t=1792083080",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1938090/937291839/b1a9ee7f9d83e15a9e2d89d930d6fb136cf331f9/1792023386/hls_264_master.m3u8?t=1792083080",
+     "highlight": true
+    },
+    {
+     "id": 257402388,
+     "name": "MW4 Campaign (zhTW)",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257402388/7dc4daa6e856d07e8ccf6fdc14f140019832dc8c/movie_600x337.jpg?t=1790379168",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1938090/683125090/856db621d04ccd8fcaa71b0b5d3dff22ed34a6f2/1790376313/dash_av1.mpd?t=1790379168",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1938090/683125090/856db621d04ccd8fcaa71b0b5d3dff22ed34a6f2/1790376313/dash_h264.mpd?t=1790379168",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1938090/683125090/856db621d04ccd8fcaa71b0b5d3dff22ed34a6f2/1790376313/hls_264_master.m3u8?t=1790379168",
+     "highlight": true
+    },
+    {
+     "id": 257404575,
+     "name": "MW4 MP (zhTW)",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257404575/b94914c3e4026347aae0558130d3ebc876af38f6/movie_600x337.jpg?t=1787322892",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1938090/64676046/31faf3d5a2509b148ce91b42b7268b6e00dc788c/1787269271/dash_av1.mpd?t=1787322892",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1938090/64676046/31faf3d5a2509b148ce91b42b7268b6e00dc788c/1787269271/dash_h264.mpd?t=1787322892",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1938090/64676046/31faf3d5a2509b148ce91b42b7268b6e00dc788c/1787269271/hls_264_master.m3u8?t=1787322892",
+     "highlight": true
+    },
+    {
+     "id": 257345136,
+     "name": "MW4 Reveal (zhTW)",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257345136/5a3d0d5979e9c8dd9ddad26ef11c8f2fb6826e9c/movie_600x337.jpg?t=1779989928",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1938090/1874179233/16ca29f8a6234dee8418b8a6d3d29f6e360314a6/1779987880/dash_av1.mpd?t=1779989928",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1938090/1874179233/16ca29f8a6234dee8418b8a6d3d29f6e360314a6/1779987880/dash_h264.mpd?t=1779989928",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1938090/1874179233/16ca29f8a6234dee8418b8a6d3d29f6e360314a6/1779987880/hls_264_master.m3u8?t=1779989928",
+     "highlight": true
+    },
+    {
+     "id": 257347923,
+     "name": "MW4 Vault (zhTW)",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257347923/3955567d9298940bd90b96176fa1ebb615d3678f/movie_600x337.jpg?t=1788540160",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1938090/1257613605/0248d3aa9e77f8f09ca564a72eb4e2dba2139358/1788539286/dash_av1.mpd?t=1788540160",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1938090/1257613605/0248d3aa9e77f8f09ca564a72eb4e2dba2139358/1788539286/dash_h264.mpd?t=1788540160",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1938090/1257613605/0248d3aa9e77f8f09ca564a72eb4e2dba2139358/1788539286/hls_264_master.m3u8?t=1788540160",
+     "highlight": true
+    },
+    {
+     "id": 257360530,
+     "name": "MW4 Campaign Early Access (zhTW)",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257360530/561f05a19ad40cef8146bd96e00bb103b5e4cbc9/movie_600x337.jpg?t=1781628048",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1938090/1809586370/3168aa1a9f286d212d146051bff739681cb2baf5/1781625801/dash_av1.mpd?t=1781628048",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1938090/1809586370/3168aa1a9f286d212d146051bff739681cb2baf5/1781625801/dash_h264.mpd?t=1781628048",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1938090/1809586370/3168aa1a9f286d212d146051bff739681cb2baf5/1781625801/hls_264_master.m3u8?t=1781628048",
+     "highlight": true
+    },
+    {
+     "id": 257353714,
+     "name": "DMZ (zhTW)",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257353714/575545b19dc50b90c8ee9ca3609d924047fad886/movie_600x337.jpg?t=1780945087",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1938090/615124169/01c02b6b79ac6dbb8691cba4f3a5aba17e9b306c/1780942469/dash_av1.mpd?t=1780945087",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1938090/615124169/01c02b6b79ac6dbb8691cba4f3a5aba17e9b306c/1780942469/dash_h264.mpd?t=1780945087",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1938090/615124169/01c02b6b79ac6dbb8691cba4f3a5aba17e9b306c/1780942469/hls_264_master.m3u8?t=1780945087",
+     "highlight": true
+    }
+   ],
+   "recommendations": {
+    "total": 414108
+   },
+   "achievements": {
+    "total": 157,
+    "highlighted": [
+     {
+      "icon": "923b117e27557ba4a6e37cdf182b8e2a200f7484.jpg",
+      "localized_name": "魯蛇死法",
+      "archived": 0,
+      "hidden": 0,
+      "name": "魯蛇死法",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1938090/923b117e27557ba4a6e37cdf182b8e2a200f7484.jpg"
+     },
+     {
+      "icon": "b41e0527948bcb3d44b9c72a4dfa35ed1f6b9420.jpg",
+      "localized_name": "萬能工具人",
+      "archived": 0,
+      "hidden": 0,
+      "name": "萬能工具人",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1938090/b41e0527948bcb3d44b9c72a4dfa35ed1f6b9420.jpg"
+     },
+     {
+      "icon": "ae252112faaf25d9b75d575cb43f12b232e60452.jpg",
+      "localized_name": "鱷魚殺手",
+      "archived": 0,
+      "hidden": 0,
+      "name": "鱷魚殺手",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1938090/ae252112faaf25d9b75d575cb43f12b232e60452.jpg"
+     },
+     {
+      "icon": "f149b3c67f7ed63b9c4d2ca504b18d1eed4fd884.jpg",
+      "localized_name": "夜魔俠",
+      "archived": 0,
+      "hidden": 0,
+      "name": "夜魔俠",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1938090/f149b3c67f7ed63b9c4d2ca504b18d1eed4fd884.jpg"
+     },
+     {
+      "icon": "7ae9786715f6e8aef700628aac9e220d520acccc.jpg",
+      "localized_name": "紳士小偷",
+      "archived": 0,
+      "hidden": 0,
+      "name": "紳士小偷",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1938090/7ae9786715f6e8aef700628aac9e220d520acccc.jpg"
+     },
+     {
+      "icon": "a5e5e4a5fcd8dff2051bb97c6cf42ed8146c1939.jpg",
+      "localized_name": "幽靈訓練",
+      "archived": 0,
+      "hidden": 0,
+      "name": "幽靈訓練",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1938090/a5e5e4a5fcd8dff2051bb97c6cf42ed8146c1939.jpg"
+     },
+     {
+      "icon": "c6a82c9a16bf25420bb71b583b1f9aa1f3c5a3a5.jpg",
+      "localized_name": "風在作怪",
+      "archived": 0,
+      "hidden": 0,
+      "name": "風在作怪",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1938090/c6a82c9a16bf25420bb71b583b1f9aa1f3c5a3a5.jpg"
+     },
+     {
+      "icon": "58849c7c913fcb5efa555838536d7dbbc81c38c7.jpg",
+      "localized_name": "尼斯湖水怪",
+      "archived": 0,
+      "hidden": 0,
+      "name": "尼斯湖水怪",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1938090/58849c7c913fcb5efa555838536d7dbbc81c38c7.jpg"
+     },
+     {
+      "icon": "24d816bf26e464c00721dca9e0046ed36c8ed04a.jpg",
+      "localized_name": "空無一人",
+      "archived": 0,
+      "hidden": 0,
+      "name": "空無一人",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1938090/24d816bf26e464c00721dca9e0046ed36c8ed04a.jpg"
+     },
+     {
+      "icon": "f3a0c4fb2fa16bec636505cea9a923958e84f067.jpg",
+      "localized_name": "無需用槍",
+      "archived": 0,
+      "hidden": 0,
+      "name": "無需用槍",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1938090/f3a0c4fb2fa16bec636505cea9a923958e84f067.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2022 年 10 月 27 日"
+   },
+   "support_info": {
+    "url": "https://support.activision.com/",
+    "email": ""
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1938090?t=1792179713",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/daf5d7dee8c89ae737aaac6b712288b934ee84dc/page_bg_raw.jpg?t=1792179713",
+   "content_descriptors": {
+    "ids": [
+     2,
+     5
+    ],
+    "notes": null
+   },
+   "ratings": {
+    "dejus": {
+     "rating": "18",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "esrb": {
+     "rating": "m",
+     "descriptors": "Blood and Gore\r\nIntense Violence\r\nStrong Language\r\nSuggestive Themes\r\nUse of Drugs",
+     "interactive_elements": "Users Interact\r\nIn-Game Purchases",
+     "use_age_gate": "true",
+     "required_age": "17"
+    },
+    "csrr": {
+     "rating": "R",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "kgrb": {
+     "rating": "19",
+     "use_age_gate": "true",
+     "required_age": "19"
+    },
+    "pegi": {
+     "rating": "18",
+     "descriptors": "Violence\r\nBad Language\r\nIn-Game Purchases",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "usk": {
+     "rating": "18",
+     "use_age_gate": "true",
+     "required_age": "18",
+     "rating_id": "56145/24"
+    },
+    "fpb": {
+     "rating": "18",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "oflc": {
+     "rating": "ma15",
+     "use_age_gate": "true",
+     "required_age": "15"
+    },
+    "nzoflc": {
+     "rating": "r16",
+     "descriptors": "Graphic Violence\r\nHorror\r\nOffensive Language\r\nContent that may disturb",
+     "use_age_gate": "true",
+     "required_age": "16"
+    },
+    "mda": {
+     "rating": "M18",
+     "use_age_gate": "true",
+     "required_age": "18"
+    }
+   }
+  }
+ }
+}

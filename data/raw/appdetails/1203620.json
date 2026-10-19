@@ -1,0 +1,450 @@
+{
+ "1203620": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "霧鎖王國 (Enshrouded)",
+   "steam_appid": 1203620,
+   "required_age": 0,
+   "is_free": false,
+   "controller_support": "full",
+   "dlc": [
+    4951850,
+    2815510
+   ],
+   "detailed_description": "<h1>加入推薦中文discord</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/2ac17a2396df011b28b57779c480ac31.poster.avif?t=1792078032\" width=600 height=150 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/2ac17a2396df011b28b57779c480ac31.webm?t=1792078032\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/2ac17a2396df011b28b57779c480ac31.mp4?t=1792078032\" type=\"video/mp4\"></video></span><br>歡迎參與“亞洲內容創作者與主播招募”獲取支持與獎勵。點此查看詳情<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/79b63fae4b81d78b937a377f1e8140d3.avif?t=1792078032\" width=600 height=120 /></span></p></p><br><h1>關於此遊戲</h1><p class=\"bb_paragraph\" ><strong>化身焰生者並崛起</strong></p><p class=\"bb_paragraph\" >你甦醒時將化為墮落王國的最後希望。透過有深度的技能樹打造你的英雄——重甲巨無霸、致命遊俠、強大的戰鬥法師，或結合全部來打造你的專屬玩法。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/f6027a9d2efe7341ee68b2c0e875a8f1.poster.avif?t=1792078032\" width=780 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/f6027a9d2efe7341ee68b2c0e875a8f1.webm?t=1792078032\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/f6027a9d2efe7341ee68b2c0e875a8f1.mp4?t=1792078032\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>探索廣闊而美麗的荒野</strong></p><p class=\"bb_paragraph\" >探索令人驚艷的風景與失落文明的秘密。穿越蒼翠森林、炙熱沙丘、白皚的山峰，以及被霧幕吞噬的廢墟。用抓鉤擺盪越過深淵，從令人暈眩的高處滑翔而下，潛入水底，並前往道路永遠無法抵達的秘境。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/003d8714fdc57b2601f120f26be476f4.poster.avif?t=1792078032\" width=780 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/003d8714fdc57b2601f120f26be476f4.webm?t=1792078032\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/003d8714fdc57b2601f120f26be476f4.mp4?t=1792078032\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>生存與成長</strong></p><p class=\"bb_paragraph\" >靠這片土地生活——狩獵、耕種、釣魚，並蒐集稀有材料。從霧幕中解救倖存者，你孤獨的小屋將逐漸變成充滿工匠與居民的聚落，並解鎖全新的配方與裝備。在這裡，做好準備與創意是生存的關鍵。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/e79b67669887c11b18149f39311063ff.poster.avif?t=1792078032\" width=780 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/e79b67669887c11b18149f39311063ff.webm?t=1792078032\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/e79b67669887c11b18149f39311063ff.mp4?t=1792078032\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>找出你的戰鬥風格</strong></p><p class=\"bb_paragraph\" >變強後，你才能面對那些追殺你的東西。揮舞巨劍、施放毀天滅地的魔法；透過易學難精的技能戰鬥與天賦系統，來專注於一個職業，或混搭不同的類型。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/31e6123c4558233e2dd5ce54f131c86b.poster.avif?t=1792078032\" width=780 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/31e6123c4558233e2dd5ce54f131c86b.webm?t=1792078032\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/31e6123c4558233e2dd5ce54f131c86b.mp4?t=1792078032\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>無拘無束地建造</strong></p><p class=\"bb_paragraph\" >在餘火之谷佔據屬於你的一席之地——只要你能想像出來，你就能建造出來。蓋出聳立的堡壘、在山壁中鑿出你的房子、改變整個地貌，並細細裝飾每個房間。此立體像素建造系統提供你不可思議的自由，讓你能將這個世界變成你的家園。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/b7ee7f9d55b7425fcd00c27dfebc5de5.poster.avif?t=1792078032\" width=780 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/b7ee7f9d55b7425fcd00c27dfebc5de5.webm?t=1792078032\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/b7ee7f9d55b7425fcd00c27dfebc5de5.mp4?t=1792078032\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>征服霧幕</strong></p><p class=\"bb_paragraph\" >向敵人展開反擊。深入威脅所有生命的致命迷霧。面對最恐怖的生物，取得其他地方找不到的稀有材料，並從霧幕的控制中救出餘火之谷。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/870186393391e3f40602602bc6efacd1.poster.avif?t=1792078032\" width=780 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/870186393391e3f40602602bc6efacd1.webm?t=1792078032\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/870186393391e3f40602602bc6efacd1.mp4?t=1792078032\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>打造你的傳奇——單人或與好友一同皆可</strong></p><p class=\"bb_paragraph\" >獨自踏上這條路，或是與最多 16 名玩家一起合作。戰鬥、建造、耕種、探索：在重建王國時，所有角色都非常重要。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/8fb3f236662088659545a154c900a43d.poster.avif?t=1792078032\" width=780 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/8fb3f236662088659545a154c900a43d.webm?t=1792078032\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/8fb3f236662088659545a154c900a43d.mp4?t=1792078032\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>無限的冒險等你來探索</strong></p><p class=\"bb_paragraph\" >戰役結束時，你的故事並未告終。進入數百萬名玩家創造的世界與地牢，或透過我們的冒險分享功能來分享你自己的創作。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/f43914c8aa76d18500ff6e42f92538e3.poster.avif?t=1792078032\" width=780 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/f43914c8aa76d18500ff6e42f92538e3.webm?t=1792078032\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/f43914c8aa76d18500ff6e42f92538e3.mp4?t=1792078032\" type=\"video/mp4\"></video></span></p>",
+   "about_the_game": "<p class=\"bb_paragraph\" ><strong>化身焰生者並崛起</strong></p><p class=\"bb_paragraph\" >你甦醒時將化為墮落王國的最後希望。透過有深度的技能樹打造你的英雄——重甲巨無霸、致命遊俠、強大的戰鬥法師，或結合全部來打造你的專屬玩法。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/f6027a9d2efe7341ee68b2c0e875a8f1.poster.avif?t=1792078032\" width=780 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/f6027a9d2efe7341ee68b2c0e875a8f1.webm?t=1792078032\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/f6027a9d2efe7341ee68b2c0e875a8f1.mp4?t=1792078032\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>探索廣闊而美麗的荒野</strong></p><p class=\"bb_paragraph\" >探索令人驚艷的風景與失落文明的秘密。穿越蒼翠森林、炙熱沙丘、白皚的山峰，以及被霧幕吞噬的廢墟。用抓鉤擺盪越過深淵，從令人暈眩的高處滑翔而下，潛入水底，並前往道路永遠無法抵達的秘境。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/003d8714fdc57b2601f120f26be476f4.poster.avif?t=1792078032\" width=780 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/003d8714fdc57b2601f120f26be476f4.webm?t=1792078032\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/003d8714fdc57b2601f120f26be476f4.mp4?t=1792078032\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>生存與成長</strong></p><p class=\"bb_paragraph\" >靠這片土地生活——狩獵、耕種、釣魚，並蒐集稀有材料。從霧幕中解救倖存者，你孤獨的小屋將逐漸變成充滿工匠與居民的聚落，並解鎖全新的配方與裝備。在這裡，做好準備與創意是生存的關鍵。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/e79b67669887c11b18149f39311063ff.poster.avif?t=1792078032\" width=780 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/e79b67669887c11b18149f39311063ff.webm?t=1792078032\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/e79b67669887c11b18149f39311063ff.mp4?t=1792078032\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>找出你的戰鬥風格</strong></p><p class=\"bb_paragraph\" >變強後，你才能面對那些追殺你的東西。揮舞巨劍、施放毀天滅地的魔法；透過易學難精的技能戰鬥與天賦系統，來專注於一個職業，或混搭不同的類型。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/31e6123c4558233e2dd5ce54f131c86b.poster.avif?t=1792078032\" width=780 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/31e6123c4558233e2dd5ce54f131c86b.webm?t=1792078032\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/31e6123c4558233e2dd5ce54f131c86b.mp4?t=1792078032\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>無拘無束地建造</strong></p><p class=\"bb_paragraph\" >在餘火之谷佔據屬於你的一席之地——只要你能想像出來，你就能建造出來。蓋出聳立的堡壘、在山壁中鑿出你的房子、改變整個地貌，並細細裝飾每個房間。此立體像素建造系統提供你不可思議的自由，讓你能將這個世界變成你的家園。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/b7ee7f9d55b7425fcd00c27dfebc5de5.poster.avif?t=1792078032\" width=780 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/b7ee7f9d55b7425fcd00c27dfebc5de5.webm?t=1792078032\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/b7ee7f9d55b7425fcd00c27dfebc5de5.mp4?t=1792078032\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>征服霧幕</strong></p><p class=\"bb_paragraph\" >向敵人展開反擊。深入威脅所有生命的致命迷霧。面對最恐怖的生物，取得其他地方找不到的稀有材料，並從霧幕的控制中救出餘火之谷。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/870186393391e3f40602602bc6efacd1.poster.avif?t=1792078032\" width=780 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/870186393391e3f40602602bc6efacd1.webm?t=1792078032\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/870186393391e3f40602602bc6efacd1.mp4?t=1792078032\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>打造你的傳奇——單人或與好友一同皆可</strong></p><p class=\"bb_paragraph\" >獨自踏上這條路，或是與最多 16 名玩家一起合作。戰鬥、建造、耕種、探索：在重建王國時，所有角色都非常重要。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/8fb3f236662088659545a154c900a43d.poster.avif?t=1792078032\" width=780 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/8fb3f236662088659545a154c900a43d.webm?t=1792078032\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/8fb3f236662088659545a154c900a43d.mp4?t=1792078032\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>無限的冒險等你來探索</strong></p><p class=\"bb_paragraph\" >戰役結束時，你的故事並未告終。進入數百萬名玩家創造的世界與地牢，或透過我們的冒險分享功能來分享你自己的創作。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/f43914c8aa76d18500ff6e42f92538e3.poster.avif?t=1792078032\" width=780 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/f43914c8aa76d18500ff6e42f92538e3.webm?t=1792078032\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/extras/f43914c8aa76d18500ff6e42f92538e3.mp4?t=1792078032\" type=\"video/mp4\"></video></span></p>",
+   "short_description": "《霧鎖王國》是一款單人及合作生存動作 RPG，你的自由與創意永遠是第一優先。征服吞噬餘火之谷的腐化迷霧「霧幕」：探索一個手工打造、充滿秘密的世界，隨心所欲塑造你的英雄，並在完全可改造的大地上，隨處建造任何東西。",
+   "supported_languages": "英文, 法文, 義大利文, 德文, 西班牙文 - 西班牙, 日文, 韓文, 波蘭文, 葡萄牙文 - 巴西, 俄文, 簡體中文, 繁體中文, 土耳其文, 烏克蘭文, 泰文",
+   "reviews": "“Enshrouded will likely be an instant hit for anyone who’s ever wanted to build a castle in a fantasy world full of danger, and it makes all that building fun and easy with an intuitive set of tools.”<br>8/10 – IGN<br><br>“I could personally see myself losing days of my life to exploring Enshrouded's wilds.”<br>8/10 – RPG Site<br><br>“The best building system in the survival genre.”<br>Rock Paper Shotgun<br>",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/8af4416eb10538ba60047c325789ded4c7f02681/capsule_231x87_alt_assets_2.jpg?t=1792078032",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/8af4416eb10538ba60047c325789ded4c7f02681/capsule_184x69_alt_assets_2.jpg?t=1792078032",
+   "website": "https://www.enshrouded.com",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 10<br></li><li><strong>處理器:</strong> Intel Core i5-6400 (2.7 GHz 4　核心) / AMD Ryzen 5 1500X (3.5 GHz 4 核心) 或同等<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA GeForce GTX 1060 (req. 6GB VRAM) / AMD Radeon RX 580 (req. 6GB VRAM) / Intel ARC A380<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 60 GB 可用空間<br></li><li><strong>音效卡:</strong> 非外接</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 10<br></li><li><strong>處理器:</strong> Intel i7-8700 (3.7 GHz 6 Core) / AMD Ryzen 7 2700X (3.7 GHz 8 Core) or equivalent<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA RTX 2070 Super (req. 6GB VRAM) / AMD Radeon RX 6700 XT (req. 6GB VRAM) / Intel ARC A770<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 60 GB 可用空間<br></li><li><strong>音效卡:</strong> 非外接<br></li><li><strong>備註:</strong> 建議使用固態硬碟 (SSD)。</li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "linux_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "legal_notice": "<strong>Enshrouded®</strong> 與 <strong>Keen®</strong> 為 Keen Games GmbH ©2026 之註冊商標<br>《Enshrouded》隱私權政策",
+   "developers": [
+    "Keen Games GmbH"
+   ],
+   "publishers": [
+    "Keen Games GmbH"
+   ],
+   "price_overview": {
+    "currency": "TWD",
+    "initial": 77900,
+    "final": 70100,
+    "discount_percent": 10,
+    "initial_formatted": "NT$ 779",
+    "final_formatted": "NT$ 701"
+   },
+   "packages": [
+    1052188,
+    1727466
+   ],
+   "package_groups": [
+    {
+     "name": "default",
+     "title": "購買 霧鎖王國 (Enshrouded)",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 1052188,
+       "percent_savings_text": "-10% ",
+       "percent_savings": 0,
+       "option_text": "Enshrouded - <span class=\"discount_original_price\">NT$ 779</span> NT$ 701",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 70100
+      },
+      {
+       "packageid": 1727466,
+       "percent_savings_text": "-10% ",
+       "percent_savings": 0,
+       "option_text": "Enshrouded - <span class=\"discount_original_price\">NT$ 779</span> NT$ 701",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 70100
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 28,
+     "description": "完整控制器支援"
+    },
+    {
+     "id": 64,
+     "description": "可調整文字大小"
+    },
+    {
+     "id": 67,
+     "description": "鏡頭舒適度"
+    },
+    {
+     "id": 66,
+     "description": "顏色替代選項"
+    },
+    {
+     "id": 68,
+     "description": "自訂音量控制"
+    },
+    {
+     "id": 78,
+     "description": "可調整難度"
+    },
+    {
+     "id": 55,
+     "description": "DUALSHOCK 控制器支援"
+    },
+    {
+     "id": 56,
+     "description": "DUALSHOCK 控制器支援"
+    },
+    {
+     "id": 57,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 58,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 69,
+     "description": "立體聲"
+    },
+    {
+     "id": 23,
+     "description": "Steam 雲端"
+    },
+    {
+     "id": 62,
+     "description": "親友同享"
+    }
+   ],
+   "genres": [
+    {
+     "id": "1",
+     "description": "動作"
+    },
+    {
+     "id": "25",
+     "description": "冒險"
+    },
+    {
+     "id": "23",
+     "description": "獨立製作"
+    },
+    {
+     "id": "3",
+     "description": "角色扮演"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/09a1e99c47ba7ffb2413c4708a9f5fbef1397652/ss_09a1e99c47ba7ffb2413c4708a9f5fbef1397652.600x338.jpg?t=1792078032",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/09a1e99c47ba7ffb2413c4708a9f5fbef1397652/ss_09a1e99c47ba7ffb2413c4708a9f5fbef1397652.1920x1080.jpg?t=1792078032"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/5d3de290f5b9fc2b850260c73483e15f501087f7/ss_5d3de290f5b9fc2b850260c73483e15f501087f7.600x338.jpg?t=1792078032",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/5d3de290f5b9fc2b850260c73483e15f501087f7/ss_5d3de290f5b9fc2b850260c73483e15f501087f7.1920x1080.jpg?t=1792078032"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/962286f68343e1d42d6868079b617b7e7e384fca/ss_962286f68343e1d42d6868079b617b7e7e384fca.600x338.jpg?t=1792078032",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/962286f68343e1d42d6868079b617b7e7e384fca/ss_962286f68343e1d42d6868079b617b7e7e384fca.1920x1080.jpg?t=1792078032"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/507e6719722e1094417e953a1274110deecc3397/ss_507e6719722e1094417e953a1274110deecc3397.600x338.jpg?t=1792078032",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/507e6719722e1094417e953a1274110deecc3397/ss_507e6719722e1094417e953a1274110deecc3397.1920x1080.jpg?t=1792078032"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/f214fd4869c74e1f99c18b03f771e9c624814188/ss_f214fd4869c74e1f99c18b03f771e9c624814188.600x338.jpg?t=1792078032",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/f214fd4869c74e1f99c18b03f771e9c624814188/ss_f214fd4869c74e1f99c18b03f771e9c624814188.1920x1080.jpg?t=1792078032"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/c591ae8cfbb033f7930eb22d1482691da648d324/ss_c591ae8cfbb033f7930eb22d1482691da648d324.600x338.jpg?t=1792078032",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/c591ae8cfbb033f7930eb22d1482691da648d324/ss_c591ae8cfbb033f7930eb22d1482691da648d324.1920x1080.jpg?t=1792078032"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/a16f05bbcc2467059221fcf1ba7fbe70c1950947/ss_a16f05bbcc2467059221fcf1ba7fbe70c1950947.600x338.jpg?t=1792078032",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/a16f05bbcc2467059221fcf1ba7fbe70c1950947/ss_a16f05bbcc2467059221fcf1ba7fbe70c1950947.1920x1080.jpg?t=1792078032"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/8426d7278bd4b2a4af2d2c5bee0f5fbf854581d8/ss_8426d7278bd4b2a4af2d2c5bee0f5fbf854581d8.600x338.jpg?t=1792078032",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/8426d7278bd4b2a4af2d2c5bee0f5fbf854581d8/ss_8426d7278bd4b2a4af2d2c5bee0f5fbf854581d8.1920x1080.jpg?t=1792078032"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/cf69c3a0ee24e51c590876bbde271fbd73353b93/ss_cf69c3a0ee24e51c590876bbde271fbd73353b93.600x338.jpg?t=1792078032",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/cf69c3a0ee24e51c590876bbde271fbd73353b93/ss_cf69c3a0ee24e51c590876bbde271fbd73353b93.1920x1080.jpg?t=1792078032"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/7456a0a06f554c4e9a9855e4a2e45f9fb2978afd/ss_7456a0a06f554c4e9a9855e4a2e45f9fb2978afd.600x338.jpg?t=1792078032",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/7456a0a06f554c4e9a9855e4a2e45f9fb2978afd/ss_7456a0a06f554c4e9a9855e4a2e45f9fb2978afd.1920x1080.jpg?t=1792078032"
+    },
+    {
+     "id": 10,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/ecef6d2d1c75e501e97fa48340e60657790001fb/ss_ecef6d2d1c75e501e97fa48340e60657790001fb.600x338.jpg?t=1792078032",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/ecef6d2d1c75e501e97fa48340e60657790001fb/ss_ecef6d2d1c75e501e97fa48340e60657790001fb.1920x1080.jpg?t=1792078032"
+    },
+    {
+     "id": 11,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/7520f2cfadeb67c022dfcf105bcb31a0847bd97b/ss_7520f2cfadeb67c022dfcf105bcb31a0847bd97b.600x338.jpg?t=1792078032",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/7520f2cfadeb67c022dfcf105bcb31a0847bd97b/ss_7520f2cfadeb67c022dfcf105bcb31a0847bd97b.1920x1080.jpg?t=1792078032"
+    },
+    {
+     "id": 12,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/51776b8c090765d1616629df383bef7ce6aabae3/ss_51776b8c090765d1616629df383bef7ce6aabae3.600x338.jpg?t=1792078032",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/51776b8c090765d1616629df383bef7ce6aabae3/ss_51776b8c090765d1616629df383bef7ce6aabae3.1920x1080.jpg?t=1792078032"
+    },
+    {
+     "id": 13,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/e9b8cc5def27b41be497e8b4154a5de9ba672130/ss_e9b8cc5def27b41be497e8b4154a5de9ba672130.600x338.jpg?t=1792078032",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/e9b8cc5def27b41be497e8b4154a5de9ba672130/ss_e9b8cc5def27b41be497e8b4154a5de9ba672130.1920x1080.jpg?t=1792078032"
+    },
+    {
+     "id": 14,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/ac421b730ae26e35a390c7cec7c35f3ae59ea253/ss_ac421b730ae26e35a390c7cec7c35f3ae59ea253.600x338.jpg?t=1792078032",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/ac421b730ae26e35a390c7cec7c35f3ae59ea253/ss_ac421b730ae26e35a390c7cec7c35f3ae59ea253.1920x1080.jpg?t=1792078032"
+    },
+    {
+     "id": 15,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/09cebe42aab81ebd2131302642adaf9736f186e2/ss_09cebe42aab81ebd2131302642adaf9736f186e2.600x338.jpg?t=1792078032",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/09cebe42aab81ebd2131302642adaf9736f186e2/ss_09cebe42aab81ebd2131302642adaf9736f186e2.1920x1080.jpg?t=1792078032"
+    },
+    {
+     "id": 16,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/8e8bc483f75f003bca47d6d4a959de6736cbc476/ss_8e8bc483f75f003bca47d6d4a959de6736cbc476.600x338.jpg?t=1792078032",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/8e8bc483f75f003bca47d6d4a959de6736cbc476/ss_8e8bc483f75f003bca47d6d4a959de6736cbc476.1920x1080.jpg?t=1792078032"
+    },
+    {
+     "id": 17,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/6ec6a959480c23224b309f0d57d7eb6e1952339d/ss_6ec6a959480c23224b309f0d57d7eb6e1952339d.600x338.jpg?t=1792078032",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/6ec6a959480c23224b309f0d57d7eb6e1952339d/ss_6ec6a959480c23224b309f0d57d7eb6e1952339d.1920x1080.jpg?t=1792078032"
+    },
+    {
+     "id": 18,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/92de763e372f286ada1eb57798c8d8106da1f31d/ss_92de763e372f286ada1eb57798c8d8106da1f31d.600x338.jpg?t=1792078032",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/92de763e372f286ada1eb57798c8d8106da1f31d/ss_92de763e372f286ada1eb57798c8d8106da1f31d.1920x1080.jpg?t=1792078032"
+    }
+   ],
+   "movies": [
+    {
+     "id": 257461228,
+     "name": "Enshrouded 1.0 - Launch Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257461228/0bfd7fa6f9987b5523f4d0bf8e279d83803402c9/movie_600x337.jpg?t=1792000003",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1203620/857842467/c7f915630fec65980651e009266b02acdbeb060f/1791996968/dash_av1.mpd?t=1792000003",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/857842467/c7f915630fec65980651e009266b02acdbeb060f/1791996968/dash_h264.mpd?t=1792000003",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/857842467/c7f915630fec65980651e009266b02acdbeb060f/1791996968/hls_264_master.m3u8?t=1792000003",
+     "highlight": true
+    },
+    {
+     "id": 257229014,
+     "name": "Enshrouded - Wake of the Water | Official Update Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257229014/c00e2bec3cf228adce46b702c7adca0629f073c9/movie_600x337.jpg?t=1762780500",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1203620/1245750690/ff0d3eb6a271e14df7fdc0ba47a748b152f56981/1762762821/dash_av1.mpd?t=1762780500",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/1245750690/ff0d3eb6a271e14df7fdc0ba47a748b152f56981/1762762821/dash_h264.mpd?t=1762780500",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1203620/1245750690/ff0d3eb6a271e14df7fdc0ba47a748b152f56981/1762762821/hls_264_master.m3u8?t=1762780500",
+     "highlight": true
+    }
+   ],
+   "recommendations": {
+    "total": 96160
+   },
+   "achievements": {
+    "total": 58,
+    "highlighted": [
+     {
+      "icon": "c398f65f0e7cd06bd0f1d2a9c936b08a219856e0.jpg",
+      "localized_name": "氣勢如虹",
+      "archived": 0,
+      "hidden": 0,
+      "name": "氣勢如虹",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1203620/c398f65f0e7cd06bd0f1d2a9c936b08a219856e0.jpg"
+     },
+     {
+      "icon": "7ce3e22e1173963583959a91468b120f66662be3.jpg",
+      "localized_name": "以下犯上",
+      "archived": 0,
+      "hidden": 0,
+      "name": "以下犯上",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1203620/7ce3e22e1173963583959a91468b120f66662be3.jpg"
+     },
+     {
+      "icon": "3e56f7960be028d56ef641ea90bc418e2a3db993.jpg",
+      "localized_name": "過去的碎片",
+      "archived": 0,
+      "hidden": 0,
+      "name": "過去的碎片",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1203620/3e56f7960be028d56ef641ea90bc418e2a3db993.jpg"
+     },
+     {
+      "icon": "fb9c2ec7a1931dc461db7d7187d000879875e095.jpg",
+      "localized_name": "有家可回",
+      "archived": 0,
+      "hidden": 0,
+      "name": "有家可回",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1203620/fb9c2ec7a1931dc461db7d7187d000879875e095.jpg"
+     },
+     {
+      "icon": "08e86a9f6fe0428fe4e9a333498f22597b1fd3bd.jpg",
+      "localized_name": "自由落體",
+      "archived": 0,
+      "hidden": 0,
+      "name": "自由落體",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1203620/08e86a9f6fe0428fe4e9a333498f22597b1fd3bd.jpg"
+     },
+     {
+      "icon": "f8c376e69afe8881abe2c2ccefd046a7bff6046d.jpg",
+      "localized_name": "抄捷徑",
+      "archived": 0,
+      "hidden": 0,
+      "name": "抄捷徑",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1203620/f8c376e69afe8881abe2c2ccefd046a7bff6046d.jpg"
+     },
+     {
+      "icon": "b14547c51751556eb86986f0e11bd8eb702c0895.jpg",
+      "localized_name": "就此展開",
+      "archived": 0,
+      "hidden": 0,
+      "name": "就此展開",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1203620/b14547c51751556eb86986f0e11bd8eb702c0895.jpg"
+     },
+     {
+      "icon": "a10bf1cc79350a5c44584824da4099c40166d3aa.jpg",
+      "localized_name": "勝利之翼",
+      "archived": 0,
+      "hidden": 0,
+      "name": "勝利之翼",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1203620/a10bf1cc79350a5c44584824da4099c40166d3aa.jpg"
+     },
+     {
+      "icon": "0b13ea48246c87e9c209a0864f9a0605515f2edc.jpg",
+      "localized_name": "長春平原火花",
+      "archived": 0,
+      "hidden": 0,
+      "name": "長春平原火花",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1203620/0b13ea48246c87e9c209a0864f9a0605515f2edc.jpg"
+     },
+     {
+      "icon": "49fb214cc436552116579615d16c389bad443d84.jpg",
+      "localized_name": "喧囂森林火花",
+      "archived": 0,
+      "hidden": 0,
+      "name": "喧囂森林火花",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1203620/49fb214cc436552116579615d16c389bad443d84.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2026 年 10 月 15 日"
+   },
+   "support_info": {
+    "url": "https://enshrouded.zendesk.com/",
+    "email": "support@keengames.zendesk.com"
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1203620?t=1792078032",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/page_bg_raw.jpg?t=1792078032",
+   "content_descriptors": {
+    "ids": [],
+    "notes": null
+   },
+   "ratings": {
+    "usk": {
+     "rating": "12",
+     "descriptors": "Fantasy-Gewalt"
+    },
+    "kgrb": {
+     "rating": "15",
+     "descriptors": "폭력성"
+    },
+    "pegi": {
+     "rating": "12",
+     "descriptors": "Violence"
+    },
+    "esrb": {
+     "rating": "t",
+     "descriptors": "Violence\r\n",
+     "interactive_elements": "Users Interact\r\n",
+     "required_age": "13"
+    },
+    "dejus": {
+     "rating_generated": "1",
+     "rating": "10",
+     "required_age": "10",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Violência"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "12",
+     "required_age": "12",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Gewalt"
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "13",
+     "required_age": "13",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Kekerasan\nInteraksi Daring"
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,296 @@
+{
+ "3419430": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "Bongo Cat",
+   "steam_appid": 3419430,
+   "required_age": 0,
+   "is_free": true,
+   "dlc": [
+    4856340,
+    3929900,
+    4600330,
+    4600310,
+    4600320
+   ],
+   "detailed_description": "<p class=\"bb_paragraph\" >幫幫邦哥貓吧，邦哥喵需要更多的帽帽！你每按下一個按鍵，邦哥喵就會拍拍你的工作列。無論是打字，點擊，遊戲或是工作都能累積點數，你會蒐集到什麼樣的帽帽呢？</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >物品掉落機率*:</h2><p class=\"bb_paragraph\" > </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >普通（Common）- 90%</p></li><li><p class=\"bb_paragraph\" >稀有（Uncommon）- 9.5% </p></li><li><p class=\"bb_paragraph\" >罕見（Rare）- 0.49% </p></li><li><p class=\"bb_paragraph\" >史詩（Epic）- 0.01% </p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >傳奇（Legendary）- 1/500000 </p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" >*可能會有所變動<br> </p><h2 class=\"bb_tag\" >遊戲特色： </h2><p class=\"bb_paragraph\" >一隻您專屬的邦哥喵 </p><p class=\"bb_paragraph\" >許多自訂選項 </p><p class=\"bb_paragraph\" >一個埋首工作時的小夥伴<br><br><strong>Based on the artwork and meme of @StrayRogue and @DitzyFlama</strong></p>",
+   "about_the_game": "<p class=\"bb_paragraph\" >幫幫邦哥貓吧，邦哥喵需要更多的帽帽！你每按下一個按鍵，邦哥喵就會拍拍你的工作列。無論是打字，點擊，遊戲或是工作都能累積點數，你會蒐集到什麼樣的帽帽呢？</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >物品掉落機率*:</h2><p class=\"bb_paragraph\" > </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >普通（Common）- 90%</p></li><li><p class=\"bb_paragraph\" >稀有（Uncommon）- 9.5% </p></li><li><p class=\"bb_paragraph\" >罕見（Rare）- 0.49% </p></li><li><p class=\"bb_paragraph\" >史詩（Epic）- 0.01% </p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >傳奇（Legendary）- 1/500000 </p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" >*可能會有所變動<br> </p><h2 class=\"bb_tag\" >遊戲特色： </h2><p class=\"bb_paragraph\" >一隻您專屬的邦哥喵 </p><p class=\"bb_paragraph\" >許多自訂選項 </p><p class=\"bb_paragraph\" >一個埋首工作時的小夥伴<br><br><strong>Based on the artwork and meme of @StrayRogue and @DitzyFlama</strong></p>",
+   "short_description": "幫幫邦哥貓吧，邦哥喵需要更多的帽帽！你每按下一個按鍵，邦哥喵就會拍拍你的工作列。無論是打字，點擊，遊戲或是工作都能累積點數，你會蒐集到什麼樣的帽帽呢？",
+   "supported_languages": "英文, 德文, 荷蘭文, 日文, 韓文, 波蘭文, 葡萄牙文 - 巴西, 葡萄牙文 - 葡萄牙, 俄文, 簡體中文, 繁體中文, 烏克蘭文, 法文, 義大利文, 西班牙文 - 西班牙, 阿拉伯文, 捷克文, 丹麥文, 芬蘭文, 挪威文, 羅馬尼亞文, 西班牙文 - 拉丁美洲, 瑞典文, 土耳其文",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/2e6c93c020fe13d09d8120bb9164ed7cb58f00c5/header.jpg?t=1791309178",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/a72a5965134f12a6cf86879fa2eb34ba16040486/capsule_231x87.jpg?t=1791309178",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/a72a5965134f12a6cf86879fa2eb34ba16040486/capsule_184x69.jpg?t=1791309178",
+   "website": null,
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 10 / 11<br></li><li><strong>處理器:</strong> Intel i5 5200 or AMD Ryzen 5 5600X<br></li><li><strong>記憶體:</strong> 1 GB 記憶體<br></li><li><strong>顯示卡:</strong> Any<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 100 MB 可用空間</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 10 / 11<br></li><li><strong>處理器:</strong> Intel i5 10500 or AMD Ryzen 7<br></li><li><strong>記憶體:</strong> 2 GB 記憶體<br></li><li><strong>顯示卡:</strong> Any<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 100 MB 可用空間</li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> 11.0<br></li><li><strong>處理器:</strong> Intel 64-Bit or Apple silicon<br></li><li><strong>記憶體:</strong> 1 GB 記憶體<br></li><li><strong>顯示卡:</strong> -<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 700 MB 可用空間</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> 13.0<br></li><li><strong>處理器:</strong> Intel 64-Bit or Apple silicon<br></li><li><strong>記憶體:</strong> 1 GB 記憶體<br></li><li><strong>顯示卡:</strong> -<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 700 MB 可用空間</li></ul>"
+   },
+   "linux_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "legal_notice": "2026 Irox Games UG (haftungsbeschränkt). Irox Games logo is owned by Irox Games UG (haftungsbeschränkt). All rights reserved.",
+   "developers": [
+    "Irox Games"
+   ],
+   "publishers": [
+    "Irox Games"
+   ],
+   "package_groups": [],
+   "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 55,
+     "description": "DUALSHOCK 控制器支援"
+    },
+    {
+     "id": 56,
+     "description": "DUALSHOCK 控制器支援"
+    },
+    {
+     "id": 57,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 58,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 18,
+     "description": "部分控制器支援"
+    },
+    {
+     "id": 15,
+     "description": "統計"
+    },
+    {
+     "id": 62,
+     "description": "親友同享"
+    }
+   ],
+   "genres": [
+    {
+     "id": "4",
+     "description": "休閒"
+    },
+    {
+     "id": "23",
+     "description": "獨立製作"
+    },
+    {
+     "id": "29",
+     "description": "大型多人連線"
+    },
+    {
+     "id": "28",
+     "description": "模擬"
+    },
+    {
+     "id": "37",
+     "description": "免費遊玩"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/7b3bfd0137fad5c361b2d8d786208684ee202ee6/ss_7b3bfd0137fad5c361b2d8d786208684ee202ee6.600x338.jpg?t=1791309178",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/7b3bfd0137fad5c361b2d8d786208684ee202ee6/ss_7b3bfd0137fad5c361b2d8d786208684ee202ee6.1920x1080.jpg?t=1791309178"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/411adf303275850e82194a52dce29eb2716ab14d/ss_411adf303275850e82194a52dce29eb2716ab14d.600x338.jpg?t=1791309178",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/411adf303275850e82194a52dce29eb2716ab14d/ss_411adf303275850e82194a52dce29eb2716ab14d.1920x1080.jpg?t=1791309178"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/d86783952fbe9bd29c9c1dfe5b6f44d858aa5cfb/ss_d86783952fbe9bd29c9c1dfe5b6f44d858aa5cfb.600x338.jpg?t=1791309178",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/d86783952fbe9bd29c9c1dfe5b6f44d858aa5cfb/ss_d86783952fbe9bd29c9c1dfe5b6f44d858aa5cfb.1920x1080.jpg?t=1791309178"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/df803dc84cff2a7e8321a152818ad406dfc66b0f/ss_df803dc84cff2a7e8321a152818ad406dfc66b0f.600x338.jpg?t=1791309178",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/df803dc84cff2a7e8321a152818ad406dfc66b0f/ss_df803dc84cff2a7e8321a152818ad406dfc66b0f.1920x1080.jpg?t=1791309178"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/b1c7513d02e4cd4d9f145959558f5e1998ec135d/ss_b1c7513d02e4cd4d9f145959558f5e1998ec135d.600x338.jpg?t=1791309178",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/b1c7513d02e4cd4d9f145959558f5e1998ec135d/ss_b1c7513d02e4cd4d9f145959558f5e1998ec135d.1920x1080.jpg?t=1791309178"
+    }
+   ],
+   "movies": [
+    {
+     "id": 257182675,
+     "name": "Meowtiplayer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257182675/d3cc74f057f33ba87972f2dba9811f970048fb6f/movie_600x337.jpg?t=1755156314",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3419430/901230020/e9d67ccd1939d39314a999cbff28c88521f8efd5/1755094841/dash_av1.mpd?t=1755156314",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3419430/901230020/e9d67ccd1939d39314a999cbff28c88521f8efd5/1755094841/dash_h264.mpd?t=1755156314",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3419430/901230020/e9d67ccd1939d39314a999cbff28c88521f8efd5/1755094841/hls_264_master.m3u8?t=1755156314",
+     "highlight": true
+    },
+    {
+     "id": 257090546,
+     "name": "Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257090546/891f5d0255106822013d0ee9ca6bd3db0bedc3bb/movie_600x337.jpg?t=1737365643",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3419430/815462/a17ae99675baf686153a6e68c5a33e6ed15a1c9e/1750849151/dash_av1.mpd?t=1737365643",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3419430/815462/a17ae99675baf686153a6e68c5a33e6ed15a1c9e/1750849151/dash_h264.mpd?t=1737365643",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3419430/815462/a17ae99675baf686153a6e68c5a33e6ed15a1c9e/1750849151/hls_264_master.m3u8?t=1737365643",
+     "highlight": true
+    }
+   ],
+   "achievements": {
+    "total": 28,
+    "highlighted": [
+     {
+      "icon": "83f9436f13f0cc957ad0d48c99dce56e9effba75.jpg",
+      "localized_name": "Bongo Beat 1",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Bongo Beat 1",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3419430/83f9436f13f0cc957ad0d48c99dce56e9effba75.jpg"
+     },
+     {
+      "icon": "83f9436f13f0cc957ad0d48c99dce56e9effba75.jpg",
+      "localized_name": "Bongo Beat 10",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Bongo Beat 10",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3419430/83f9436f13f0cc957ad0d48c99dce56e9effba75.jpg"
+     },
+     {
+      "icon": "83f9436f13f0cc957ad0d48c99dce56e9effba75.jpg",
+      "localized_name": "Bongo Beat 100",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Bongo Beat 100",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3419430/83f9436f13f0cc957ad0d48c99dce56e9effba75.jpg"
+     },
+     {
+      "icon": "83f9436f13f0cc957ad0d48c99dce56e9effba75.jpg",
+      "localized_name": "Bongo Beat 1.000",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Bongo Beat 1.000",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3419430/83f9436f13f0cc957ad0d48c99dce56e9effba75.jpg"
+     },
+     {
+      "icon": "83f9436f13f0cc957ad0d48c99dce56e9effba75.jpg",
+      "localized_name": "Bongo Beat 10.000",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Bongo Beat 10.000",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3419430/83f9436f13f0cc957ad0d48c99dce56e9effba75.jpg"
+     },
+     {
+      "icon": "9259cee4428ce5e6b8abb78e535efd9621eedb5e.jpg",
+      "localized_name": "Bongo Beat Silver",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Bongo Beat Silver",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3419430/9259cee4428ce5e6b8abb78e535efd9621eedb5e.jpg"
+     },
+     {
+      "icon": "0f74c4c41442dd780a05aaab586616010a05d6b6.jpg",
+      "localized_name": "Bongo Beat Gold",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Bongo Beat Gold",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3419430/0f74c4c41442dd780a05aaab586616010a05d6b6.jpg"
+     },
+     {
+      "icon": "bb5cf6d1ed1f37a9c01b9f205fe3b9979c608523.jpg",
+      "localized_name": "Bongo Beat Platinum",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Bongo Beat Platinum",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3419430/bb5cf6d1ed1f37a9c01b9f205fe3b9979c608523.jpg"
+     },
+     {
+      "icon": "78ded0d26eb4b82b14b32b0a01889caafa82a718.jpg",
+      "localized_name": "Bongo Beat Amethyst",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Bongo Beat Amethyst",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3419430/78ded0d26eb4b82b14b32b0a01889caafa82a718.jpg"
+     },
+     {
+      "icon": "a79e6aad54b746cfc80baa1c7642928b09ae68f7.jpg",
+      "localized_name": "Bongo Beat Emerald",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Bongo Beat Emerald",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3419430/a79e6aad54b746cfc80baa1c7642928b09ae68f7.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2025 年 3 月 5 日"
+   },
+   "support_info": {
+    "url": "",
+    "email": "bongocat@irox-games.com"
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3419430?t=1791309178",
+   "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3419430?t=1791309178",
+   "content_descriptors": {
+    "ids": [],
+    "notes": null
+   },
+   "ratings": {
+    "dejus": {
+     "rating_generated": "1",
+     "rating": "6",
+     "required_age": "6",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": ""
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "12",
+     "required_age": "12",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": ""
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "3",
+     "required_age": "3",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Interaksi Daring"
+    }
+   }
+  }
+ }
+}

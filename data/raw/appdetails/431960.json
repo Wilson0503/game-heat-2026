@@ -1,0 +1,337 @@
+{
+ "431960": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "Wallpaper Engine：桌布引擎",
+   "steam_appid": 431960,
+   "required_age": 0,
+   "is_free": false,
+   "dlc": [
+    1790230
+   ],
+   "detailed_description": "有了 Wallpaper Engine，您可以在 Windows 桌面上使用動態桌布。支援各種類型的動態桌布，包括 3D 和 2D 動畫、網站、視訊，甚至是特定應用程式。選擇現有桌布或自己創造桌布，並且在 Steam Workshop 上與大家分享！除此之外，您可使用 Android 版 Wallpaper Engine 隨附應用程式，將您最愛的動態桌布傳輸至 Android 行動裝置，隨時隨地好好欣賞。<br><br><strong>新功能：</strong>使用免費的Android 隨附應用程式，將您最愛的桌布傳輸至 Android 行動裝置。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/extras/6a554ad9833f5944baaf80e4e797921c.avif?t=1779452230\" width=500 height=64 /></span><br><br><ul class=\"bb_ul\"><li>透過即時影像顯示、視訊、應用程式或網站，讓您的桌面活起來。<br></li><li>離開電腦時開啟動態螢幕保護程式。<br></li><li>用您最喜愛的顏色，個人化動態桌布。<br></li><li>使用可用滑鼠控制的互動式桌布。<br></li><li>支援多種外觀比例與原始解析度，包含 16:9、21:9、16:10、4:3。<br></li><li>支援多顯示器環境。<br></li><li>遊玩遊戲時，桌布將暫停運作，以節省效能。<br></li><li>在 Wallpaper Engine 編輯器上創造您專屬的動畫桌布。<br></li><li>透過基本圖像或者匯入 HTML 及視訊檔案，創造新的動態桌布。<br></li><li>Steam 工作坊可分享與下載桌布。<br></li><li>Wallpaper Engine 可以與任何其他 Steam 遊戲或應用程式同時使用。<br></li><li>支援的視訊檔案格式：mp4、WebM、avi、m4v、mov、wmv (針對本機檔案，工作坊則僅支援 mp4 格式)。<br></li><li>使用免費的 Android 隨附應用程式，將您最愛的場景和視訊桌布帶著走。<br></li><li>支援 Razer Chroma 和 Corsair iCUE。</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/extras/03b14fb2acf91d9bf17adc2d18778cc4.avif?t=1779452230\" width=550 height=192 /></span><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/extras/31994b9d6e5a6cd268fffeb7293f2cb6.avif?t=1779452230\" width=500 height=64 /></span><h2 class=\"bb_tag\" ></h2>Wallpaper Engine 旨在以最少的系統資源，帶給您最大的樂趣體驗。您使用其他應用程式或全螢幕播放 (包括無邊框視窗模式) 時，可選擇使桌布自動暫停或完全停止，避免玩遊戲或工作時分散注意力或造成干擾。多種調整品質和效能的選項，讓您的 Wallpaper Engine 完美適用於您的電腦。一般而言，以 3D、2D 和視訊為基礎的桌布表現最佳，而以網站和應用程式為基礎的桌布則需要較多的系統資源。強烈建議您使用專用 GPU，但並非必要。<h2 class=\"bb_tag\" ></h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/extras/8f00d7b91c8028459c11fe1f78205cfe.avif?t=1779452230\" width=500 height=64 /></span><h2 class=\"bb_tag\" ></h2>每天都有新的桌布上傳，您可從 Steam 工作坊上百萬個免費桌布精挑細選！找不到符合心情的桌布？不妨使用 Wallpaper Engine 編輯器，用圖像、視訊、網站或應用程式創造自己的動畫桌布，無限釋放您的想像。大量的預設和效果可供您自行以影像製作動畫，並在 Steam 工作坊上與大家分享，自己私藏獨享也行。",
+   "about_the_game": "有了 Wallpaper Engine，您可以在 Windows 桌面上使用動態桌布。支援各種類型的動態桌布，包括 3D 和 2D 動畫、網站、視訊，甚至是特定應用程式。選擇現有桌布或自己創造桌布，並且在 Steam Workshop 上與大家分享！除此之外，您可使用 Android 版 Wallpaper Engine 隨附應用程式，將您最愛的動態桌布傳輸至 Android 行動裝置，隨時隨地好好欣賞。<br><br><strong>新功能：</strong>使用免費的Android 隨附應用程式，將您最愛的桌布傳輸至 Android 行動裝置。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/extras/6a554ad9833f5944baaf80e4e797921c.avif?t=1779452230\" width=500 height=64 /></span><br><br><ul class=\"bb_ul\"><li>透過即時影像顯示、視訊、應用程式或網站，讓您的桌面活起來。<br></li><li>離開電腦時開啟動態螢幕保護程式。<br></li><li>用您最喜愛的顏色，個人化動態桌布。<br></li><li>使用可用滑鼠控制的互動式桌布。<br></li><li>支援多種外觀比例與原始解析度，包含 16:9、21:9、16:10、4:3。<br></li><li>支援多顯示器環境。<br></li><li>遊玩遊戲時，桌布將暫停運作，以節省效能。<br></li><li>在 Wallpaper Engine 編輯器上創造您專屬的動畫桌布。<br></li><li>透過基本圖像或者匯入 HTML 及視訊檔案，創造新的動態桌布。<br></li><li>Steam 工作坊可分享與下載桌布。<br></li><li>Wallpaper Engine 可以與任何其他 Steam 遊戲或應用程式同時使用。<br></li><li>支援的視訊檔案格式：mp4、WebM、avi、m4v、mov、wmv (針對本機檔案，工作坊則僅支援 mp4 格式)。<br></li><li>使用免費的 Android 隨附應用程式，將您最愛的場景和視訊桌布帶著走。<br></li><li>支援 Razer Chroma 和 Corsair iCUE。</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/extras/03b14fb2acf91d9bf17adc2d18778cc4.avif?t=1779452230\" width=550 height=192 /></span><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/extras/31994b9d6e5a6cd268fffeb7293f2cb6.avif?t=1779452230\" width=500 height=64 /></span><h2 class=\"bb_tag\" ></h2>Wallpaper Engine 旨在以最少的系統資源，帶給您最大的樂趣體驗。您使用其他應用程式或全螢幕播放 (包括無邊框視窗模式) 時，可選擇使桌布自動暫停或完全停止，避免玩遊戲或工作時分散注意力或造成干擾。多種調整品質和效能的選項，讓您的 Wallpaper Engine 完美適用於您的電腦。一般而言，以 3D、2D 和視訊為基礎的桌布表現最佳，而以網站和應用程式為基礎的桌布則需要較多的系統資源。強烈建議您使用專用 GPU，但並非必要。<h2 class=\"bb_tag\" ></h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/extras/8f00d7b91c8028459c11fe1f78205cfe.avif?t=1779452230\" width=500 height=64 /></span><h2 class=\"bb_tag\" ></h2>每天都有新的桌布上傳，您可從 Steam 工作坊上百萬個免費桌布精挑細選！找不到符合心情的桌布？不妨使用 Wallpaper Engine 編輯器，用圖像、視訊、網站或應用程式創造自己的動畫桌布，無限釋放您的想像。大量的預設和效果可供您自行以影像製作動畫，並在 Steam 工作坊上與大家分享，自己私藏獨享也行。",
+   "short_description": "在桌面上使用令人驚嘆的動態桌布。您可以自行製作動畫或匯入視訊/網站來創造新的桌布，並在 Steam Workshop 上與大家分享!",
+   "supported_languages": "英文, 德文, 簡體中文, 波蘭文, 葡萄牙文 - 巴西, 法文, 義大利文, 西班牙文 - 西班牙, 芬蘭文, 日文, 韓文, 瑞典文, 泰文, 繁體中文, 土耳其文, 葡萄牙文 - 葡萄牙, 俄文, 丹麥文, 捷克文, 阿拉伯文, 烏克蘭文, 印尼語, 波斯文",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg?t=1779452230",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/capsule_231x87.jpg?t=1779452230",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/capsule_184x69.jpg?t=1779452230",
+   "website": "https://www.wallpaperengine.io",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 10, Windows 11<br></li><li><strong>處理器:</strong> 1.66 GHz Intel i5 or equivalent<br></li><li><strong>記憶體:</strong> 1024 MB 記憶體<br></li><li><strong>顯示卡:</strong> HD Graphics 4000 or above<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>儲存空間:</strong> 512 MB 可用空間<br></li><li><strong>備註:</strong> Windows N 版本需要 Microsoft 提供的「Media Feature Pack」。</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 10, Windows 11<br></li><li><strong>處理器:</strong> 2.0 GHz Intel i7 or equivalent<br></li><li><strong>記憶體:</strong> 2048 MB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA GeForce GTX 660, AMD HD7870, 2 GB VRAM or above<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>儲存空間:</strong> 1024 MB 可用空間<br></li><li><strong>備註:</strong> 行動應用程式需要 Android 10 或更新版本</li></ul>"
+   },
+   "mac_requirements": [],
+   "linux_requirements": [],
+   "legal_notice": "Copyright © 2016-2026 Skutta Software GmbH",
+   "developers": [
+    "Wallpaper Engine Team"
+   ],
+   "publishers": [
+    "Wallpaper Engine Team"
+   ],
+   "price_overview": {
+    "currency": "TWD",
+    "initial": 12000,
+    "final": 12000,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "NT$ 120"
+   },
+   "packages": [
+    89783
+   ],
+   "package_groups": [
+    {
+     "name": "default",
+     "title": "購買 Wallpaper Engine：桌布引擎",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 89783,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "Wallpaper Engine - NT$ 120",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 12000
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+   },
+   "categories": [
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 29,
+     "description": "Steam 交換卡片"
+    },
+    {
+     "id": 51,
+     "description": "Steam 工作坊"
+    },
+    {
+     "id": 30,
+     "description": "Steam 工作坊"
+    },
+    {
+     "id": 17,
+     "description": "包含關卡編輯器"
+    }
+   ],
+   "genres": [
+    {
+     "id": "4",
+     "description": "休閒"
+    },
+    {
+     "id": "23",
+     "description": "獨立製作"
+    },
+    {
+     "id": "51",
+     "description": "動畫和建模"
+    },
+    {
+     "id": "53",
+     "description": "設計和繪圖"
+    },
+    {
+     "id": "55",
+     "description": "圖像編輯"
+    },
+    {
+     "id": "57",
+     "description": "工具"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_c4ea594a94bb39be82222e3cefbfba2df1ee6adf.600x338.jpg?t=1779452230",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_c4ea594a94bb39be82222e3cefbfba2df1ee6adf.1920x1080.jpg?t=1779452230"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_39ed0a9730b67a930acb8ceed221cc968bee7731.600x338.jpg?t=1779452230",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_39ed0a9730b67a930acb8ceed221cc968bee7731.1920x1080.jpg?t=1779452230"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_66e126295b2520aa323170370d382036cef42722.600x338.jpg?t=1779452230",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_66e126295b2520aa323170370d382036cef42722.1920x1080.jpg?t=1779452230"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_c63a5b855bf66be02b7d1c167987f7cf2a38870a.600x338.jpg?t=1779452230",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_c63a5b855bf66be02b7d1c167987f7cf2a38870a.1920x1080.jpg?t=1779452230"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_fafd3e19569555f79fd9db7bbac88ff7c4bc2ef3.600x338.jpg?t=1779452230",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_fafd3e19569555f79fd9db7bbac88ff7c4bc2ef3.1920x1080.jpg?t=1779452230"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_4de8564700e99ba7ecac2794127cc85ceba63778.600x338.jpg?t=1779452230",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_4de8564700e99ba7ecac2794127cc85ceba63778.1920x1080.jpg?t=1779452230"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_7a7481e0b72edf50b95b56b0107fbbce79fce24b.600x338.jpg?t=1779452230",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_7a7481e0b72edf50b95b56b0107fbbce79fce24b.1920x1080.jpg?t=1779452230"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_a57cba85acf4d5b27f9db75e5303b9b07e6e5daa.600x338.jpg?t=1779452230",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_a57cba85acf4d5b27f9db75e5303b9b07e6e5daa.1920x1080.jpg?t=1779452230"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_bbee5da5254709bc2ede0430a0a3e71ca2fa88f6.600x338.jpg?t=1779452230",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_bbee5da5254709bc2ede0430a0a3e71ca2fa88f6.1920x1080.jpg?t=1779452230"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_03355afd883aa905003bc11f6ad9427cf9f33297.600x338.jpg?t=1779452230",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_03355afd883aa905003bc11f6ad9427cf9f33297.1920x1080.jpg?t=1779452230"
+    },
+    {
+     "id": 10,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_b79736b95f0fa2b07d183043c2be5f93bf7881b1.600x338.jpg?t=1779452230",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_b79736b95f0fa2b07d183043c2be5f93bf7881b1.1920x1080.jpg?t=1779452230"
+    },
+    {
+     "id": 11,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_dcc02834621a8871ba951ff56ee3e76aa9280e2f.600x338.jpg?t=1779452230",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_dcc02834621a8871ba951ff56ee3e76aa9280e2f.1920x1080.jpg?t=1779452230"
+    },
+    {
+     "id": 12,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_6fb1c2f1bfcb140dc506d017ef0c6f9ba1853d34.600x338.jpg?t=1779452230",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_6fb1c2f1bfcb140dc506d017ef0c6f9ba1853d34.1920x1080.jpg?t=1779452230"
+    }
+   ],
+   "movies": [
+    {
+     "id": 256735610,
+     "name": "Wallpaper Engine Release",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256735610/movie.293x165.jpg?t=1637933023",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/431960/196034/4f589f0c2fd3411f08cd487919145ff67d9245df/1750530225/dash_av1.mpd?t=1637933023",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/431960/196034/4f589f0c2fd3411f08cd487919145ff67d9245df/1750530225/dash_h264.mpd?t=1637933023",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/431960/196034/4f589f0c2fd3411f08cd487919145ff67d9245df/1750530225/hls_264_master.m3u8?t=1637933023",
+     "highlight": true
+    }
+   ],
+   "recommendations": {
+    "total": 951242
+   },
+   "achievements": {
+    "total": 17,
+    "highlighted": [
+     {
+      "icon": "7aaf59fd3b8eaecdaea8077b57fbabc07bbec1fe.jpg",
+      "localized_name": "High aspirations",
+      "archived": 0,
+      "hidden": 0,
+      "name": "High aspirations",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/431960/7aaf59fd3b8eaecdaea8077b57fbabc07bbec1fe.jpg"
+     },
+     {
+      "icon": "8dcf7978482f1f876e10df9eea85cc6065157118.jpg",
+      "localized_name": "Video makers",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Video makers",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/431960/8dcf7978482f1f876e10df9eea85cc6065157118.jpg"
+     },
+     {
+      "icon": "d59c9b544a728f228d5df90908af2f655d9acc67.jpg",
+      "localized_name": "The internet on a disk",
+      "archived": 0,
+      "hidden": 0,
+      "name": "The internet on a disk",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/431960/d59c9b544a728f228d5df90908af2f655d9acc67.jpg"
+     },
+     {
+      "icon": "72d89124d705f27fb7c4dca0cc7e534f1cc6396c.jpg",
+      "localized_name": "Press any key",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Press any key",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/431960/72d89124d705f27fb7c4dca0cc7e534f1cc6396c.jpg"
+     },
+     {
+      "icon": "67fa04833f1c94ee1a1d967cec39c67a9b0f4cee.jpg",
+      "localized_name": "Creativity according to instructions",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Creativity according to instructions",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/431960/67fa04833f1c94ee1a1d967cec39c67a9b0f4cee.jpg"
+     },
+     {
+      "icon": "e26fc45fc1f5959bdf1cd91e386881b6eb3b8009.jpg",
+      "localized_name": "Working with 3D models",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Working with 3D models",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/431960/e26fc45fc1f5959bdf1cd91e386881b6eb3b8009.jpg"
+     },
+     {
+      "icon": "96e1eabf52d8b57aa6276ccaed8d23ab97bff45b.jpg",
+      "localized_name": "Sharing is caring",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Sharing is caring",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/431960/96e1eabf52d8b57aa6276ccaed8d23ab97bff45b.jpg"
+     },
+     {
+      "icon": "1c2250cab3953159e542b9ff4bd5be9ec75c9f61.jpg",
+      "localized_name": "Trying something new",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Trying something new",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/431960/1c2250cab3953159e542b9ff4bd5be9ec75c9f61.jpg"
+     },
+     {
+      "icon": "dafacb580ba40cf8ef509ff9861f3ade9057397f.jpg",
+      "localized_name": "Keeping an eye on this one",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Keeping an eye on this one",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/431960/dafacb580ba40cf8ef509ff9861f3ade9057397f.jpg"
+     },
+     {
+      "icon": "1f519ad16689ebdd4860d548f0979ada9e739ef5.jpg",
+      "localized_name": "Pest",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Pest",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/431960/1f519ad16689ebdd4860d548f0979ada9e739ef5.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2018 年 11 月 16 日"
+   },
+   "support_info": {
+    "url": "https://help.wallpaperengine.io",
+    "email": "support@wallpaperengine.io"
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/431960?t=1779452230",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/page_bg_raw.jpg?t=1779452230",
+   "content_descriptors": {
+    "ids": [],
+    "notes": null
+   },
+   "ratings": {
+    "dejus": {
+     "rating_generated": "1",
+     "rating": "l",
+     "required_age": "0",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": ""
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "0",
+     "required_age": "0",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": ""
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "3",
+     "required_age": "0",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": ""
+    },
+    "steam_australia": {
+     "rating_generated": "1",
+     "rating": "0",
+     "required_age": "0",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": ""
+    }
+   }
+  }
+ }
+}

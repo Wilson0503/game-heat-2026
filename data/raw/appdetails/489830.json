@@ -1,0 +1,379 @@
+{
+ "489830": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "The Elder Scrolls V: Skyrim Special Edition",
+   "steam_appid": 489830,
+   "required_age": "18",
+   "is_free": false,
+   "dlc": [
+    1746860,
+    598120
+   ],
+   "detailed_description": "<h1>《The Elder Scrolls V: Skyrim》Anniversary Edition</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/extras/d2f1779802fdecb0e40ecab090d95a1c.avif?t=1786648247\" width=616 height=352 /></span><br>Anniversary Edition包含十年來的遊戲內容：倍受讚譽的主遊戲和《Skyrim》特別版追加內容，以及2021年11月11日或之前發布的創作俱樂部內容，包括任務、地下城、頭目、武器、法術，以及更多豐富內容。</p><br><h1>關於此遊戲</h1>榮獲超過200項年度最佳遊戲大獎的《The Elder Scrolls V: Skyrim》推出特別版，以令人驚艷的細緻畫面帶來史詩奇幻鉅作。特別版內含大獲好評的主遊戲、附加內容，還有重製版藝術與特效、體積光、動態景深、螢幕空間反射等全新功能。<br><br>現在PC和家用主機也能使用Bethesda Game Studios Creations的強大功能了。新推出的任務、環境、人物、對話、裝甲、武器和更多內容，再搭配創作，為你帶來無限遊戲體驗。",
+   "about_the_game": "榮獲超過200項年度最佳遊戲大獎的《The Elder Scrolls V: Skyrim》推出特別版，以令人驚艷的細緻畫面帶來史詩奇幻鉅作。特別版內含大獲好評的主遊戲、附加內容，還有重製版藝術與特效、體積光、動態景深、螢幕空間反射等全新功能。<br />\r\n<br />\r\n現在PC和家用主機也能使用Bethesda Game Studios Creations的強大功能了。新推出的任務、環境、人物、對話、裝甲、武器和更多內容，再搭配創作，為你帶來無限遊戲體驗。",
+   "short_description": "榮獲超過200項年度最佳遊戲大獎的《The Elder Scrolls V: Skyrim》推出特別版，以令人驚艷的細緻畫面帶來史詩奇幻鉅作。特別版內含大獲好評的主遊戲、附加內容，還有全新功能。",
+   "supported_languages": "英文<strong>*</strong>, 法文<strong>*</strong>, 義大利文<strong>*</strong>, 德文<strong>*</strong>, 西班牙文 - 西班牙<strong>*</strong>, 波蘭文<strong>*</strong>, 繁體中文, 俄文<strong>*</strong>, 日文<strong>*</strong><br><strong>*</strong>具備完整音效支援的語言",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1786648247",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/capsule_231x87.jpg?t=1786648247",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/capsule_184x69.jpg?t=1786648247",
+   "website": null,
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統 *:</strong> Windows 7/8.1/10 (64-bit Version)<br></li><li><strong>處理器:</strong> Intel i5-750/AMD Phenom II X4-945<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA GTX 470 1GB /AMD HD 7870 2GB<br></li><li><strong>儲存空間:</strong> 12 GB 可用空間</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統 *:</strong> Windows 7/8.1/10 (64-bit Version)<br></li><li><strong>處理器:</strong> Intel i5-2400/AMD FX-8320<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA GTX 780 3GB /AMD R9 290 4GB<br></li><li><strong>儲存空間:</strong> 12 GB 可用空間</li></ul>"
+   },
+   "mac_requirements": [],
+   "linux_requirements": [],
+   "legal_notice": "© 2016 Bethesda Softworks LLC, a ZeniMax Media company. The Elder Scrolls, Skyrim, Bethesda, Bethesda Game Studios, Bethesda Softworks, ZeniMax and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the U.S. and/or other countries. All Rights Reserved.<br><br>Privacy Policy",
+   "developers": [
+    "Bethesda Game Studios"
+   ],
+   "publishers": [
+    "Bethesda Softworks"
+   ],
+   "price_overview": {
+    "currency": "TWD",
+    "initial": 119900,
+    "final": 119900,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "NT$ 1,199"
+   },
+   "packages": [
+    110687,
+    626153
+   ],
+   "package_groups": [
+    {
+     "name": "default",
+     "title": "購買 The Elder Scrolls V: Skyrim Special Edition",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 110687,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "The Elder Scrolls V: Skyrim Special Edition - NT$ 1,199",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 119900
+      },
+      {
+       "packageid": 626153,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "The Elder Scrolls V: Skyrim Anniversary Edition - NT$ 1,499",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 149900
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+   },
+   "metacritic": {
+    "score": 74,
+    "url": "https://www.metacritic.com/game/pc/the-elder-scrolls-v-skyrim-special-edition?ftag=MCD-06-10aaa1f"
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 74,
+     "description": "遊玩無需快速反應"
+    },
+    {
+     "id": 79,
+     "description": "隨時儲存"
+    },
+    {
+     "id": 69,
+     "description": "立體聲"
+    },
+    {
+     "id": 70,
+     "description": "環繞音效"
+    },
+    {
+     "id": 18,
+     "description": "部分控制器支援"
+    },
+    {
+     "id": 23,
+     "description": "Steam 雲端"
+    },
+    {
+     "id": 41,
+     "description": "在手機上遠端暢玩"
+    },
+    {
+     "id": 42,
+     "description": "在平板上遠端暢玩"
+    },
+    {
+     "id": 62,
+     "description": "親友同享"
+    }
+   ],
+   "genres": [
+    {
+     "id": "3",
+     "description": "角色扮演"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_73c1a0bb7e1720c8a1847186c3ddd837d3ca7a8d.600x338.jpg?t=1786648247",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_73c1a0bb7e1720c8a1847186c3ddd837d3ca7a8d.1920x1080.jpg?t=1786648247"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_d64b646612ab1402bdda8e400672aa0dbcb352ea.600x338.jpg?t=1786648247",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_d64b646612ab1402bdda8e400672aa0dbcb352ea.1920x1080.jpg?t=1786648247"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_b6bb6f79278505b3f48567f08c21f7a0eb171c68.600x338.jpg?t=1786648247",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_b6bb6f79278505b3f48567f08c21f7a0eb171c68.1920x1080.jpg?t=1786648247"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_921ccea650df936a0b14ebd5dd4ecc73c1d2a12d.600x338.jpg?t=1786648247",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_921ccea650df936a0b14ebd5dd4ecc73c1d2a12d.1920x1080.jpg?t=1786648247"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_8c7ecd394afb581b9b2137a3de04433f78fdf4ea.600x338.jpg?t=1786648247",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_8c7ecd394afb581b9b2137a3de04433f78fdf4ea.1920x1080.jpg?t=1786648247"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_50c3da9e29e9b0368889379cdd03a71aba8d614c.600x338.jpg?t=1786648247",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_50c3da9e29e9b0368889379cdd03a71aba8d614c.1920x1080.jpg?t=1786648247"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_2ca72f4ecc42a18dd4bf056c539a9794c2b2493d.600x338.jpg?t=1786648247",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_2ca72f4ecc42a18dd4bf056c539a9794c2b2493d.1920x1080.jpg?t=1786648247"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_5d19c69d33abca6f6271d75f371d4241c0d6b2d1.600x338.jpg?t=1786648247",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_5d19c69d33abca6f6271d75f371d4241c0d6b2d1.1920x1080.jpg?t=1786648247"
+    }
+   ],
+   "movies": [
+    {
+     "id": 256672927,
+     "name": "Skyrim Special Edition Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256672927/movie.293x165.jpg?t=1476991615",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/489830/77128/20c56f14e492b05846f7262a246b4e4f0d455f7f/1750536877/dash_av1.mpd?t=1476991615",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/489830/77128/20c56f14e492b05846f7262a246b4e4f0d455f7f/1750536877/dash_h264.mpd?t=1476991615",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/489830/77128/20c56f14e492b05846f7262a246b4e4f0d455f7f/1750536877/hls_264_master.m3u8?t=1476991615",
+     "highlight": true
+    },
+    {
+     "id": 256672841,
+     "name": "Skyrim SE Live Action Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256672841/movie.293x165.jpg?t=1476909226",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/489830/76994/d34a1d9266cd9ea5eb9f0e6ff8b2c23bddc28368/1750536868/dash_av1.mpd?t=1476909226",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/489830/76994/d34a1d9266cd9ea5eb9f0e6ff8b2c23bddc28368/1750536868/dash_h264.mpd?t=1476909226",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/489830/76994/d34a1d9266cd9ea5eb9f0e6ff8b2c23bddc28368/1750536868/hls_264_master.m3u8?t=1476909226",
+     "highlight": true
+    }
+   ],
+   "recommendations": {
+    "total": 222241
+   },
+   "achievements": {
+    "total": 75,
+    "highlighted": [
+     {
+      "icon": "0a1b47b28556ff20ec88acc0aca0ef6793cd5383.jpg",
+      "localized_name": "死裡逃生",
+      "archived": 0,
+      "hidden": 0,
+      "name": "死裡逃生",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/489830/0a1b47b28556ff20ec88acc0aca0ef6793cd5383.jpg"
+     },
+     {
+      "icon": "47f8b520d258247d69e46592e6790e17df0ed5f5.jpg",
+      "localized_name": "荒瀑古墳",
+      "archived": 0,
+      "hidden": 0,
+      "name": "荒瀑古墳",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/489830/47f8b520d258247d69e46592e6790e17df0ed5f5.jpg"
+     },
+     {
+      "icon": "d7feacd4f001a31b316b50f5f5ac051c82c40844.jpg",
+      "localized_name": "龍吼之道",
+      "archived": 0,
+      "hidden": 0,
+      "name": "龍吼之道",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/489830/d7feacd4f001a31b316b50f5f5ac051c82c40844.jpg"
+     },
+     {
+      "icon": "d23c6bf6e8f6dff395a228e1a7aa2711fcfcdcc3.jpg",
+      "localized_name": "外交豁免",
+      "archived": 0,
+      "hidden": 0,
+      "name": "外交豁免",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/489830/d23c6bf6e8f6dff395a228e1a7aa2711fcfcdcc3.jpg"
+     },
+     {
+      "icon": "155eb8a774d15dde14afd25877658f73f33b2334.jpg",
+      "localized_name": "奧杜因之牆",
+      "archived": 0,
+      "hidden": 0,
+      "name": "奧杜因之牆",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/489830/155eb8a774d15dde14afd25877658f73f33b2334.jpg"
+     },
+     {
+      "icon": "b38012583bd139ec05e79fee602c40f5b15e3654.jpg",
+      "localized_name": "上古知識",
+      "archived": 0,
+      "hidden": 0,
+      "name": "上古知識",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/489830/b38012583bd139ec05e79fee602c40f5b15e3654.jpg"
+     },
+     {
+      "icon": "cb5e5bcdb7f03fb09db3dfffdc6f12b6f384925a.jpg",
+      "localized_name": "墮落者",
+      "archived": 0,
+      "hidden": 0,
+      "name": "墮落者",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/489830/cb5e5bcdb7f03fb09db3dfffdc6f12b6f384925a.jpg"
+     },
+     {
+      "icon": "8d831c49ad6312f798b938aefd6fd2f6e0dda0ac.jpg",
+      "localized_name": "屠龍者",
+      "archived": 0,
+      "hidden": 0,
+      "name": "屠龍者",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/489830/8d831c49ad6312f798b938aefd6fd2f6e0dda0ac.jpg"
+     },
+     {
+      "icon": "960f34c39956c147aa55a050c407b059a8e86b8b.jpg",
+      "localized_name": "拿起武器",
+      "archived": 0,
+      "hidden": 0,
+      "name": "拿起武器",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/489830/960f34c39956c147aa55a050c407b059a8e86b8b.jpg"
+     },
+     {
+      "icon": "57cbdf88fc096bed3ed8af57912a010ce6830f54.jpg",
+      "localized_name": "血盟",
+      "archived": 0,
+      "hidden": 0,
+      "name": "血盟",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/489830/57cbdf88fc096bed3ed8af57912a010ce6830f54.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2016 年 10 月 27 日"
+   },
+   "support_info": {
+    "url": "http://help.bethesda.net/",
+    "email": ""
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/489830?t=1786648247",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/page_bg_raw.jpg?t=1786648247",
+   "content_descriptors": {
+    "ids": [
+     1,
+     5
+    ],
+    "notes": "Skyrim contains Blood and Gore, Intense Violence, Sexual Themes, Use of Alcohol, and Language."
+   },
+   "ratings": {
+    "esrb": {
+     "rating": "m",
+     "descriptors": "Blood and Gore, Intense Violence, Sexual Themes, Use of Alcohol, Language",
+     "use_age_gate": "true",
+     "required_age": "17",
+     "interactive_elements": "In-Game Purchases"
+    },
+    "pegi": {
+     "rating": "18",
+     "descriptors": "Violence",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "usk": {
+     "rating": "16",
+     "use_age_gate": "true",
+     "required_age": "16"
+    },
+    "oflc": {
+     "rating": "ma15",
+     "descriptors": "Strong horror themes and violence",
+     "use_age_gate": "true",
+     "required_age": "15"
+    },
+    "nzoflc": {
+     "rating": "r13",
+     "descriptors": "Violence",
+     "use_age_gate": "true",
+     "required_age": "13"
+    },
+    "dejus": {
+     "rating": "18",
+     "descriptors": "Violência",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "fpb": {
+     "rating": "18",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "csrr": {
+     "rating": "R",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "crl": {
+     "rating": "18",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "16",
+     "required_age": "16",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Drastische Gewalt\nDrogen\nSexuelle Andeutungen"
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "BANNED",
+     "required_age": "2147483647",
+     "banned": "1",
+     "use_age_gate": "0",
+     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nPenampilan Tokoh\nKekerasan"
+    }
+   }
+  }
+ }
+}

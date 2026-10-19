@@ -1,0 +1,428 @@
+{
+ "813780": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "Age of Empires II: Definitive Edition",
+   "steam_appid": 813780,
+   "required_age": 0,
+   "is_free": false,
+   "dlc": [
+    4376980,
+    3219700,
+    3793540,
+    3080080,
+    2805520,
+    2805510,
+    2555420,
+    2141580,
+    1869820,
+    1557210,
+    1389240,
+    2672800,
+    2672810,
+    2672820,
+    1228810,
+    1039811
+   ],
+   "detailed_description": "有史以來最受歡迎的戰略遊戲之一迎來 20 週年，為此我們推出了《Age of Empires II: Definitive Edition》。本作擁有驚人的 4K 超高畫質，全面重製的新原聲音樂，以及內含 3 個新戰役和 4 個新文明的內容：《最後的可汗》。常態更新項目包括活動、新增內容、新遊戲模式，以及隨近期上線的合作模式所帶來的增強功能！<br><br>以前所未有的方式，探索全部的原版戰役以及熱銷擴充套件的內容。橫跨人類 1,000 年的歷史，超過 200 個小時的遊戲時間，為您帶來大幅升級的遊戲體驗。線上挑戰主宰 35 個不同文明的其他玩家，踏上支配世界的征程。您也可以遊玩《西方霸主》DLC，體驗全新文明和戰役！近期更新項目包括大逃殺遊戲模式、對劇本編輯器的持續支援、主打輕鬆上手社交遊戲的快速對戰功能、遊戲 UI 最佳化，以及更多精彩內容！<br><br>在這款有史以來最受喜愛、備受矚目的戰略遊戲重製版中，選擇您成就非凡的道路。<br><br><strong></strong>",
+   "about_the_game": "有史以來最受歡迎的戰略遊戲之一迎來 20 週年，為此我們推出了《Age of Empires II: Definitive Edition》。本作擁有驚人的 4K 超高畫質，全面重製的新原聲音樂，以及內含 3 個新戰役和 4 個新文明的內容：《最後的可汗》。常態更新項目包括活動、新增內容、新遊戲模式，以及隨近期上線的合作模式所帶來的增強功能！<br><br>以前所未有的方式，探索全部的原版戰役以及熱銷擴充套件的內容。橫跨人類 1,000 年的歷史，超過 200 個小時的遊戲時間，為您帶來大幅升級的遊戲體驗。線上挑戰主宰 35 個不同文明的其他玩家，踏上支配世界的征程。您也可以遊玩《西方霸主》DLC，體驗全新文明和戰役！近期更新項目包括大逃殺遊戲模式、對劇本編輯器的持續支援、主打輕鬆上手社交遊戲的快速對戰功能、遊戲 UI 最佳化，以及更多精彩內容！<br><br>在這款有史以來最受喜愛、備受矚目的戰略遊戲重製版中，選擇您成就非凡的道路。<br><br><strong></strong>",
+   "short_description": "有史以來最受歡迎的戰略遊戲之一迎來 20 週年，為此我們推出了《Age of Empires II: Definitive Edition》。本作擁有驚人的 4K 超高畫質，全面重製的新原聲音樂，以及內含 3 個新戰役和 4 個新文明的內容：《最後的可汗》。常態更新項目包括活動、新增內容、新遊戲模式，以及隨近期上線的合作模式所帶來的增強功能！",
+   "supported_languages": "英文<strong>*</strong>, 法文<strong>*</strong>, 義大利文<strong>*</strong>, 德文<strong>*</strong>, 日文, 韓文<strong>*</strong>, 葡萄牙文 - 巴西<strong>*</strong>, 俄文, 簡體中文<strong>*</strong>, 西班牙文 - 拉丁美洲<strong>*</strong>, 繁體中文<strong>*</strong>, 土耳其文, 越南文, 西班牙文 - 西班牙<strong>*</strong>, 波蘭文, 印地語, 馬來文<br><strong>*</strong>具備完整音效支援的語言",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/header.jpg?t=1790623375",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/capsule_231x87.jpg?t=1790623375",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/capsule_184x69.jpg?t=1790623375",
+   "website": "https://www.ageofempires.com/games/aoeiide/",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 10 64bit<br></li><li><strong>處理器:</strong> Intel Core 2 Duo or AMD Athlon 64x2 5600+<br></li><li><strong>記憶體:</strong> 4 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA® GeForce® GT 420 or ATI™ Radeon™ HD 6850 or Intel® HD Graphics 4000 or better with 2 GB VRAM<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 15 GB 可用空間<br></li><li><strong>備註:</strong> 2GB of video memory + 4GB of system memory required</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 10 64bit<br></li><li><strong>處理器:</strong> 2.4 Ghz i5 or greater or AMD equivalent<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> Nvidia® GTX 650 or AMD HD 5850 or better<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 15 GB 可用空間</li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需使用 Apple 處理器<br></li><li><strong>作業系統:</strong> macOS 15.7<br></li><li><strong>處理器:</strong> Apple M1 (8‑core CPU)/Apple A18 Pro (6-core CPU) or better<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> Apple M1 (7‑core GPU)/Apple A18 Pro (5-core GPU) or better<br></li><li><strong>儲存空間:</strong> 16 GB 可用空間</li></ul>"
+   },
+   "linux_requirements": [],
+   "legal_notice": "© 2024 Microsoft. Microsoft, World’s Edge, Age of Empires, and the Age of Empires logo are trademarks of the Microsoft group of companies. All rights reserved. Acceptance of Microsoft Services Agreement and Privacy Statement required to play. Features and system requirements may vary by country and are subject to change or retirement over time. Microsoft Services Agreement | Microsoft Privacy Statement",
+   "developers": [
+    "World's Edge",
+    "Forgotten Empires",
+    "CaptureAge",
+    "Tantalus Media",
+    "Wicked Witch",
+    "Feral Interactive"
+   ],
+   "publishers": [
+    "Xbox Game Studios"
+   ],
+   "price_overview": {
+    "currency": "TWD",
+    "initial": 108800,
+    "final": 108800,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "NT$ 1,088"
+   },
+   "packages": [
+    248721
+   ],
+   "package_groups": [
+    {
+     "name": "default",
+     "title": "購買 Age of Empires II: Definitive Edition",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 248721,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "Age of Empires II: Definitive Edition - NT$ 1,088",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 108800
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+   },
+   "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/age-of-empires-ii-definitive-edition?ftag=MCD-06-10aaa1f"
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 49,
+     "description": "玩家對戰"
+    },
+    {
+     "id": 36,
+     "description": "線上玩家對戰"
+    },
+    {
+     "id": 47,
+     "description": "區域網路玩家對戰"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 48,
+     "description": "區域網路合作"
+    },
+    {
+     "id": 27,
+     "description": "跨平台多人連線"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 29,
+     "description": "Steam 交換卡片"
+    },
+    {
+     "id": 64,
+     "description": "可調整文字大小"
+    },
+    {
+     "id": 66,
+     "description": "顏色替代選項"
+    },
+    {
+     "id": 68,
+     "description": "自訂音量控制"
+    },
+    {
+     "id": 78,
+     "description": "可調整難度"
+    },
+    {
+     "id": 76,
+     "description": "只需滑鼠選項"
+    },
+    {
+     "id": 71,
+     "description": "朗讀遊戲選單"
+    },
+    {
+     "id": 80,
+     "description": "#category_playable_at_your_own_pace"
+    },
+    {
+     "id": 74,
+     "description": "遊玩無需快速反應"
+    },
+    {
+     "id": 79,
+     "description": "隨時儲存"
+    },
+    {
+     "id": 23,
+     "description": "Steam 雲端"
+    },
+    {
+     "id": 17,
+     "description": "包含關卡編輯器"
+    },
+    {
+     "id": 62,
+     "description": "親友同享"
+    }
+   ],
+   "genres": [
+    {
+     "id": "2",
+     "description": "策略"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_ab2692aa33171bc61378dd59efa89e2ff86e02a6.600x338.jpg?t=1790623375",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_ab2692aa33171bc61378dd59efa89e2ff86e02a6.1920x1080.jpg?t=1790623375"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_1033024a26f0a7ed277865201aed9bb471b54320.600x338.jpg?t=1790623375",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_1033024a26f0a7ed277865201aed9bb471b54320.1920x1080.jpg?t=1790623375"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_83253675c7af3ad5f3f2c1dc2c43c667000e0c4a.600x338.jpg?t=1790623375",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_83253675c7af3ad5f3f2c1dc2c43c667000e0c4a.1920x1080.jpg?t=1790623375"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_ea0429a12f9d65f3e6b5384e0117fceef2109e45.600x338.jpg?t=1790623375",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_ea0429a12f9d65f3e6b5384e0117fceef2109e45.1920x1080.jpg?t=1790623375"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_c13d14fd11f3deb2fa5f592cceb98db3d48ef10b.600x338.jpg?t=1790623375",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_c13d14fd11f3deb2fa5f592cceb98db3d48ef10b.1920x1080.jpg?t=1790623375"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_e2fc6cfd934c8150cf751955d44deb688ab3c7d0.600x338.jpg?t=1790623375",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_e2fc6cfd934c8150cf751955d44deb688ab3c7d0.1920x1080.jpg?t=1790623375"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_77792f8c4a7b375fc7c749b6336e61d61830920b.600x338.jpg?t=1790623375",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_77792f8c4a7b375fc7c749b6336e61d61830920b.1920x1080.jpg?t=1790623375"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_8f30a6ae45244f12ebdb48f99393aa9c93aaa398.600x338.jpg?t=1790623375",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_8f30a6ae45244f12ebdb48f99393aa9c93aaa398.1920x1080.jpg?t=1790623375"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_b42dec99b197fea9882abc333e2cfb0a77dd3ed2.600x338.jpg?t=1790623375",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_b42dec99b197fea9882abc333e2cfb0a77dd3ed2.1920x1080.jpg?t=1790623375"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_2b0e749c2d157b4c7965160bbed34b34f959b654.600x338.jpg?t=1790623375",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_2b0e749c2d157b4c7965160bbed34b34f959b654.1920x1080.jpg?t=1790623375"
+    },
+    {
+     "id": 10,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_1a552052274732058f91d649716fffc5879d824e.600x338.jpg?t=1790623375",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_1a552052274732058f91d649716fffc5879d824e.1920x1080.jpg?t=1790623375"
+    },
+    {
+     "id": 11,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_f270aa4e146459dc8b75a69bfecf23d13b0e8df6.600x338.jpg?t=1790623375",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_f270aa4e146459dc8b75a69bfecf23d13b0e8df6.1920x1080.jpg?t=1790623375"
+    }
+   ],
+   "movies": [
+    {
+     "id": 256753456,
+     "name": "Age of Empires II: Definitive Edition",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256753456/movie.293x165.jpg?t=1573774043",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/813780/228198/a6de3656546a02339a9a89290068c2ac4d51fd68/1750586036/dash_av1.mpd?t=1573774043",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/813780/228198/a6de3656546a02339a9a89290068c2ac4d51fd68/1750586036/dash_h264.mpd?t=1573774043",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/813780/228198/a6de3656546a02339a9a89290068c2ac4d51fd68/1750586036/hls_264_master.m3u8?t=1573774043",
+     "highlight": true
+    },
+    {
+     "id": 256810032,
+     "name": "Definitive Collection",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256810032/movie.293x165.jpg?t=1605737896",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/813780/327571/20da59b3372259f88b8affb4c08f3488490ab7df/1750586051/dash_av1.mpd?t=1605737896",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/813780/327571/20da59b3372259f88b8affb4c08f3488490ab7df/1750586051/dash_h264.mpd?t=1605737896",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/813780/327571/20da59b3372259f88b8affb4c08f3488490ab7df/1750586051/hls_264_master.m3u8?t=1605737896",
+     "highlight": true
+    }
+   ],
+   "recommendations": {
+    "total": 159866
+   },
+   "achievements": {
+    "total": 370,
+    "highlighted": [
+     {
+      "icon": "c487818b80a579436ac5f5ae432e425da7514758.jpg",
+      "localized_name": "阿茲特克人勝利",
+      "archived": 0,
+      "hidden": 0,
+      "name": "阿茲特克人勝利",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/813780/c487818b80a579436ac5f5ae432e425da7514758.jpg"
+     },
+     {
+      "icon": "3c3aa5054badd32a4f8ae9413c2acdff7bd91231.jpg",
+      "localized_name": "柏柏人勝利",
+      "archived": 0,
+      "hidden": 0,
+      "name": "柏柏人勝利",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/813780/3c3aa5054badd32a4f8ae9413c2acdff7bd91231.jpg"
+     },
+     {
+      "icon": "2519f0c2ad37b160473f370407dd7fc63a733899.jpg",
+      "localized_name": "不列顛人勝利",
+      "archived": 0,
+      "hidden": 0,
+      "name": "不列顛人勝利",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/813780/2519f0c2ad37b160473f370407dd7fc63a733899.jpg"
+     },
+     {
+      "icon": "ad8681cce31983ec8035b136b8eff445c14bb997.jpg",
+      "localized_name": "保加利亞人勝利",
+      "archived": 0,
+      "hidden": 0,
+      "name": "保加利亞人勝利",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/813780/ad8681cce31983ec8035b136b8eff445c14bb997.jpg"
+     },
+     {
+      "icon": "671fd70553d3925a6d224da82ab710e1d7b223f1.jpg",
+      "localized_name": "緬甸人勝利",
+      "archived": 0,
+      "hidden": 0,
+      "name": "緬甸人勝利",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/813780/671fd70553d3925a6d224da82ab710e1d7b223f1.jpg"
+     },
+     {
+      "icon": "54982a851f20fa05e0cd989db90a259b1b9df867.jpg",
+      "localized_name": "拜占庭人勝利",
+      "archived": 0,
+      "hidden": 0,
+      "name": "拜占庭人勝利",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/813780/54982a851f20fa05e0cd989db90a259b1b9df867.jpg"
+     },
+     {
+      "icon": "2feb309f33268f28765549baa05006be9dcf990f.jpg",
+      "localized_name": "塞爾特人勝利",
+      "archived": 0,
+      "hidden": 0,
+      "name": "塞爾特人勝利",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/813780/2feb309f33268f28765549baa05006be9dcf990f.jpg"
+     },
+     {
+      "icon": "641553366a767a1d4a8eccf404d07c99e83e5d27.jpg",
+      "localized_name": "中國人勝利",
+      "archived": 0,
+      "hidden": 0,
+      "name": "中國人勝利",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/813780/641553366a767a1d4a8eccf404d07c99e83e5d27.jpg"
+     },
+     {
+      "icon": "8d964e393538ebb9c399c80241ed47ff68128221.jpg",
+      "localized_name": "庫曼人勝利",
+      "archived": 0,
+      "hidden": 0,
+      "name": "庫曼人勝利",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/813780/8d964e393538ebb9c399c80241ed47ff68128221.jpg"
+     },
+     {
+      "icon": "6ed0ce2e8c17341e35573668ad1196e96c1e17da.jpg",
+      "localized_name": "衣索比亞人勝利",
+      "archived": 0,
+      "hidden": 0,
+      "name": "衣索比亞人勝利",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/813780/6ed0ce2e8c17341e35573668ad1196e96c1e17da.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2019 年 11 月 14 日"
+   },
+   "support_info": {
+    "url": "https://www.ageofempires.com/support/aoe2/",
+    "email": ""
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/813780?t=1790623375",
+   "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/813780?t=1790623375",
+   "content_descriptors": {
+    "ids": [],
+    "notes": null
+   },
+   "ratings": {
+    "esrb": {
+     "rating": "t",
+     "descriptors": "Mild Blood\r\nMild Language\r\nViolence",
+     "interactive_elements": "Users Interact"
+    },
+    "pegi": {
+     "rating": "12",
+     "descriptors": "Violence\r\nBad Language"
+    },
+    "usk": {
+     "rating": "12"
+    },
+    "oflc": {
+     "rating": "pg",
+     "descriptors": "Mild themes, violence and coarse language"
+    },
+    "nzoflc": {
+     "rating": "pg",
+     "descriptors": "Mild themes, violence and coarse language"
+    },
+    "cero": {
+     "rating": "b",
+     "descriptors": "Violence"
+    },
+    "kgrb": {
+     "rating": "12",
+     "descriptors": "Violence"
+    },
+    "dejus": {
+     "rating": "12",
+     "descriptors": "Violence"
+    },
+    "fpb": {
+     "rating": "13"
+    },
+    "csrr": {
+     "rating": "C15"
+    },
+    "crl": {
+     "rating": "12"
+    }
+   }
+  }
+ }
+}

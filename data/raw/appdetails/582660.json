@@ -1,0 +1,279 @@
+{
+ "582660": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "Black Desert",
+   "steam_appid": 582660,
+   "required_age": 0,
+   "is_free": false,
+   "dlc": [
+    1914040,
+    1914041,
+    1914042
+   ],
+   "detailed_description": "<h2 class=\"bb_tag\" >Go Beyond Limits : THE WORLD CLASS MMORPG</h2><br><i>黑色沙漠使用REMASTERED擬真圖像和優美的音樂構成<br>展現MMORPG極限的黑色沙漠，能身歷其境參與刺激的戰鬥與攻城戰<br>還有探險、貿易、釣魚、馴養、煉金、料理、採集、狩獵等豐富的生活系統<br>來廣闊的世界中享受多樣的內容吧！<br>The MMORPG 黑色沙漠</i><h2 class=\"bb_tag\" >您真正期望的冒險的開始</h2><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/d238c0af53394d5834b74ebb76de3fcb.poster.avif?t=1786645008\" width=614 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/d238c0af53394d5834b74ebb76de3fcb.webm?t=1786645008\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/d238c0af53394d5834b74ebb76de3fcb.mp4?t=1786645008\" type=\"video/mp4\"></video></span><br><strong>OPEN WORLD</strong><br>無論想體驗自給自足的農耕生活，亦或雇用勞動者大量生產創造商業利潤，<br>多樣化生產模式滿足你不同的渴望。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/ee3a9c9b45163f77fb116f246a33bcdf.poster.avif?t=1786645008\" width=614 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/ee3a9c9b45163f77fb116f246a33bcdf.webm?t=1786645008\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/ee3a9c9b45163f77fb116f246a33bcdf.mp4?t=1786645008\" type=\"video/mp4\"></video></span><br><strong>CUSTOMIZING</strong><br><i>完美訂製獨一無二的樣貌</i><br>細微如骨骼、臉部線條到每吋肌膚質感，超高自由度的創角系統蘊含無限可能。<br>夢想中的樣貌，就在《黑色沙漠》完美呈現！<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/504ccdbab0daf992ee34d6adda5f4561.poster.avif?t=1786645008\" width=614 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/504ccdbab0daf992ee34d6adda5f4561.webm?t=1786645008\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/504ccdbab0daf992ee34d6adda5f4561.mp4?t=1786645008\" type=\"video/mp4\"></video></span><br><strong>GRAPHICS</strong><br><i>前所未見高規格畫面</i><br>保留真實世界的繁複與細膩，從壯麗的自然景觀到熟悉的生活場景，<br>每一瞬光影流洩都令人讚嘆。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/f334d1048e0a7954c0e81c2efb6625cc.poster.avif?t=1786645008\" width=614 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/f334d1048e0a7954c0e81c2efb6625cc.webm?t=1786645008\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/f334d1048e0a7954c0e81c2efb6625cc.mp4?t=1786645008\" type=\"video/mp4\"></video></span><br><strong>COMBAT</strong><br><i>無鎖定模式的爽快戰鬥</i><br>終結傳統MMORPG死板、單一的定位式戰鬥，<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/c9902df8df97d6ed391205c4ae83d184.poster.avif?t=1786645008\" width=614 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/c9902df8df97d6ed391205c4ae83d184.webm?t=1786645008\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/c9902df8df97d6ed391205c4ae83d184.mp4?t=1786645008\" type=\"video/mp4\"></video></span><br><strong>NODE &amp; SIEGE WAR</strong><br><i>攻城掠地大規模國戰</i><br>集結兵力與資源，引領眾人的力量在沙場一決勝負<br>獲勝的公會不僅能成為領主，更能控制稅收、掌握地方資源。<br>講求反應速度與操作技巧，享受高動作感的爽快打擊！<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/6dd59720b66b2db2c51af6865347124b.poster.avif?t=1786645008\" width=614 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/6dd59720b66b2db2c51af6865347124b.webm?t=1786645008\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/6dd59720b66b2db2c51af6865347124b.mp4?t=1786645008\" type=\"video/mp4\"></video></span><br><strong>LIFE SKILLS</strong><br><i>多元、豐富的生產活動</i><br>想要遊玩戰鬥以外的內容嗎？<br>那麼一邊休息，一邊享受豐富又愉快的生活活動吧！<br>耕種、貿易、釣魚、航海、料理、馴養、煉金等，無窮無盡的生活類型任君選擇。<br>來體驗豐富的生活內容吧！",
+   "about_the_game": "<h2 class=\"bb_tag\" >Go Beyond Limits : THE WORLD CLASS MMORPG</h2><br><i>黑色沙漠使用REMASTERED擬真圖像和優美的音樂構成<br>展現MMORPG極限的黑色沙漠，能身歷其境參與刺激的戰鬥與攻城戰<br>還有探險、貿易、釣魚、馴養、煉金、料理、採集、狩獵等豐富的生活系統<br>來廣闊的世界中享受多樣的內容吧！<br>The MMORPG 黑色沙漠</i><h2 class=\"bb_tag\" >您真正期望的冒險的開始</h2><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/d238c0af53394d5834b74ebb76de3fcb.poster.avif?t=1786645008\" width=614 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/d238c0af53394d5834b74ebb76de3fcb.webm?t=1786645008\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/d238c0af53394d5834b74ebb76de3fcb.mp4?t=1786645008\" type=\"video/mp4\"></video></span><br><strong>OPEN WORLD</strong><br>無論想體驗自給自足的農耕生活，亦或雇用勞動者大量生產創造商業利潤，<br>多樣化生產模式滿足你不同的渴望。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/ee3a9c9b45163f77fb116f246a33bcdf.poster.avif?t=1786645008\" width=614 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/ee3a9c9b45163f77fb116f246a33bcdf.webm?t=1786645008\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/ee3a9c9b45163f77fb116f246a33bcdf.mp4?t=1786645008\" type=\"video/mp4\"></video></span><br><strong>CUSTOMIZING</strong><br><i>完美訂製獨一無二的樣貌</i><br>細微如骨骼、臉部線條到每吋肌膚質感，超高自由度的創角系統蘊含無限可能。<br>夢想中的樣貌，就在《黑色沙漠》完美呈現！<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/504ccdbab0daf992ee34d6adda5f4561.poster.avif?t=1786645008\" width=614 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/504ccdbab0daf992ee34d6adda5f4561.webm?t=1786645008\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/504ccdbab0daf992ee34d6adda5f4561.mp4?t=1786645008\" type=\"video/mp4\"></video></span><br><strong>GRAPHICS</strong><br><i>前所未見高規格畫面</i><br>保留真實世界的繁複與細膩，從壯麗的自然景觀到熟悉的生活場景，<br>每一瞬光影流洩都令人讚嘆。<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/f334d1048e0a7954c0e81c2efb6625cc.poster.avif?t=1786645008\" width=614 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/f334d1048e0a7954c0e81c2efb6625cc.webm?t=1786645008\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/f334d1048e0a7954c0e81c2efb6625cc.mp4?t=1786645008\" type=\"video/mp4\"></video></span><br><strong>COMBAT</strong><br><i>無鎖定模式的爽快戰鬥</i><br>終結傳統MMORPG死板、單一的定位式戰鬥，<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/c9902df8df97d6ed391205c4ae83d184.poster.avif?t=1786645008\" width=614 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/c9902df8df97d6ed391205c4ae83d184.webm?t=1786645008\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/c9902df8df97d6ed391205c4ae83d184.mp4?t=1786645008\" type=\"video/mp4\"></video></span><br><strong>NODE &amp; SIEGE WAR</strong><br><i>攻城掠地大規模國戰</i><br>集結兵力與資源，引領眾人的力量在沙場一決勝負<br>獲勝的公會不僅能成為領主，更能控制稅收、掌握地方資源。<br>講求反應速度與操作技巧，享受高動作感的爽快打擊！<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/6dd59720b66b2db2c51af6865347124b.poster.avif?t=1786645008\" width=614 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/6dd59720b66b2db2c51af6865347124b.webm?t=1786645008\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/extras/6dd59720b66b2db2c51af6865347124b.mp4?t=1786645008\" type=\"video/mp4\"></video></span><br><strong>LIFE SKILLS</strong><br><i>多元、豐富的生產活動</i><br>想要遊玩戰鬥以外的內容嗎？<br>那麼一邊休息，一邊享受豐富又愉快的生活活動吧！<br>耕種、貿易、釣魚、航海、料理、馴養、煉金等，無窮無盡的生活類型任君選擇。<br>來體驗豐富的生活內容吧！",
+   "short_description": "黑色沙漠是款沙盒、遼闊寫實的MMORPG。體驗快節奏、擬真的戰鬥與打擊感、狩獵怪物和巨大Boss、與公會成員一起攻城掠地、體驗豐富的釣魚/貿易/製作/料理等生活內容！",
+   "supported_languages": "英文<strong>*</strong>, 法文, 德文, 西班牙文 - 西班牙, 日文<strong>*</strong>, 俄文<strong>*</strong>, 泰文, 土耳其文, 繁體中文<strong>*</strong>, 葡萄牙文 - 巴西, 西班牙文 - 拉丁美洲<br><strong>*</strong>具備完整音效支援的語言",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/5dc3c54f2710d3f75dbbe91c571add35a0e213d2/header_alt_assets_27_tchinese.jpg?t=1786645008",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/ee187dc9383b5c278a40e5888aa2f6ab7212d527/capsule_231x87_alt_assets_27.jpg?t=1786645008",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/ee187dc9383b5c278a40e5888aa2f6ab7212d527/capsule_184x69_alt_assets_27.jpg?t=1786645008",
+   "website": "https://blackdesert.pearlabyss.com/Steam",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> 32/64 bit Windows 10<br></li><li><strong>處理器:</strong> Intel Core i3<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> GTS 250 / GeForce 9800GTX Radeon HD 3870 X2<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 80 GB 可用空間<br></li><li><strong>備註:</strong> 80GB HDD (SSD recommended)</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> 32/64 bit Windows 10<br></li><li><strong>處理器:</strong> Intel Core i5<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA GTX 970 AMD RX 480<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 80 GB 可用空間<br></li><li><strong>備註:</strong> 80GB SSD</li></ul>"
+   },
+   "mac_requirements": [],
+   "linux_requirements": [],
+   "legal_notice": "Copyright ⓒ Pearl Abyss Corp. All rights reserved.",
+   "drm_notice": "XIGNCODE3",
+   "ext_user_account_notice": "Black Desert Online ",
+   "developers": [
+    "Pearl Abyss"
+   ],
+   "publishers": [
+    "Pearl Abyss"
+   ],
+   "price_overview": {
+    "currency": "TWD",
+    "initial": 20000,
+    "final": 20000,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "NT$ 200"
+   },
+   "packages": [
+    614260
+   ],
+   "package_groups": [
+    {
+     "name": "default",
+     "title": "購買 Black Desert",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 614260,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "Black Desert - NT$ 200",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 20000
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+   },
+   "metacritic": {
+    "score": 80,
+    "url": "https://www.metacritic.com/game/pc/black-desert-online-land-of-the-morning-light-edition?ftag=MCD-06-10aaa1f"
+   },
+   "categories": [
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 20,
+     "description": "大型多人線上"
+    },
+    {
+     "id": 49,
+     "description": "玩家對戰"
+    },
+    {
+     "id": 36,
+     "description": "線上玩家對戰"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 29,
+     "description": "Steam 交換卡片"
+    },
+    {
+     "id": 35,
+     "description": "應用程式內購買"
+    },
+    {
+     "id": 18,
+     "description": "部分控制器支援"
+    }
+   ],
+   "genres": [
+    {
+     "id": "1",
+     "description": "動作"
+    },
+    {
+     "id": "25",
+     "description": "冒險"
+    },
+    {
+     "id": "29",
+     "description": "大型多人連線"
+    },
+    {
+     "id": "3",
+     "description": "角色扮演"
+    },
+    {
+     "id": "2",
+     "description": "策略"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/082bffb182e709f0d7c32b30c9319cc8a47ca5e1/ss_082bffb182e709f0d7c32b30c9319cc8a47ca5e1.600x338.jpg?t=1786645008",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/082bffb182e709f0d7c32b30c9319cc8a47ca5e1/ss_082bffb182e709f0d7c32b30c9319cc8a47ca5e1.1920x1080.jpg?t=1786645008"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/ss_a4c2348412fec008a7dadacb52793bc2f6185f26.600x338.jpg?t=1786645008",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/ss_a4c2348412fec008a7dadacb52793bc2f6185f26.1920x1080.jpg?t=1786645008"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/ss_e8cf6710f8ab86f933d0e212e2d2b0e620cb70c9.600x338.jpg?t=1786645008",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/ss_e8cf6710f8ab86f933d0e212e2d2b0e620cb70c9.1920x1080.jpg?t=1786645008"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/ss_dc2ae224ccbb7b7825c8b020ba202be065c6021a.600x338.jpg?t=1786645008",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/ss_dc2ae224ccbb7b7825c8b020ba202be065c6021a.1920x1080.jpg?t=1786645008"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/ss_83b8f2759de2c40be97b79288bce8ad41198aa16.600x338.jpg?t=1786645008",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/ss_83b8f2759de2c40be97b79288bce8ad41198aa16.1920x1080.jpg?t=1786645008"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/ss_8cd369deed11b84f64e37d08ea8e835be888d3f5.600x338.jpg?t=1786645008",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/ss_8cd369deed11b84f64e37d08ea8e835be888d3f5.1920x1080.jpg?t=1786645008"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/ss_e2cfd7db29677295dc76311d151d795ea818ced2.600x338.jpg?t=1786645008",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/ss_e2cfd7db29677295dc76311d151d795ea818ced2.1920x1080.jpg?t=1786645008"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/ss_3bfbb5cfea30e62f87aac27b65b8ed502ea238fe.600x338.jpg?t=1786645008",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/ss_3bfbb5cfea30e62f87aac27b65b8ed502ea238fe.1920x1080.jpg?t=1786645008"
+    }
+   ],
+   "movies": [
+    {
+     "id": 257388055,
+     "name": "[TW] Agent Main Combat Video",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257388055/5c3f22cab76ee3037b6aa3dd29ca5fc710e4a1dc/movie_600x337.jpg?t=1786644062",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/582660/835754680/4206635ea33ac1d57d8409217cdabfe24f5bc8f4/1785374038/dash_av1.mpd?t=1786644062",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/582660/835754680/4206635ea33ac1d57d8409217cdabfe24f5bc8f4/1785374038/dash_h264.mpd?t=1786644062",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/582660/835754680/4206635ea33ac1d57d8409217cdabfe24f5bc8f4/1785374038/hls_264_master.m3u8?t=1786644062",
+     "highlight": true
+    },
+    {
+     "id": 257388036,
+     "name": "[CH] Agent Main Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257388036/75b1b5cd414d75b7735f3ff0a17af25fc6a92693/movie_600x337.jpg?t=1786644067",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/582660/2145310417/c4e7668afda5cdfbb5a05bab8d656b44ab672710/1785368458/dash_av1.mpd?t=1786644067",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/582660/2145310417/c4e7668afda5cdfbb5a05bab8d656b44ab672710/1785368458/dash_h264.mpd?t=1786644067",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/582660/2145310417/c4e7668afda5cdfbb5a05bab8d656b44ab672710/1785368458/hls_264_master.m3u8?t=1786644067",
+     "highlight": true
+    },
+    {
+     "id": 256890740,
+     "name": "[TW] World Boss Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256890740/movie.293x165.jpg?t=1719623190",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/582660/470331/935675ebb5e7d3439424f2ae9db91fac3cd30528/1750556132/dash_av1.mpd?t=1719623190",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/582660/470331/935675ebb5e7d3439424f2ae9db91fac3cd30528/1750556132/dash_h264.mpd?t=1719623190",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/582660/470331/935675ebb5e7d3439424f2ae9db91fac3cd30528/1750556132/hls_264_master.m3u8?t=1719623190",
+     "highlight": false
+    }
+   ],
+   "recommendations": {
+    "total": 63284
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2021 年 9 月 14 日"
+   },
+   "support_info": {
+    "url": "https://blackdesert.pearlabyss.com/Steam",
+    "email": ""
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/582660?t=1786645008",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/page_bg_raw.jpg?t=1786645008",
+   "content_descriptors": {
+    "ids": [
+     1,
+     5
+    ],
+    "notes": "- 本遊戲內容涉及暴力(未令人產生殘虐印象)、 性(遊戲角色穿著凸顯性特徵但不涉及性暗示之服飾或裝扮)、菸酒（引誘使用菸酒之畫面）。\r\n- 注意使用時間，請避免沉迷遊戲。\r\n- 本遊戲的部分內容或是服務需要另外收費。"
+   },
+   "ratings": {
+    "pegi": {
+     "rating": "16",
+     "descriptors": "Violence\r\nDrugs\r\nIn-Game Purchases(includes Random Items)"
+    },
+    "esrb": {
+     "rating": "t",
+     "descriptors": "Blood\r\nMild Language\r\nSuggestive Themes\r\nUse of Alcohol and Tobacco\r\nViolence",
+     "interactive_elements": "In-Game Purchases\r\n(Includes Random Items)\r\nUsers Interact"
+    },
+    "usk": {
+     "rating": "16"
+    },
+    "mda": {
+     "required_age": "15",
+     "use_age_gate": "true"
+    },
+    "crl": {
+     "required_age": "18",
+     "use_age_gate": "true"
+    },
+    "csrr": {
+     "rating": "C15",
+     "descriptors": "- 本遊戲內容涉及暴力(未令人產生殘虐印象)、 性(遊戲角色穿著凸顯性特徵但不涉及性暗示之服飾或裝扮)、菸酒（引誘使用菸酒之畫面）。\r\n- 注意使用時間，請避免沉迷遊戲。\r\n- 本遊戲的部分內容或是服務需要另外收費。"
+    },
+    "dejus": {
+     "rating": "18"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "16",
+     "required_age": "16",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Gewalt\nAlkohol / Tabak\nSexuelle Andeutungen"
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "18",
+     "required_age": "18",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Interaksi Daring\nRokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nPenampilan Tokoh"
+    }
+   }
+  }
+ }
+}

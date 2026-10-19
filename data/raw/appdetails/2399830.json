@@ -1,0 +1,649 @@
+{
+ "2399830": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "方舟: 生存飛升",
+   "steam_appid": 2399830,
+   "required_age": 0,
+   "is_free": false,
+   "controller_support": "full",
+   "dlc": [
+    3720100,
+    2881150,
+    3483400,
+    4558510,
+    3282470,
+    2972680,
+    3571730,
+    3583650,
+    3982300,
+    3720200,
+    3982310,
+    3675020,
+    3349320,
+    3059650,
+    2827030,
+    2849450,
+    4274580,
+    4558470,
+    4558480,
+    4558490
+   ],
+   "detailed_description": "進入一場全新的恐龍生存體驗，這一切將超越您最狂野的幻想……《方舟》采用虛幻引擎 5 重新設計，並融入了下一代電子遊戲技術！您會在一個神秘的小島上醒來，刺眼的陽光和絢麗的色彩將使你目不暇接. 蔚藍的海水拍打著您赤裸的雙腳。迷霧叢林中回蕩的低沈吼叫讓你猛然驚醒，你站了起來--卻不是因為害怕，而是因為好奇。你准備好組建一個部落，馴養和繁殖數百種恐龍和其他原始生物，探索、制作、建造，並一路進發至食物鏈的頂端了嗎？一場新的冒險在等待著你......不要再猶豫了,快來加入這個世界吧！<br />\r\n<br />\r\n遊戲特色<br />\r\n<br />\r\n●\t《方舟：生存飛升》重新構思了ARK的藝術設計和遊戲世界，采用了最新的虛幻引擎5遊戲技術，包括高端圖形功能技術，例如全局動態照明（Lumen），使光線在物體表面形成逼真的反射效果，以及由數億個三角形組成的高級網格流技術（Nanite），以呈現出極致的細節。<br />\r\n<br />\r\n●\t遊戲還采用了全新的物理系統，例如動態水體，使每個生物在液體中移動時都會産生波浪、漣漪、飛濺和氣泡，同時還有完全交互式的物理植被，每片草、灌木和樹都會對角色、爆炸、抛射物和物理物體做出反應。你甚至可以砍倒一棵樹，看著它撞向其他樹木，並在砸向下方草地的途中擾亂所有樹葉。你甚至可以通過觀察草叢的動向來確定偷偷移動的敵人的位置——因為草叢會隨著敵人而移動搖擺。當你拆毀一棟建築時，可以看到碎片更真實地四分五裂，並在落下時與草地和水體發生交互。<br />\r\n<br />\r\n●\t通過《方舟：生存飛升》可以訪問所有方舟世界，包括焦土、畸變、滅絕、創世紀1、ARK 創世紀第二部分等等。孤島地圖現已發布，後續擴展地圖將定期免費添加。<br />\r\n<br />\r\n●\t這次的終極生存體驗將開啓更加精彩的新篇章：自定義你的幸存者，組建一個部落，在一個真實的生態系統中馴化、訓練、繁衍和駕馭各種恐龍。你需要時刻關注食物、水源、溫度和天氣變化。在采集、建造建築、種植農作物、自定義遊戲世界的過程中，慢慢擴張領土，探索並揭開孤島及其他世界的真面目。<br />\r\n<br />\r\n●\t在遊戲體驗的各個方面都進行了更徹底的改進：重新設計的用戶界面，智能生物尋路的動態導航，野生恐龍寶寶，照片模式，新的相機系統，新的地圖系統，追蹤系統，全新的建築、物品和生物等等。<br />\r\n<br />\r\n●\t跨平台模組：您可以直接在遊戲中通過專門的模組浏覽器 下載並暢玩由其他玩家創造的新內容，包括新地圖、生物、物品以及遊戲模式！隨著社群的創造力和才能首次在各個平台上得到充分釋放，您將源源不斷地享受到有關方舟新玩法！<br />\r\n<br />\r\n●\t跨平台多人遊戲：與不同遊戲平台上的其他玩家一起組建在線部落，共同在方舟的世界中生存和發展！<br />\r\n<br />\r\n●\t遊戲支持多達70名玩家的公共在線多人遊戲，最多可容納8名玩家的私人遊戲，以及2至4名玩家的本地分屏模式。",
+   "about_the_game": "進入一場全新的恐龍生存體驗，這一切將超越您最狂野的幻想……《方舟》采用虛幻引擎 5 重新設計，並融入了下一代電子遊戲技術！您會在一個神秘的小島上醒來，刺眼的陽光和絢麗的色彩將使你目不暇接. 蔚藍的海水拍打著您赤裸的雙腳。迷霧叢林中回蕩的低沈吼叫讓你猛然驚醒，你站了起來--卻不是因為害怕，而是因為好奇。你准備好組建一個部落，馴養和繁殖數百種恐龍和其他原始生物，探索、制作、建造，並一路進發至食物鏈的頂端了嗎？一場新的冒險在等待著你......不要再猶豫了,快來加入這個世界吧！<br />\r\n<br />\r\n遊戲特色<br />\r\n<br />\r\n●\t《方舟：生存飛升》重新構思了ARK的藝術設計和遊戲世界，采用了最新的虛幻引擎5遊戲技術，包括高端圖形功能技術，例如全局動態照明（Lumen），使光線在物體表面形成逼真的反射效果，以及由數億個三角形組成的高級網格流技術（Nanite），以呈現出極致的細節。<br />\r\n<br />\r\n●\t遊戲還采用了全新的物理系統，例如動態水體，使每個生物在液體中移動時都會産生波浪、漣漪、飛濺和氣泡，同時還有完全交互式的物理植被，每片草、灌木和樹都會對角色、爆炸、抛射物和物理物體做出反應。你甚至可以砍倒一棵樹，看著它撞向其他樹木，並在砸向下方草地的途中擾亂所有樹葉。你甚至可以通過觀察草叢的動向來確定偷偷移動的敵人的位置——因為草叢會隨著敵人而移動搖擺。當你拆毀一棟建築時，可以看到碎片更真實地四分五裂，並在落下時與草地和水體發生交互。<br />\r\n<br />\r\n●\t通過《方舟：生存飛升》可以訪問所有方舟世界，包括焦土、畸變、滅絕、創世紀1、ARK 創世紀第二部分等等。孤島地圖現已發布，後續擴展地圖將定期免費添加。<br />\r\n<br />\r\n●\t這次的終極生存體驗將開啓更加精彩的新篇章：自定義你的幸存者，組建一個部落，在一個真實的生態系統中馴化、訓練、繁衍和駕馭各種恐龍。你需要時刻關注食物、水源、溫度和天氣變化。在采集、建造建築、種植農作物、自定義遊戲世界的過程中，慢慢擴張領土，探索並揭開孤島及其他世界的真面目。<br />\r\n<br />\r\n●\t在遊戲體驗的各個方面都進行了更徹底的改進：重新設計的用戶界面，智能生物尋路的動態導航，野生恐龍寶寶，照片模式，新的相機系統，新的地圖系統，追蹤系統，全新的建築、物品和生物等等。<br />\r\n<br />\r\n●\t跨平台模組：您可以直接在遊戲中通過專門的模組浏覽器 下載並暢玩由其他玩家創造的新內容，包括新地圖、生物、物品以及遊戲模式！隨著社群的創造力和才能首次在各個平台上得到充分釋放，您將源源不斷地享受到有關方舟新玩法！<br />\r\n<br />\r\n●\t跨平台多人遊戲：與不同遊戲平台上的其他玩家一起組建在線部落，共同在方舟的世界中生存和發展！<br />\r\n<br />\r\n●\t遊戲支持多達70名玩家的公共在線多人遊戲，最多可容納8名玩家的私人遊戲，以及2至4名玩家的本地分屏模式。",
+   "short_description": "《方舟》採用虛幻引擎 5 重新設計，並融入了下一代電子遊戲技術！組成一個部落, 馴養和繁殖數百種恐龍和其他原始生物，探索、製作、建造，並一路進發至食物鏈的頂端. 快來加入這場新的冒險吧!",
+   "supported_languages": "英文<strong>*</strong>, 法文, 義大利文, 德文, 西班牙文 - 西班牙, 丹麥文, 荷蘭文, 日文, 韓文, 葡萄牙文 - 巴西, 葡萄牙文 - 葡萄牙, 俄文, 簡體中文, 西班牙文 - 拉丁美洲, 繁體中文, 土耳其文<br><strong>*</strong>具備完整音效支援的語言",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/d934813ca531af0fce69fe36bc972f1c90d1aa19/header.jpg?t=1779293241",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/dce348bb9faef2c1973d04aa8a87bff18e29699b/capsule_231x87.jpg?t=1779293241",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/dce348bb9faef2c1973d04aa8a87bff18e29699b/capsule_184x69.jpg?t=1779293241",
+   "website": "http://www.playark.com",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 10/11 with updates<br></li><li><strong>處理器:</strong> AMD Ryzen 5 2600X, Intel Core i7-6800K<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> AMD Radeon RX 5600 XT, NVIDIA GeForce 1080<br></li><li><strong>DirectX:</strong> 版本：12<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 180 GB 可用空間<br></li><li><strong>備註:</strong> SSD Required</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 10/11 with updates<br></li><li><strong>處理器:</strong> AMD Ryzen 5 3600X, Intel i5-10600K<br></li><li><strong>記憶體:</strong> 32 GB 記憶體<br></li><li><strong>顯示卡:</strong> AMD Radeon RX 6800, NVIDIA GeForce RTX 3080<br></li><li><strong>DirectX:</strong> 版本：12<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 180 GB 可用空間<br></li><li><strong>備註:</strong> SSD Required</li></ul>"
+   },
+   "mac_requirements": [],
+   "linux_requirements": [],
+   "legal_notice": "©2024 Wildcard Properties LLC. Published by Studio Wildcard. Developed by Studio Wildcard. ARK: Survival Ascended is a trademark of Studio Wildcard. All rights reserved.<br />\r\n<br />\r\nTM & ©2024 SCG Power Rangers LLC and Hasbro. Power Rangers and all related logos, characters, names, and distinctive likenesses thereof are the exclusive property of SCG Power Rangers LLC. All Rights Reserved. Used Under Authorization.",
+   "developers": [
+    "Studio Wildcard",
+    "Grove Street Games",
+    "Instinct Games"
+   ],
+   "publishers": [
+    "Studio Wildcard",
+    "Snail Games USA"
+   ],
+   "price_overview": {
+    "currency": "TWD",
+    "initial": 146000,
+    "final": 146000,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "NT$ 1,460"
+   },
+   "packages": [
+    863377
+   ],
+   "package_groups": [
+    {
+     "name": "default",
+     "title": "購買 方舟: 生存飛升",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 863377,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "ARK: Survival Ascended - NT$ 1,460",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 146000
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 20,
+     "description": "大型多人線上"
+    },
+    {
+     "id": 49,
+     "description": "玩家對戰"
+    },
+    {
+     "id": 36,
+     "description": "線上玩家對戰"
+    },
+    {
+     "id": 47,
+     "description": "區域網路玩家對戰"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 48,
+     "description": "區域網路合作"
+    },
+    {
+     "id": 39,
+     "description": "共享 / 分割螢幕合作"
+    },
+    {
+     "id": 24,
+     "description": "共享／分割螢幕"
+    },
+    {
+     "id": 27,
+     "description": "跨平台多人連線"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 28,
+     "description": "完整控制器支援"
+    },
+    {
+     "id": 17,
+     "description": "包含關卡編輯器"
+    },
+    {
+     "id": 44,
+     "description": "遠端同樂"
+    },
+    {
+     "id": 62,
+     "description": "親友同享"
+    }
+   ],
+   "genres": [
+    {
+     "id": "1",
+     "description": "動作"
+    },
+    {
+     "id": "25",
+     "description": "冒險"
+    },
+    {
+     "id": "23",
+     "description": "獨立製作"
+    },
+    {
+     "id": "29",
+     "description": "大型多人連線"
+    },
+    {
+     "id": "3",
+     "description": "角色扮演"
+    },
+    {
+     "id": "70",
+     "description": "搶先體驗"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_44f74e86ebd6620a4f0a1f3f8ea97f73dc215e69.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_44f74e86ebd6620a4f0a1f3f8ea97f73dc215e69.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_65c0de5ced28281764990a299eb3926629b2863e.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_65c0de5ced28281764990a299eb3926629b2863e.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_0ce49e629369dbf9e8fba324667167568c05c66f.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_0ce49e629369dbf9e8fba324667167568c05c66f.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_63a6ea13596a948b7873ed6de4fd4d01f9cbe57b.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_63a6ea13596a948b7873ed6de4fd4d01f9cbe57b.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_37b5cb9485658f91b856a0714a8cbdc69f1802b1.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_37b5cb9485658f91b856a0714a8cbdc69f1802b1.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_f9e156d2b818d808c65476997283b5da8be8324f.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_f9e156d2b818d808c65476997283b5da8be8324f.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_b3f20fcdde1cd0254fca51b342b27bff3d46e031.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_b3f20fcdde1cd0254fca51b342b27bff3d46e031.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_605387fbf8257c111978ed900f3346ef350fc236.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_605387fbf8257c111978ed900f3346ef350fc236.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_7ff0f04cfc0eec97907eb5197c748576b15793ce.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_7ff0f04cfc0eec97907eb5197c748576b15793ce.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_3c4d9089501a98a9dace96fd5c3ccbf1dfc7d8f4.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_3c4d9089501a98a9dace96fd5c3ccbf1dfc7d8f4.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 10,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_35186898f5260a406f934132a211df6e53f39843.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_35186898f5260a406f934132a211df6e53f39843.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 11,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_41510c0b426ecf626b3d1efd727a9fdd7feeb5ec.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_41510c0b426ecf626b3d1efd727a9fdd7feeb5ec.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 12,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_87b09e915d4447a27efb15f403de05168b8d477a.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_87b09e915d4447a27efb15f403de05168b8d477a.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 13,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_f0ed123c9b3916e8d4af8b77936d7230091a6f48.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_f0ed123c9b3916e8d4af8b77936d7230091a6f48.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 14,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_8059f4af70ce93f68ace8eaefa5e667e9c6bae29.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_8059f4af70ce93f68ace8eaefa5e667e9c6bae29.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 15,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_f47e5ca8725ed5b1fcf09e3924334a6deac4fb95.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_f47e5ca8725ed5b1fcf09e3924334a6deac4fb95.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 16,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_ef0dfdf2ffe5690c9d43345162a9984e148dbd59.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_ef0dfdf2ffe5690c9d43345162a9984e148dbd59.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 17,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_e275ab3a3fc0c81250020ad933c8233541d0c80f.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_e275ab3a3fc0c81250020ad933c8233541d0c80f.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 18,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_abf0008b3fc897c9e6a5ac988865b4a27742ebc1.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_abf0008b3fc897c9e6a5ac988865b4a27742ebc1.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 19,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_83fdbd71f7c8480bcfa3ea649d0e2f0bd338c3d8.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_83fdbd71f7c8480bcfa3ea649d0e2f0bd338c3d8.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 20,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_05feda9a6ff1faa4c72b42d1030c2183d57c24c8.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_05feda9a6ff1faa4c72b42d1030c2183d57c24c8.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 21,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_dd0b6eacfd56be73d96cc181e31b766da1bf31ca.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_dd0b6eacfd56be73d96cc181e31b766da1bf31ca.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 22,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_5642bb62a4c5eb73a137ead64850dce7daa1fb44.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_5642bb62a4c5eb73a137ead64850dce7daa1fb44.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 23,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_c7f895eaf2439442a89899aa9619aa427faff3f8.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_c7f895eaf2439442a89899aa9619aa427faff3f8.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 24,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_a70f2df966cd355dc03317c22001de24897ffc23.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_a70f2df966cd355dc03317c22001de24897ffc23.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 25,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_99a39d658e92b9923a5b6db18784dd132e85e568.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_99a39d658e92b9923a5b6db18784dd132e85e568.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 26,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_8b1b5feb3ba01138d3b44d7b5aa87eaa7d523514.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_8b1b5feb3ba01138d3b44d7b5aa87eaa7d523514.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 27,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_33db7bd2ac6fdaf78ec85cf4e87dacd412e86fe4.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_33db7bd2ac6fdaf78ec85cf4e87dacd412e86fe4.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 28,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_618bc6324fe6a54dda83a87720138946b2e96d39.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_618bc6324fe6a54dda83a87720138946b2e96d39.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 29,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_6ef179272a7bb147d80dfe21a017f42a07bb9eee.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_6ef179272a7bb147d80dfe21a017f42a07bb9eee.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 30,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_f2e89b2c18eab18f8aebccf205a072197414ec51.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_f2e89b2c18eab18f8aebccf205a072197414ec51.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 31,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_f0923e330592e2c54b91dc6c1de538c39bdfa83c.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_f0923e330592e2c54b91dc6c1de538c39bdfa83c.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 32,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_51becafcd80f9ef9a7b79043799418920adccf51.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_51becafcd80f9ef9a7b79043799418920adccf51.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 33,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_3958e9a6007073bc4858224a5e0fdc43efff7fd7.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_3958e9a6007073bc4858224a5e0fdc43efff7fd7.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 34,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_3f4c67df38588c468c90c0584eb11fc139fd49e1.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_3f4c67df38588c468c90c0584eb11fc139fd49e1.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 35,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_58f6e04b7594efc3d9ce4e20bb00344c0dfb8a8c.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_58f6e04b7594efc3d9ce4e20bb00344c0dfb8a8c.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 36,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_c12777209409244c9cbbe15133042cc46293106f.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_c12777209409244c9cbbe15133042cc46293106f.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 37,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_2fc5c1bea7bc2b8f2e3d351cf5ebccd291e308b3.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_2fc5c1bea7bc2b8f2e3d351cf5ebccd291e308b3.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 38,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_599b2c610d32e54c193eef045d3e89efbcb187cd.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_599b2c610d32e54c193eef045d3e89efbcb187cd.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 39,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_ff2fbfd2e46a0eced5fdf2f1af6c111e93521fb8.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_ff2fbfd2e46a0eced5fdf2f1af6c111e93521fb8.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 40,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_001050e691ce8970fe1adeeedb3de36a1430023c.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_001050e691ce8970fe1adeeedb3de36a1430023c.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 41,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_f54032df135de28a4f4880057cd48c1c8b259870.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_f54032df135de28a4f4880057cd48c1c8b259870.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 42,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_ed7978434859c04aa210ac4826f4bb26aa245310.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_ed7978434859c04aa210ac4826f4bb26aa245310.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 43,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_95f986746c29408263f0fd8f7e572b0413b1417a.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_95f986746c29408263f0fd8f7e572b0413b1417a.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 44,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_4b01cfdf2dc66c334e12f8683831df7f26efe66c.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_4b01cfdf2dc66c334e12f8683831df7f26efe66c.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 45,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_c00c389d7cc3a6a96cf6000f07a1ae07aaeaa13d.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_c00c389d7cc3a6a96cf6000f07a1ae07aaeaa13d.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 46,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_df4fb7750c6ca3eec72e0423342dd5e59eab410b.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_df4fb7750c6ca3eec72e0423342dd5e59eab410b.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 47,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_27ac35fbeaf526aa425c0254c65166e1fac8f097.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_27ac35fbeaf526aa425c0254c65166e1fac8f097.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 48,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_9389d31038426a2db9d1a2ee2de0171a2a0cbbc0.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_9389d31038426a2db9d1a2ee2de0171a2a0cbbc0.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 49,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_10222dafa2a2d7716a7b6f758dc47b5d38c83f83.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_10222dafa2a2d7716a7b6f758dc47b5d38c83f83.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 50,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_c911562083cb366a23f1242b972ab3a64bee99b5.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_c911562083cb366a23f1242b972ab3a64bee99b5.1920x1080.jpg?t=1779293241"
+    },
+    {
+     "id": 51,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_36084ab60656f13fe04d56ebe4e2bec3bd953202.600x338.jpg?t=1779293241",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_36084ab60656f13fe04d56ebe4e2bec3bd953202.1920x1080.jpg?t=1779293241"
+    }
+   ],
+   "movies": [
+    {
+     "id": 257255264,
+     "name": "ARK: Lost Colony Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257255264/93555d172e64904b9e1037bbf481f2813ffa9967/movie_600x337.jpg?t=1766690734",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2399830/2033414923/ef32e2128e60a80c485d076a33f8f691183fde6d/1766688383/dash_av1.mpd?t=1766690734",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2399830/2033414923/ef32e2128e60a80c485d076a33f8f691183fde6d/1766688383/dash_h264.mpd?t=1766690734",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2399830/2033414923/ef32e2128e60a80c485d076a33f8f691183fde6d/1766688383/hls_264_master.m3u8?t=1766690734",
+     "highlight": true
+    },
+    {
+     "id": 256978230,
+     "name": "ARK: Survival Ascended Launch Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256978230/movie.293x165.jpg?t=1698255203",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2399830/622596/5038b9195e3ec04b2647b861ee2d92f6f9584523/1750813753/dash_av1.mpd?t=1698255203",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2399830/622596/5038b9195e3ec04b2647b861ee2d92f6f9584523/1750813753/dash_h264.mpd?t=1698255203",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2399830/622596/5038b9195e3ec04b2647b861ee2d92f6f9584523/1750813753/hls_264_master.m3u8?t=1698255203",
+     "highlight": true
+    },
+    {
+     "id": 257083953,
+     "name": "ARK: Extinction Ascended Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257083953/484b3a7684cae9fabc4119a8e54c4339b9b060bd/movie_600x337.jpg?t=1734731857",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2399830/803049/04da285b080dee5650eb84a7693423497641e9a3/1750813763/dash_av1.mpd?t=1734731857",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2399830/803049/04da285b080dee5650eb84a7693423497641e9a3/1750813763/dash_h264.mpd?t=1734731857",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2399830/803049/04da285b080dee5650eb84a7693423497641e9a3/1750813763/hls_264_master.m3u8?t=1734731857",
+     "highlight": true
+    },
+    {
+     "id": 257053224,
+     "name": "ARK: Aberration Ascended Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257053224/movie.293x165.jpg?t=1725750600",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2399830/752458/900275e90316caeef42718e80ce9a8f44ad382b3/1750813760/dash_av1.mpd?t=1725750600",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2399830/752458/900275e90316caeef42718e80ce9a8f44ad382b3/1750813760/dash_h264.mpd?t=1725750600",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2399830/752458/900275e90316caeef42718e80ce9a8f44ad382b3/1750813760/hls_264_master.m3u8?t=1725750600",
+     "highlight": true
+    },
+    {
+     "id": 257012996,
+     "name": "ARK: Scorched Earth Ascended Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257012996/movie.293x165.jpg?t=1712165091",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2399830/682771/fc26ed5e5e9ffaf83c7dfe18dece2c86d0413e26/1750813754/dash_av1.mpd?t=1712165091",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2399830/682771/fc26ed5e5e9ffaf83c7dfe18dece2c86d0413e26/1750813754/dash_h264.mpd?t=1712165091",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2399830/682771/fc26ed5e5e9ffaf83c7dfe18dece2c86d0413e26/1750813754/hls_264_master.m3u8?t=1712165091",
+     "highlight": true
+    },
+    {
+     "id": 257028602,
+     "name": "ARK: The Center Ascended Launch Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257028602/movie.293x165.jpg?t=1717616424",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2399830/709765/859b69d88d810313fe60304ab949de518d76a4ab/1750813758/dash_av1.mpd?t=1717616424",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2399830/709765/859b69d88d810313fe60304ab949de518d76a4ab/1750813758/dash_h264.mpd?t=1717616424",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2399830/709765/859b69d88d810313fe60304ab949de518d76a4ab/1750813758/hls_264_master.m3u8?t=1717616424",
+     "highlight": true
+    }
+   ],
+   "recommendations": {
+    "total": 108573
+   },
+   "achievements": {
+    "total": 32,
+    "highlighted": [
+     {
+      "icon": "4c2afc433ffa6b7a4861440b3743c280de195ad6.jpg",
+      "localized_name": "Veteran Paleontologist",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Veteran Paleontologist",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2399830/4c2afc433ffa6b7a4861440b3743c280de195ad6.jpg"
+     },
+     {
+      "icon": "c2d733afc4da95be6105dfae2a100f50a66a06b4.jpg",
+      "localized_name": "Veteran Survivor",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Veteran Survivor",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2399830/c2d733afc4da95be6105dfae2a100f50a66a06b4.jpg"
+     },
+     {
+      "icon": "951f2b11c100f931e21eddb7e4fef70c49e7524f.jpg",
+      "localized_name": "Artifact Archaeologist",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Artifact Archaeologist",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2399830/951f2b11c100f931e21eddb7e4fef70c49e7524f.jpg"
+     },
+     {
+      "icon": "59a00b6ed1e174a3faff365e4188a8dd3d2228e7.jpg",
+      "localized_name": "Expert Survivor",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Expert Survivor",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2399830/59a00b6ed1e174a3faff365e4188a8dd3d2228e7.jpg"
+     },
+     {
+      "icon": "9aa4e5a7c1369bd9696985bc137b388ff9e01733.jpg",
+      "localized_name": "Master Survivor",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Master Survivor",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2399830/9aa4e5a7c1369bd9696985bc137b388ff9e01733.jpg"
+     },
+     {
+      "icon": "41921448fa6818fe2cd52cd5c8d05718346d101c.jpg",
+      "localized_name": "Survivor Evolved",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Survivor Evolved",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2399830/41921448fa6818fe2cd52cd5c8d05718346d101c.jpg"
+     },
+     {
+      "icon": "4ebebcfedaa95aaebbcf4c891cdd3ad417dfb206.jpg",
+      "localized_name": "Your first day...",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Your first day...",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2399830/4ebebcfedaa95aaebbcf4c891cdd3ad417dfb206.jpg"
+     },
+     {
+      "icon": "fb8319ea157903d61ea8dc69e60053940b0cd5be.jpg",
+      "localized_name": "Your first Dino...",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Your first Dino...",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2399830/fb8319ea157903d61ea8dc69e60053940b0cd5be.jpg"
+     },
+     {
+      "icon": "c9222aa9df6a2e787f8d927f9c7de83b14e2524c.jpg",
+      "localized_name": "Your first Ride...",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Your first Ride...",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2399830/c9222aa9df6a2e787f8d927f9c7de83b14e2524c.jpg"
+     },
+     {
+      "icon": "3212ff80a8c0dd576ad9e1e9bdb9e4bb6e9ffcf2.jpg",
+      "localized_name": "Maximum Survivor",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Maximum Survivor",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2399830/3212ff80a8c0dd576ad9e1e9bdb9e4bb6e9ffcf2.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2023 年 10 月 25 日"
+   },
+   "support_info": {
+    "url": "https://support.survivetheark.com/hc/en-us",
+    "email": "support@studiowildcard.com"
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399830?t=1779293241",
+   "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2399830?t=1779293241",
+   "content_descriptors": {
+    "ids": [],
+    "notes": null
+   },
+   "ratings": {
+    "esrb": {
+     "rating": "t",
+     "descriptors": "Violence\r\nBlood\r\nUse of Alcohol\r\nCrude Humor",
+     "interactive_elements": "Users Interact\r\nIn-Game Purchases"
+    },
+    "pegi": {
+     "rating": "16",
+     "descriptors": "Violence"
+    },
+    "dejus": {
+     "rating_generated": "1",
+     "rating": "14",
+     "required_age": "14",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Violência\nDrogas lícitas"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "16",
+     "required_age": "16",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Drastische Gewalt\nAlkohol / Tabak"
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "18",
+     "required_age": "18",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Rokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nKekerasan\nInteraksi Daring"
+    }
+   }
+  }
+ }
+}

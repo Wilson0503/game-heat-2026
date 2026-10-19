@@ -1,0 +1,280 @@
+{
+ "3678970": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "TBH: 塔斯克巴·英雄",
+   "steam_appid": 3678970,
+   "required_age": 0,
+   "is_free": true,
+   "dlc": [
+    4427390,
+    4427400,
+    4427410,
+    4427420,
+    4427430,
+    4427440,
+    4876910
+   ],
+   "detailed_description": "<h1>想第一時間獲得發售資訊？</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/extras/2f955769f3728382b67d186ec8eabac3.poster.avif?t=1789957364\" width=780 height=62 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/extras/2f955769f3728382b67d186ec8eabac3.webm?t=1789957364\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/extras/2f955769f3728382b67d186ec8eabac3.mp4?t=1789957364\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >請點擊<strong>「加入願望清單」</strong>和<strong>「關注」</strong>按鈕。</p></p><br><h1>關於此遊戲</h1><h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/extras/4b5e423055e7029dc7cd400a9c482b88.avif?t=1789957364\" width=780 height=186 /></span></h2><p class=\"bb_paragraph\" ><strong>《TBH：塔斯克巴·英雄 》</strong>是一款完美融入工作列的終極迷你放置RPG。 </p><p class=\"bb_paragraph\" >只需讓它在螢幕一角運行，像素勇者們就會自動收集道具，不斷變強。 </p><p class=\"bb_paragraph\" >探索各種地區，培養角色與裝備，打造屬於自己的配裝，擊敗各路怪物！</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >■ 小而精的RPG</h2><p class=\"bb_paragraph\" >- 在小小的視窗中，盡享砍殺RPG的樂趣。</p><p class=\"bb_paragraph\" >- 自由組合職業、道具與技能，打造專屬於你的獨特配裝。</p><p class=\"bb_paragraph\" >- 利用魔方系統，為道具賦予並自訂各種屬性。</p><p class=\"bb_paragraph\" >- 3個章節、4種難度構成的世界，挑戰各具特色的怪物。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >■ 隨時隨地暢玩——就算上班也沒問題</h2><p class=\"bb_paragraph\" >- 即使你不在，冒險也會自動繼續進行。</p><p class=\"bb_paragraph\" >- 操作簡單，輕鬆暢玩，想玩多久就玩多久。</p><p class=\"bb_paragraph\" >- 輕量化設計，與其他程式同時運行也毫無壓力。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >■ 主要特色</h2><p class=\"bb_paragraph\" >- 500餘種多樣道具</p><p class=\"bb_paragraph\" >- 50餘種怪物</p><p class=\"bb_paragraph\" >- 50餘種可解鎖成就</p><p class=\"bb_paragraph\" >- 可在Steam市場自由交易的道具</p><p class=\"bb_paragraph\" >- 豐富的戰利品系統，品質涵蓋普通、非凡、稀有、傳說，直至不朽、奧秘、超凡、天界、神聖、宇宙</p><p class=\"bb_paragraph\" ></p>",
+   "about_the_game": "<h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/extras/4b5e423055e7029dc7cd400a9c482b88.avif?t=1789957364\" width=780 height=186 /></span></h2><p class=\"bb_paragraph\" ><strong>《TBH：塔斯克巴·英雄 》</strong>是一款完美融入工作列的終極迷你放置RPG。 </p><p class=\"bb_paragraph\" >只需讓它在螢幕一角運行，像素勇者們就會自動收集道具，不斷變強。 </p><p class=\"bb_paragraph\" >探索各種地區，培養角色與裝備，打造屬於自己的配裝，擊敗各路怪物！</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >■ 小而精的RPG</h2><p class=\"bb_paragraph\" >- 在小小的視窗中，盡享砍殺RPG的樂趣。</p><p class=\"bb_paragraph\" >- 自由組合職業、道具與技能，打造專屬於你的獨特配裝。</p><p class=\"bb_paragraph\" >- 利用魔方系統，為道具賦予並自訂各種屬性。</p><p class=\"bb_paragraph\" >- 3個章節、4種難度構成的世界，挑戰各具特色的怪物。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >■ 隨時隨地暢玩——就算上班也沒問題</h2><p class=\"bb_paragraph\" >- 即使你不在，冒險也會自動繼續進行。</p><p class=\"bb_paragraph\" >- 操作簡單，輕鬆暢玩，想玩多久就玩多久。</p><p class=\"bb_paragraph\" >- 輕量化設計，與其他程式同時運行也毫無壓力。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >■ 主要特色</h2><p class=\"bb_paragraph\" >- 500餘種多樣道具</p><p class=\"bb_paragraph\" >- 50餘種怪物</p><p class=\"bb_paragraph\" >- 50餘種可解鎖成就</p><p class=\"bb_paragraph\" >- 可在Steam市場自由交易的道具</p><p class=\"bb_paragraph\" >- 豐富的戰利品系統，品質涵蓋普通、非凡、稀有、傳說，直至不朽、奧秘、超凡、天界、神聖、宇宙</p><p class=\"bb_paragraph\" ></p>",
+   "short_description": "終極迷你放置RPG！ 可愛的像素勇者們正等待著與你一同踏上冒險——就在你的工作列旁。 用多樣的職業、技能、道具和配裝，擊退工作和日常生活的無聊吧！",
+   "supported_languages": "英文, 法文, 德文, 西班牙文 - 西班牙, 俄文, 烏克蘭文, 日文, 簡體中文, 繁體中文, 土耳其文, 葡萄牙文 - 巴西, 波蘭文, 韓文, 印尼語, 泰文, 越南文",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/742573568cb7be1bb7984e33fea9e27761d53b12/header_alt_assets_0_tchinese.jpg?t=1789957364",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/a05bafb798c3b5758ebb65e594027faf62ba0069/capsule_231x87_alt_assets_0_tchinese.jpg?t=1789957364",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/a05bafb798c3b5758ebb65e594027faf62ba0069/capsule_184x69_alt_assets_0_tchinese.jpg?t=1789957364",
+   "website": "https://www.nugemstudio.com/",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 10 / 11 (64-bit)<br></li><li><strong>處理器:</strong> Intel Core i3-6100 / AMD Ryzen 3 1200<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA GeForce GTX 750 Ti (2GB) / AMD Radeon RX 460 (2GB)<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 2 GB 可用空間</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 10 / 11 (64-bit)<br></li><li><strong>處理器:</strong> Intel Core i5-8400 / AMD Ryzen 5 2600<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> NVIDIA GeForce GTX 1060 (6GB) / AMD Radeon RX 580 (4GB)<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 3 GB 可用空間</li></ul>"
+   },
+   "mac_requirements": [],
+   "linux_requirements": [],
+   "developers": [
+    "Nugem Studio",
+    "Tesseract Studio"
+   ],
+   "publishers": [
+    "Nugem Studio"
+   ],
+   "package_groups": [],
+   "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 68,
+     "description": "自訂音量控制"
+    },
+    {
+     "id": 76,
+     "description": "只需滑鼠選項"
+    },
+    {
+     "id": 80,
+     "description": "#category_playable_at_your_own_pace"
+    },
+    {
+     "id": 74,
+     "description": "遊玩無需快速反應"
+    },
+    {
+     "id": 23,
+     "description": "Steam 雲端"
+    },
+    {
+     "id": 15,
+     "description": "統計"
+    },
+    {
+     "id": 62,
+     "description": "親友同享"
+    }
+   ],
+   "genres": [
+    {
+     "id": "4",
+     "description": "休閒"
+    },
+    {
+     "id": "23",
+     "description": "獨立製作"
+    },
+    {
+     "id": "3",
+     "description": "角色扮演"
+    },
+    {
+     "id": "37",
+     "description": "免費遊玩"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/d15d87f16c6da06e1080f0a8069c2e800c638cb1/ss_d15d87f16c6da06e1080f0a8069c2e800c638cb1.600x338.jpg?t=1789957364",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/d15d87f16c6da06e1080f0a8069c2e800c638cb1/ss_d15d87f16c6da06e1080f0a8069c2e800c638cb1.1920x1080.jpg?t=1789957364"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/0583ed583419a8c765d379853a1af5923227c6bb/ss_0583ed583419a8c765d379853a1af5923227c6bb.600x338.jpg?t=1789957364",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/0583ed583419a8c765d379853a1af5923227c6bb/ss_0583ed583419a8c765d379853a1af5923227c6bb.1920x1080.jpg?t=1789957364"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/d95b2baeb3431da61ded132b26af336eb8edd2a2/ss_d95b2baeb3431da61ded132b26af336eb8edd2a2.600x338.jpg?t=1789957364",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/d95b2baeb3431da61ded132b26af336eb8edd2a2/ss_d95b2baeb3431da61ded132b26af336eb8edd2a2.1920x1080.jpg?t=1789957364"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/19316b89962c036aba515a0197c8d14cc7afb21b/ss_19316b89962c036aba515a0197c8d14cc7afb21b.600x338.jpg?t=1789957364",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/19316b89962c036aba515a0197c8d14cc7afb21b/ss_19316b89962c036aba515a0197c8d14cc7afb21b.1920x1080.jpg?t=1789957364"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/63b5f64822b4ae1b0a1c202bbbf2f1d44264a865/ss_63b5f64822b4ae1b0a1c202bbbf2f1d44264a865.600x338.jpg?t=1789957364",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/63b5f64822b4ae1b0a1c202bbbf2f1d44264a865/ss_63b5f64822b4ae1b0a1c202bbbf2f1d44264a865.1920x1080.jpg?t=1789957364"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/f90ac840263b07f1225089fdc68456f7093983c9/ss_f90ac840263b07f1225089fdc68456f7093983c9.600x338.jpg?t=1789957364",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/f90ac840263b07f1225089fdc68456f7093983c9/ss_f90ac840263b07f1225089fdc68456f7093983c9.1920x1080.jpg?t=1789957364"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/53b5dd83f918ddb701418bbe76d6211c08e6c74d/ss_53b5dd83f918ddb701418bbe76d6211c08e6c74d.600x338.jpg?t=1789957364",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/53b5dd83f918ddb701418bbe76d6211c08e6c74d/ss_53b5dd83f918ddb701418bbe76d6211c08e6c74d.1920x1080.jpg?t=1789957364"
+    }
+   ],
+   "movies": [
+    {
+     "id": 257341658,
+     "name": "TBH : Task Bar Hero - Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257341658/f7ee6b50a590549b8ba0fbbe7ab9934c3d060b60/movie_600x337.jpg?t=1779737804",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3678970/382795355/00fc4626d01ee9913ba6551f90fe26bec2b7bf73/1779737646/dash_av1.mpd?t=1779737804",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3678970/382795355/00fc4626d01ee9913ba6551f90fe26bec2b7bf73/1779737646/dash_h264.mpd?t=1779737804",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3678970/382795355/00fc4626d01ee9913ba6551f90fe26bec2b7bf73/1779737646/hls_264_master.m3u8?t=1779737804",
+     "highlight": true
+    }
+   ],
+   "recommendations": {
+    "total": 289
+   },
+   "achievements": {
+    "total": 56,
+    "highlighted": [
+     {
+      "icon": "dd6df541669b34846b34e1b17f6c037cc41ab704.jpg",
+      "localized_name": "從 Taskbar 蹦出的英雄",
+      "archived": 0,
+      "hidden": 0,
+      "name": "從 Taskbar 蹦出的英雄",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3678970/dd6df541669b34846b34e1b17f6c037cc41ab704.jpg"
+     },
+     {
+      "icon": "cedf6ef06edb228ca62e6e2a555626fd4c6ca71c.jpg",
+      "localized_name": "TBH,這遊戲超讚",
+      "archived": 0,
+      "hidden": 0,
+      "name": "TBH,這遊戲超讚",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3678970/cedf6ef06edb228ca62e6e2a555626fd4c6ca71c.jpg"
+     },
+     {
+      "icon": "6f02168d62194a5640cd62241c72beb1d34a5374.jpg",
+      "localized_name": "離下班還早呢",
+      "archived": 0,
+      "hidden": 0,
+      "name": "離下班還早呢",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3678970/6f02168d62194a5640cd62241c72beb1d34a5374.jpg"
+     },
+     {
+      "icon": "36d5779ac65675813978855a3a851b1951969b51.jpg",
+      "localized_name": "普通?太無聊了。",
+      "archived": 0,
+      "hidden": 0,
+      "name": "普通?太無聊了。",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3678970/36d5779ac65675813978855a3a851b1951969b51.jpg"
+     },
+     {
+      "icon": "01377e9dce67aaad1f93c03d6c3b45f52af9d892.jpg",
+      "localized_name": "噩夢才剛開始",
+      "archived": 0,
+      "hidden": 0,
+      "name": "噩夢才剛開始",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3678970/01377e9dce67aaad1f93c03d6c3b45f52af9d892.jpg"
+     },
+     {
+      "icon": "e2c16b1b07f312b751d700007437134d2ff90085.jpg",
+      "localized_name": "地獄?還比週一上班好。",
+      "archived": 0,
+      "hidden": 0,
+      "name": "地獄?還比週一上班好。",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3678970/e2c16b1b07f312b751d700007437134d2ff90085.jpg"
+     },
+     {
+      "icon": "27b537fa7628124bbdc81b76f6b08234683da397.jpg",
+      "localized_name": "悄無聲息殲滅 1,000",
+      "archived": 0,
+      "hidden": 0,
+      "name": "悄無聲息殲滅 1,000",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3678970/27b537fa7628124bbdc81b76f6b08234683da397.jpg"
+     },
+     {
+      "icon": "a5d0892db8f8ee357849b36633a45114ad6c29a0.jpg",
+      "localized_name": "我只是掛機而已…",
+      "archived": 0,
+      "hidden": 0,
+      "name": "我只是掛機而已…",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3678970/a5d0892db8f8ee357849b36633a45114ad6c29a0.jpg"
+     },
+     {
+      "icon": "6faede05b252fcb524a38db41eee09db6b7af276.jpg",
+      "localized_name": "怪物?什麼怪物?",
+      "archived": 0,
+      "hidden": 0,
+      "name": "怪物?什麼怪物?",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3678970/6faede05b252fcb524a38db41eee09db6b7af276.jpg"
+     },
+     {
+      "icon": "d8cd9dc30981161e783f239d9094ab4df115cb56.jpg",
+      "localized_name": "包裹來囉~",
+      "archived": 0,
+      "hidden": 0,
+      "name": "包裹來囉~",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3678970/d8cd9dc30981161e783f239d9094ab4df115cb56.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2026 年 5 月 27 日"
+   },
+   "support_info": {
+    "url": "https://nugemstudio.zendesk.com",
+    "email": ""
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3678970?t=1789957364",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/f1a7a3f4ad11ce369f53916753e596fd21c279f7/page_bg_raw.jpg?t=1789957364",
+   "content_descriptors": {
+    "ids": [],
+    "notes": null
+   },
+   "ratings": {
+    "dejus": {
+     "rating_generated": "1",
+     "rating": "10",
+     "required_age": "10",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Violência"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "12",
+     "required_age": "12",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Gewalt"
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "13",
+     "required_age": "13",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Kekerasan"
+    }
+   }
+  }
+ }
+}

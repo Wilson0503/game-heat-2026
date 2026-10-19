@@ -1,0 +1,435 @@
+{
+ "4000": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "Garry's Mod",
+   "steam_appid": 4000,
+   "required_age": 0,
+   "is_free": false,
+   "detailed_description": "<h1>Steam Workshop</h1><p><p class=\"bb_paragraph\" ></p></p><br><h1>關於此遊戲</h1>Garry's Mod 是一個物理實驗場。 不像一般遊戲，這款遊戲並沒有預定的目標或目的。 我們給您工具，您決定遊戲內容。<br>\t\t\t您可以叫出各種物件互相組合，創造新的道具，不論汽車、火箭、投石車還是連名字都沒有的機器，一切都由您決定。<br>\t\t\t不過若您對設計工程不拿手，也別擔心！ 您還能把許多不同角色放在好笑的地方。",
+   "about_the_game": "Garry's Mod 是一個物理實驗場。 不像一般遊戲，這款遊戲並沒有預定的目標或目的。 我們給您工具，您決定遊戲內容。<br />\r\n\t\t\t您可以叫出各種物件互相組合，創造新的道具，不論汽車、火箭、投石車還是連名字都沒有的機器，一切都由您決定。<br />\r\n\t\t\t不過若您對設計工程不拿手，也別擔心！ 您還能把許多不同角色放在好笑的地方。",
+   "short_description": "Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play.",
+   "supported_languages": "英文<strong>*</strong>, 法文, 義大利文, 德文, 西班牙文 - 西班牙, 保加利亞文, 捷克文, 丹麥文, 荷蘭文, 芬蘭文, 希臘文, 匈牙利文, 日文, 韓文, 挪威文, 波蘭文, 葡萄牙文 - 葡萄牙, 葡萄牙文 - 巴西, 俄文, 簡體中文, 瑞典文, 泰文, 繁體中文, 土耳其文, 烏克蘭文, 越南文, 克羅埃西亞語, 愛沙尼亞語, 希伯來文, 立陶宛文, 斯洛伐克語<br><strong>*</strong>具備完整音效支援的語言",
+   "reviews": "“It brings back the silly glee of unbridled experimentation, intuitive learning and playful social interactions that most of us haven't experienced since childhood. For that, it's essential.”<br>88 – PC Gamer<br>",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?t=1776868682",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_231x87.jpg?t=1776868682",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/2e52d9b905feebfdaaf2db6ad7afece10991d504/capsule_184x69.jpg?t=1776868682",
+   "website": "https://gmod.facepunch.com",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows® 10<br></li><li><strong>處理器:</strong> 2 GHz Processor or better<br></li><li><strong>記憶體:</strong> 4 GB 記憶體<br></li><li><strong>顯示卡:</strong> 1GB dedicated VRAM or better<br></li><li><strong>DirectX:</strong> 版本：9.0c<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 10 GB 可用空間<br></li><li><strong>音效卡:</strong> DirectX® 9 compatible<br></li><li><strong>備註:</strong> Mouse, Keyboard, Monitor</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows® 10/11<br></li><li><strong>處理器:</strong> 2.5 GHz Processor or better<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> 4GB dedicated VRAM or better<br></li><li><strong>DirectX:</strong> 版本：9.0c<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 25 GB 可用空間</li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> OS X version Snow Leopard 10.6.3<br></li><li><strong>處理器:</strong> 2 GHz Processor or better<br></li><li><strong>記憶體:</strong> 4 GB 記憶體<br></li><li><strong>顯示卡:</strong> 1GB dedicated VRAM or better<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 10 GB 可用空間<br></li><li><strong>備註:</strong> Mouse, Keyboard, Monitor</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Latest OS X version<br></li><li><strong>處理器:</strong> 2.5 GHz Processor or better<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> 4GB dedicated VRAM or better<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 25 GB 可用空間</li></ul>"
+   },
+   "linux_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Ubuntu 12.04<br></li><li><strong>處理器:</strong> 2 GHz Processor or better<br></li><li><strong>記憶體:</strong> 4 GB 記憶體<br></li><li><strong>顯示卡:</strong> 1GB dedicated VRAM or better<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 10 GB 可用空間<br></li><li><strong>備註:</strong> Mouse, Keyboard, Monitor</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Latest Ubuntu<br></li><li><strong>處理器:</strong> 2.5 GHz Processor or better<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> 4GB dedicated VRAM or better<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 25 GB 可用空間</li></ul>"
+   },
+   "developers": [
+    "Facepunch Studios"
+   ],
+   "publishers": [
+    "Valve"
+   ],
+   "price_overview": {
+    "currency": "TWD",
+    "initial": 27800,
+    "final": 27800,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "NT$ 278"
+   },
+   "packages": [
+    218,
+    295508
+   ],
+   "package_groups": [
+    {
+     "name": "default",
+     "title": "購買 Garry's Mod",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 218,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "Garry's Mod - NT$ 278",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 27800
+      },
+      {
+       "packageid": 295508,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "Garry's Mod - Commercial License - NT$ 278",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 27800
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 49,
+     "description": "玩家對戰"
+    },
+    {
+     "id": 36,
+     "description": "線上玩家對戰"
+    },
+    {
+     "id": 47,
+     "description": "區域網路玩家對戰"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 48,
+     "description": "區域網路合作"
+    },
+    {
+     "id": 27,
+     "description": "跨平台多人連線"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 29,
+     "description": "Steam 交換卡片"
+    },
+    {
+     "id": 13,
+     "description": "有字幕"
+    },
+    {
+     "id": 30,
+     "description": "Steam 工作坊"
+    },
+    {
+     "id": 66,
+     "description": "顏色替代選項"
+    },
+    {
+     "id": 68,
+     "description": "自訂音量控制"
+    },
+    {
+     "id": 78,
+     "description": "可調整難度"
+    },
+    {
+     "id": 74,
+     "description": "遊玩無需快速反應"
+    },
+    {
+     "id": 79,
+     "description": "隨時儲存"
+    },
+    {
+     "id": 69,
+     "description": "立體聲"
+    },
+    {
+     "id": 23,
+     "description": "Steam 雲端"
+    },
+    {
+     "id": 8,
+     "description": "具有 Valve 防作弊系統"
+    },
+    {
+     "id": 17,
+     "description": "包含關卡編輯器"
+    },
+    {
+     "id": 16,
+     "description": "包含 Source SDK"
+    },
+    {
+     "id": 42,
+     "description": "在平板上遠端暢玩"
+    },
+    {
+     "id": 62,
+     "description": "親友同享"
+    }
+   ],
+   "genres": [
+    {
+     "id": "4",
+     "description": "休閒"
+    },
+    {
+     "id": "23",
+     "description": "獨立製作"
+    },
+    {
+     "id": "28",
+     "description": "模擬"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_af060d0a9aeb6598e154c9704ce250b0e63b2266.600x338.jpg?t=1776868682",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_af060d0a9aeb6598e154c9704ce250b0e63b2266.1920x1080.jpg?t=1776868682"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_d314d7dba0987b3e7f49154964bda0ae74ee5161.600x338.jpg?t=1776868682",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_d314d7dba0987b3e7f49154964bda0ae74ee5161.1920x1080.jpg?t=1776868682"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_3d320f333fb74413911cbc2bffae9bdda683e2ec.600x338.jpg?t=1776868682",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_3d320f333fb74413911cbc2bffae9bdda683e2ec.1920x1080.jpg?t=1776868682"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_12741a4344b5cfee33726ae219476c8634517f7d.600x338.jpg?t=1776868682",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_12741a4344b5cfee33726ae219476c8634517f7d.1920x1080.jpg?t=1776868682"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_74a181b4584a04c88ee316df31a850ab2810fb79.600x338.jpg?t=1776868682",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_74a181b4584a04c88ee316df31a850ab2810fb79.1920x1080.jpg?t=1776868682"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_a6133770663ff34d535adf050f2af64ab47a6974.600x338.jpg?t=1776868682",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_a6133770663ff34d535adf050f2af64ab47a6974.1920x1080.jpg?t=1776868682"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_ff27d52a103d1685e4981673c4f700b860cb23de.600x338.jpg?t=1776868682",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_ff27d52a103d1685e4981673c4f700b860cb23de.1920x1080.jpg?t=1776868682"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000826.600x338.jpg?t=1776868682",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000826.1920x1080.jpg?t=1776868682"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_65ec9828538eac8db20efc8149990060911fefc4.600x338.jpg?t=1776868682",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_65ec9828538eac8db20efc8149990060911fefc4.1920x1080.jpg?t=1776868682"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_c13ffded1d71bedfa7ede94c11cbd21fbd21a32c.600x338.jpg?t=1776868682",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_c13ffded1d71bedfa7ede94c11cbd21fbd21a32c.1920x1080.jpg?t=1776868682"
+    },
+    {
+     "id": 10,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_d85d19db885f233a4790960978f362b556ec37be.600x338.jpg?t=1776868682",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_d85d19db885f233a4790960978f362b556ec37be.1920x1080.jpg?t=1776868682"
+    },
+    {
+     "id": 11,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000824.600x338.jpg?t=1776868682",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000824.1920x1080.jpg?t=1776868682"
+    },
+    {
+     "id": 12,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_4162b10390d84aa600e5ed895fdc885482eb2e71.600x338.jpg?t=1776868682",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_4162b10390d84aa600e5ed895fdc885482eb2e71.1920x1080.jpg?t=1776868682"
+    },
+    {
+     "id": 13,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000822.600x338.jpg?t=1776868682",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000822.1920x1080.jpg?t=1776868682"
+    },
+    {
+     "id": 14,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_6196ec6e5ad47ef40b27099cc77a3bf60b64b38c.600x338.jpg?t=1776868682",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_6196ec6e5ad47ef40b27099cc77a3bf60b64b38c.1920x1080.jpg?t=1776868682"
+    },
+    {
+     "id": 15,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000829.600x338.jpg?t=1776868682",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000829.1920x1080.jpg?t=1776868682"
+    },
+    {
+     "id": 16,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000828.600x338.jpg?t=1776868682",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000828.1920x1080.jpg?t=1776868682"
+    },
+    {
+     "id": 17,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000827.600x338.jpg?t=1776868682",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000827.1920x1080.jpg?t=1776868682"
+    },
+    {
+     "id": 18,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000825.600x338.jpg?t=1776868682",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000825.1920x1080.jpg?t=1776868682"
+    },
+    {
+     "id": 19,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000830.600x338.jpg?t=1776868682",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000830.1920x1080.jpg?t=1776868682"
+    }
+   ],
+   "recommendations": {
+    "total": 1098096
+   },
+   "achievements": {
+    "total": 29,
+    "highlighted": [
+     {
+      "icon": "b8ce64f366e8a8a1c2aef231cca8ec82f3115d63.jpg",
+      "localized_name": "Play Singleplayer",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Play Singleplayer",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/b8ce64f366e8a8a1c2aef231cca8ec82f3115d63.jpg"
+     },
+     {
+      "icon": "d6b5b7ac882b0865415218642cb21bfb5a5fca77.jpg",
+      "localized_name": "Play Multiplayer",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Play Multiplayer",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/d6b5b7ac882b0865415218642cb21bfb5a5fca77.jpg"
+     },
+     {
+      "icon": "f4bc0f96a846eeaa63a9ea92d11757b342376374.jpg",
+      "localized_name": "Startup Millenium",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Startup Millenium",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/f4bc0f96a846eeaa63a9ea92d11757b342376374.jpg"
+     },
+     {
+      "icon": "f331d3e21b7fc96c8f117787fe3e2d5e26b9952e.jpg",
+      "localized_name": "Secret Phrase",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Secret Phrase",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/f331d3e21b7fc96c8f117787fe3e2d5e26b9952e.jpg"
+     },
+     {
+      "icon": "9d99453c08ea180230b5ad24f904c0749e6ce139.jpg",
+      "localized_name": "Addict",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Addict",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/9d99453c08ea180230b5ad24f904c0749e6ce139.jpg"
+     },
+     {
+      "icon": "7cb317f7a953204e79a3fc2923aad8eb77df74bd.jpg",
+      "localized_name": "Map Loader",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Map Loader",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/7cb317f7a953204e79a3fc2923aad8eb77df74bd.jpg"
+     },
+     {
+      "icon": "c1421b7d9609b03bca96bae9abde44da628d20a1.jpg",
+      "localized_name": "Play Around",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Play Around",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/c1421b7d9609b03bca96bae9abde44da628d20a1.jpg"
+     },
+     {
+      "icon": "88f7f6f51232d0792f70683599a55974b14086d1.jpg",
+      "localized_name": "War Zone",
+      "archived": 0,
+      "hidden": 0,
+      "name": "War Zone",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/88f7f6f51232d0792f70683599a55974b14086d1.jpg"
+     },
+     {
+      "icon": "14f07b40867ab5ceb305fa99fc1b112fc96abb14.jpg",
+      "localized_name": "Friendly",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Friendly",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/14f07b40867ab5ceb305fa99fc1b112fc96abb14.jpg"
+     },
+     {
+      "icon": "b018137e2177a4a1ac63460f8b20757d4e7ef2da.jpg",
+      "localized_name": "Yes, I am the real garry!",
+      "archived": 0,
+      "hidden": 0,
+      "name": "Yes, I am the real garry!",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4000/b018137e2177a4a1ac63460f8b20757d4e7ef2da.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2006 年 11 月 29 日"
+   },
+   "support_info": {
+    "url": "https://support.facepunchstudios.com/",
+    "email": ""
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4000?t=1776868682",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/page_bg_raw.jpg?t=1776868682",
+   "content_descriptors": {
+    "ids": [],
+    "notes": null
+   },
+   "ratings": {
+    "dejus": {
+     "rating_generated": "1",
+     "rating": "12",
+     "required_age": "12",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Violência"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "16",
+     "required_age": "16",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Gewalt"
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "15",
+     "required_age": "15",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Kekerasan\nInteraksi Daring"
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,527 @@
+{
+ "1086940": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "柏德之門3",
+   "steam_appid": 1086940,
+   "required_age": "18",
+   "is_free": false,
+   "controller_support": "full",
+   "dlc": [
+    2378500,
+    2956320
+   ],
+   "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/3ba70ca4af92397cfc1a539acbcdb398.avif?t=1777363040\" width=616 height=516 /></span></p><p class=\"bb_paragraph\" >召集你的隊伍，重返被遺忘的國度吧！這裡充滿了友情與背叛、犧牲與求生，以及那股讓人難以抗拒的誘惑 —— 絕對統治的力量。 <br>神秘的力量正在你體內甦醒，這一切都來自奪心魔植入你大腦裡的寄生蟲。你要選擇反抗，將這股黑暗力量納為己用？還是任由腐化蔓延，讓自己化身為終極的邪惡？ <br>由《神界：原罪2》原班人馬傾力打造，這款基於《龍與地下城》規則的次世代 RPG 鉅作，等你來挑戰。 <br>  </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/05bab4f8ad69b264a34ce5b72e9f6be0.avif?t=1777363040\" width=616 height=378 /></span></p><p class=\"bb_paragraph\" >你可以從《龍與地下城玩家手冊》中的12種職業與11個種族中自由選擇，或者直接扮演一位擁有量身打造背景故事的「起源角色」。如果你渴望更深層的掙扎與衝突，那就化身為「邪念」——一個完全可自訂的起源角色，擁有獨一無二的機制與黑暗故事線，去與你內心的腐化慾望對抗。無論你選擇成為誰，都可以在「被遺忘的國度」及其以外的廣闊世界中冒險、搜集物資、戰鬥，甚至譜寫一段轟轟烈烈的羅曼史。召集你的隊伍，你可以選擇獨自上路，也支援最多四人線上連線冒險。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/be1536640eb12fef7881766c0462f63e.webp?t=1777363040\" width=616 height=27 /></span></p><p class=\"bb_paragraph\" >被綁架、被感染、陷入迷失。你正在轉變成某種怪物，但隨著體內的腐化力量增長，你的實力也在增強。這股力量或許能幫助你在險惡的野外存活，但接受它的同時，你也必將付出代價。然而，你與隊友之間建立的信任與羈絆，才是你最強大的武器。在惡魔、神祇以及各種不可名狀的異界力量交織的衝突中，你們將共同決定被遺忘國度的最終命運。 </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/3952d7ffa2c1db30a9f21ff9ce2f4afe.avif?t=1777363040\" width=616 height=378 /></span></p><p class=\"bb_paragraph\" >採用全新的Divinity4.0引擎打造，《柏德之門3》將為你提供前所未有的自由度。在這個充滿鮮活角色、致命危險和詭譎欺詐的世界中，你可以盡情探索、嘗試、互動，並獲得即時的反饋。宏大的電影級敘事運鏡，將讓你以前所未有的距離貼近角色。從被影咒籠罩的森林，到幽暗地域的魔法洞穴，再到柏德之門熙熙攘攘的街頭——你的行動定義了這段冒險，而你的選擇將寫下屬於你的傳奇。你，終將被世人銘記。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/a42ab47b9de419eb0f2f0842ce935498.webp?t=1777363040\" width=616 height=27 /></span></p><p class=\"bb_paragraph\" >被遺忘的國度是一個宏大、細節豐富且充滿多元性的世界，到處都有等待被你挖掘的秘密——你可以潛行、將武器沾取元素、推撞敵人、攀爬高地或進行極限跳躍。這些行動將貫穿你的整趟旅途，從大地深處的幽暗地域，到地表城市閃閃發亮的屋頂。你的每一個選擇都會推動故事發展，每一個決定都會在世界上留下印記。你可以提升角色能力、培養盟友或結下宿怨，用你自己的方式解決問題。絕對不會有兩次完全相同的遊戲體驗。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/b7dda7810a10d9efdf8aaafe53fb34e4.webp?t=1777363040\" width=616 height=27 /></span></p><p class=\"bb_paragraph\" >你可以集結團隊同時攻擊敵人，也可以兵分多路，各自執行任務和計畫。你們可以共同制定完美的作戰策略……或者在隊友最意想不到的時候搞點破壞（比如製造一場混亂）。人和人之間的關係本來就夠複雜了，更別說——你們每個人腦袋裡都還有一隻寄生蟲。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/2499741b1ca063def455a797fe081b2d.webp?t=1777363040\" width=616 height=27 /></span></p><p class=\"bb_paragraph\" >7位獨一無二的「起源角色」為你帶來精雕細琢的體驗，每個人都有獨特的特質、思想和世界觀。他們的故事與主線劇情相互交錯，而你的選擇將決定這些故事的結局是救贖、拯救、統治，還是其他多種可能。你可以直接扮演他們，或者招募他們並肩作戰。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/4b583cff98538a2a66a7a02e371dc912.webp?t=1777363040\" width=616 height=27 /></span></p><p class=\"bb_paragraph\" >基於第五版《龍與地下城》規則。你可以體驗基於團隊戰鬥的先攻機制，以及不同決策帶來的優勢與劣勢。我們加入了戰場視角下的擲骰修正，也拓展了環境互動性，增添了更多靈活的戰術與獎勵，讓你在戰鬥中盡情展現策略與遠見。遊戲提供三種難度，你可以隨時調整挑戰強度：想輕鬆看劇情，可以開啟「業力骰子」，讓運氣別太折磨你；想尋求挑戰，就把難度拉高，體驗一場真正硬派的戰鬥。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/9641e4041f3fbedb287f5a1af35ac213.webp?t=1777363040\" width=616 height=27 /></span></p><p class=\"bb_paragraph\" >在11個種族（人類、吉斯洋基人、半獸人、矮人、精靈、卓爾、提夫林、半身人、半精靈、侏儒、龍裔）的基礎上，又增加了31個亞種，並從12個職業中衍生出46個子職。在這個精細打造的世界中，600多種法術和動作提供了近乎無限的互動自由。在這裡，探索本身就是一種獎勵，玩家的主動性將主導整段旅程。我們獨特的「角色創建器」具有前所未有的深度，豐富的客製化選項確保無論你是誰，都能打造出獨一無二的角色，一路成長至12級。超過174小時的過場動畫，保證無論你怎麼選，每一輪遊戲都有一套完整的「專屬電影」為你講述故事。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/9d6e9cf268cacf09dee8786fd20b1190.webp?t=1777363040\" width=616 height=27 /></span></p><p class=\"bb_paragraph\" >戰爭的威脅正迫在眉睫地向柏德之門襲來，奪心魔的入侵也即將發生。在旅途中，你註定會和形形色色的人結下羈絆——哪怕你一開始只想獨來獨往。你將與沿途遇到的人建立起真實、充滿活力的關係，這些關係會走向何方，全看你的選擇。你會和同伴發展出鮮活而真實的關係：他們都有自己的道德準則，會對你一路上的每一次抉擇做出反應。你願意為堅持原則付出多大代價？你會讓愛意左右你的行動嗎？通往柏德之門路上的羈絆，不僅是營地裡的片刻慰藉，更為你冒險中的每一個決定增添了情感的重量。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/305c0953a83a7c5a3333f3b42ec475e1.webp?t=1777363040\" width=616 height=27 /></span></p><p class=\"bb_paragraph\" >當您點擊「開始實況」時，您的直播將不會被諸如「某隻熊」、突然爆出的髒話或是忘了穿內褲等突發狀況所干擾。《柏德之門3》提供了3種不同級別的實況友善客製化選項。您可以分別（或同時）關閉裸露和露骨內容，並啟用Twitch整合功能，直接與觀眾互動，就像我們在《地獄饗宴》發表會上所做的一樣！有了這些選項，無論您選擇以何種方式進行遊戲，《柏德之門3》都能保證您的實況順利進行。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/250678836d14352d980c5556003957e2.poster.avif?t=1777363040\" width=600 height=400 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/250678836d14352d980c5556003957e2.webm?t=1777363040\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/250678836d14352d980c5556003957e2.mp4?t=1777363040\" type=\"video/mp4\"></video></span></p>",
+   "about_the_game": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/3ba70ca4af92397cfc1a539acbcdb398.avif?t=1777363040\" width=616 height=516 /></span></p><p class=\"bb_paragraph\" >召集你的隊伍，重返被遺忘的國度吧！這裡充滿了友情與背叛、犧牲與求生，以及那股讓人難以抗拒的誘惑 —— 絕對統治的力量。 <br>神秘的力量正在你體內甦醒，這一切都來自奪心魔植入你大腦裡的寄生蟲。你要選擇反抗，將這股黑暗力量納為己用？還是任由腐化蔓延，讓自己化身為終極的邪惡？ <br>由《神界：原罪2》原班人馬傾力打造，這款基於《龍與地下城》規則的次世代 RPG 鉅作，等你來挑戰。 <br>  </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/05bab4f8ad69b264a34ce5b72e9f6be0.avif?t=1777363040\" width=616 height=378 /></span></p><p class=\"bb_paragraph\" >你可以從《龍與地下城玩家手冊》中的12種職業與11個種族中自由選擇，或者直接扮演一位擁有量身打造背景故事的「起源角色」。如果你渴望更深層的掙扎與衝突，那就化身為「邪念」——一個完全可自訂的起源角色，擁有獨一無二的機制與黑暗故事線，去與你內心的腐化慾望對抗。無論你選擇成為誰，都可以在「被遺忘的國度」及其以外的廣闊世界中冒險、搜集物資、戰鬥，甚至譜寫一段轟轟烈烈的羅曼史。召集你的隊伍，你可以選擇獨自上路，也支援最多四人線上連線冒險。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/be1536640eb12fef7881766c0462f63e.webp?t=1777363040\" width=616 height=27 /></span></p><p class=\"bb_paragraph\" >被綁架、被感染、陷入迷失。你正在轉變成某種怪物，但隨著體內的腐化力量增長，你的實力也在增強。這股力量或許能幫助你在險惡的野外存活，但接受它的同時，你也必將付出代價。然而，你與隊友之間建立的信任與羈絆，才是你最強大的武器。在惡魔、神祇以及各種不可名狀的異界力量交織的衝突中，你們將共同決定被遺忘國度的最終命運。 </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/3952d7ffa2c1db30a9f21ff9ce2f4afe.avif?t=1777363040\" width=616 height=378 /></span></p><p class=\"bb_paragraph\" >採用全新的Divinity4.0引擎打造，《柏德之門3》將為你提供前所未有的自由度。在這個充滿鮮活角色、致命危險和詭譎欺詐的世界中，你可以盡情探索、嘗試、互動，並獲得即時的反饋。宏大的電影級敘事運鏡，將讓你以前所未有的距離貼近角色。從被影咒籠罩的森林，到幽暗地域的魔法洞穴，再到柏德之門熙熙攘攘的街頭——你的行動定義了這段冒險，而你的選擇將寫下屬於你的傳奇。你，終將被世人銘記。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/a42ab47b9de419eb0f2f0842ce935498.webp?t=1777363040\" width=616 height=27 /></span></p><p class=\"bb_paragraph\" >被遺忘的國度是一個宏大、細節豐富且充滿多元性的世界，到處都有等待被你挖掘的秘密——你可以潛行、將武器沾取元素、推撞敵人、攀爬高地或進行極限跳躍。這些行動將貫穿你的整趟旅途，從大地深處的幽暗地域，到地表城市閃閃發亮的屋頂。你的每一個選擇都會推動故事發展，每一個決定都會在世界上留下印記。你可以提升角色能力、培養盟友或結下宿怨，用你自己的方式解決問題。絕對不會有兩次完全相同的遊戲體驗。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/b7dda7810a10d9efdf8aaafe53fb34e4.webp?t=1777363040\" width=616 height=27 /></span></p><p class=\"bb_paragraph\" >你可以集結團隊同時攻擊敵人，也可以兵分多路，各自執行任務和計畫。你們可以共同制定完美的作戰策略……或者在隊友最意想不到的時候搞點破壞（比如製造一場混亂）。人和人之間的關係本來就夠複雜了，更別說——你們每個人腦袋裡都還有一隻寄生蟲。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/2499741b1ca063def455a797fe081b2d.webp?t=1777363040\" width=616 height=27 /></span></p><p class=\"bb_paragraph\" >7位獨一無二的「起源角色」為你帶來精雕細琢的體驗，每個人都有獨特的特質、思想和世界觀。他們的故事與主線劇情相互交錯，而你的選擇將決定這些故事的結局是救贖、拯救、統治，還是其他多種可能。你可以直接扮演他們，或者招募他們並肩作戰。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/4b583cff98538a2a66a7a02e371dc912.webp?t=1777363040\" width=616 height=27 /></span></p><p class=\"bb_paragraph\" >基於第五版《龍與地下城》規則。你可以體驗基於團隊戰鬥的先攻機制，以及不同決策帶來的優勢與劣勢。我們加入了戰場視角下的擲骰修正，也拓展了環境互動性，增添了更多靈活的戰術與獎勵，讓你在戰鬥中盡情展現策略與遠見。遊戲提供三種難度，你可以隨時調整挑戰強度：想輕鬆看劇情，可以開啟「業力骰子」，讓運氣別太折磨你；想尋求挑戰，就把難度拉高，體驗一場真正硬派的戰鬥。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/9641e4041f3fbedb287f5a1af35ac213.webp?t=1777363040\" width=616 height=27 /></span></p><p class=\"bb_paragraph\" >在11個種族（人類、吉斯洋基人、半獸人、矮人、精靈、卓爾、提夫林、半身人、半精靈、侏儒、龍裔）的基礎上，又增加了31個亞種，並從12個職業中衍生出46個子職。在這個精細打造的世界中，600多種法術和動作提供了近乎無限的互動自由。在這裡，探索本身就是一種獎勵，玩家的主動性將主導整段旅程。我們獨特的「角色創建器」具有前所未有的深度，豐富的客製化選項確保無論你是誰，都能打造出獨一無二的角色，一路成長至12級。超過174小時的過場動畫，保證無論你怎麼選，每一輪遊戲都有一套完整的「專屬電影」為你講述故事。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/9d6e9cf268cacf09dee8786fd20b1190.webp?t=1777363040\" width=616 height=27 /></span></p><p class=\"bb_paragraph\" >戰爭的威脅正迫在眉睫地向柏德之門襲來，奪心魔的入侵也即將發生。在旅途中，你註定會和形形色色的人結下羈絆——哪怕你一開始只想獨來獨往。你將與沿途遇到的人建立起真實、充滿活力的關係，這些關係會走向何方，全看你的選擇。你會和同伴發展出鮮活而真實的關係：他們都有自己的道德準則，會對你一路上的每一次抉擇做出反應。你願意為堅持原則付出多大代價？你會讓愛意左右你的行動嗎？通往柏德之門路上的羈絆，不僅是營地裡的片刻慰藉，更為你冒險中的每一個決定增添了情感的重量。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/305c0953a83a7c5a3333f3b42ec475e1.webp?t=1777363040\" width=616 height=27 /></span></p><p class=\"bb_paragraph\" >當您點擊「開始實況」時，您的直播將不會被諸如「某隻熊」、突然爆出的髒話或是忘了穿內褲等突發狀況所干擾。《柏德之門3》提供了3種不同級別的實況友善客製化選項。您可以分別（或同時）關閉裸露和露骨內容，並啟用Twitch整合功能，直接與觀眾互動，就像我們在《地獄饗宴》發表會上所做的一樣！有了這些選項，無論您選擇以何種方式進行遊戲，《柏德之門3》都能保證您的實況順利進行。<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/250678836d14352d980c5556003957e2.poster.avif?t=1777363040\" width=600 height=400 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/250678836d14352d980c5556003957e2.webm?t=1777363040\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/extras/250678836d14352d980c5556003957e2.mp4?t=1777363040\" type=\"video/mp4\"></video></span></p>",
+   "short_description": "《柏德之門3》是一款以《龍與地下城》世界為背景、劇情豐富的隊伍制角色扮演遊戲。你的每一個選擇，都將編織出一段關於夥伴與背叛、生存與犧牲，以及至高權力誘惑的故事。",
+   "supported_languages": "英文<strong>*</strong>, 法文, 德文, 西班牙文 - 西班牙, 波蘭文, 俄文, 簡體中文, 土耳其文, 葡萄牙文 - 巴西, 義大利文, 西班牙文 - 拉丁美洲, 繁體中文, 烏克蘭文, 韓文, 日文<br><strong>*</strong>具備完整音效支援的語言",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/3dd81008e9c385caf68152450c22353f6a8abec9/capsule_231x87.jpg?t=1777363040",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/3dd81008e9c385caf68152450c22353f6a8abec9/capsule_184x69.jpg?t=1777363040",
+   "website": "https://baldursgate3.game",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 10 64-bit<br></li><li><strong>處理器:</strong> Intel I5 4690 / AMD FX 8350 / Snapdragon X Elite<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> Nvidia GTX 970 / RX 480 / Intel Arc A380 / Qualcomm Adreno X1 (4GB+ of VRAM)<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>儲存空間:</strong> 150 GB 可用空間<br></li><li><strong>備註:</strong> SSD required</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li>需要 64 位元的處理器及作業系統<br></li><li><strong>作業系統:</strong> Windows 10 64-bit<br></li><li><strong>處理器:</strong> Intel i7 8700K / AMD r5 3600<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> Nvidia 2060 Super / RX 5700 XT / Intel Arc A580 (8GB+ of VRAM)<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>儲存空間:</strong> 150 GB 可用空間<br></li><li><strong>備註:</strong> SSD required</li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> macOS 14.7.1 or newer<br></li><li><strong>處理器:</strong> Apple M1<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> Apple M1<br></li><li><strong>儲存空間:</strong> 150 GB 可用空間<br></li><li><strong>備註:</strong> Min specs can run the game on low to medium settings. Splitscreen will not run at an acceptable level of performance. SSD required.</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Latest macOS<br></li><li><strong>處理器:</strong> Apple M1 Pro or better<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> Apple M1 Pro or better<br></li><li><strong>儲存空間:</strong> 150 GB 可用空間<br></li><li><strong>備註:</strong> Recommended specs can run the game on high or ultra settings. SSD required.</li></ul>"
+   },
+   "linux_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"></ul>"
+   },
+   "legal_notice": "© 2023 Larian Studios. All rights reserved. Larian Studios is a registered trademark of Arrakis NV, affiliate of Larian Studios Games ltd. All company names, brand names, trademarks and logos are the property of their respective owners. © 2023 Wizards of the coast. All rights reserved. Wizards of the Coast, Baldur's Gate, Dungeons & Dragons, D&D, and their respective logos are registered trademarks of Wizards of the Coast LLC.",
+   "developers": [
+    "Larian Studios"
+   ],
+   "publishers": [
+    "Larian Studios"
+   ],
+   "price_overview": {
+    "currency": "TWD",
+    "initial": 159900,
+    "final": 159900,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "NT$ 1,599"
+   },
+   "packages": [
+    907539
+   ],
+   "package_groups": [
+    {
+     "name": "default",
+     "title": "購買 柏德之門3",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 907539,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "Baldur's Gate 3 - NT$ 1,599",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 159900
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": false
+   },
+   "metacritic": {
+    "score": 96,
+    "url": "https://www.metacritic.com/game/pc/baldurs-gate-3?ftag=MCD-06-10aaa1f"
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 48,
+     "description": "區域網路合作"
+    },
+    {
+     "id": 27,
+     "description": "跨平台多人連線"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 28,
+     "description": "完整控制器支援"
+    },
+    {
+     "id": 29,
+     "description": "Steam 交換卡片"
+    },
+    {
+     "id": 64,
+     "description": "可調整文字大小"
+    },
+    {
+     "id": 67,
+     "description": "鏡頭舒適度"
+    },
+    {
+     "id": 66,
+     "description": "顏色替代選項"
+    },
+    {
+     "id": 68,
+     "description": "自訂音量控制"
+    },
+    {
+     "id": 78,
+     "description": "可調整難度"
+    },
+    {
+     "id": 74,
+     "description": "遊玩無需快速反應"
+    },
+    {
+     "id": 55,
+     "description": "DUALSHOCK 控制器支援"
+    },
+    {
+     "id": 56,
+     "description": "DUALSHOCK 控制器支援"
+    },
+    {
+     "id": 57,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 58,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 79,
+     "description": "隨時儲存"
+    },
+    {
+     "id": 69,
+     "description": "立體聲"
+    },
+    {
+     "id": 65,
+     "description": "字幕選項"
+    },
+    {
+     "id": 70,
+     "description": "環繞音效"
+    },
+    {
+     "id": 23,
+     "description": "Steam 雲端"
+    },
+    {
+     "id": 43,
+     "description": "在電視上遠端暢玩"
+    },
+    {
+     "id": 44,
+     "description": "遠端同樂"
+    },
+    {
+     "id": 62,
+     "description": "親友同享"
+    }
+   ],
+   "genres": [
+    {
+     "id": "25",
+     "description": "冒險"
+    },
+    {
+     "id": "3",
+     "description": "角色扮演"
+    },
+    {
+     "id": "2",
+     "description": "策略"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_c73bc54415178c07fef85f54ee26621728c77504.600x338.jpg?t=1777363040",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_c73bc54415178c07fef85f54ee26621728c77504.1920x1080.jpg?t=1777363040"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_73d93bea842b93914d966622104dcb8c0f42972b.600x338.jpg?t=1777363040",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_73d93bea842b93914d966622104dcb8c0f42972b.1920x1080.jpg?t=1777363040"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_cf936d31061b58e98e0c646aee00e6030c410cda.600x338.jpg?t=1777363040",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_cf936d31061b58e98e0c646aee00e6030c410cda.1920x1080.jpg?t=1777363040"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_b6a6ee6e046426d08ceea7a4506a1b5f44181543.600x338.jpg?t=1777363040",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_b6a6ee6e046426d08ceea7a4506a1b5f44181543.1920x1080.jpg?t=1777363040"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_6b8faba0f6831a406ce015648958da9612d14dbb.600x338.jpg?t=1777363040",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_6b8faba0f6831a406ce015648958da9612d14dbb.1920x1080.jpg?t=1777363040"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_8fc5eba770b4a1639b31666908bdd2bbc1aa2ae4.600x338.jpg?t=1777363040",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_8fc5eba770b4a1639b31666908bdd2bbc1aa2ae4.1920x1080.jpg?t=1777363040"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_31c13d137706fb4d9a4210513274a3ed9c3c7c96.600x338.jpg?t=1777363040",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_31c13d137706fb4d9a4210513274a3ed9c3c7c96.1920x1080.jpg?t=1777363040"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_0efa1a469a37beeb4fd0cb8e16dc99bd36357dc4.600x338.jpg?t=1777363040",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_0efa1a469a37beeb4fd0cb8e16dc99bd36357dc4.1920x1080.jpg?t=1777363040"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_387896248b42a15239a9256844b3e4bff72fbc2a.600x338.jpg?t=1777363040",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_387896248b42a15239a9256844b3e4bff72fbc2a.1920x1080.jpg?t=1777363040"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_44d30da9c3e4622b46f2978e89bda0515856eaf4.600x338.jpg?t=1777363040",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_44d30da9c3e4622b46f2978e89bda0515856eaf4.1920x1080.jpg?t=1777363040"
+    },
+    {
+     "id": 10,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_f8c7fcdeccbfe77e3fad33330a464fed30f781f0.600x338.jpg?t=1777363040",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_f8c7fcdeccbfe77e3fad33330a464fed30f781f0.1920x1080.jpg?t=1777363040"
+    },
+    {
+     "id": 11,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_332cd26db210d4b10df744485ecf0a9b3f2e9024.600x338.jpg?t=1777363040",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_332cd26db210d4b10df744485ecf0a9b3f2e9024.1920x1080.jpg?t=1777363040"
+    },
+    {
+     "id": 12,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_b9f6f2d2ac2b7b2fe63d776e8e13c24b481a7b19.600x338.jpg?t=1777363040",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_b9f6f2d2ac2b7b2fe63d776e8e13c24b481a7b19.1920x1080.jpg?t=1777363040"
+    },
+    {
+     "id": 13,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_2c576a8e563e3338826268f172c9032c84366d16.600x338.jpg?t=1777363040",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_2c576a8e563e3338826268f172c9032c84366d16.1920x1080.jpg?t=1777363040"
+    },
+    {
+     "id": 14,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_d0b50351676da10c5403ec904cf7582636e65346.600x338.jpg?t=1777363040",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_d0b50351676da10c5403ec904cf7582636e65346.1920x1080.jpg?t=1777363040"
+    },
+    {
+     "id": 15,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_74d11c230ebb44ff9a69b4533a7333551d5bfc6c.600x338.jpg?t=1777363040",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_74d11c230ebb44ff9a69b4533a7333551d5bfc6c.1920x1080.jpg?t=1777363040"
+    },
+    {
+     "id": 16,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_1c3ff278ac430948dc31efeb1f7d2bb0466a1493.600x338.jpg?t=1777363040",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_1c3ff278ac430948dc31efeb1f7d2bb0466a1493.1920x1080.jpg?t=1777363040"
+    },
+    {
+     "id": 17,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_49168eeefdfb6e6030a5aed3fd7c1a83da870a9f.600x338.jpg?t=1777363040",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_49168eeefdfb6e6030a5aed3fd7c1a83da870a9f.1920x1080.jpg?t=1777363040"
+    },
+    {
+     "id": 18,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_3cc4e8cfcfb8a91d19d96f631f076d252ba2c0c4.600x338.jpg?t=1777363040",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_3cc4e8cfcfb8a91d19d96f631f076d252ba2c0c4.1920x1080.jpg?t=1777363040"
+    }
+   ],
+   "movies": [
+    {
+     "id": 256987424,
+     "name": "Baldur's Gate 3 - Accolades Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256987424/movie.293x165.jpg?t=1702007645",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1086940/637951/59ca25b847b0e471638d1e2474acf71b068d57f0/1750615003/dash_av1.mpd?t=1702007645",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1086940/637951/59ca25b847b0e471638d1e2474acf71b068d57f0/1750615003/dash_h264.mpd?t=1702007645",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1086940/637951/59ca25b847b0e471638d1e2474acf71b068d57f0/1750615003/hls_264_master.m3u8?t=1702007645",
+     "highlight": true
+    },
+    {
+     "id": 256961600,
+     "name": "Baldur's Gate 3 - Launch Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256961600/movie.293x165.jpg?t=1695393579",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1086940/593544/008e33be9c000c5fdb38e630f13b1d5917d4561d/1750615002/dash_av1.mpd?t=1695393579",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1086940/593544/008e33be9c000c5fdb38e630f13b1d5917d4561d/1750615002/dash_h264.mpd?t=1695393579",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1086940/593544/008e33be9c000c5fdb38e630f13b1d5917d4561d/1750615002/hls_264_master.m3u8?t=1695393579",
+     "highlight": true
+    },
+    {
+     "id": 256957679,
+     "name": "Baldur's Gate 3 - Release Teaser",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256957679/movie.293x165.jpg?t=1692294107",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1086940/586640/b3d5692dc27af2874f96d23ff281523f26bd5476/1750614981/dash_av1.mpd?t=1692294107",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1086940/586640/b3d5692dc27af2874f96d23ff281523f26bd5476/1750614981/dash_h264.mpd?t=1692294107",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1086940/586640/b3d5692dc27af2874f96d23ff281523f26bd5476/1750614981/hls_264_master.m3u8?t=1692294107",
+     "highlight": true
+    },
+    {
+     "id": 256952190,
+     "name": "Baldur's Gate 3 - First Look at the City",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256952190/movie.293x165.jpg?t=1692294111",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1086940/577019/052954500a03f7bfb69c9abf7c2969e00833b569/1750614972/dash_av1.mpd?t=1692294111",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1086940/577019/052954500a03f7bfb69c9abf7c2969e00833b569/1750614972/dash_h264.mpd?t=1692294111",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1086940/577019/052954500a03f7bfb69c9abf7c2969e00833b569/1750614972/hls_264_master.m3u8?t=1692294111",
+     "highlight": true
+    },
+    {
+     "id": 256932354,
+     "name": "Baldur's Gate 3 - Release Date Reveal Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256932354/movie.293x165.jpg?t=1692294115",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1086940/542118/27157a92e289b26416759be7b45bdfcf159dfd49/1750614949/dash_av1.mpd?t=1692294115",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1086940/542118/27157a92e289b26416759be7b45bdfcf159dfd49/1750614949/dash_h264.mpd?t=1692294115",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1086940/542118/27157a92e289b26416759be7b45bdfcf159dfd49/1750614949/hls_264_master.m3u8?t=1692294115",
+     "highlight": true
+    },
+    {
+     "id": 256920587,
+     "name": "Baldur's Gate 3 - The Game Awards Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256920587/movie.293x165.jpg?t=1692294120",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1086940/521182/53c2be911d121fc8ebda8bc9183e0fb55dbd53b7/1750614929/dash_av1.mpd?t=1692294120",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1086940/521182/53c2be911d121fc8ebda8bc9183e0fb55dbd53b7/1750614929/dash_h264.mpd?t=1692294120",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1086940/521182/53c2be911d121fc8ebda8bc9183e0fb55dbd53b7/1750614929/hls_264_master.m3u8?t=1692294120",
+     "highlight": true
+    }
+   ],
+   "recommendations": {
+    "total": 759203
+   },
+   "achievements": {
+    "total": 54,
+    "highlighted": [
+     {
+      "icon": "0cb31fd9ec036550a374aa702a37464a98da3bfa.jpg",
+      "localized_name": "地獄降臨",
+      "archived": 0,
+      "hidden": 0,
+      "name": "地獄降臨",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1086940/0cb31fd9ec036550a374aa702a37464a98da3bfa.jpg"
+     },
+     {
+      "icon": "628cdbbfd2e731735e4817252ce6633bf3bcd8ed.jpg",
+      "localized_name": "前路未蔔",
+      "archived": 0,
+      "hidden": 1,
+      "name": "前路未蔔",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1086940/628cdbbfd2e731735e4817252ce6633bf3bcd8ed.jpg"
+     },
+     {
+      "icon": "3c6d05ff648b66925238963a658ee307e31ff870.jpg",
+      "localized_name": "一座城市在等待",
+      "archived": 0,
+      "hidden": 1,
+      "name": "一座城市在等待",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1086940/3c6d05ff648b66925238963a658ee307e31ff870.jpg"
+     },
+     {
+      "icon": "ecd435323119579216ebcffebae690ae2e5c13eb.jpg",
+      "localized_name": "爆機",
+      "archived": 0,
+      "hidden": 1,
+      "name": "爆機",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1086940/ecd435323119579216ebcffebae690ae2e5c13eb.jpg"
+     },
+     {
+      "icon": "265327d387174ee2160946bcde392352ce635b88.jpg",
+      "localized_name": "至上真神的侵蝕",
+      "archived": 0,
+      "hidden": 1,
+      "name": "至上真神的侵蝕",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1086940/265327d387174ee2160946bcde392352ce635b88.jpg"
+     },
+     {
+      "icon": "7648f980938af51c9f1378ec1171673fc8d8d0b4.jpg",
+      "localized_name": "被遺忘國度的英雄",
+      "archived": 0,
+      "hidden": 1,
+      "name": "被遺忘國度的英雄",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1086940/7648f980938af51c9f1378ec1171673fc8d8d0b4.jpg"
+     },
+     {
+      "icon": "8a149aacb554742ac673bf2531955ce27f4e234c.jpg",
+      "localized_name": "以父之名",
+      "archived": 0,
+      "hidden": 1,
+      "name": "以父之名",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1086940/8a149aacb554742ac673bf2531955ce27f4e234c.jpg"
+     },
+     {
+      "icon": "25eb31d566013ab216bb033cdbea1851d43db6fb.jpg",
+      "localized_name": "腦噬變異",
+      "archived": 0,
+      "hidden": 1,
+      "name": "腦噬變異",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1086940/25eb31d566013ab216bb033cdbea1851d43db6fb.jpg"
+     },
+     {
+      "icon": "9c1231f530788d9aa21e1a858fbb9e85e0cb64f8.jpg",
+      "localized_name": "沉浸式角色扮演",
+      "archived": 0,
+      "hidden": 0,
+      "name": "沉浸式角色扮演",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1086940/9c1231f530788d9aa21e1a858fbb9e85e0cb64f8.jpg"
+     },
+     {
+      "icon": "47daa8cf213809978d0f2ba9b514942c864ce452.jpg",
+      "localized_name": "小憩片刻",
+      "archived": 0,
+      "hidden": 0,
+      "name": "小憩片刻",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1086940/47daa8cf213809978d0f2ba9b514942c864ce452.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2023 年 8 月 3 日"
+   },
+   "support_info": {
+    "url": "https://larian.com/support",
+    "email": ""
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1086940?t=1777363040",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/page_bg_raw.jpg?t=1777363040",
+   "content_descriptors": {
+    "ids": [
+     1,
+     2,
+     5
+    ],
+    "notes": "This Game may contain content not appropriate for all ages. It contains General Mature Content, and may include Nudity or Sexual Content."
+   },
+   "ratings": {
+    "esrb": {
+     "rating": "m",
+     "descriptors": "Intense Violence\r\nBlood and Gore\r\nStrong Sexual Content\r\nNudity\r\nStrong Language",
+     "use_age_gate": "true",
+     "required_age": "17",
+     "interactive_elements": "Users Interact"
+    },
+    "pegi": {
+     "rating": "18",
+     "descriptors": "Violence\r\nBad Language\r\nSex",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "dejus": {
+     "rating": "16",
+     "descriptors": "Violência Extrema\r\nLinguagem imprópria\r\nNudez",
+     "use_age_gate": "true",
+     "required_age": "16"
+    },
+    "csrr": {
+     "rating": "R",
+     "descriptors": "性,\r\n暴力,\r\n不當言語",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "usk": {
+     "rating": "18",
+     "descriptors": "Drastische Gewalt\r\nHorror\r\nSexuelle Inhalte",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "18",
+     "required_age": "18",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Drastische Gewalt\nSexuelle Inhalte\nDerbe Sprache"
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "BANNED",
+     "required_age": "2147483647",
+     "banned": "1",
+     "use_age_gate": "0",
+     "descriptors": "Kekerasan\nPenggunaan bahasa\nInteraksi Daring"
+    },
+    "steam_australia": {
+     "rating_generated": "1",
+     "rating": "R18",
+     "required_age": "18",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "High Impact Sexual Themes\nHigh Impact Violence\nMild Coarse Language"
+    }
+   }
+  }
+ }
+}

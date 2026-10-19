@@ -1,0 +1,503 @@
+{
+ "550": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "Left 4 Dead 2",
+   "steam_appid": 550,
+   "required_age": 0,
+   "is_free": false,
+   "controller_support": "full",
+   "detailed_description": "讓大家引頸期待的《惡靈勢力 2》（L4D2）以僵屍末日為遊戲背景，是 2008 年最受歡迎且獲獎無數的合作遊戲《惡靈勢力》的續作。<br>這款第一人稱射擊恐怖合作動作遊戲，將帶領您和好友穿越美國南部諸州的城市、沼澤和墓地，從薩凡納到新奧爾良，經歷五項漫長的戰役。<br>您將扮演四名全新倖存者中的一位，裝備著種類繁多且火力強大的經典與升級武器。 除了槍支之外，您還有機會用不同的具屠殺能力的近戰武器針對感染者洩憤，例如鏈鋸、斧頭，甚至致命的平底鍋。<br>您將有機會在對付三種恐怖又難纏的全新特殊感染者時（或在對抗模式中扮演這些感染者時），測試這些武器的威力。 您也會遭遇五種新的「不尋常」一般感染者，包括可怕的泥人在內。<br>AI 總管 2.0 即是將《惡靈勢力 2》手忙腳亂、高潮迭起的遊戲體驗提升至更高層次的功臣。 改良後的總管能程序化地改變沿途天氣與您行走的路徑，還可以根據您的表現調整敵人的數量、效果和音效。 《惡靈勢力 2》保證每次遊戲都會帶來令人滿意且格外具挑戰性的體驗，符合您遊戲的風格。<br><ul class=\"bb_ul\"><li>來自《戰慄時空》、《傳送門》、《絕地要塞》和《絕對武力》製作者的新一代合作動作遊戲。<br></li><li>20 多種全新武器和物品，其中有超過 10 種近戰武器——斧頭、鏈鋸、平底鍋、棒球棒——讓您近距離與僵屍廝殺。<br></li><li>全新倖存者。 全新故事。 全新對話。 <br></li><li>五項漫長的戰役，可以合作、對抗和生存模式進行。<br></li><li>全新多人遊戲模式。<br></li><li>「不尋常」的一般感染者。 五項全新戰役的每一項都至少包含一種該戰役專屬的「不尋常」一般感染者。 <br></li><li>AI 總管 2.0：稱為「AI 總管」的先進技術，推動了《惡靈勢力》獨一無二的遊戲體驗， 根據玩家的表現自訂敵人數量、效果和音樂。 《惡靈勢力 2》則具有「AI 總管 2.0」，擴充了總管系統的能力，能自訂關卡路線配置、遊戲世界內的物體、天氣和光源來反映一天中的不同時間。<br></li><li>統計、排名、和獎勵系統促使玩家們在遊戲中合作。</li></ul>",
+   "about_the_game": "讓大家引頸期待的《惡靈勢力 2》（L4D2）以僵屍末日為遊戲背景，是 2008 年最受歡迎且獲獎無數的合作遊戲《惡靈勢力》的續作。<br>這款第一人稱射擊恐怖合作動作遊戲，將帶領您和好友穿越美國南部諸州的城市、沼澤和墓地，從薩凡納到新奧爾良，經歷五項漫長的戰役。<br>您將扮演四名全新倖存者中的一位，裝備著種類繁多且火力強大的經典與升級武器。 除了槍支之外，您還有機會用不同的具屠殺能力的近戰武器針對感染者洩憤，例如鏈鋸、斧頭，甚至致命的平底鍋。<br>您將有機會在對付三種恐怖又難纏的全新特殊感染者時（或在對抗模式中扮演這些感染者時），測試這些武器的威力。 您也會遭遇五種新的「不尋常」一般感染者，包括可怕的泥人在內。<br>AI 總管 2.0 即是將《惡靈勢力 2》手忙腳亂、高潮迭起的遊戲體驗提升至更高層次的功臣。 改良後的總管能程序化地改變沿途天氣與您行走的路徑，還可以根據您的表現調整敵人的數量、效果和音效。 《惡靈勢力 2》保證每次遊戲都會帶來令人滿意且格外具挑戰性的體驗，符合您遊戲的風格。<br><ul class=\"bb_ul\"><li>來自《戰慄時空》、《傳送門》、《絕地要塞》和《絕對武力》製作者的新一代合作動作遊戲。<br></li><li>20 多種全新武器和物品，其中有超過 10 種近戰武器——斧頭、鏈鋸、平底鍋、棒球棒——讓您近距離與僵屍廝殺。<br></li><li>全新倖存者。 全新故事。 全新對話。 <br></li><li>五項漫長的戰役，可以合作、對抗和生存模式進行。<br></li><li>全新多人遊戲模式。<br></li><li>「不尋常」的一般感染者。 五項全新戰役的每一項都至少包含一種該戰役專屬的「不尋常」一般感染者。 <br></li><li>AI 總管 2.0：稱為「AI 總管」的先進技術，推動了《惡靈勢力》獨一無二的遊戲體驗， 根據玩家的表現自訂敵人數量、效果和音樂。 《惡靈勢力 2》則具有「AI 總管 2.0」，擴充了總管系統的能力，能自訂關卡路線配置、遊戲世界內的物體、天氣和光源來反映一天中的不同時間。<br></li><li>統計、排名、和獎勵系統促使玩家們在遊戲中合作。</li></ul>",
+   "short_description": "Set in the zombie apocalypse, Left 4 Dead 2 is a co-operative action horror FPS takes you and your friends through the cities, swamps and cemeteries of the Deep South, from Savannah to New Orleans across five expansive campaigns.",
+   "supported_languages": "丹麥文, 荷蘭文, 英文<strong>*</strong>, 芬蘭文, 法文<strong>*</strong>, 德文<strong>*</strong>, 義大利文, 日文, 韓文, 挪威文, 波蘭文, 葡萄牙文 - 葡萄牙, 俄文<strong>*</strong>, 簡體中文, 西班牙文 - 西班牙<strong>*</strong>, 瑞典文, 繁體中文, 匈牙利文, 土耳其文, 保加利亞文, 捷克文, 希臘文, 葡萄牙文 - 巴西, 羅馬尼亞文, 西班牙文 - 拉丁美洲, 泰文, 烏克蘭文, 越南文<br><strong>*</strong>具備完整音效支援的語言",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg?t=1772742214",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/capsule_231x87.jpg?t=1772742214",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/capsule_184x69.jpg?t=1772742214",
+   "website": "http://www.l4d.com",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統 *:</strong> Windows® 7 32/64-bit / Vista 32/64 / XP<br></li><li><strong>處理器:</strong> Pentium 4 3.0GHz<br></li><li><strong>記憶體:</strong> 2 GB 記憶體<br></li><li><strong>顯示卡:</strong> Video card with 128 MB, Shader model 2.0. ATI X800, NVidia 6600 or better<br></li><li><strong>DirectX:</strong> 版本：9.0c<br></li><li><strong>儲存空間:</strong> 13 GB 可用空間<br></li><li><strong>音效卡:</strong> DirectX 9.0c compatible sound card</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統 *:</strong> Windows® 7 32/64-bit / Vista 32/64 / XP<br></li><li><strong>處理器:</strong> Intel core 2 duo 2.4GHz<br></li><li><strong>記憶體:</strong> 2 GB 記憶體<br></li><li><strong>顯示卡:</strong> Video Card Shader model 3.0. NVidia 7600, ATI X1600 or better<br></li><li><strong>DirectX:</strong> 版本：9.0c<br></li><li><strong>儲存空間:</strong> 13 GB 可用空間<br></li><li><strong>音效卡:</strong> DirectX 9.0c compatible sound card</li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> MacOS 10.7<br></li><li><strong>處理器:</strong> Dual core Intel processor, 2GHz or better<br></li><li><strong>記憶體:</strong> 2 GB 記憶體<br></li><li><strong>顯示卡:</strong> ATI Radeon 2400 or higher / NVIDIA 8600M or higher / Intel HD Graphics 3000<br></li><li><strong>儲存空間:</strong> 13 GB 可用空間<br></li><li><strong>備註:</strong> Not supported: OS X 10.5.x, ATI X1600 or X1900 graphics, NVIDIA GeForce 7 graphics or Intel graphics less than Intel HD 3000.</li></ul>"
+   },
+   "linux_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Ubuntu 12.04<br></li><li><strong>處理器:</strong> Dual core from Intel or AMD at 2.8 GHz<br></li><li><strong>記憶體:</strong> 2 GB 記憶體<br></li><li><strong>顯示卡:</strong> nVidia GeForce 8600/9600GT, ATI/AMD Radeon HD2600/3600 (Graphic Drivers: nVidia 310, AMD 12.11), OpenGL 2.1<br></li><li><strong>儲存空間:</strong> 13 GB 可用空間<br></li><li><strong>音效卡:</strong> OpenAL Compatible Sound Card</li></ul>"
+   },
+   "developers": [
+    "Valve"
+   ],
+   "publishers": [
+    "Valve"
+   ],
+   "price_overview": {
+    "currency": "TWD",
+    "initial": 19800,
+    "final": 19800,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "NT$ 198"
+   },
+   "packages": [
+    220726,
+    2481
+   ],
+   "package_groups": [
+    {
+     "name": "default",
+     "title": "購買 Left 4 Dead 2",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 220726,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "Left 4 Dead 2 - Commercial License - NT$ 186",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 18600
+      },
+      {
+       "packageid": 2481,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "Left 4 Dead 2 - NT$ 198",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 19800
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": true
+   },
+   "metacritic": {
+    "score": 89,
+    "url": "https://www.metacritic.com/game/pc/left-4-dead-2?ftag=MCD-06-10aaa1f"
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 49,
+     "description": "玩家對戰"
+    },
+    {
+     "id": 36,
+     "description": "線上玩家對戰"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 28,
+     "description": "完整控制器支援"
+    },
+    {
+     "id": 29,
+     "description": "Steam 交換卡片"
+    },
+    {
+     "id": 13,
+     "description": "有字幕"
+    },
+    {
+     "id": 30,
+     "description": "Steam 工作坊"
+    },
+    {
+     "id": 67,
+     "description": "鏡頭舒適度"
+    },
+    {
+     "id": 66,
+     "description": "顏色替代選項"
+    },
+    {
+     "id": 68,
+     "description": "自訂音量控制"
+    },
+    {
+     "id": 78,
+     "description": "可調整難度"
+    },
+    {
+     "id": 74,
+     "description": "遊玩無需快速反應"
+    },
+    {
+     "id": 55,
+     "description": "DUALSHOCK 控制器支援"
+    },
+    {
+     "id": 56,
+     "description": "DUALSHOCK 控制器支援"
+    },
+    {
+     "id": 57,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 58,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 59,
+     "description": "Steam 輸入 API 支援"
+    },
+    {
+     "id": 69,
+     "description": "立體聲"
+    },
+    {
+     "id": 70,
+     "description": "環繞音效"
+    },
+    {
+     "id": 23,
+     "description": "Steam 雲端"
+    },
+    {
+     "id": 8,
+     "description": "具有 Valve 防作弊系統"
+    },
+    {
+     "id": 15,
+     "description": "統計"
+    },
+    {
+     "id": 16,
+     "description": "包含 Source SDK"
+    },
+    {
+     "id": 14,
+     "description": "有語音解說"
+    },
+    {
+     "id": 41,
+     "description": "在手機上遠端暢玩"
+    },
+    {
+     "id": 42,
+     "description": "在平板上遠端暢玩"
+    },
+    {
+     "id": 43,
+     "description": "在電視上遠端暢玩"
+    },
+    {
+     "id": 44,
+     "description": "遠端同樂"
+    },
+    {
+     "id": 62,
+     "description": "親友同享"
+    },
+    {
+     "id": 63,
+     "description": "Steam 時間軸"
+    }
+   ],
+   "genres": [
+    {
+     "id": "1",
+     "description": "動作"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_2eae29fbdfe8e5e8999b96d8bb28c5db70507968.600x338.jpg?t=1772742214",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_2eae29fbdfe8e5e8999b96d8bb28c5db70507968.1920x1080.jpg?t=1772742214"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_29b3b4f2a3994c889f6fc12e0781d9d4726ef33f.600x338.jpg?t=1772742214",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_29b3b4f2a3994c889f6fc12e0781d9d4726ef33f.1920x1080.jpg?t=1772742214"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_9488e329bb42d792a059fb44cb7135d25b6262f5.600x338.jpg?t=1772742214",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_9488e329bb42d792a059fb44cb7135d25b6262f5.1920x1080.jpg?t=1772742214"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_6ec4ee04d4924b099e25ce79f3d6571c3b623b3b.600x338.jpg?t=1772742214",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_6ec4ee04d4924b099e25ce79f3d6571c3b623b3b.1920x1080.jpg?t=1772742214"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_73ad69168a263ce585e4823d9607d901719ca3c5.600x338.jpg?t=1772742214",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_73ad69168a263ce585e4823d9607d901719ca3c5.1920x1080.jpg?t=1772742214"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_a9c1227ffe8a1968e234b3ebda08e773fc619e37.600x338.jpg?t=1772742214",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_a9c1227ffe8a1968e234b3ebda08e773fc619e37.1920x1080.jpg?t=1772742214"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_ba2ea2eda245f89626277457ae2ab76ba997f46a.600x338.jpg?t=1772742214",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_ba2ea2eda245f89626277457ae2ab76ba997f46a.1920x1080.jpg?t=1772742214"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_7098be159cfe3cc524fb68b2585f643324cc1078.600x338.jpg?t=1772742214",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_7098be159cfe3cc524fb68b2585f643324cc1078.1920x1080.jpg?t=1772742214"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_67275710127ce20b62015718dbf84147fde7fc17.600x338.jpg?t=1772742214",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_67275710127ce20b62015718dbf84147fde7fc17.1920x1080.jpg?t=1772742214"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_d97ee8bd9a512f350bd9433730db26da76ff7a29.600x338.jpg?t=1772742214",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_d97ee8bd9a512f350bd9433730db26da76ff7a29.1920x1080.jpg?t=1772742214"
+    },
+    {
+     "id": 10,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_6d2a44e590caa0cc2946d8397d4dd160cbd3f6ed.600x338.jpg?t=1772742214",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_6d2a44e590caa0cc2946d8397d4dd160cbd3f6ed.1920x1080.jpg?t=1772742214"
+    },
+    {
+     "id": 11,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_b7e72ed4d0af894a61d8c6bb5def3d169f56c702.600x338.jpg?t=1772742214",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_b7e72ed4d0af894a61d8c6bb5def3d169f56c702.1920x1080.jpg?t=1772742214"
+    },
+    {
+     "id": 12,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_b8bcf2ebdb67a32b4a1e7273a4e9eae92243ed64.600x338.jpg?t=1772742214",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_b8bcf2ebdb67a32b4a1e7273a4e9eae92243ed64.1920x1080.jpg?t=1772742214"
+    },
+    {
+     "id": 13,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_40c3f02a01ce435ea776b07fde7710c66532e6b6.600x338.jpg?t=1772742214",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_40c3f02a01ce435ea776b07fde7710c66532e6b6.1920x1080.jpg?t=1772742214"
+    },
+    {
+     "id": 14,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_13912b20f591bfde622fc87174b3265a579bd9c9.600x338.jpg?t=1772742214",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_13912b20f591bfde622fc87174b3265a579bd9c9.1920x1080.jpg?t=1772742214"
+    },
+    {
+     "id": 15,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_2b06e1786598ab033411c27600de1868f023c663.600x338.jpg?t=1772742214",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_2b06e1786598ab033411c27600de1868f023c663.1920x1080.jpg?t=1772742214"
+    },
+    {
+     "id": 16,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_1d9d6e638c8ad4b04fac0f49ca32947b31396f24.600x338.jpg?t=1772742214",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_1d9d6e638c8ad4b04fac0f49ca32947b31396f24.1920x1080.jpg?t=1772742214"
+    }
+   ],
+   "movies": [
+    {
+     "id": 5952,
+     "name": "Left 4 Dead - The Sacrifice Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5952/movie.293x165.jpg?t=1682697457",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/550/4183/7fdfab73a52d6b4e69a693f77c66620c53086cbd/1749861554/dash_av1.mpd?t=1682697457",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/550/4183/7fdfab73a52d6b4e69a693f77c66620c53086cbd/1749861554/dash_h264.mpd?t=1682697457",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/550/4183/7fdfab73a52d6b4e69a693f77c66620c53086cbd/1749861554/hls_264_master.m3u8?t=1682697457",
+     "highlight": false
+    },
+    {
+     "id": 5489,
+     "name": "Left 4 Dead 2 - TV Spot 2",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5489/movie.jpg?t=1447352698",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/550/2835/ca3dc2781658e9eaa5129781204f7b126f04ecf7/1749861554/dash_av1.mpd?t=1447352698",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/550/2835/ca3dc2781658e9eaa5129781204f7b126f04ecf7/1749861554/dash_h264.mpd?t=1447352698",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/550/2835/ca3dc2781658e9eaa5129781204f7b126f04ecf7/1749861554/hls_264_master.m3u8?t=1447352698",
+     "highlight": false
+    },
+    {
+     "id": 5268,
+     "name": "Left 4 Dead 2 Teaser",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5268/movie.jpg?t=1447352170",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/550/2063/5a66ec1afd41bc64a8a84354bd9755acdb83b75e/1750107723/dash_av1.mpd?t=1447352170",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/550/2063/5a66ec1afd41bc64a8a84354bd9755acdb83b75e/1750107723/dash_h264.mpd?t=1447352170",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/550/2063/5a66ec1afd41bc64a8a84354bd9755acdb83b75e/1750107723/hls_264_master.m3u8?t=1447352170",
+     "highlight": false
+    }
+   ],
+   "recommendations": {
+    "total": 822649
+   },
+   "achievements": {
+    "total": 101,
+    "highlighted": [
+     {
+      "icon": "3e5f908b03356376b53cfc3ea3f7e9eda974be89.jpg",
+      "localized_name": "小丑當家",
+      "archived": 0,
+      "hidden": 0,
+      "name": "小丑當家",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/550/3e5f908b03356376b53cfc3ea3f7e9eda974be89.jpg"
+     },
+     {
+      "icon": "8a1dbb0d78c8e288ed5ce990a20454073d01ba9b.jpg",
+      "localized_name": "燃燒吧領隊",
+      "archived": 0,
+      "hidden": 0,
+      "name": "燃燒吧領隊",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/550/8a1dbb0d78c8e288ed5ce990a20454073d01ba9b.jpg"
+     },
+     {
+      "icon": "ef2d3b6a36844347dec901fb55785b306ab77b37.jpg",
+      "localized_name": "衝鋒終結者",
+      "archived": 0,
+      "hidden": 0,
+      "name": "衝鋒終結者",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/550/ef2d3b6a36844347dec901fb55785b306ab77b37.jpg"
+     },
+     {
+      "icon": "8d94a8ffcb20fd11de547a6972bcef319fd93bf6.jpg",
+      "localized_name": "酸性反射",
+      "archived": 0,
+      "hidden": 0,
+      "name": "酸性反射",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/550/8d94a8ffcb20fd11de547a6972bcef319fd93bf6.jpg"
+     },
+     {
+      "icon": "e5459cc284c03c7a5e1dc0a5d9a62aaec6145cc8.jpg",
+      "localized_name": "勇者無懼",
+      "archived": 0,
+      "hidden": 0,
+      "name": "勇者無懼",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/550/e5459cc284c03c7a5e1dc0a5d9a62aaec6145cc8.jpg"
+     },
+     {
+      "icon": "b1b772b233b812fd410aee1f175f8b1cb4fe4e43.jpg",
+      "localized_name": "野蠻動物園",
+      "archived": 0,
+      "hidden": 0,
+      "name": "野蠻動物園",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/550/b1b772b233b812fd410aee1f175f8b1cb4fe4e43.jpg"
+     },
+     {
+      "icon": "b65a6518c0680448e996e2190d1ed6b00ad14935.jpg",
+      "localized_name": "請勿試乘",
+      "archived": 0,
+      "hidden": 0,
+      "name": "請勿試乘",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/550/b65a6518c0680448e996e2190d1ed6b00ad14935.jpg"
+     },
+     {
+      "icon": "bb9a6bbc403fd451045e679a2adf4a162f6c2446.jpg",
+      "localized_name": "獵頭首腦",
+      "archived": 0,
+      "hidden": 0,
+      "name": "獵頭首腦",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/550/bb9a6bbc403fd451045e679a2adf4a162f6c2446.jpg"
+     },
+     {
+      "icon": "9da6a1b388219bcc4cded459d1daa7b4c5dbd438.jpg",
+      "localized_name": "暖人心房",
+      "archived": 0,
+      "hidden": 0,
+      "name": "暖人心房",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/550/9da6a1b388219bcc4cded459d1daa7b4c5dbd438.jpg"
+     },
+     {
+      "icon": "a23c4f24570f3f06581adb6d7f394a9924a3c319.jpg",
+      "localized_name": "真金不怕火煉",
+      "archived": 0,
+      "hidden": 0,
+      "name": "真金不怕火煉",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/550/a23c4f24570f3f06581adb6d7f394a9924a3c319.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2009 年 11 月 16 日"
+   },
+   "support_info": {
+    "url": "http://steamcommunity.com/app/550",
+    "email": ""
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/550?t=1772742214",
+   "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/550?t=1772742214",
+   "content_descriptors": {
+    "ids": [
+     2,
+     5
+    ],
+    "notes": "《惡靈勢力 2》含有強烈暴力、流血和血腥畫面（包括將僵屍般的生物斬首或肢解），以及一些粗話。"
+   },
+   "ratings": {
+    "oflc": {
+     "rating": "r18",
+     "use_age_gate": "true",
+     "required_age": "17"
+    },
+    "kgrb": {
+     "rating": "18",
+     "use_age_gate": "true",
+     "required_age": "17"
+    },
+    "usk": {
+     "rating": "18"
+    },
+    "dejus": {
+     "rating_generated": "1",
+     "rating": "14",
+     "required_age": "14",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Violência"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "16",
+     "required_age": "16",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Drastische Gewalt"
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "18",
+     "required_age": "18",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Interaksi Daring\nKekerasan\nHoror"
+    },
+    "steam_australia": {
+     "rating_generated": "1",
+     "rating": "MA15",
+     "required_age": "16",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Strong Violence\nMild horror themes"
+    }
+   }
+  }
+ }
+}

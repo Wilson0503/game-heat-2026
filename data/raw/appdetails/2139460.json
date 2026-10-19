@@ -1,0 +1,378 @@
+{
+ "2139460": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "Once Human",
+   "steam_appid": 2139460,
+   "required_age": "18",
+   "is_free": true,
+   "controller_support": "full",
+   "dlc": [
+    3816110,
+    3379260
+   ],
+   "detailed_description": "<h1>Join our Discord!</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/31ea786f1b3e4888cadc1fda1ce338dd.avif?t=1792202672\" width=616 height=130 /></span></p><br><h1>關於此遊戲</h1><h2 class=\"bb_tag\" ><strong>星球隕落，你是荒野中的求生者</strong></h2><p class=\"bb_paragraph\" >你在一片荒野中醒來，饑渴難耐，周遭的瓜果與流水觸手可及，卻隱現詭異的藍光——這些被星塵汙染的飲食不僅會損害健康，還會使你的理智逐漸崩潰……更多的危險蟄伏在暗處，等待著你力竭倒地後撲上來將你分食。超越者，別讓它們如願。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/0b4e45fcad2456b08efd6ffd6a95bcda.poster.avif?t=1792202672\" width=600 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/0b4e45fcad2456b08efd6ffd6a95bcda.webm?t=1792202672\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/0b4e45fcad2456b08efd6ffd6a95bcda.mp4?t=1792202672\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>銀之門洞開，你是挑戰異次元生物的戰士</strong></h2><p class=\"bb_paragraph\" >星塵浩劫滋生出難以計量的異變體，這些恐怖的怪物占據了幾乎整個世界。必須從它們手中收復人類的故土！雖然異變體一直將人類視作獵物，但現在，超越者，這世界有了你…該換我們成為獵人了。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/9fb19adaf01135b5c74d4545182271aa.poster.avif?t=1792202672\" width=600 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/9fb19adaf01135b5c74d4545182271aa.webm?t=1792202672\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/9fb19adaf01135b5c74d4545182271aa.mp4?t=1792202672\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>火力是末日的唯一真理，你是運用槍械的大師</strong></h2><p class=\"bb_paragraph\" >7大槍械分類，超100種槍械藍圖等待你收集打造，每一把武器都能給你帶來全新體驗。要是現成的武器無法滿足你的戰鬥欲望，你還可以使用配件來自由改造槍械，並組建你的專屬槍械天賦，讓每一場遭遇戰都成為你多變戰術的檢驗場！</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/fb837f5127d3dc85caf546f36a7e4a19.poster.avif?t=1792202672\" width=600 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/fb837f5127d3dc85caf546f36a7e4a19.webm?t=1792202672\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/fb837f5127d3dc85caf546f36a7e4a19.mp4?t=1792202672\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>文明傾頹，你是人類文明的重鑄者</strong></h2><p class=\"bb_paragraph\" >在荒野上，任何一個位置，建造你專屬的家園吧！你可以建造一座極具生存主義風格的城寨：把一切你收集的好東西都塞到金屬墻壁後面，在外圍布滿防禦設施；或者你也可以在確保安全的前提下，建造一所功能齊全的大型生存點：擁有露臺、廚房、車庫……等的大房子！</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/45c03fae8ce89d9cb0e2e487eb85ccc4.poster.avif?t=1792202672\" width=600 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/45c03fae8ce89d9cb0e2e487eb85ccc4.webm?t=1792202672\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/45c03fae8ce89d9cb0e2e487eb85ccc4.mp4?t=1792202672\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>往日不再，你是世界淪陷真相的探尋者</strong></h2><p class=\"bb_paragraph\" >在探尋浩劫真相的旅途中，你永遠不是孤身一人。荒野上存在著大大小小的倖存者勢力，有的充滿了暴力和敵意，有些則願意謹慎地與外來者進行接觸。前往倖存者的據點去深入了解他們的故事吧——是在解決威脅當地的異變體後不留姓名地離去？還是討價還價獲得你應得的報酬？選擇權在你手上。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/6a93a33aceaa3696addb891058fae574.poster.avif?t=1792202672\" width=600 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/6a93a33aceaa3696addb891058fae574.webm?t=1792202672\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/6a93a33aceaa3696addb891058fae574.mp4?t=1792202672\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p>",
+   "about_the_game": "<h2 class=\"bb_tag\" ><strong>星球隕落，你是荒野中的求生者</strong></h2><p class=\"bb_paragraph\" >你在一片荒野中醒來，饑渴難耐，周遭的瓜果與流水觸手可及，卻隱現詭異的藍光——這些被星塵汙染的飲食不僅會損害健康，還會使你的理智逐漸崩潰……更多的危險蟄伏在暗處，等待著你力竭倒地後撲上來將你分食。超越者，別讓它們如願。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/0b4e45fcad2456b08efd6ffd6a95bcda.poster.avif?t=1792202672\" width=600 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/0b4e45fcad2456b08efd6ffd6a95bcda.webm?t=1792202672\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/0b4e45fcad2456b08efd6ffd6a95bcda.mp4?t=1792202672\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>銀之門洞開，你是挑戰異次元生物的戰士</strong></h2><p class=\"bb_paragraph\" >星塵浩劫滋生出難以計量的異變體，這些恐怖的怪物占據了幾乎整個世界。必須從它們手中收復人類的故土！雖然異變體一直將人類視作獵物，但現在，超越者，這世界有了你…該換我們成為獵人了。</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/9fb19adaf01135b5c74d4545182271aa.poster.avif?t=1792202672\" width=600 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/9fb19adaf01135b5c74d4545182271aa.webm?t=1792202672\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/9fb19adaf01135b5c74d4545182271aa.mp4?t=1792202672\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>火力是末日的唯一真理，你是運用槍械的大師</strong></h2><p class=\"bb_paragraph\" >7大槍械分類，超100種槍械藍圖等待你收集打造，每一把武器都能給你帶來全新體驗。要是現成的武器無法滿足你的戰鬥欲望，你還可以使用配件來自由改造槍械，並組建你的專屬槍械天賦，讓每一場遭遇戰都成為你多變戰術的檢驗場！</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/fb837f5127d3dc85caf546f36a7e4a19.poster.avif?t=1792202672\" width=600 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/fb837f5127d3dc85caf546f36a7e4a19.webm?t=1792202672\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/fb837f5127d3dc85caf546f36a7e4a19.mp4?t=1792202672\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>文明傾頹，你是人類文明的重鑄者</strong></h2><p class=\"bb_paragraph\" >在荒野上，任何一個位置，建造你專屬的家園吧！你可以建造一座極具生存主義風格的城寨：把一切你收集的好東西都塞到金屬墻壁後面，在外圍布滿防禦設施；或者你也可以在確保安全的前提下，建造一所功能齊全的大型生存點：擁有露臺、廚房、車庫……等的大房子！</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/45c03fae8ce89d9cb0e2e487eb85ccc4.poster.avif?t=1792202672\" width=600 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/45c03fae8ce89d9cb0e2e487eb85ccc4.webm?t=1792202672\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/45c03fae8ce89d9cb0e2e487eb85ccc4.mp4?t=1792202672\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>往日不再，你是世界淪陷真相的探尋者</strong></h2><p class=\"bb_paragraph\" >在探尋浩劫真相的旅途中，你永遠不是孤身一人。荒野上存在著大大小小的倖存者勢力，有的充滿了暴力和敵意，有些則願意謹慎地與外來者進行接觸。前往倖存者的據點去深入了解他們的故事吧——是在解決威脅當地的異變體後不留姓名地離去？還是討價還價獲得你應得的報酬？選擇權在你手上。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/6a93a33aceaa3696addb891058fae574.poster.avif?t=1792202672\" width=600 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/6a93a33aceaa3696addb891058fae574.webm?t=1792202672\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/extras/6a93a33aceaa3696addb891058fae574.mp4?t=1792202672\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p>",
+   "short_description": "《Once Human》是一款怪奇世界生存遊戲，遊戲發生在一個怪誕的末日世界中，你需要和好友並肩為了生存資源而戰，建造你們的家園領地，並一起戰勝恐怖的未知，揭露世界淪陷的真相。曾經，你是人類中的一份子。現在，你仍是嗎？",
+   "supported_languages": "英文<strong>*</strong>, 簡體中文<strong>*</strong>, 法文, 德文, 日文, 韓文, 繁體中文, 葡萄牙文 - 巴西, 西班牙文 - 拉丁美洲, 俄文<br><strong>*</strong>具備完整音效支援的語言",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/c18b08a2f93dec32fcc5fa71bc2da44ee42de1f0/header.jpg?t=1792202672",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/71f8ca678f3eb4f9ac609603cefc02216cabcdb1/capsule_231x87.jpg?t=1792202672",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/71f8ca678f3eb4f9ac609603cefc02216cabcdb1/capsule_184x69.jpg?t=1792202672",
+   "website": "https://t.co/gRX2BR4tj9",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 10 64-bit Operating System<br></li><li><strong>處理器:</strong> Intel Core i5-4460 / Snapdragon® X<br></li><li><strong>記憶體:</strong> 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> Nvidia GTX 750ti 4G / AMD Radeon RX550 / Qualcomm® Adreno X1 GPU<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 100 GB 可用空間<br></li><li><strong>備註:</strong> SSD is highly recommended</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 10 64-bit Operating System<br></li><li><strong>處理器:</strong> Intel Core i7-7700 / Snapdragon® X2 Elite<br></li><li><strong>記憶體:</strong> 16 GB 記憶體<br></li><li><strong>顯示卡:</strong> Nvidia GTX 1060 6G / AMD Radeon RX 580 2304SP / Intel ARC A380 / Qualcomm® Adreno X2 GPU<br></li><li><strong>DirectX:</strong> 版本：12<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 100 GB 可用空間<br></li><li><strong>備註:</strong> SSD is highly recommended</li></ul>"
+   },
+   "mac_requirements": [],
+   "linux_requirements": [],
+   "legal_notice": "©1997-2022 NetEase, lnc. All Rights Reserved.",
+   "developers": [
+    "Starry Studio"
+   ],
+   "publishers": [
+    "Starry Studio",
+    "NetEase Games"
+   ],
+   "package_groups": [],
+   "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+   },
+   "categories": [
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 20,
+     "description": "大型多人線上"
+    },
+    {
+     "id": 49,
+     "description": "玩家對戰"
+    },
+    {
+     "id": 36,
+     "description": "線上玩家對戰"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 28,
+     "description": "完整控制器支援"
+    },
+    {
+     "id": 29,
+     "description": "Steam 交換卡片"
+    },
+    {
+     "id": 35,
+     "description": "應用程式內購買"
+    },
+    {
+     "id": 55,
+     "description": "DUALSHOCK 控制器支援"
+    },
+    {
+     "id": 56,
+     "description": "DUALSHOCK 控制器支援"
+    },
+    {
+     "id": 57,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 58,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 62,
+     "description": "親友同享"
+    }
+   ],
+   "genres": [
+    {
+     "id": "1",
+     "description": "動作"
+    },
+    {
+     "id": "25",
+     "description": "冒險"
+    },
+    {
+     "id": "4",
+     "description": "休閒"
+    },
+    {
+     "id": "29",
+     "description": "大型多人連線"
+    },
+    {
+     "id": "9",
+     "description": "競速"
+    },
+    {
+     "id": "3",
+     "description": "角色扮演"
+    },
+    {
+     "id": "28",
+     "description": "模擬"
+    },
+    {
+     "id": "2",
+     "description": "策略"
+    },
+    {
+     "id": "37",
+     "description": "免費遊玩"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/d4a1bcb2b2ce32e46fed9f6b0d5024762bfa5cc2/ss_d4a1bcb2b2ce32e46fed9f6b0d5024762bfa5cc2.600x338.jpg?t=1792202672",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/d4a1bcb2b2ce32e46fed9f6b0d5024762bfa5cc2/ss_d4a1bcb2b2ce32e46fed9f6b0d5024762bfa5cc2.1920x1080.jpg?t=1792202672"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/6b54d3d82b3497a8bec69372e0eec4c1352bb5bc/ss_6b54d3d82b3497a8bec69372e0eec4c1352bb5bc.600x338.jpg?t=1792202672",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/6b54d3d82b3497a8bec69372e0eec4c1352bb5bc/ss_6b54d3d82b3497a8bec69372e0eec4c1352bb5bc.1920x1080.jpg?t=1792202672"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/ae02d8ce10f7613c9132227271298ad8266707dc/ss_ae02d8ce10f7613c9132227271298ad8266707dc.600x338.jpg?t=1792202672",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/ae02d8ce10f7613c9132227271298ad8266707dc/ss_ae02d8ce10f7613c9132227271298ad8266707dc.1920x1080.jpg?t=1792202672"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/ss_c22678575e3790f85d1ee047022bfef5c3555056.600x338.jpg?t=1792202672",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/ss_c22678575e3790f85d1ee047022bfef5c3555056.1920x1080.jpg?t=1792202672"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/ss_bab7e8dff3944d83d08310b47b8facb64a7abca9.600x338.jpg?t=1792202672",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/ss_bab7e8dff3944d83d08310b47b8facb64a7abca9.1920x1080.jpg?t=1792202672"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/ss_1ae7debe7f68a4cdde727d984d9e724f65767d66.600x338.jpg?t=1792202672",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/ss_1ae7debe7f68a4cdde727d984d9e724f65767d66.1920x1080.jpg?t=1792202672"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/bd735ae180637a693851f7162174fd02a6e669fd/ss_bd735ae180637a693851f7162174fd02a6e669fd.600x338.jpg?t=1792202672",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/bd735ae180637a693851f7162174fd02a6e669fd/ss_bd735ae180637a693851f7162174fd02a6e669fd.1920x1080.jpg?t=1792202672"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/c01807e6fbec97aa278b54b8ff1c10e093ebc9be/ss_c01807e6fbec97aa278b54b8ff1c10e093ebc9be.600x338.jpg?t=1792202672",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/c01807e6fbec97aa278b54b8ff1c10e093ebc9be/ss_c01807e6fbec97aa278b54b8ff1c10e093ebc9be.1920x1080.jpg?t=1792202672"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/f17466dc01610da8e5bd08865ef7e2093fd6c12d/ss_f17466dc01610da8e5bd08865ef7e2093fd6c12d.600x338.jpg?t=1792202672",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/f17466dc01610da8e5bd08865ef7e2093fd6c12d/ss_f17466dc01610da8e5bd08865ef7e2093fd6c12d.1920x1080.jpg?t=1792202672"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/06e55484d795ff7811bf128ceb22e59f32c2bc0f/ss_06e55484d795ff7811bf128ceb22e59f32c2bc0f.600x338.jpg?t=1792202672",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/06e55484d795ff7811bf128ceb22e59f32c2bc0f/ss_06e55484d795ff7811bf128ceb22e59f32c2bc0f.1920x1080.jpg?t=1792202672"
+    },
+    {
+     "id": 10,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/3a8e2bcbeee4641dc0b33bebe6c7cf621632834f/ss_3a8e2bcbeee4641dc0b33bebe6c7cf621632834f.600x338.jpg?t=1792202672",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/3a8e2bcbeee4641dc0b33bebe6c7cf621632834f/ss_3a8e2bcbeee4641dc0b33bebe6c7cf621632834f.1920x1080.jpg?t=1792202672"
+    },
+    {
+     "id": 11,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/459109368e4d8cf0866d91284df534df6fcf1456/ss_459109368e4d8cf0866d91284df534df6fcf1456.600x338.jpg?t=1792202672",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/459109368e4d8cf0866d91284df534df6fcf1456/ss_459109368e4d8cf0866d91284df534df6fcf1456.1920x1080.jpg?t=1792202672"
+    },
+    {
+     "id": 12,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/ss_ea488d150e5ce0ab51a33ec27787db1befeb7610.600x338.jpg?t=1792202672",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/ss_ea488d150e5ce0ab51a33ec27787db1befeb7610.1920x1080.jpg?t=1792202672"
+    },
+    {
+     "id": 13,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/ss_001526dade6e9f28c6711932250e3734c45bea01.600x338.jpg?t=1792202672",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/ss_001526dade6e9f28c6711932250e3734c45bea01.1920x1080.jpg?t=1792202672"
+    },
+    {
+     "id": 14,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/d1b1410816cf4a273648f79e6cff722279221298/ss_d1b1410816cf4a273648f79e6cff722279221298.600x338.jpg?t=1792202672",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/d1b1410816cf4a273648f79e6cff722279221298/ss_d1b1410816cf4a273648f79e6cff722279221298.1920x1080.jpg?t=1792202672"
+    },
+    {
+     "id": 15,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/02e89ca867b2e81c1349e950e2a70382b6ab79ee/ss_02e89ca867b2e81c1349e950e2a70382b6ab79ee.600x338.jpg?t=1792202672",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/02e89ca867b2e81c1349e950e2a70382b6ab79ee/ss_02e89ca867b2e81c1349e950e2a70382b6ab79ee.1920x1080.jpg?t=1792202672"
+    }
+   ],
+   "movies": [
+    {
+     "id": 256998828,
+     "name": "Once Human Gameplay Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256998828/3483323a38c0dea707300cdeabd12a95aac0d261/movie_600x337.jpg?t=1754647996",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2139460/658659/d6c272a0074e6e5a5843aa6428ee0a5374ad0efa/1750837294/dash_av1.mpd?t=1754647996",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2139460/658659/d6c272a0074e6e5a5843aa6428ee0a5374ad0efa/1750837294/dash_h264.mpd?t=1754647996",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2139460/658659/d6c272a0074e6e5a5843aa6428ee0a5374ad0efa/1750837294/hls_264_master.m3u8?t=1754647996",
+     "highlight": true
+    },
+    {
+     "id": 257316469,
+     "name": "Eternaland Terraforming",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257316469/ea221bae9fee8d56c9e689d9efa46f2d71f53e8e/movie_600x337.jpg?t=1775704161",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2139460/1781919118/330633bfc2ec77089d446159dfa769c5bc85208e/1775700353/dash_av1.mpd?t=1775704161",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2139460/1781919118/330633bfc2ec77089d446159dfa769c5bc85208e/1775700353/dash_h264.mpd?t=1775704161",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2139460/1781919118/330633bfc2ec77089d446159dfa769c5bc85208e/1775700353/hls_264_master.m3u8?t=1775704161",
+     "highlight": false
+    }
+   ],
+   "achievements": {
+    "total": 36,
+    "highlighted": [
+     {
+      "icon": "ec2325166989a6548700cb32a5d0fdfd756bbd88.jpg",
+      "localized_name": "腐影退散",
+      "archived": 0,
+      "hidden": 0,
+      "name": "腐影退散",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2139460/ec2325166989a6548700cb32a5d0fdfd756bbd88.jpg"
+     },
+     {
+      "icon": "430b1fad5da077fd6f32fc04389b267651e70fd1.jpg",
+      "localized_name": "孽根拔除",
+      "archived": 0,
+      "hidden": 0,
+      "name": "孽根拔除",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2139460/430b1fad5da077fd6f32fc04389b267651e70fd1.jpg"
+     },
+     {
+      "icon": "30b7531f113c939c960a85e302ea4ff3725114d6.jpg",
+      "localized_name": "蛛巢肅清",
+      "archived": 0,
+      "hidden": 0,
+      "name": "蛛巢肅清",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2139460/30b7531f113c939c960a85e302ea4ff3725114d6.jpg"
+     },
+     {
+      "icon": "6d651f798043c7061d8453c62bc463dad6be9ced.jpg",
+      "localized_name": "惡犬伏誅",
+      "archived": 0,
+      "hidden": 0,
+      "name": "惡犬伏誅",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2139460/6d651f798043c7061d8453c62bc463dad6be9ced.jpg"
+     },
+     {
+      "icon": "a5f35776eb1ea6f892066912a13a775801e483a2.jpg",
+      "localized_name": "想起來啦！",
+      "archived": 0,
+      "hidden": 0,
+      "name": "想起來啦！",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2139460/a5f35776eb1ea6f892066912a13a775801e483a2.jpg"
+     },
+     {
+      "icon": "5e8cc08926fc1b72790e6fe30101686f7a418ee6.jpg",
+      "localized_name": "收容設施探險家",
+      "archived": 0,
+      "hidden": 0,
+      "name": "收容設施探險家",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2139460/5e8cc08926fc1b72790e6fe30101686f7a418ee6.jpg"
+     },
+     {
+      "icon": "4904220884f98471bf9c57dcd6d8d82594287ac0.jpg",
+      "localized_name": "絕境孤狼",
+      "archived": 0,
+      "hidden": 0,
+      "name": "絕境孤狼",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2139460/4904220884f98471bf9c57dcd6d8d82594287ac0.jpg"
+     },
+     {
+      "icon": "1267e0322984acc5e4b64d8d9493b7852c6e8224.jpg",
+      "localized_name": "第一次收容",
+      "archived": 0,
+      "hidden": 0,
+      "name": "第一次收容",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2139460/1267e0322984acc5e4b64d8d9493b7852c6e8224.jpg"
+     },
+     {
+      "icon": "e00e37f528e0e298712fcad85171dc52e063ce4d.jpg",
+      "localized_name": "收容大師",
+      "archived": 0,
+      "hidden": 0,
+      "name": "收容大師",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2139460/e00e37f528e0e298712fcad85171dc52e063ce4d.jpg"
+     },
+     {
+      "icon": "032fe21a61a0b7c709e570e49758f70ce021dd90.jpg",
+      "localized_name": "完美異常物",
+      "archived": 0,
+      "hidden": 0,
+      "name": "完美異常物",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2139460/032fe21a61a0b7c709e570e49758f70ce021dd90.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2024 年 7 月 9 日"
+   },
+   "support_info": {
+    "url": "https://www.oncehuman.game/",
+    "email": "oncehuman@global.netease.com"
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2139460?t=1792202672",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/1de7a0c42700ec50a121adca0d58b361c6244fbc/page_bg_raw.jpg?t=1792202672",
+   "content_descriptors": {
+    "ids": [],
+    "notes": null
+   },
+   "ratings": {
+    "dejus": {
+     "rating": "l"
+    },
+    "csrr": {
+     "rating": "R",
+     "descriptors": "■本軟體依遊戲軟體分級管理辦法，分類為限制級18+，須滿18歲始得購買或使用\r\n■本遊戲情節涉及性、暴力、恐怖、菸酒、不當言論、反社會性。\r\n■本應用遊戲為免費使用，內另有提供購買虛擬遊戲幣、物品等付費服務。\r\n■請依個人興趣、能力、進行體驗，請注意遊戲時間，避免沉迷。\r\n■台灣遊戲代理：龍邑股份有限公司\r\n\r\n分級機構：遊戲軟體分級管理辦法",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "cadpa": {
+     "rating": "16",
+     "use_age_gate": "true",
+     "required_age": "18"
+    },
+    "kgrb": {
+     "rating": "19",
+     "descriptors": "폭력성"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "16",
+     "required_age": "16",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Horror\nAlkohol / Tabak"
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "18",
+     "required_age": "18",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Interaksi Daring\nHoror\nKekerasan"
+    }
+   }
+  }
+ }
+}

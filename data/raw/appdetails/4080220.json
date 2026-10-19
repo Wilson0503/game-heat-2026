@@ -1,0 +1,508 @@
+{
+ "4080220": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "EA SPORTS FC™ 27",
+   "steam_appid": 4080220,
+   "required_age": 0,
+   "is_free": false,
+   "controller_support": "full",
+   "detailed_description": "<h1>《EA SPORTS FC™ 27》版本</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/extras/a0b3e92768b2c163341410429a4e032e.avif?t=1790973254\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/extras_big/a0b3e92768b2c163341410429a4e032e.avif?t=1790973254 width=1560 height=1986 /></span><br></p><br><h1>《EA SPORTS FC™ 27》終極版</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/extras/a9a19e928475b84ca8950c93ff410c29.avif?t=1790973254\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/extras_big/a9a19e928475b84ca8950c93ff410c29.avif?t=1790973254 width=1560 height=880 /></span><br><br>《EA SPORTS FC™ 27》終極版包含：<br><br><ul class=\"bb_ul\"><li>3 個月內 6,000 點 FC Points††<br></li><li>額外的 FUT™ 球員進化欄位</li></ul><br>職業生涯內容：<br><ul class=\"bb_ul\"><li>3 名超級球星/英雄<br></li><li>領隊職業生涯中的 5 星資深球探<br></li><li>可在領隊職業生涯中僱用 5 星教練<br></li><li>可在領隊職業生涯中僱用 5 星青年軍球探<br></li><li>5 個領隊即時挑戰創建欄位</li></ul><br>The Grounds 內容：<br><ul class=\"bb_ul\"><li>The Grounds 招牌運動套裝<br></li><li>靈感源自 Mbappe 的階級 3 增幅<br></li><li>2 個「10 場比賽雙倍原型經驗值」消耗品</li></ul><br>†† 您必須在 2027 年 8 月 1 日之前完成這些步驟以獲得初始 FC Points 分配，才能獲得全部 6,000 點 FC Points。如果在 2027 年 9 月 26 日後兌換，則不會獲得任何 FC Points。</p><br><h1>加入《EA SPORTS FC™ 27》球會會員資格，即可獲得獎勵 ‡。</h1><p>球會成員福利包括 Football Ultimate Team™、職業生涯、The Grounds 和球會中的全新獎勵，以及整季專屬於球會成員的獎勵掉寶和外觀物品。若要取得資格，請於 2026 年 11 月 1 日前遊玩《EA SPORTS FC™ 26》和《EA SPORTS FC™ 27》。《EA SPORTS FC™ 26》當前的球會成員可在 2026 年 11 月 1 日前遊玩《EA SPORTS FC™ 27》來維持其成員資格。<br></p><br><h1>關於此遊戲</h1><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/extras/398fe2bcd6554c065666c2ac3d9bbc7c.avif?t=1790973254\" width=1560 height=5330 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/extras/aa1377f4d5f7cbf5e89077ac7d98d8f9.avif?t=1790973254\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/extras_big/aa1377f4d5f7cbf5e89077ac7d98d8f9.avif?t=1790973254 width=1560 height=3832 /></span><br><br>此遊戲包含選擇性遊戲內虛擬貨幣購買，虛擬貨幣可用於獲取虛擬遊戲內物品，包括一系列隨機的虛擬遊戲內物品。",
+   "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/extras/398fe2bcd6554c065666c2ac3d9bbc7c.avif?t=1790973254\" width=1560 height=5330 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/extras/aa1377f4d5f7cbf5e89077ac7d98d8f9.avif?t=1790973254\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/extras_big/aa1377f4d5f7cbf5e89077ac7d98d8f9.avif?t=1790973254 width=1560 height=3832 /></span><br><br>此遊戲包含選擇性遊戲內虛擬貨幣購買，虛擬貨幣可用於獲取虛擬遊戲內物品，包括一系列隨機的虛擬遊戲內物品。",
+   "short_description": "歡迎來到《EA SPORTS FC™ 27》的全世界的遊戲。 走進 The Grounds，體驗一個讓街頭與球場結合的足球遊樂場，並在每個模式中感受更強大的操控，因為社群驅動的創新帶來更貼近真實足球的遊戲玩法。",
+   "supported_languages": "英文<strong>*</strong>, 法文<strong>*</strong>, 義大利文<strong>*</strong>, 德文<strong>*</strong>, 西班牙文 - 西班牙<strong>*</strong>, 阿拉伯文<strong>*</strong>, 捷克文, 丹麥文, 荷蘭文<strong>*</strong>, 日文<strong>*</strong>, 韓文<strong>*</strong>, 挪威文, 波蘭文<strong>*</strong>, 葡萄牙文 - 巴西<strong>*</strong>, 葡萄牙文 - 葡萄牙, 俄文, 簡體中文<strong>*</strong>, 西班牙文 - 拉丁美洲<strong>*</strong>, 瑞典文, 繁體中文, 土耳其文<strong>*</strong><br><strong>*</strong>具備完整音效支援的語言",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ff6a3779f1ca83aae8ad3878454f6c11008ea24d/header.jpg?t=1790973254",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/b2e806003c348d3348774cddb10e5b31cd787ecf/capsule_231x87.jpg?t=1790973254",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/b2e806003c348d3348774cddb10e5b31cd787ecf/capsule_184x69.jpg?t=1790973254",
+   "website": null,
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 10/11 - 64-Bit (Latest Update).<br></li><li><strong>處理器:</strong> AMD Ryzen 5 1600 or Intel Core i5 6600k<br></li><li><strong>記憶體:</strong> DDR4 Dual Channel 8 GB 記憶體<br></li><li><strong>顯示卡:</strong> AMD RX 570 or Nvidia GTX 1050 Ti<br></li><li><strong>DirectX:</strong> 版本：12<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 100 GB 可用空間<br></li><li><strong>備註:</strong> Estimated performance when set to &quot;&quot;Low&quot;&quot; preset: 1280x720 @ 60 FPS SSD Recommended</li></ul>",
+    "recommended": "<strong>建議配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Windows 10/11 - 64-Bit (Latest Update).<br></li><li><strong>處理器:</strong> AMD Ryzen 7 2700X or Intel Core i7 6700<br></li><li><strong>記憶體:</strong> Dual Channel 12 GB 記憶體<br></li><li><strong>顯示卡:</strong> AMD RX 5600 XT or Nvidia GTX 1660<br></li><li><strong>DirectX:</strong> 版本：12<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 100 GB 可用空間<br></li><li><strong>備註:</strong> Estimated performance when set to &quot;&quot;Medium&quot;&quot; preset: 1920x1080 @ 60 FPS SSD Required</li></ul>"
+   },
+   "mac_requirements": [],
+   "linux_requirements": [],
+   "legal_notice": "此遊戲包含選擇性遊戲內虛擬貨幣購買，虛擬貨幣可用於獲取虛擬遊戲內物品，包括一系列隨機的虛擬遊戲內物品。<br />\r\n<br />\r\n‡ 適用條款與限制。詳細資訊請參見 ea.com/games/ea-sports-fc/fc-27/game-disclaimers。<br />\r\n<br />\r\n需要擁有網際網路連線、EA 帳號、Steam 帳號、接受 EA 使用者協議 (terms.ea.com/tc) 並下載和安裝 EA 用戶端程式軟體 EA app (ea.com/ea-app) 才能進行遊戲。在您使用 EA 服務時，適用 EA 的隱私與Cookie政策。你同意將在您使用 EA 服務期間收集到的任何個人資料傳輸到美國，如隱私與Cookie政策中的進一步解釋所述。必須連結您的 EA 與 Steam 帳號才能遊玩；EA 將與 Steam 分享您的帳號 ID 和個人遊戲與遊玩紀錄，以驗證您的購買及/或退款請求。僅限使用一個 EA 和一個 Steam 帳號存取軟體內容，且購買後不得轉讓。您可能需年滿 13 歲或 16 歲，才能註冊 EA 帳號（年齡限制各地會有不同，詳細資訊請參閱 o.ea.com/ea/child-access-zh-tw）並獲取終極版內容。巴西居民：您必須年滿 18 歲才能使用線上聊天功能，以及獲得含有 FC Points 的 FUT 組合包或高級通行證。可能需要遊玩遊戲才能解鎖某些內容。可能會自動下載強制性更新，這會需要支付頻寬使用費、需要額外的儲存空間並需要另外購買才能使用。EA 可能會提供特定的免費額外內容及/或更新。EA 在下列網址發布通知 30 天後，可能將其線上功能收回：ea.com/zh-tw/service-updates。<br />\r\n<br />\r\nEA 使用者協議：德國居民為 terms.ea.com/de，所有其他地區居民為 terms.ea.com/tc。<br />\r\nEA 隱私與Cookie政策：德國居民為 privacy.ea.com/de，所有其他地區居民為 privacy.ea.com/tc。<br />\r\n<br />\r\n終極版和 FC Points 無法在比利時和南韓購買。<br />\r\n<br />\r\n若要存取終極版內容，您必須兌換您的一次性代碼（如適用）、登入 Ultimate Team、登入 The Grounds，並在連線到 EA 伺服器時建立職業生涯模式存檔。FC Points 會以 3 種相等的增量分發。初始分發將在您首次登入 Ultimate Team 時授予，第二次分發將在接下來一個月的 15 日授予，第三次分發將在其後一個月的 15 日授予。您必須在 2027 年 8 月 1 日之前完成這些步驟以獲得初始 FC Points 分發，才能獲得全部 6,000 點 FC Points。如果在 2027 年 9 月 26 日後兌換，則不會獲得任何 FC Points。賽季 1 結束後將無法使用賽季 1 高級通行證；有關賽季 1 日期的更多資訊將在可用時於 https://www.ea.com/games/ea-sports-fc/fc-27/news/fc-27-release-dates 發布。<br />\r\n<br />\r\n非英語和所選 Steam 用戶端語言的文字評論和音訊評論需要另外下載。<br />\r\n<br />\r\n© 2026 Electronic Arts Inc.Electronic Arts、EA、EA SPORTS、EA SPORTS 標誌、EA SPORTS FC、EA SPORTS FC 標誌、Football Ultimate Team 和 FUT 均屬於 Electronic Arts Inc. 商標。",
+   "drm_notice": "EA online activation and EA app software installation and background use required. Denuvo Anti-tamper",
+   "developers": [
+    "EA CANADA",
+    "EA Romania"
+   ],
+   "publishers": [
+    "Electronic Arts"
+   ],
+   "demos": [
+    {
+     "appid": 4407750,
+     "description": ""
+    }
+   ],
+   "price_overview": {
+    "currency": "TWD",
+    "initial": 209900,
+    "final": 209900,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "NT$ 2,099"
+   },
+   "packages": [
+    1430460,
+    1614928,
+    1508824,
+    1508795,
+    1508804,
+    1508799,
+    1508797,
+    1508801
+   ],
+   "package_groups": [
+    {
+     "name": "default",
+     "title": "購買 EA SPORTS FC™ 27",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 1430460,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "EA SPORTS FC™ 27 - NT$ 2,099",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 209900
+      },
+      {
+       "packageid": 1614928,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "《EA SPORTS FC™ 27》終極版 - NT$ 2,999",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 299900
+      }
+     ]
+    },
+    {
+     "name": "FCPoints",
+     "title": "Buy EA SPORTS FC™ 27 - FC Points",
+     "description": "Click HERE for more information.",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": "1",
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 1508824,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "EA SPORTS FC™ 27 - FC Points 500 - NT$ 170",
+       "option_description": "Click HERE for more information.",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 17000
+      },
+      {
+       "packageid": 1508795,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "EA SPORTS FC™ 27 - FC Points 1050 - NT$ 340",
+       "option_description": "Click HERE for more information.",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 34000
+      },
+      {
+       "packageid": 1508799,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "EA SPORTS FC™ 27 - FC Points 1600 - NT$ 500",
+       "option_description": "Click HERE for more information.",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 50000
+      },
+      {
+       "packageid": 1508804,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "EA SPORTS FC™ 27 - FC Points 2800 - NT$ 820",
+       "option_description": "Click HERE for more information.",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 82000
+      },
+      {
+       "packageid": 1508797,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "EA SPORTS FC™ 27 - FC Points 12000 - NT$ 3,100",
+       "option_description": "Click HERE for more information.",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 310000
+      },
+      {
+       "packageid": 1508801,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "EA SPORTS FC™ 27 - FC Points 18500 - NT$ 4,700",
+       "option_description": "Click HERE for more information.",
+       "can_get_free_license": "0",
+       "is_free_license": false,
+       "price_in_cents_with_discount": 470000
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+   },
+   "categories": [
+    {
+     "id": 2,
+     "description": "單人"
+    },
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 49,
+     "description": "玩家對戰"
+    },
+    {
+     "id": 36,
+     "description": "線上玩家對戰"
+    },
+    {
+     "id": 37,
+     "description": "共享 / 分割螢幕玩家對戰"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 38,
+     "description": "線上合作"
+    },
+    {
+     "id": 39,
+     "description": "共享 / 分割螢幕合作"
+    },
+    {
+     "id": 24,
+     "description": "共享／分割螢幕"
+    },
+    {
+     "id": 27,
+     "description": "跨平台多人連線"
+    },
+    {
+     "id": 22,
+     "description": "Steam 成就"
+    },
+    {
+     "id": 28,
+     "description": "完整控制器支援"
+    },
+    {
+     "id": 35,
+     "description": "應用程式內購買"
+    },
+    {
+     "id": 72,
+     "description": "聊天語音轉文字"
+    },
+    {
+     "id": 66,
+     "description": "顏色替代選項"
+    },
+    {
+     "id": 82,
+     "description": "#category_contrast_controls"
+    },
+    {
+     "id": 78,
+     "description": "可調整難度"
+    },
+    {
+     "id": 74,
+     "description": "遊玩無需快速反應"
+    },
+    {
+     "id": 55,
+     "description": "DUALSHOCK 控制器支援"
+    },
+    {
+     "id": 57,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 58,
+     "description": "DualSense 控制器支援"
+    },
+    {
+     "id": 69,
+     "description": "立體聲"
+    },
+    {
+     "id": 65,
+     "description": "字幕選項"
+    },
+    {
+     "id": 61,
+     "description": "可用 HDR"
+    }
+   ],
+   "genres": [
+    {
+     "id": "28",
+     "description": "模擬"
+    },
+    {
+     "id": "18",
+     "description": "運動"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/5adfa6a72f1ba6f269580d106ef6d6a760aa5119/ss_5adfa6a72f1ba6f269580d106ef6d6a760aa5119.600x338.jpg?t=1790973254",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/5adfa6a72f1ba6f269580d106ef6d6a760aa5119/ss_5adfa6a72f1ba6f269580d106ef6d6a760aa5119.1920x1080.jpg?t=1790973254"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/a6dc5c0e33a2c9b174120be6f7caa26fc9aa8288/ss_a6dc5c0e33a2c9b174120be6f7caa26fc9aa8288.600x338.jpg?t=1790973254",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/a6dc5c0e33a2c9b174120be6f7caa26fc9aa8288/ss_a6dc5c0e33a2c9b174120be6f7caa26fc9aa8288.1920x1080.jpg?t=1790973254"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/1a9117db4e8d864dbcee4c377aa12d832f6660c8/ss_1a9117db4e8d864dbcee4c377aa12d832f6660c8.600x338.jpg?t=1790973254",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/1a9117db4e8d864dbcee4c377aa12d832f6660c8/ss_1a9117db4e8d864dbcee4c377aa12d832f6660c8.1920x1080.jpg?t=1790973254"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/8b060e82405b4c33c0fae74113d09a21d001e95a/ss_8b060e82405b4c33c0fae74113d09a21d001e95a.600x338.jpg?t=1790973254",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/8b060e82405b4c33c0fae74113d09a21d001e95a/ss_8b060e82405b4c33c0fae74113d09a21d001e95a.1920x1080.jpg?t=1790973254"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/f390f1ffc3aad9710f5824b30868278e97213d38/ss_f390f1ffc3aad9710f5824b30868278e97213d38.600x338.jpg?t=1790973254",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/f390f1ffc3aad9710f5824b30868278e97213d38/ss_f390f1ffc3aad9710f5824b30868278e97213d38.1920x1080.jpg?t=1790973254"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ccd88260677c782de8123f8f8b82b4ac1ad69963/ss_ccd88260677c782de8123f8f8b82b4ac1ad69963.600x338.jpg?t=1790973254",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ccd88260677c782de8123f8f8b82b4ac1ad69963/ss_ccd88260677c782de8123f8f8b82b4ac1ad69963.1920x1080.jpg?t=1790973254"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/355cc351a503a81c19ab33deaf6f3b8c223e4453/ss_355cc351a503a81c19ab33deaf6f3b8c223e4453.600x338.jpg?t=1790973254",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/355cc351a503a81c19ab33deaf6f3b8c223e4453/ss_355cc351a503a81c19ab33deaf6f3b8c223e4453.1920x1080.jpg?t=1790973254"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/f3e109f380b7de00f561cb47db15e0eca7432b9e/ss_f3e109f380b7de00f561cb47db15e0eca7432b9e.600x338.jpg?t=1790973254",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/f3e109f380b7de00f561cb47db15e0eca7432b9e/ss_f3e109f380b7de00f561cb47db15e0eca7432b9e.1920x1080.jpg?t=1790973254"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/59fc6fd21c2a692b27bf585a95c62dfcf708e5d1/ss_59fc6fd21c2a692b27bf585a95c62dfcf708e5d1.600x338.jpg?t=1790973254",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/59fc6fd21c2a692b27bf585a95c62dfcf708e5d1/ss_59fc6fd21c2a692b27bf585a95c62dfcf708e5d1.1920x1080.jpg?t=1790973254"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/6947a982f3e91132ef4c3b6c7738e995c7d9e13b/ss_6947a982f3e91132ef4c3b6c7738e995c7d9e13b.600x338.jpg?t=1790973254",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/6947a982f3e91132ef4c3b6c7738e995c7d9e13b/ss_6947a982f3e91132ef4c3b6c7738e995c7d9e13b.1920x1080.jpg?t=1790973254"
+    }
+   ],
+   "movies": [
+    {
+     "id": 257435128,
+     "name": "EA SPORTS FC 27 | Official Launch Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257435128/1f188e3371b53436351cde2b42935b6cb55a0c8f/movie_600x337.jpg?t=1790353906",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/4080220/1900282602/3682a522ac27a81f43ccbd532a56c76a1d3f2425/1790352546/dash_av1.mpd?t=1790353906",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/4080220/1900282602/3682a522ac27a81f43ccbd532a56c76a1d3f2425/1790352546/dash_h264.mpd?t=1790353906",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/4080220/1900282602/3682a522ac27a81f43ccbd532a56c76a1d3f2425/1790352546/hls_264_master.m3u8?t=1790353906",
+     "highlight": true
+    },
+    {
+     "id": 257415840,
+     "name": "EA SPORTS FC 27 | Official Reveal Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257415840/308f4d69fe35e853fbcdeda04431be40aae833fd/movie_600x337.jpg?t=1790290776",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/4080220/1363878536/8694e560583523587f1c13c04bd480ad364b30ab/1788365732/dash_av1.mpd?t=1790290776",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/4080220/1363878536/8694e560583523587f1c13c04bd480ad364b30ab/1788365732/dash_h264.mpd?t=1790290776",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/4080220/1363878536/8694e560583523587f1c13c04bd480ad364b30ab/1788365732/hls_264_master.m3u8?t=1790290776",
+     "highlight": true
+    }
+   ],
+   "recommendations": {
+    "total": 9021
+   },
+   "achievements": {
+    "total": 46,
+    "highlighted": [
+     {
+      "icon": "a79cda513a6e8cc186a109b5aaca527d0b52b368.jpg",
+      "localized_name": "三冠榮耀",
+      "archived": 0,
+      "hidden": 0,
+      "name": "三冠榮耀",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4080220/a79cda513a6e8cc186a109b5aaca527d0b52b368.jpg"
+     },
+     {
+      "icon": "cb4ff5681999b25566101b0e39da8054de9764a6.jpg",
+      "localized_name": "歐洲榮譽",
+      "archived": 0,
+      "hidden": 0,
+      "name": "歐洲榮譽",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4080220/cb4ff5681999b25566101b0e39da8054de9764a6.jpg"
+     },
+     {
+      "icon": "cb93ddae9202ad0957d1e0507b1d1e8ddf1741a3.jpg",
+      "localized_name": "球場傳奇",
+      "archived": 0,
+      "hidden": 0,
+      "name": "球場傳奇",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4080220/cb93ddae9202ad0957d1e0507b1d1e8ddf1741a3.jpg"
+     },
+     {
+      "icon": "dbd26f1286dd6d4b90894c4f5f2bdd91848c890a.jpg",
+      "localized_name": "任務大師",
+      "archived": 0,
+      "hidden": 0,
+      "name": "任務大師",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4080220/dbd26f1286dd6d4b90894c4f5f2bdd91848c890a.jpg"
+     },
+     {
+      "icon": "218c2d03562e39012d2a44c262c9ac1c95d3edd4.jpg",
+      "localized_name": "制霸宿敵戰",
+      "archived": 0,
+      "hidden": 0,
+      "name": "制霸宿敵戰",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4080220/218c2d03562e39012d2a44c262c9ac1c95d3edd4.jpg"
+     },
+     {
+      "icon": "bd623227b993405189259d2661b91b7217f06cfd.jpg",
+      "localized_name": "成為焦點",
+      "archived": 0,
+      "hidden": 0,
+      "name": "成為焦點",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4080220/bd623227b993405189259d2661b91b7217f06cfd.jpg"
+     },
+     {
+      "icon": "40f4a117a36670f0bb8569fdbcb95b168779b291.jpg",
+      "localized_name": "「先買後付」",
+      "archived": 0,
+      "hidden": 0,
+      "name": "「先買後付」",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4080220/40f4a117a36670f0bb8569fdbcb95b168779b291.jpg"
+     },
+     {
+      "icon": "9907142ce5b71a73a7355f840cd80a6440f80279.jpg",
+      "localized_name": "獲勝遠征",
+      "archived": 0,
+      "hidden": 0,
+      "name": "獲勝遠征",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4080220/9907142ce5b71a73a7355f840cd80a6440f80279.jpg"
+     },
+     {
+      "icon": "d9bcd65e9f3a3746b21e365c58b0bf47f330d263.jpg",
+      "localized_name": "球會大使",
+      "archived": 0,
+      "hidden": 0,
+      "name": "球會大使",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4080220/d9bcd65e9f3a3746b21e365c58b0bf47f330d263.jpg"
+     },
+     {
+      "icon": "3f6f63b30eddf4e10871110a510c5585591e1376.jpg",
+      "localized_name": "自家子弟",
+      "archived": 0,
+      "hidden": 0,
+      "name": "自家子弟",
+      "path": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4080220/3f6f63b30eddf4e10871110a510c5585591e1376.jpg"
+     }
+    ]
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2026 年 9 月 24 日"
+   },
+   "support_info": {
+    "url": "https://help.ea.com/",
+    "email": ""
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4080220?t=1790973254",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/4954b27a73c05793e8e206b126a8187fb27adddc/page_bg_raw.jpg?t=1790973254",
+   "content_descriptors": {
+    "ids": [],
+    "notes": null
+   },
+   "ratings": {
+    "esrb": {
+     "rating": "e",
+     "interactive_elements": "Users Interact, In-Game Purchases (Includes Random Items)"
+    },
+    "pegi": {
+     "rating": "16",
+     "descriptors": "In-Game Purchases"
+    },
+    "dejus": {
+     "rating": "18"
+    },
+    "csrr": {
+     "rating": "G"
+    },
+    "usk": {
+     "rating": "12",
+     "descriptors": "Erhöhte Kaufanreize\r\nDruck zum Vielspielen"
+    },
+    "gmedia": {
+     "rating": "3"
+    },
+    "fpb": {
+     "rating": "PG",
+     "descriptors": "CI (Competitive Intensity)"
+    },
+    "oflc": {
+     "rating": "m",
+     "descriptors": "Chance-based and in-game purchases and online interactivity and chat"
+    },
+    "nzoflc": {
+     "rating": "m",
+     "descriptors": "Chance-based and in-game purchases and online interactivity and chat"
+    },
+    "kgrb": {
+     "rating": "all"
+    },
+    "mda": {
+     "rating": "AA16"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "16",
+     "required_age": "16",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": ""
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "18",
+     "required_age": "18",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Interaksi Daring"
+    }
+   }
+  }
+ }
+}

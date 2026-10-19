@@ -1,0 +1,303 @@
+{
+ "570": {
+  "success": true,
+  "data": {
+   "type": "game",
+   "name": "Dota 2",
+   "steam_appid": 570,
+   "required_age": 0,
+   "is_free": true,
+   "dlc": [
+    1241930,
+    652720
+   ],
+   "detailed_description": "<strong>Steam 平台上人氣排行榜冠軍</strong><br>每一天，全球各地有數百萬玩家化身為上百位英雄，投入 Dota 戰場進行攻防保衛戰。 而無論是資歷不足掛齒的新手還是有著上千小時歷練的老手，Dota 的世界總能讓人發掘出新事物。 藉由持續更新來確保遊戲體驗的新鮮度，Dota 2 實為一款發展不同凡響的遊戲。<br><br><strong>一個戰場、 無限可能</strong><br>當論及英雄、技能、和道具的多樣化時，Dota 宛如蘊含無窮戲碼，沒有任何兩場是相同的。 每一位英雄都能多元發展，每一件道具均各擅勝場， Dota 不是一款會侷限玩家的遊戲，而是一款能讓玩家詮釋出自我風格的遊戲，讓您展現自己的風采。<br><br><strong>全部英雄免費</strong><br>公平競爭是 Dota 的冠上至寶；為確保遊戲對所有玩家而言都是公平的，其核心內容——各式各樣的英雄角色——完全免費，讓玩家生涯中的每場遊戲都能始於公平的起跑點。 遊戲僅有外觀飾品讓粉絲為扮演的英雄和遊戲世界增添些趣味。<br><br><strong>呼朋引伴、組團同遊</strong><br>Dota 雖是款極具深度且持續演化的遊戲，但加入卻永不嫌遲。 <br>有合作對抗電腦供玩家學習，   有試玩模式供玩家琢磨， 也少不了基於行為及技術層級的配對系統，確保您在每場比賽中都可與合適的對手匹配。",
+   "about_the_game": "<strong>Steam 平台上人氣排行榜冠軍</strong><br>每一天，全球各地有數百萬玩家化身為上百位英雄，投入 Dota 戰場進行攻防保衛戰。 而無論是資歷不足掛齒的新手還是有著上千小時歷練的老手，Dota 的世界總能讓人發掘出新事物。 藉由持續更新來確保遊戲體驗的新鮮度，Dota 2 實為一款發展不同凡響的遊戲。<br><br><strong>一個戰場、 無限可能</strong><br>當論及英雄、技能、和道具的多樣化時，Dota 宛如蘊含無窮戲碼，沒有任何兩場是相同的。 每一位英雄都能多元發展，每一件道具均各擅勝場， Dota 不是一款會侷限玩家的遊戲，而是一款能讓玩家詮釋出自我風格的遊戲，讓您展現自己的風采。<br><br><strong>全部英雄免費</strong><br>公平競爭是 Dota 的冠上至寶；為確保遊戲對所有玩家而言都是公平的，其核心內容——各式各樣的英雄角色——完全免費，讓玩家生涯中的每場遊戲都能始於公平的起跑點。 遊戲僅有外觀飾品讓粉絲為扮演的英雄和遊戲世界增添些趣味。<br><br><strong>呼朋引伴、組團同遊</strong><br>Dota 雖是款極具深度且持續演化的遊戲，但加入卻永不嫌遲。 <br>有合作對抗電腦供玩家學習，   有試玩模式供玩家琢磨， 也少不了基於行為及技術層級的配對系統，確保您在每場比賽中都可與合適的對手匹配。",
+   "short_description": "每一天，全球各地有數百萬玩家化身為上百位英雄，投入 Dota 戰場進行攻防保衛戰。 而無論是資歷不足掛齒的新手還是有著上千小時歷練的老手，Dota 的世界總能讓人發掘出新事物。 藉由持續更新來確保遊戲體驗的新鮮度，Dota 2 實為一款發展不同凡響的遊戲。",
+   "supported_languages": "保加利亞文, 捷克文, 丹麥文, 荷蘭文, 英文<strong>*</strong>, 芬蘭文, 法文, 德文, 希臘文, 匈牙利文, 義大利文, 日文, 韓文<strong>*</strong>, 挪威文, 波蘭文, 葡萄牙文 - 葡萄牙, 葡萄牙文 - 巴西, 羅馬尼亞文, 俄文, 簡體中文<strong>*</strong>, 西班牙文 - 西班牙, 瑞典文, 泰文, 繁體中文, 土耳其文, 烏克蘭文, 西班牙文 - 拉丁美洲, 越南文<br><strong>*</strong>具備完整音效支援的語言",
+   "reviews": "“一款近代的多人遊戲傑作。”<br>9.5/10 – Destructoid<br><br>“一旦您窺探箇中奧祕，就會發現五花八門的玩法；同類遊戲難以望其項背。”<br>9.4/10 – IGN<br><br>“Dota 2 很可能是唯一一款絲毫不被其商業模式拖累的免費競技遊戲。”<br>90/100 – PC Gamer<br>",
+   "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg?t=1791407503",
+   "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/capsule_231x87.jpg?t=1791407503",
+   "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/capsule_184x69.jpg?t=1791407503",
+   "website": "http://www.dota2.com/",
+   "pc_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> indows 7 或更新版本<br></li><li><strong>處理器:</strong> Intel 雙核心或 AMD 2.8 GHz<br></li><li><strong>記憶體:</strong> 4 GB 記憶體<br></li><li><strong>顯示卡:</strong> nVidia GeForce 8600/9600GT, ATI/AMD Radeon HD2600/3600<br></li><li><strong>DirectX:</strong> 版本：11<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 60 GB 可用空間<br></li><li><strong>音效卡:</strong> DirectX 相容</li></ul>"
+   },
+   "mac_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> macOS 10.13 或更新版本<br></li><li><strong>處理器:</strong> Intel 雙核心<br></li><li><strong>記憶體:</strong> 4 GB 記憶體<br></li><li><strong>顯示卡:</strong> Nvidia 320M 以上、Radeon HD 2400 以上、Intel HD 3000 以上<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 60 GB 可用空間</li></ul>"
+   },
+   "linux_requirements": {
+    "minimum": "<strong>最低配備:</strong><br><ul class=\"bb_ul\"><li><strong>作業系統:</strong> Ubuntu 12.04 或更新版本<br></li><li><strong>處理器:</strong> Intel 雙核心或 AMD 2.8 GHz<br></li><li><strong>記憶體:</strong> 4 GB 記憶體<br></li><li><strong>顯示卡:</strong> Nvidia GeForce 8600/9600GT（驅動程式 v331）、AMD HD 2xxx-4xxx（驅動程式 Mesa 10.5.9）、AMD HD 5xxx+ （驅動程式 Mesa 10.5.9 或 Catalyst 15.7）、Intel HD 3000（驅動程式 Mesa 10.6）<br></li><li><strong>網路:</strong> 寬頻網際網路連線<br></li><li><strong>儲存空間:</strong> 60 GB 可用空間<br></li><li><strong>音效卡:</strong> OpenAL 相容音效卡</li></ul>"
+   },
+   "developers": [
+    "Valve"
+   ],
+   "publishers": [
+    "Valve"
+   ],
+   "packages": [
+    49307,
+    197846,
+    330209
+   ],
+   "package_groups": [
+    {
+     "name": "default",
+     "title": "購買 Dota 2",
+     "description": "",
+     "selection_text": "選擇購買選項",
+     "save_text": "",
+     "display_type": 0,
+     "is_recurring_subscription": "false",
+     "subs": [
+      {
+       "packageid": 197846,
+       "percent_savings_text": " ",
+       "percent_savings": 0,
+       "option_text": "Dota 2 - Commercial License - 免費",
+       "option_description": "",
+       "can_get_free_license": "0",
+       "is_free_license": true,
+       "price_in_cents_with_discount": 0
+      }
+     ]
+    }
+   ],
+   "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+   },
+   "metacritic": {
+    "score": 90,
+    "url": "https://www.metacritic.com/game/pc/dota-2?ftag=MCD-06-10aaa1f"
+   },
+   "categories": [
+    {
+     "id": 1,
+     "description": "多人"
+    },
+    {
+     "id": 9,
+     "description": "合作"
+    },
+    {
+     "id": 29,
+     "description": "Steam 交換卡片"
+    },
+    {
+     "id": 30,
+     "description": "Steam 工作坊"
+    },
+    {
+     "id": 40,
+     "description": "SteamVR 收藏品"
+    },
+    {
+     "id": 35,
+     "description": "應用程式內購買"
+    },
+    {
+     "id": 67,
+     "description": "鏡頭舒適度"
+    },
+    {
+     "id": 66,
+     "description": "顏色替代選項"
+    },
+    {
+     "id": 68,
+     "description": "自訂音量控制"
+    },
+    {
+     "id": 8,
+     "description": "具有 Valve 防作弊系統"
+    },
+    {
+     "id": 63,
+     "description": "Steam 時間軸"
+    }
+   ],
+   "genres": [
+    {
+     "id": "1",
+     "description": "動作"
+    },
+    {
+     "id": "2",
+     "description": "策略"
+    },
+    {
+     "id": "37",
+     "description": "免費遊玩"
+    }
+   ],
+   "screenshots": [
+    {
+     "id": 0,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_ad8eee787704745ccdecdfde3a5cd2733704898d.600x338.jpg?t=1791407503",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_ad8eee787704745ccdecdfde3a5cd2733704898d.1920x1080.jpg?t=1791407503"
+    },
+    {
+     "id": 1,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_7ab506679d42bfc0c0e40639887176494e0466d9.600x338.jpg?t=1791407503",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_7ab506679d42bfc0c0e40639887176494e0466d9.1920x1080.jpg?t=1791407503"
+    },
+    {
+     "id": 2,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_c9118375a2400278590f29a3537769c986ef6e39.600x338.jpg?t=1791407503",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_c9118375a2400278590f29a3537769c986ef6e39.1920x1080.jpg?t=1791407503"
+    },
+    {
+     "id": 3,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_f9ebafedaf2d5cfb80ef1f74baa18eb08cad6494.600x338.jpg?t=1791407503",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_f9ebafedaf2d5cfb80ef1f74baa18eb08cad6494.1920x1080.jpg?t=1791407503"
+    },
+    {
+     "id": 4,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_27b6345f22243bd6b885cc64c5cda74e4bd9c3e8.600x338.jpg?t=1791407503",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_27b6345f22243bd6b885cc64c5cda74e4bd9c3e8.1920x1080.jpg?t=1791407503"
+    },
+    {
+     "id": 5,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_b33a65678dc71cc98df4890e22a89601ee56a918.600x338.jpg?t=1791407503",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_b33a65678dc71cc98df4890e22a89601ee56a918.1920x1080.jpg?t=1791407503"
+    },
+    {
+     "id": 6,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_d0f973ce376ca5b6c08e081cb035e86ced105fa9.600x338.jpg?t=1791407503",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_d0f973ce376ca5b6c08e081cb035e86ced105fa9.1920x1080.jpg?t=1791407503"
+    },
+    {
+     "id": 7,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_1f3b5f5ccf8b159294914c3fe028128a787304b6.600x338.jpg?t=1791407503",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_1f3b5f5ccf8b159294914c3fe028128a787304b6.1920x1080.jpg?t=1791407503"
+    },
+    {
+     "id": 8,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_e0a92f15a6631a8186df79182d0fe28b5e37d8cb.600x338.jpg?t=1791407503",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_e0a92f15a6631a8186df79182d0fe28b5e37d8cb.1920x1080.jpg?t=1791407503"
+    },
+    {
+     "id": 9,
+     "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_86d675fdc73ba10462abb8f5ece7791c5047072c.600x338.jpg?t=1791407503",
+     "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_86d675fdc73ba10462abb8f5ece7791c5047072c.1920x1080.jpg?t=1791407503"
+    }
+   ],
+   "movies": [
+    {
+     "id": 256692021,
+     "name": "Dota 2 - Join the Battle",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256692021/movie.293x165.jpg?t=1762820639",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/570/116737/313addee2092d0bd6f538d164610061ea8bbe79c/1749859757/dash_av1.mpd?t=1762820639",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/570/116737/313addee2092d0bd6f538d164610061ea8bbe79c/1749859757/dash_h264.mpd?t=1762820639",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/570/116737/313addee2092d0bd6f538d164610061ea8bbe79c/1749859757/hls_264_master.m3u8?t=1762820639",
+     "highlight": true
+    },
+    {
+     "id": 256819789,
+     "name": "Dota 2 - Sizzle Reel",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256819789/movie.293x165.jpg?t=1762820641",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/570/343440/a4bddad5bacce0e8395f7458ef4d8d9bad3efca9/1749859790/dash_av1.mpd?t=1762820641",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/570/343440/a4bddad5bacce0e8395f7458ef4d8d9bad3efca9/1749859790/dash_h264.mpd?t=1762820641",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/570/343440/a4bddad5bacce0e8395f7458ef4d8d9bad3efca9/1749859790/hls_264_master.m3u8?t=1762820641",
+     "highlight": true
+    },
+    {
+     "id": 2028243,
+     "name": "Dota 2 - The Greeviling",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2028243/movie.293x165.jpg?t=1762820644",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/570/10127/a886b09aeea73e11d5c7305afa4e68698976808c/1749859753/dash_av1.mpd?t=1762820644",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/570/10127/a886b09aeea73e11d5c7305afa4e68698976808c/1749859753/dash_h264.mpd?t=1762820644",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/570/10127/a886b09aeea73e11d5c7305afa4e68698976808c/1749859753/hls_264_master.m3u8?t=1762820644",
+     "highlight": false
+    },
+    {
+     "id": 81026,
+     "name": "Dota 2 Gamescom Trailer",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81026/movie.293x165.jpg?t=1762820645",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/570/5608/1f6692ca2b124c7ebdbea6933d1503172d53efd1/1749859891/dash_av1.mpd?t=1762820645",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/570/5608/1f6692ca2b124c7ebdbea6933d1503172d53efd1/1749859891/dash_h264.mpd?t=1762820645",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/570/5608/1f6692ca2b124c7ebdbea6933d1503172d53efd1/1749859891/hls_264_master.m3u8?t=1762820645",
+     "highlight": false
+    },
+    {
+     "id": 2040250,
+     "name": "Dota 2 Reborn - Custom Games Are Here",
+     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2040250/movie.293x165.jpg?t=1762820647",
+     "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/570/38097/c214c04b3ebc010db5db67457efc38b5a994d901/1749859753/dash_av1.mpd?t=1762820647",
+     "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/570/38097/c214c04b3ebc010db5db67457efc38b5a994d901/1749859753/dash_h264.mpd?t=1762820647",
+     "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/570/38097/c214c04b3ebc010db5db67457efc38b5a994d901/1749859753/hls_264_master.m3u8?t=1762820647",
+     "highlight": false
+    }
+   ],
+   "recommendations": {
+    "total": 14370
+   },
+   "release_date": {
+    "coming_soon": false,
+    "date": "2013 年 7 月 9 日"
+   },
+   "support_info": {
+    "url": "",
+    "email": ""
+   },
+   "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/570?t=1791407503",
+   "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/page_bg_raw.jpg?t=1791407503",
+   "content_descriptors": {
+    "ids": [
+     5
+    ],
+    "notes": "《Dota 2》內含奇幻暴力、酒精使用與輕度局部裸露。\r\n"
+   },
+   "ratings": {
+    "kgrb": {
+     "rating": "12",
+     "descriptors": "12 (12세 이상 이용가)\r\n만 12세 미만의 자는\r\n이용할 수 없는 게임물"
+    },
+    "usk": {
+     "rating": "12"
+    },
+    "agcom": {
+     "rating": "12",
+     "descriptors": "Violenza"
+    },
+    "cadpa": {
+     "rating": "12"
+    },
+    "dejus": {
+     "rating_generated": "1",
+     "rating": "18",
+     "required_age": "18",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Drogas lícitas\nMedo"
+    },
+    "steam_germany": {
+     "rating_generated": "1",
+     "rating": "16",
+     "required_age": "16",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Alkohol / Tabak\nGewalt"
+    },
+    "igrs": {
+     "rating_generated": "1",
+     "rating": "18",
+     "required_age": "18",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Interaksi Daring\nRokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\nHoror"
+    },
+    "steam_australia": {
+     "rating_generated": "1",
+     "rating": "M",
+     "required_age": "15",
+     "banned": "0",
+     "use_age_gate": "0",
+     "descriptors": "Drug Themes\nMild horror themes\nMild Violence"
+    }
+   }
+  }
+ }
+}

@@ -41,6 +41,23 @@
     "438100": ["休閒", "被 Massively Multiplayer 分到角色扮演"],
     "2139460": ["模擬", "官方類型第一個是休閒"]
   },
+  "steam_partial": {
+    "gtav": "僅計 Steam 端；漏算 Rockstar 啟動器、Epic、PlayStation、Xbox",
+    "2357570": "僅計 Steam 端；漏算 Battle.net、PlayStation、Xbox、Switch",
+    "2344520": "僅計 Steam 端；漏算 Battle.net、PlayStation、Xbox",
+    "1172470": "僅計 Steam 端；漏算 EA App、PlayStation、Xbox、Switch",
+    "1938090": "僅計 Steam 端；漏算 Battle.net、Xbox App、PlayStation、Xbox"
+  },
+  "extra_tags": {
+    "3419430": ["掛機"],
+    "3678970": ["掛機"],
+    "4623570": ["掛機"],
+    "4891320": ["掛機"],
+    "1476970": ["掛機"],
+    "1867240": ["爭議"],
+    "2676230": ["模組平台"],
+    "1281930": ["模組平台"]
+  },
   "non_steam": {
     "fortnite": { "name": "要塞英雄", "name_en": "Fortnite", "badge": "cross_platform", "ranked": true },
     "roblox": { "name": "機器磚塊", "name_en": "Roblox", "badge": "cross_platform", "ranked": false, "note": "平台上所有體驗的在線人數加總，口徑不同，不參與排名" }
