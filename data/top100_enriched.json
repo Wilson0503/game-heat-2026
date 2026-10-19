@@ -1,0 +1,2164 @@
+[
+ {
+  "rank": 1,
+  "appid": 570,
+  "concurrent_in_game": 530651,
+  "peak_in_game": 1009131,
+  "name": "Dota 2",
+  "type": "game",
+  "genres": [
+   "動作",
+   "策略",
+   "免費遊玩"
+  ],
+  "tags": [
+   "Free to Play",
+   "MOBA",
+   "Multiplayer",
+   "Strategy",
+   "e-sports",
+   "Team-Based",
+   "Competitive",
+   "Action"
+  ],
+  "name_en": "Dota 2"
+ },
+ {
+  "rank": 2,
+  "appid": 730,
+  "concurrent_in_game": 499775,
+  "peak_in_game": 1355257,
+  "name": "Counter-Strike 2",
+  "type": "game",
+  "genres": [
+   "動作",
+   "免費遊玩"
+  ],
+  "tags": [
+   "FPS",
+   "Shooter",
+   "Multiplayer",
+   "Competitive",
+   "Action",
+   "Team-Based",
+   "e-sports",
+   "Tactical"
+  ],
+  "name_en": "Counter-Strike: Global Offensive"
+ },
+ {
+  "rank": 3,
+  "appid": 578080,
+  "concurrent_in_game": 317925,
+  "peak_in_game": 808407,
+  "name": "PUBG: BATTLEGROUNDS",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "大型多人連線",
+   "免費遊玩"
+  ],
+  "tags": [
+   "Survival",
+   "Shooter",
+   "Battle Royale",
+   "Multiplayer",
+   "FPS",
+   "PvP",
+   "Third-Person Shooter",
+   "Action"
+  ],
+  "name_en": "PUBG: BATTLEGROUNDS"
+ },
+ {
+  "rank": 4,
+  "appid": 3393110,
+  "concurrent_in_game": 150163,
+  "peak_in_game": 310363,
+  "tags": [],
+  "name_en": ""
+ },
+ {
+  "rank": 5,
+  "appid": 3419430,
+  "concurrent_in_game": 135778,
+  "peak_in_game": 151465,
+  "name": "Bongo Cat",
+  "type": "game",
+  "genres": [
+   "休閒",
+   "獨立製作",
+   "大型多人連線",
+   "模擬",
+   "免費遊玩"
+  ],
+  "tags": [],
+  "name_en": "Bongo Cat"
+ },
+ {
+  "rank": 6,
+  "appid": 1422450,
+  "concurrent_in_game": 96449,
+  "peak_in_game": 257061,
+  "name": "Deadlock",
+  "type": "game",
+  "genres": [
+   "動作"
+  ],
+  "tags": [],
+  "name_en": "Deadlock"
+ },
+ {
+  "rank": 7,
+  "appid": 1867240,
+  "concurrent_in_game": 93921,
+  "peak_in_game": 294741,
+  "name": "WARDOGS",
+  "type": "game",
+  "genres": [
+   "動作",
+   "獨立製作",
+   "大型多人連線",
+   "模擬",
+   "搶先體驗"
+  ],
+  "tags": [],
+  "name_en": "WARDOGS"
+ },
+ {
+  "rank": 8,
+  "appid": 440,
+  "concurrent_in_game": 76234,
+  "peak_in_game": 99109,
+  "name": "Team Fortress 2",
+  "type": "game",
+  "genres": [
+   "動作",
+   "免費遊玩"
+  ],
+  "tags": [
+   "Free to Play",
+   "Hero Shooter",
+   "Multiplayer",
+   "FPS",
+   "Shooter",
+   "Action",
+   "Class-Based",
+   "Team-Based"
+  ],
+  "name_en": "Team Fortress 2"
+ },
+ {
+  "rank": 9,
+  "appid": 1172470,
+  "concurrent_in_game": 67615,
+  "peak_in_game": 226969,
+  "name": "《Apex 英雄》",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "免費遊玩"
+  ],
+  "tags": [
+   "Free to Play",
+   "Battle Royale",
+   "Multiplayer",
+   "FPS",
+   "Shooter",
+   "First-Person",
+   "PvP",
+   "Action"
+  ],
+  "name_en": "Apex Legends"
+ },
+ {
+  "rank": 10,
+  "appid": 2676230,
+  "concurrent_in_game": 67464,
+  "peak_in_game": 205644,
+  "name": "FiveM",
+  "type": "advertising",
+  "genres": [],
+  "tags": [],
+  "name_en": "",
+  "tw_store": false
+ },
+ {
+  "rank": 11,
+  "appid": 431960,
+  "concurrent_in_game": 67131,
+  "peak_in_game": 116934,
+  "name": "Wallpaper Engine：桌布引擎",
+  "type": "game",
+  "genres": [
+   "休閒",
+   "獨立製作",
+   "動畫和建模",
+   "設計和繪圖",
+   "圖像編輯",
+   "工具"
+  ],
+  "tags": [
+   "Mature",
+   "Utilities",
+   "Anime",
+   "Software",
+   "Design & Illustration",
+   "Animation & Modeling",
+   "First-Person",
+   "NSFW"
+  ],
+  "name_en": "Wallpaper Engine"
+ },
+ {
+  "rank": 12,
+  "appid": 3678970,
+  "concurrent_in_game": 55905,
+  "peak_in_game": 70006,
+  "name": "TBH: 塔斯克巴·英雄",
+  "type": "game",
+  "genres": [
+   "休閒",
+   "獨立製作",
+   "角色扮演",
+   "免費遊玩"
+  ],
+  "tags": [],
+  "name_en": ""
+ },
+ {
+  "rank": 13,
+  "appid": 230410,
+  "concurrent_in_game": 52500,
+  "peak_in_game": 98172,
+  "name": "Warframe",
+  "type": "game",
+  "genres": [
+   "動作",
+   "角色扮演",
+   "免費遊玩"
+  ],
+  "tags": [
+   "Free to Play",
+   "Action RPG",
+   "Looter Shooter",
+   "Third-Person Shooter",
+   "Action",
+   "RPG",
+   "Third Person",
+   "Character Customization"
+  ],
+  "name_en": "Warframe"
+ },
+ {
+  "rank": 14,
+  "appid": 2507950,
+  "concurrent_in_game": 51001,
+  "peak_in_game": 119549,
+  "tags": [],
+  "name_en": "Delta Force: Hawk Ops",
+  "name": "Delta Force",
+  "genres": [
+   "動作",
+   "冒險",
+   "大型多人連線",
+   "免費遊玩"
+  ],
+  "tw_store": false
+ },
+ {
+  "rank": 15,
+  "appid": 1808500,
+  "concurrent_in_game": 50846,
+  "peak_in_game": 159585,
+  "name": "ARC Raiders",
+  "type": "game",
+  "genres": [
+   "動作"
+  ],
+  "tags": [],
+  "name_en": "ARC Raiders"
+ },
+ {
+  "rank": 16,
+  "appid": 252490,
+  "concurrent_in_game": 47086,
+  "peak_in_game": 123050,
+  "name": "Rust",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "獨立製作",
+   "大型多人連線",
+   "角色扮演"
+  ],
+  "tags": [
+   "Survival",
+   "Crafting",
+   "Multiplayer",
+   "Open World",
+   "Open World Survival Craft",
+   "Building",
+   "PvP",
+   "Sandbox"
+  ],
+  "name_en": "Rust"
+ },
+ {
+  "rank": 17,
+  "appid": 2868840,
+  "concurrent_in_game": 43077,
+  "peak_in_game": 101451,
+  "name": "Slay the Spire 2",
+  "type": "game",
+  "genres": [
+   "獨立製作",
+   "策略",
+   "搶先體驗"
+  ],
+  "tags": [],
+  "name_en": "Slay the Spire 2"
+ },
+ {
+  "rank": 18,
+  "appid": 1938090,
+  "concurrent_in_game": 39956,
+  "peak_in_game": 101727,
+  "name": "《決勝時刻®》",
+  "type": "game",
+  "genres": [
+   "動作"
+  ],
+  "tags": [
+   "FPS",
+   "Multiplayer",
+   "Shooter",
+   "Singleplayer",
+   "Action",
+   "Military",
+   "First-Person",
+   "War"
+  ],
+  "name_en": "Call of Duty: Modern Warfare II"
+ },
+ {
+  "rank": 19,
+  "appid": 4623570,
+  "concurrent_in_game": 38681,
+  "peak_in_game": 41252,
+  "name": "桌面破壞神：掛機ARPG",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "休閒",
+   "獨立製作",
+   "角色扮演"
+  ],
+  "tags": [],
+  "name_en": "Deskrawl: Idle ARPG"
+ },
+ {
+  "rank": 20,
+  "appid": 438100,
+  "concurrent_in_game": 38623,
+  "peak_in_game": 62812,
+  "name": "VRChat",
+  "type": "game",
+  "genres": [
+   "冒險",
+   "休閒",
+   "大型多人連線",
+   "模擬",
+   "運動",
+   "免費遊玩",
+   "搶先體驗"
+  ],
+  "tags": [
+   "VR",
+   "Free to Play",
+   "Multiplayer",
+   "Anime",
+   "Memes",
+   "Funny",
+   "Massively Multiplayer",
+   "First-Person"
+  ],
+  "name_en": "VRChat"
+ },
+ {
+  "rank": 21,
+  "appid": 413150,
+  "concurrent_in_game": 37256,
+  "peak_in_game": 102066,
+  "name": "Stardew Valley",
+  "type": "game",
+  "genres": [
+   "獨立製作",
+   "角色扮演",
+   "模擬"
+  ],
+  "tags": [
+   "Farming Sim",
+   "Pixel Graphics",
+   "Multiplayer",
+   "Life Sim",
+   "RPG",
+   "Relaxing",
+   "Agriculture",
+   "Simulation"
+  ],
+  "name_en": "Stardew Valley"
+ },
+ {
+  "rank": 22,
+  "appid": 892970,
+  "concurrent_in_game": 36598,
+  "peak_in_game": 152608,
+  "name": "Valheim",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "獨立製作",
+   "角色扮演"
+  ],
+  "tags": [
+   "Open World Survival Craft",
+   "Survival",
+   "Online Co-Op",
+   "Open World",
+   "Multiplayer",
+   "Building",
+   "Crafting",
+   "Base-Building"
+  ],
+  "name_en": "Valheim"
+ },
+ {
+  "rank": 23,
+  "appid": 2357570,
+  "concurrent_in_game": 31959,
+  "peak_in_game": 77128,
+  "name": "《鬥陣特攻®》",
+  "type": "game",
+  "genres": [
+   "動作",
+   "免費遊玩"
+  ],
+  "tags": [],
+  "name_en": "Overwatch 2"
+ },
+ {
+  "rank": 24,
+  "appid": 2767030,
+  "concurrent_in_game": 31943,
+  "peak_in_game": 71660,
+  "name": "漫威爭鋒",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "休閒",
+   "大型多人連線",
+   "競速",
+   "角色扮演",
+   "策略",
+   "免費遊玩"
+  ],
+  "tags": [
+   "Free to Play",
+   "Multiplayer",
+   "Hero Shooter",
+   "Third-Person Shooter",
+   "Superhero",
+   "PvP",
+   "Action",
+   "Team-Based"
+  ],
+  "name_en": "Marvel Rivals"
+ },
+ {
+  "rank": 25,
+  "appid": 271590,
+  "concurrent_in_game": 31539,
+  "peak_in_game": 75854,
+  "name": "Grand Theft Auto V 傳承版",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險"
+  ],
+  "tags": [
+   "Open World",
+   "Action",
+   "Multiplayer",
+   "Crime",
+   "Automobile Sim",
+   "Third Person",
+   "First-Person",
+   "Mature"
+  ],
+  "name_en": "Grand Theft Auto V Legacy"
+ },
+ {
+  "rank": 26,
+  "appid": 1203620,
+  "concurrent_in_game": 31077,
+  "peak_in_game": 113542,
+  "name": "霧鎖王國 (Enshrouded)",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "獨立製作",
+   "角色扮演"
+  ],
+  "tags": [
+   "Open World",
+   "Survival",
+   "Base-Building",
+   "Multiplayer",
+   "Online Co-Op",
+   "Crafting",
+   "RPG",
+   "Adventure"
+  ],
+  "name_en": "Enshrouded"
+ },
+ {
+  "rank": 27,
+  "appid": 359550,
+  "concurrent_in_game": 29971,
+  "peak_in_game": 94297,
+  "name": "《虹彩六號：圍攻行動》",
+  "type": "game",
+  "genres": [
+   "動作",
+   "免費遊玩"
+  ],
+  "tags": [
+   "FPS",
+   "PvP",
+   "Multiplayer",
+   "Tactical",
+   "e-sports",
+   "Shooter",
+   "Competitive",
+   "Online Co-Op"
+  ],
+  "name_en": "Tom Clancy's Rainbow Six Siege"
+ },
+ {
+  "rank": 28,
+  "appid": 3240220,
+  "concurrent_in_game": 29564,
+  "peak_in_game": 75500,
+  "name": "Grand Theft Auto V 強化版",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "競速"
+  ],
+  "tags": [
+   "Open World",
+   "Action",
+   "Multiplayer",
+   "Crime",
+   "Mature",
+   "Third Person",
+   "Shooter",
+   "First-Person"
+  ],
+  "name_en": "Grand Theft Auto V Enhanced"
+ },
+ {
+  "rank": 29,
+  "appid": 4126040,
+  "concurrent_in_game": 29507,
+  "peak_in_game": 64771,
+  "name": "伊莫",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "大型多人連線",
+   "角色扮演",
+   "模擬",
+   "策略",
+   "免費遊玩"
+  ],
+  "tags": [],
+  "name_en": ""
+ },
+ {
+  "rank": 30,
+  "appid": 108600,
+  "concurrent_in_game": 29506,
+  "peak_in_game": 77586,
+  "name": "Project Zomboid",
+  "type": "game",
+  "genres": [
+   "獨立製作",
+   "角色扮演",
+   "模擬",
+   "搶先體驗"
+  ],
+  "tags": [
+   "Survival",
+   "Zombies",
+   "Open World",
+   "Multiplayer",
+   "Open World Survival Craft",
+   "Sandbox",
+   "Post-apocalyptic",
+   "Co-op"
+  ],
+  "name_en": "Project Zomboid"
+ },
+ {
+  "rank": 31,
+  "appid": 292030,
+  "concurrent_in_game": 28444,
+  "peak_in_game": 97461,
+  "name": "巫師3：狂獵 — 重製版",
+  "type": "game",
+  "genres": [
+   "角色扮演"
+  ],
+  "tags": [
+   "Open World",
+   "RPG",
+   "Story Rich",
+   "Atmospheric",
+   "Mature",
+   "Fantasy",
+   "Adventure",
+   "Singleplayer"
+  ],
+  "name_en": "The Witcher 3: Wild Hunt — Remastered"
+ },
+ {
+  "rank": 32,
+  "appid": 236390,
+  "concurrent_in_game": 27938,
+  "peak_in_game": 83257,
+  "name": "War Thunder",
+  "type": "game",
+  "genres": [
+   "動作",
+   "大型多人連線",
+   "模擬",
+   "免費遊玩"
+  ],
+  "tags": [
+   "Free to Play",
+   "Simulation",
+   "Vehicular Combat",
+   "Combat",
+   "World War II",
+   "Flight",
+   "VR",
+   "War"
+  ],
+  "name_en": "War Thunder"
+ },
+ {
+  "rank": 33,
+  "appid": 1623730,
+  "concurrent_in_game": 27687,
+  "peak_in_game": 69499,
+  "name": "Palworld / 幻獸帕魯",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "獨立製作",
+   "角色扮演"
+  ],
+  "tags": [
+   "Open World",
+   "Survival",
+   "Creature Collector",
+   "Multiplayer",
+   "Open World Survival Craft",
+   "Online Co-Op",
+   "Crafting",
+   "Co-op"
+  ],
+  "name_en": "Palworld"
+ },
+ {
+  "rank": 34,
+  "appid": 381210,
+  "concurrent_in_game": 27527,
+  "peak_in_game": 71982,
+  "name": "Dead by Daylight",
+  "type": "game",
+  "genres": [
+   "動作"
+  ],
+  "tags": [
+   "Horror",
+   "Multiplayer",
+   "Survival Horror",
+   "Online Co-Op",
+   "Co-op",
+   "Survival",
+   "Gore",
+   "Team-Based"
+  ],
+  "name_en": "Dead by Daylight"
+ },
+ {
+  "rank": 35,
+  "appid": 250900,
+  "concurrent_in_game": 26983,
+  "peak_in_game": 67201,
+  "name": "The Binding of Isaac: Rebirth",
+  "type": "game",
+  "genres": [
+   "動作"
+  ],
+  "tags": [
+   "Action Roguelike",
+   "Rogue-like",
+   "Indie",
+   "Replay Value",
+   "Difficult",
+   "Pixel Graphics",
+   "Dungeon Crawler",
+   "Great Soundtrack"
+  ],
+  "name_en": "The Binding of Isaac: Rebirth"
+ },
+ {
+  "rank": 36,
+  "appid": 1091500,
+  "concurrent_in_game": 26547,
+  "peak_in_game": 67873,
+  "name": "Cyberpunk 2077",
+  "type": "game",
+  "genres": [
+   "角色扮演"
+  ],
+  "tags": [
+   "Cyberpunk",
+   "Open World",
+   "Nudity",
+   "RPG",
+   "Singleplayer",
+   "Sci-fi",
+   "FPS",
+   "Story Rich"
+  ],
+  "name_en": "Cyberpunk 2077"
+ },
+ {
+  "rank": 37,
+  "appid": 1973530,
+  "concurrent_in_game": 26424,
+  "peak_in_game": 46388,
+  "name": "Limbus Company",
+  "type": "game",
+  "genres": [
+   "免費遊玩"
+  ],
+  "tags": [],
+  "name_en": "Limbus Company"
+ },
+ {
+  "rank": 38,
+  "appid": 1142710,
+  "concurrent_in_game": 24262,
+  "peak_in_game": 67606,
+  "name": "全軍破敵：戰鎚3",
+  "type": "game",
+  "genres": [
+   "動作",
+   "策略"
+  ],
+  "tags": [
+   "Strategy",
+   "Turn-Based Strategy",
+   "Grand Strategy",
+   "RTS",
+   "Fantasy",
+   "Real Time Tactics",
+   "War",
+   "Dark Fantasy"
+  ],
+  "name_en": "Total War: WARHAMMER III"
+ },
+ {
+  "rank": 39,
+  "appid": 2807960,
+  "concurrent_in_game": 23503,
+  "peak_in_game": 76774,
+  "name": "戰地風雲™ 6",
+  "type": "game",
+  "genres": [
+   "動作"
+  ],
+  "tags": [],
+  "name_en": "Battlefield 6"
+ },
+ {
+  "rank": 40,
+  "appid": 294100,
+  "concurrent_in_game": 23197,
+  "peak_in_game": 45129,
+  "name": "RimWorld",
+  "type": "game",
+  "genres": [
+   "獨立製作",
+   "模擬",
+   "策略"
+  ],
+  "tags": [
+   "Colony Sim",
+   "Base-Building",
+   "Survival",
+   "Strategy",
+   "Sandbox",
+   "Management",
+   "Building",
+   "Simulation"
+  ],
+  "name_en": "RimWorld"
+ },
+ {
+  "rank": 41,
+  "appid": 221100,
+  "concurrent_in_game": 23127,
+  "peak_in_game": 69831,
+  "name": "DayZ",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "大型多人連線"
+  ],
+  "tags": [
+   "Survival",
+   "Open World",
+   "Online Co-Op",
+   "Zombies",
+   "Multiplayer",
+   "Post-apocalyptic",
+   "Shooter",
+   "PvP"
+  ],
+  "name_en": "DayZ"
+ },
+ {
+  "rank": 42,
+  "appid": 322170,
+  "concurrent_in_game": 22878,
+  "peak_in_game": 72549,
+  "name": "Geometry Dash",
+  "type": "game",
+  "genres": [
+   "動作",
+   "獨立製作"
+  ],
+  "tags": [
+   "Difficult",
+   "Music",
+   "Level Editor",
+   "Great Soundtrack",
+   "Precision Platformer",
+   "2D",
+   "Rhythm",
+   "Singleplayer"
+  ],
+  "name_en": "Geometry Dash"
+ },
+ {
+  "rank": 43,
+  "appid": 1086940,
+  "concurrent_in_game": 21823,
+  "peak_in_game": 64652,
+  "name": "柏德之門3",
+  "type": "game",
+  "genres": [
+   "冒險",
+   "角色扮演",
+   "策略"
+  ],
+  "tags": [
+   "RPG",
+   "Character Customization",
+   "Choices Matter",
+   "Story Rich",
+   "Turn-Based Combat",
+   "Dungeons & Dragons",
+   "CRPG",
+   "Fantasy"
+  ],
+  "name_en": "Baldur's Gate 3"
+ },
+ {
+  "rank": 44,
+  "appid": 1366800,
+  "concurrent_in_game": 21454,
+  "peak_in_game": 43469,
+  "name": "Crosshair X",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "獨立製作",
+   "軟體訓練",
+   "工具"
+  ],
+  "tags": [
+   "Action",
+   "Indie",
+   "Adventure",
+   "Utilities",
+   "Shooter",
+   "Software",
+   "FPS",
+   "Game Development"
+  ],
+  "name_en": "Crosshair X"
+ },
+ {
+  "rank": 45,
+  "appid": 105600,
+  "concurrent_in_game": 21197,
+  "peak_in_game": 58383,
+  "name": "Terraria",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "獨立製作",
+   "角色扮演"
+  ],
+  "tags": [
+   "Open World Survival Craft",
+   "Sandbox",
+   "Survival",
+   "2D",
+   "Multiplayer",
+   "Adventure",
+   "Pixel Graphics",
+   "Crafting"
+  ],
+  "name_en": "Terraria"
+ },
+ {
+  "rank": 46,
+  "appid": 322330,
+  "concurrent_in_game": 20844,
+  "peak_in_game": 53611,
+  "name": "饑荒聯機版",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "獨立製作",
+   "角色扮演",
+   "模擬",
+   "策略"
+  ],
+  "tags": [
+   "Survival",
+   "Open World Survival Craft",
+   "Multiplayer",
+   "Co-op",
+   "Open World",
+   "Adventure",
+   "Crafting",
+   "Online Co-Op"
+  ],
+  "name_en": "Don't Starve Together"
+ },
+ {
+  "rank": 47,
+  "appid": 1203220,
+  "concurrent_in_game": 20670,
+  "peak_in_game": 67019,
+  "name": "NARAKA: BLADEPOINT",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "大型多人連線",
+   "免費遊玩"
+  ],
+  "tags": [
+   "Battle Royale",
+   "Multiplayer",
+   "Martial Arts",
+   "Mature",
+   "PvP",
+   "Action",
+   "Female Protagonist",
+   "Character Customization"
+  ],
+  "name_en": "NARAKA: BLADEPOINT"
+ },
+ {
+  "rank": 48,
+  "appid": 553850,
+  "concurrent_in_game": 20542,
+  "peak_in_game": 57721,
+  "name": "HELLDIVERS™ 2",
+  "type": "game",
+  "genres": [
+   "動作"
+  ],
+  "tags": [
+   "Online Co-Op",
+   "PvE",
+   "Third-Person Shooter",
+   "Multiplayer",
+   "Action",
+   "Shooter",
+   "Co-op",
+   "Sci-fi"
+  ],
+  "name_en": "HELLDIVERS 2"
+ },
+ {
+  "rank": 49,
+  "appid": 4891320,
+  "concurrent_in_game": 20402,
+  "peak_in_game": 22268,
+  "name": "[WoG] War of Genesis: Idle Loot",
+  "type": "game",
+  "genres": [
+   "動作",
+   "休閒",
+   "角色扮演",
+   "免費遊玩"
+  ],
+  "tags": [],
+  "name_en": ""
+ },
+ {
+  "rank": 50,
+  "appid": 1174180,
+  "concurrent_in_game": 20161,
+  "peak_in_game": 53823,
+  "name": "Red Dead Redemption 2",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險"
+  ],
+  "tags": [
+   "Open World",
+   "Story Rich",
+   "Western",
+   "Adventure",
+   "Multiplayer",
+   "Action",
+   "Realistic",
+   "Singleplayer"
+  ],
+  "name_en": "Red Dead Redemption 2"
+ },
+ {
+  "rank": 51,
+  "appid": 289070,
+  "concurrent_in_game": 19842,
+  "peak_in_game": 45728,
+  "name": "Sid Meier’s Civilization® VI",
+  "type": "game",
+  "genres": [
+   "策略"
+  ],
+  "tags": [
+   "Strategy",
+   "Turn-Based Strategy",
+   "Multiplayer",
+   "Historical",
+   "Grand Strategy",
+   "Singleplayer",
+   "Turn-Based",
+   "4X"
+  ],
+  "name_en": "Sid Meier’s Civilization VI"
+ },
+ {
+  "rank": 52,
+  "appid": 394360,
+  "concurrent_in_game": 19574,
+  "peak_in_game": 57286,
+  "name": "Hearts of Iron IV",
+  "type": "game",
+  "genres": [
+   "模擬",
+   "策略"
+  ],
+  "tags": [
+   "Strategy",
+   "World War II",
+   "Grand Strategy",
+   "War",
+   "Historical",
+   "Military",
+   "Alternate History",
+   "Multiplayer"
+  ],
+  "name_en": "Hearts of Iron IV"
+ },
+ {
+  "rank": 53,
+  "appid": 4080220,
+  "concurrent_in_game": 19064,
+  "peak_in_game": 83407,
+  "name": "EA SPORTS FC™ 27",
+  "type": "game",
+  "genres": [
+   "模擬",
+   "運動"
+  ],
+  "tags": [],
+  "name_en": "EA SPORTS FC 27"
+ },
+ {
+  "rank": 54,
+  "appid": 1085660,
+  "concurrent_in_game": 17251,
+  "peak_in_game": 38316,
+  "name": "天命2",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "免費遊玩"
+  ],
+  "tags": [
+   "Free to Play",
+   "Open World",
+   "Multiplayer",
+   "Looter Shooter",
+   "MMORPG",
+   "FPS",
+   "Co-op",
+   "PvE"
+  ],
+  "name_en": "Destiny 2"
+ },
+ {
+  "rank": 55,
+  "appid": 3932890,
+  "concurrent_in_game": 17183,
+  "peak_in_game": 42003,
+  "name": "Escape from Tarkov",
+  "type": "game",
+  "genres": [
+   "動作",
+   "大型多人連線",
+   "角色扮演",
+   "模擬"
+  ],
+  "tags": [],
+  "name_en": "Escape from Tarkov"
+ },
+ {
+  "rank": 56,
+  "appid": 489830,
+  "concurrent_in_game": 16565,
+  "peak_in_game": 42420,
+  "name": "The Elder Scrolls V: Skyrim Special Edition",
+  "type": "game",
+  "genres": [
+   "角色扮演"
+  ],
+  "tags": [
+   "Open World",
+   "RPG",
+   "Adventure",
+   "Singleplayer",
+   "Fantasy",
+   "Character Customization",
+   "Moddable",
+   "Dragons"
+  ],
+  "name_en": "The Elder Scrolls V: Skyrim Special Edition"
+ },
+ {
+  "rank": 57,
+  "appid": 261550,
+  "concurrent_in_game": 15954,
+  "peak_in_game": 41847,
+  "name": "Mount & Blade II: Bannerlord",
+  "type": "game",
+  "genres": [
+   "動作",
+   "獨立製作",
+   "角色扮演",
+   "模擬",
+   "策略"
+  ],
+  "tags": [
+   "Medieval",
+   "Strategy",
+   "Open World",
+   "RPG",
+   "War",
+   "Sandbox",
+   "Multiplayer",
+   "Singleplayer"
+  ],
+  "name_en": "Mount & Blade II: Bannerlord"
+ },
+ {
+  "rank": 58,
+  "appid": 2054970,
+  "concurrent_in_game": 15698,
+  "peak_in_game": 37263,
+  "name": "Dragon's Dogma 2",
+  "type": "game",
+  "genres": [
+   "動作",
+   "角色扮演"
+  ],
+  "tags": [
+   "Open World",
+   "RPG",
+   "Action RPG",
+   "Fantasy",
+   "Singleplayer",
+   "Action",
+   "Adventure",
+   "Dragons"
+  ],
+  "name_en": "Dragon's Dogma 2"
+ },
+ {
+  "rank": 59,
+  "appid": 550,
+  "concurrent_in_game": 15239,
+  "peak_in_game": 39873,
+  "name": "Left 4 Dead 2",
+  "type": "game",
+  "genres": [
+   "動作"
+  ],
+  "tags": [
+   "Zombies",
+   "Co-op",
+   "FPS",
+   "Multiplayer",
+   "Shooter",
+   "Online Co-Op",
+   "Action",
+   "Survival"
+  ],
+  "name_en": "Left 4 Dead 2"
+ },
+ {
+  "rank": 60,
+  "appid": 1364780,
+  "concurrent_in_game": 15153,
+  "peak_in_game": 39940,
+  "name": "Street Fighter 6",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險"
+  ],
+  "tags": [
+   "2D Fighter",
+   "Fighting",
+   "Character Customization",
+   "Arcade",
+   "Action",
+   "Multiplayer",
+   "Competitive",
+   "PvP"
+  ],
+  "name_en": "Street Fighter 6"
+ },
+ {
+  "rank": 61,
+  "appid": 218620,
+  "concurrent_in_game": 14899,
+  "peak_in_game": 16084,
+  "name": "PAYDAY 2",
+  "type": "game",
+  "genres": [
+   "動作",
+   "角色扮演"
+  ],
+  "tags": [
+   "Co-op",
+   "Action",
+   "FPS",
+   "Heist",
+   "Multiplayer",
+   "Looter Shooter",
+   "Online Co-Op",
+   "Stealth"
+  ],
+  "name_en": "PAYDAY 2"
+ },
+ {
+  "rank": 62,
+  "appid": 1245620,
+  "concurrent_in_game": 14882,
+  "peak_in_game": 39198,
+  "name": "艾爾登法環",
+  "type": "game",
+  "genres": [
+   "動作",
+   "角色扮演"
+  ],
+  "tags": [
+   "Souls-like",
+   "Open World",
+   "Dark Fantasy",
+   "RPG",
+   "Difficult",
+   "Action RPG",
+   "Third Person",
+   "Multiplayer"
+  ],
+  "name_en": "ELDEN RING"
+ },
+ {
+  "rank": 63,
+  "appid": 1905180,
+  "concurrent_in_game": 14535,
+  "peak_in_game": 31129,
+  "name": "OBS Studio",
+  "type": "game",
+  "genres": [
+   "工具",
+   "影片製作"
+  ],
+  "tags": [],
+  "name_en": "OBS Studio"
+ },
+ {
+  "rank": 64,
+  "appid": 2073620,
+  "concurrent_in_game": 14441,
+  "peak_in_game": 41474,
+  "tags": [],
+  "name_en": "Arena Breakout: Infinite",
+  "name": "Arena Breakout: Infinite",
+  "genres": [
+   "動作",
+   "冒險",
+   "大型多人連線",
+   "角色扮演",
+   "策略",
+   "免費遊玩"
+  ],
+  "tw_store": false
+ },
+ {
+  "rank": 65,
+  "appid": 1281930,
+  "concurrent_in_game": 14410,
+  "peak_in_game": 39554,
+  "name": "tModLoader",
+  "type": "mod",
+  "genres": [
+   "動作",
+   "冒險",
+   "獨立製作",
+   "角色扮演",
+   "免費遊玩"
+  ],
+  "tags": [],
+  "name_en": "tModLoader"
+ },
+ {
+  "rank": 66,
+  "appid": 582660,
+  "concurrent_in_game": 14363,
+  "peak_in_game": 20675,
+  "name": "Black Desert",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "大型多人連線",
+   "角色扮演",
+   "策略"
+  ],
+  "tags": [
+   "MMORPG",
+   "Massively Multiplayer",
+   "Open World",
+   "Character Customization",
+   "RPG",
+   "Adventure",
+   "Fantasy",
+   "Action"
+  ],
+  "name_en": "Black Desert"
+ },
+ {
+  "rank": 67,
+  "appid": 2246340,
+  "concurrent_in_game": 14159,
+  "peak_in_game": 40089,
+  "name": "Monster Hunter Wilds",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "角色扮演"
+  ],
+  "tags": [
+   "Hunting",
+   "Action",
+   "Multiplayer",
+   "Online Co-Op",
+   "Co-op",
+   "Dating Sim",
+   "Character Customization",
+   "Dragons"
+  ],
+  "name_en": "Monster Hunter Wilds"
+ },
+ {
+  "rank": 68,
+  "appid": 2399830,
+  "concurrent_in_game": 13977,
+  "peak_in_game": 30598,
+  "name": "方舟: 生存飛升",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "獨立製作",
+   "大型多人連線",
+   "角色扮演",
+   "搶先體驗"
+  ],
+  "tags": [
+   "Early Access",
+   "Survival",
+   "Open World",
+   "Multiplayer",
+   "Dinosaurs",
+   "Building",
+   "Adventure",
+   "Base-Building"
+  ],
+  "name_en": "ARK: Survival Ascended"
+ },
+ {
+  "rank": 69,
+  "appid": 3551340,
+  "concurrent_in_game": 13939,
+  "peak_in_game": 36611,
+  "name": "Football Manager 26",
+  "type": "game",
+  "genres": [
+   "模擬",
+   "運動",
+   "策略"
+  ],
+  "tags": [],
+  "name_en": "Football Manager 26"
+ },
+ {
+  "rank": 70,
+  "appid": 251570,
+  "concurrent_in_game": 13882,
+  "peak_in_game": 39847,
+  "name": "7 Days to Die",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "獨立製作",
+   "角色扮演",
+   "模擬",
+   "策略"
+  ],
+  "tags": [
+   "Survival",
+   "Zombies",
+   "Multiplayer",
+   "Open World",
+   "Open World Survival Craft",
+   "Base-Building",
+   "Post-apocalyptic",
+   "Voxel"
+  ],
+  "name_en": "7 Days to Die"
+ },
+ {
+  "rank": 71,
+  "appid": 227300,
+  "concurrent_in_game": 13589,
+  "peak_in_game": 59081,
+  "name": "Euro Truck Simulator 2",
+  "type": "game",
+  "genres": [
+   "獨立製作",
+   "模擬"
+  ],
+  "tags": [
+   "Driving",
+   "Transportation",
+   "Simulation",
+   "Open World",
+   "Automobile Sim",
+   "Realistic",
+   "Moddable",
+   "Relaxing"
+  ],
+  "name_en": "Euro Truck Simulator 2"
+ },
+ {
+  "rank": 72,
+  "appid": 1222670,
+  "concurrent_in_game": 13413,
+  "peak_in_game": 34038,
+  "name": "The Sims™ 4",
+  "type": "game",
+  "genres": [
+   "冒險",
+   "休閒",
+   "模擬",
+   "免費遊玩"
+  ],
+  "tags": [
+   "Life Sim",
+   "Character Customization",
+   "Free to Play",
+   "Building",
+   "Romance",
+   "Simulation",
+   "Sandbox",
+   "Singleplayer"
+  ],
+  "name_en": "The Sims 4"
+ },
+ {
+  "rank": 73,
+  "appid": 632360,
+  "concurrent_in_game": 13221,
+  "peak_in_game": 31901,
+  "name": "Risk of Rain 2",
+  "type": "game",
+  "genres": [
+   "動作",
+   "獨立製作"
+  ],
+  "tags": [
+   "Third-Person Shooter",
+   "Action Roguelike",
+   "Multiplayer",
+   "Co-op",
+   "Action",
+   "Rogue-lite",
+   "Rogue-like",
+   "Looter Shooter"
+  ],
+  "name_en": "Risk of Rain 2"
+ },
+ {
+  "rank": 74,
+  "appid": 2300320,
+  "concurrent_in_game": 13087,
+  "peak_in_game": 58686,
+  "name": "Farming Simulator 25",
+  "type": "game",
+  "genres": [
+   "模擬"
+  ],
+  "tags": [
+   "Simulation",
+   "Farming Sim",
+   "Realistic",
+   "3D",
+   "First-Person",
+   "Immersive Sim",
+   "Time Management",
+   "Multiplayer"
+  ],
+  "name_en": "Farming Simulator 25"
+ },
+ {
+  "rank": 75,
+  "appid": 4019220,
+  "concurrent_in_game": 12893,
+  "peak_in_game": 34824,
+  "name": "Dressmaker",
+  "type": "game",
+  "genres": [
+   "休閒",
+   "模擬"
+  ],
+  "tags": [],
+  "name_en": "Dressmaker"
+ },
+ {
+  "rank": 76,
+  "appid": 766570,
+  "concurrent_in_game": 12266,
+  "peak_in_game": 24089,
+  "name": "Russian Fishing 4",
+  "type": "game",
+  "genres": [
+   "冒險",
+   "休閒",
+   "大型多人連線",
+   "角色扮演",
+   "模擬",
+   "運動",
+   "免費遊玩"
+  ],
+  "tags": [
+   "Fishing",
+   "Multiplayer",
+   "Free to Play",
+   "Simulation",
+   "Nature",
+   "Realistic",
+   "Relaxing",
+   "First-Person"
+  ],
+  "name_en": "Russian Fishing 4"
+ },
+ {
+  "rank": 77,
+  "appid": 1158310,
+  "concurrent_in_game": 12108,
+  "peak_in_game": 31394,
+  "name": "Crusader Kings III",
+  "type": "game",
+  "genres": [
+   "角色扮演",
+   "模擬",
+   "策略"
+  ],
+  "tags": [
+   "Strategy",
+   "Medieval",
+   "Grand Strategy",
+   "Simulation",
+   "RPG",
+   "Historical",
+   "Management",
+   "Character Customization"
+  ],
+  "name_en": "Crusader Kings III"
+ },
+ {
+  "rank": 78,
+  "appid": 4000,
+  "concurrent_in_game": 12055,
+  "peak_in_game": 37062,
+  "name": "Garry's Mod",
+  "type": "game",
+  "genres": [
+   "休閒",
+   "獨立製作",
+   "模擬"
+  ],
+  "tags": [
+   "Sandbox",
+   "Moddable",
+   "Multiplayer",
+   "Physics",
+   "Building",
+   "Casual",
+   "Funny",
+   "First-Person"
+  ],
+  "name_en": "Garry's Mod"
+ },
+ {
+  "rank": 79,
+  "appid": 376210,
+  "concurrent_in_game": 11977,
+  "peak_in_game": 25029,
+  "name": "The Isle",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "獨立製作",
+   "大型多人連線",
+   "模擬",
+   "搶先體驗"
+  ],
+  "tags": [
+   "Dinosaurs",
+   "Survival",
+   "Open World",
+   "Multiplayer",
+   "Simulation",
+   "Hunting",
+   "Realistic",
+   "Massively Multiplayer"
+  ],
+  "name_en": "The Isle"
+ },
+ {
+  "rank": 80,
+  "appid": 3405690,
+  "concurrent_in_game": 11833,
+  "peak_in_game": 37055,
+  "name": "EA SPORTS FC™ 26",
+  "type": "game",
+  "genres": [
+   "模擬",
+   "運動"
+  ],
+  "tags": [],
+  "name_en": "EA SPORTS FC 26"
+ },
+ {
+  "rank": 81,
+  "appid": 1449850,
+  "concurrent_in_game": 11696,
+  "peak_in_game": 21946,
+  "name": "Yu-Gi-Oh! Master Duel",
+  "type": "game",
+  "genres": [
+   "模擬",
+   "策略",
+   "免費遊玩"
+  ],
+  "tags": [],
+  "name_en": "Yu-Gi-Oh!  Master Duel"
+ },
+ {
+  "rank": 82,
+  "appid": 5166840,
+  "concurrent_in_game": 11429,
+  "peak_in_game": 18245,
+  "name": "角色屋 桌面夥伴 Demo",
+  "type": "demo",
+  "genres": [
+   "休閒",
+   "模擬"
+  ],
+  "tags": [],
+  "name_en": null
+ },
+ {
+  "rank": 83,
+  "appid": 365670,
+  "concurrent_in_game": 11380,
+  "peak_in_game": 15792,
+  "name": "Blender",
+  "type": "game",
+  "genres": [
+   "動畫和建模",
+   "設計和繪圖",
+   "影片製作"
+  ],
+  "tags": [
+   "Animation & Modeling",
+   "Software",
+   "Design & Illustration",
+   "Free to Play",
+   "Game Development",
+   "Video Production",
+   "3D",
+   "Difficult"
+  ],
+  "name_en": "Blender"
+ },
+ {
+  "rank": 84,
+  "appid": 1974050,
+  "concurrent_in_game": 11178,
+  "peak_in_game": 22564,
+  "name": "火炬之光：無限",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "角色扮演",
+   "免費遊玩"
+  ],
+  "tags": [],
+  "name_en": "Torchlight: Infinite"
+ },
+ {
+  "rank": 85,
+  "appid": 1476970,
+  "concurrent_in_game": 11133,
+  "peak_in_game": 14549,
+  "name": "IdleOn - The Idle RPG",
+  "type": "game",
+  "genres": [
+   "冒險",
+   "休閒",
+   "獨立製作",
+   "大型多人連線",
+   "角色扮演",
+   "模擬",
+   "策略",
+   "免費遊玩"
+  ],
+  "tags": [
+   "Idler",
+   "Pixel Graphics",
+   "Free to Play",
+   "MMORPG",
+   "Management",
+   "RPG",
+   "Multiplayer",
+   "Clicker"
+  ],
+  "name_en": "Legends of IdleOn - Idle MMO"
+ },
+ {
+  "rank": 86,
+  "appid": 1623660,
+  "concurrent_in_game": 10998,
+  "peak_in_game": 12026,
+  "name": "MIR4",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "大型多人連線",
+   "角色扮演",
+   "免費遊玩"
+  ],
+  "tags": [],
+  "name_en": "MIR4"
+ },
+ {
+  "rank": 87,
+  "appid": 304930,
+  "concurrent_in_game": 10871,
+  "peak_in_game": 13720,
+  "name": "Unturned",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "休閒",
+   "獨立製作",
+   "免費遊玩"
+  ],
+  "tags": [
+   "Free to Play",
+   "Survival",
+   "Zombies",
+   "Multiplayer",
+   "Open World",
+   "Co-op",
+   "Sandbox",
+   "Crafting"
+  ],
+  "name_en": "Unturned"
+ },
+ {
+  "rank": 88,
+  "appid": 813780,
+  "concurrent_in_game": 10840,
+  "peak_in_game": 28505,
+  "name": "Age of Empires II: Definitive Edition",
+  "type": "game",
+  "genres": [
+   "策略"
+  ],
+  "tags": [
+   "Strategy",
+   "RTS",
+   "City Builder",
+   "Multiplayer",
+   "Base-Building",
+   "Historical",
+   "Singleplayer",
+   "Medieval"
+  ],
+  "name_en": "Age of Empires II: Definitive Edition"
+ },
+ {
+  "rank": 89,
+  "appid": 2139460,
+  "concurrent_in_game": 10430,
+  "peak_in_game": 21812,
+  "name": "Once Human",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "休閒",
+   "大型多人連線",
+   "競速",
+   "角色扮演",
+   "模擬",
+   "策略",
+   "免費遊玩"
+  ],
+  "tags": [],
+  "name_en": "Once Human"
+ },
+ {
+  "rank": 90,
+  "appid": 39210,
+  "concurrent_in_game": 10092,
+  "peak_in_game": 22811,
+  "tags": [
+   "MMORPG",
+   "RPG",
+   "Massively Multiplayer",
+   "Character Customization",
+   "Fantasy",
+   "JRPG",
+   "Open World",
+   "Story Rich"
+  ],
+  "name_en": "FINAL FANTASY XIV Online",
+  "name": "FINAL FANTASY XIV Online",
+  "genres": [
+   "大型多人連線",
+   "角色扮演"
+  ],
+  "tw_store": false
+ },
+ {
+  "rank": 91,
+  "appid": 2344520,
+  "concurrent_in_game": 10061,
+  "peak_in_game": 22205,
+  "name": "《暗黑破壞神® IV》",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "休閒",
+   "大型多人連線",
+   "角色扮演"
+  ],
+  "tags": [
+   "Action RPG",
+   "Hack and Slash",
+   "Loot",
+   "Isometric",
+   "RPG",
+   "Online Co-Op",
+   "Singleplayer",
+   "Co-op"
+  ],
+  "name_en": "Diablo IV"
+ },
+ {
+  "rank": 92,
+  "appid": 216150,
+  "concurrent_in_game": 9973,
+  "peak_in_game": 12612,
+  "tags": [
+   "MMORPG",
+   "2D Platformer",
+   "Character Customization",
+   "Loot",
+   "Free to Play",
+   "Side Scroller",
+   "PvE",
+   "Multiplayer"
+  ],
+  "name_en": "MapleStory",
+  "name": "MapleStory",
+  "genres": [
+   "動作",
+   "冒險",
+   "休閒",
+   "大型多人連線",
+   "角色扮演",
+   "免費遊玩"
+  ],
+  "tw_store": false
+ },
+ {
+  "rank": 93,
+  "appid": 3219030,
+  "concurrent_in_game": 9920,
+  "peak_in_game": 37826,
+  "name": "《動物園之星 2》",
+  "type": "game",
+  "genres": [
+   "模擬",
+   "策略"
+  ],
+  "tags": [],
+  "name_en": "Planet Zoo 2"
+ },
+ {
+  "rank": 94,
+  "appid": 2694490,
+  "concurrent_in_game": 9854,
+  "peak_in_game": 24591,
+  "tags": [
+   "Action RPG",
+   "Hack and Slash",
+   "RPG",
+   "Souls-like",
+   "MMORPG",
+   "Dark Fantasy",
+   "Isometric",
+   "Action"
+  ],
+  "name_en": "Path of Exile 2",
+  "name": "Path of Exile 2",
+  "genres": [
+   "動作",
+   "冒險",
+   "大型多人連線",
+   "角色扮演",
+   "搶先體驗"
+  ],
+  "tw_store": false
+ },
+ {
+  "rank": 95,
+  "appid": 2183900,
+  "concurrent_in_game": 9758,
+  "peak_in_game": 27642,
+  "name": "Warhammer 40,000: Space Marine 2",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "角色扮演"
+  ],
+  "tags": [
+   "Warhammer 40K",
+   "Action",
+   "Third-Person Shooter",
+   "Multiplayer",
+   "Co-op",
+   "PvE",
+   "Adventure",
+   "Action-Adventure"
+  ],
+  "name_en": "Warhammer 40,000: Space Marine 2"
+ },
+ {
+  "rank": 96,
+  "appid": 284160,
+  "concurrent_in_game": 9721,
+  "peak_in_game": 32134,
+  "name": "BeamNG.drive",
+  "type": "game",
+  "genres": [
+   "競速",
+   "模擬",
+   "搶先體驗"
+  ],
+  "tags": [
+   "Simulation",
+   "Driving",
+   "Physics",
+   "Realistic",
+   "Destruction",
+   "Automobile Sim",
+   "Sandbox",
+   "Open World"
+  ],
+  "name_en": "BeamNG.drive"
+ },
+ {
+  "rank": 97,
+  "appid": 2622380,
+  "concurrent_in_game": 9704,
+  "peak_in_game": 29765,
+  "name": "艾爾登法環 黑夜君臨",
+  "type": "game",
+  "genres": [
+   "動作",
+   "角色扮演"
+  ],
+  "tags": [
+   "Souls-like",
+   "Online Co-Op",
+   "Rogue-like",
+   "Multiplayer",
+   "Singleplayer",
+   "Co-op",
+   "Action",
+   "Third Person"
+  ],
+  "name_en": "ELDEN RING NIGHTREIGN"
+ },
+ {
+  "rank": 98,
+  "appid": 1304930,
+  "concurrent_in_game": 9509,
+  "peak_in_game": 51409,
+  "name": "The Outlast Trials",
+  "type": "game",
+  "genres": [
+   "動作",
+   "冒險",
+   "獨立製作"
+  ],
+  "tags": [
+   "Horror",
+   "Multiplayer",
+   "Co-op",
+   "Survival Horror",
+   "Psychological Horror",
+   "First-Person",
+   "PvE",
+   "Stealth"
+  ],
+  "name_en": "The Outlast Trials"
+ },
+ {
+  "rank": 99,
+  "appid": 582010,
+  "concurrent_in_game": 9496,
+  "peak_in_game": 27885,
+  "name": "Monster Hunter: World",
+  "type": "game",
+  "genres": [
+   "動作"
+  ],
+  "tags": [
+   "Co-op",
+   "Multiplayer",
+   "Action",
+   "Open World",
+   "RPG",
+   "Character Customization",
+   "Third Person",
+   "Adventure"
+  ],
+  "name_en": "Monster Hunter: World"
+ },
+ {
+  "rank": 100,
+  "appid": 427520,
+  "concurrent_in_game": 9416,
+  "peak_in_game": 23727,
+  "name": "Factorio",
+  "type": "game",
+  "genres": [
+   "休閒",
+   "獨立製作",
+   "模擬",
+   "策略"
+  ],
+  "tags": [
+   "Automation",
+   "Base-Building",
+   "Resource Management",
+   "Sandbox",
+   "Crafting",
+   "Strategy",
+   "Multiplayer",
+   "Survival"
+  ],
+  "name_en": "Factorio"
+ }
+]
