@@ -422,23 +422,90 @@ class Polish(E2E):
         p.keyboard.down("e"); p.wait_for_timeout(200); p.keyboard.press("d"); p.wait_for_timeout(1200); p.keyboard.up("e")
         self.assertIsNone(p.evaluate("GH.state.room"), "按住 E 途中轉向就不該開門")
 
-class Inn(E2E):
-    def test_rooms_are_medieval_inn(self):
-        p = self.open("#room=strategy")
-        p.wait_for_function("document.body.classList.contains('in-room')")
-        room = '.room[data-room="strategy"]'
-        self.assertIn("repeating-linear-gradient", p.evaluate(f"getComputedStyle(document.querySelector('{room}')).backgroundImage"), "木板牆")
-        self.assertIn("serif", p.evaluate(f"getComputedStyle(document.querySelector('{room} .room-name')).fontFamily").lower(), "木招牌用明體")
-        self.assertEqual(p.locator(f"{room} .sconce svg.px").count(), 2, "招牌兩側各一支火把")
-        self.assertTrue(p.evaluate(f"getComputedStyle(document.querySelector('{room} .room-name'), '::before').content") not in ("none", "normal"), "招牌掛鏈")
+class Lobby(E2E):
+    def test_corridor_is_inn(self):
+        p = self.open()
+        self.assertGreaterEqual(p.locator(".corridor .torch svg.px").count(), 6, "大廳牆上有火把")
+        self.assertIn("rgb(138, 42, 34)", p.evaluate("getComputedStyle(document.querySelector('.floor')).backgroundImage"), "走道紅地毯")
 
-    def test_inn_reduced_motion_no_flicker(self):
+    def test_rooms_have_own_genre_scene(self):
+        p = self.open("#room=shooter")
+        bgs = p.evaluate("[...document.querySelectorAll('.room[data-room]')].map(r => getComputedStyle(r).backgroundImage)")
+        self.assertNotIn("none", bgs)
+        self.assertEqual(len(set(bgs)), len(SITE["rooms"]), "每間房的場景都不同")
+        self.assertEqual(p.locator(".rooms .sconce").count(), 0, "旅館火把只在大廳")
+
+    def test_killfeed_translucent(self):
+        p = self.open()
+        a = p.evaluate("(getComputedStyle(document.querySelector('.kill')).backgroundColor.match(/rgba\(.*,\s*([\d.]+)\)/) || [0, 1])[1]")
+        self.assertLessEqual(float(a), 0.6)
+
+
+class Reveal(E2E):
+    def cover(self, slug): return f'.room[data-room="{slug}"] .board-cover'
+
+    def test_first_visit_cover_then_deal(self):
+        p = self.open("#room=sim"); p.wait_for_function("document.body.classList.contains('in-room')")
+        self.assertTrue(p.is_visible(self.cover("sim"))); self.assertIn("翻開", p.inner_text(self.cover("sim")))
+        self.assertTrue(p.evaluate("document.querySelector('.room[data-room=\"sim\"] .stage .card').inert"), "翻開前卡片不能按")
+        self.assertIn("board-cover", p.evaluate("document.activeElement.className"))
+        p.click(self.cover("sim"))
+        p.wait_for_selector('.room[data-room="sim"] .stage .card .fx', timeout=3000)
+        p.wait_for_function("[...document.querySelectorAll('.room[data-room=\"sim\"] .stage .card')].every(c => !c.inert)", timeout=5000)
+        self.assertFalse(p.is_visible(self.cover("sim")))
+        top = min((g for g in SITE["games"] if g["room_slug"] == "sim" and g["room_rank"]), key=lambda g: g["room_rank"])
+        p.wait_for_timeout(2500)
+        self.assertEqual(p.inner_text(f'.room[data-room="sim"] .card[data-id="{top["id"]}"] .big'), p.evaluate(f"GH.fmt.num({top['score']})"), "數字跑完要停在正確值")
+        self.assertIn("sim", p.evaluate("JSON.parse(localStorage.getItem('gh.revealed'))"))
+
+    def test_second_visit_skips_cover(self):
+        p = self.open("#room=sim"); p.click(self.cover("sim")); p.wait_for_timeout(300)
+        p.click("#turn-back"); p.wait_for_function("GH.state.room === null")
+        p.evaluate("GH.go({room:'sim'}, {animate:false})"); self.assertFalse(p.is_visible(self.cover("sim")))
+        p.reload(); p.wait_for_function("window.GH && GH.ready === true")
+        p.evaluate("GH.go({room:'sim'}, {animate:false})"); self.assertFalse(p.is_visible(self.cover("sim")), "重新整理後也記得")
+
+    def test_deep_link_game_skips_cover(self):
+        p = self.open("#room=shooter&game=730")
+        self.assertFalse(p.is_visible(self.cover("shooter")))
+        self.assertIn("is-open", p.get_attribute('.room[data-room="shooter"] .card[data-id="730"]', "class"))
+
+    def test_every_ranked_game_has_own_effect(self):
+        p = self.open()
+        fx = p.evaluate("GH.FX")
+        for g in SITE["games"]:
+            if g["room_rank"] and g["room_rank"] <= 5: self.assertIn(g["id"], fx, g["name"])
+        self.assertEqual(len({f["t"] for f in fx.values()}), len(fx), "每款遊戲的特效台詞都不同")
+
+    def test_card_click_plays_its_effect(self):
+        p = self.open("#room=casual&game=3419430"); p.wait_for_timeout(300)
+        p.click('.room[data-room="casual"] .card[data-id="322170"]')
+        p.wait_for_selector('.card[data-id="322170"] .fx-cap', timeout=1000)
+        self.assertEqual(p.inner_text('.card[data-id="322170"] .fx-cap'), p.evaluate("GH.FX['322170'].t"))
+
+    def test_reduced_motion_reveal_without_fx(self):
         p = self.open("#room=rpg", reduced=True)
-        self.assertEqual(p.evaluate("getComputedStyle(document.querySelector('.room[data-room=\"rpg\"] .sconce'), '::after').animationName"), "none")
+        p.click(self.cover("rpg"))
+        self.assertFalse(p.is_visible(self.cover("rpg")))
+        self.assertFalse(p.evaluate("document.querySelector('.room[data-room=\"rpg\"] .stage .card').inert"))
+        p.wait_for_timeout(300); self.assertEqual(p.locator(".fx").count(), 0)
 
-    def test_inn_mobile_no_overflow(self):
-        p = self.open("#room=action", mobile=True); p.wait_for_timeout(300)
-        self.assertFalse(p.evaluate("[...document.querySelectorAll('.room:not([hidden])')].some(e => e.scrollWidth > e.clientWidth + 1)"))
+    def test_keyboard_reveal_and_arrow_between_cards(self):
+        p = self.open("#room=action"); p.wait_for_function("document.body.classList.contains('in-room')")
+        p.keyboard.press("Enter")
+        p.wait_for_function("[...document.querySelectorAll('.room[data-room=\"action\"] .stage .card')].every(c => !c.inert)", timeout=5000)
+        first = p.evaluate("document.activeElement.dataset.id")
+        p.keyboard.press("ArrowRight")
+        second = p.evaluate("document.activeElement.dataset.id")
+        self.assertNotEqual(first, second, "房間裡方向鍵要能換卡")
+        p.keyboard.press("Enter"); self.assertIn("is-open", p.get_attribute(f'.card[data-id="{second}"]', "class"))
+
+    def test_storage_blocked_still_works(self):
+        ctx = self.browser.new_context(); self.addCleanup(ctx.close)
+        ctx.add_init_script("Object.defineProperty(window, 'localStorage', {get(){ throw new Error('denied'); }})")
+        p = ctx.new_page(); errs = []; p.on("pageerror", lambda e: errs.append(str(e)))
+        p.goto(URL + "#room=sim"); p.wait_for_function("window.GH && GH.ready === true", timeout=5000)
+        p.click(self.cover("sim")); self.assertEqual(errs, [])
 
 if __name__ == "__main__":
     unittest.main()
