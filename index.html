@@ -80,7 +80,19 @@ html,body{margin:0;height:100%;background:var(--panel);color:var(--ink);font:400
 .wall--left{left:-300px;transform:rotateY(90deg)}
 .wall--right{left:300px;transform:rotateY(90deg)}
 .endwall{position:absolute;left:-300px;top:-260px;width:600px;height:480px;transform:translateZ(-3200px);background:#202833}
-.door{all:unset;position:absolute;top:-170px;width:200px;height:390px;transform-style:preserve-3d;cursor:pointer}
+.door{all:unset;box-sizing:border-box;position:absolute;top:-170px;width:200px;height:390px;transform-style:preserve-3d;cursor:pointer;background:#0d1117}
+/* 門板：材質在 .leaf 上，開門時以左緣為軸朝鏡頭轉開，露出門後的光 */
+.door .leaf{position:absolute;inset:0;box-sizing:border-box;transform-origin:left center;transform-style:preserve-3d;transition:transform .55s cubic-bezier(.3,.7,.2,1)}
+.door.is-opening{background:radial-gradient(ellipse at 50% 62%,#fff4d6 0,var(--gold) 38%,#5a3d14 100%);box-shadow:0 0 90px 24px rgba(212,162,76,.45)}
+.door.is-opening .leaf{transform:rotateY(-105deg)}
+.door .spark{position:absolute;left:calc(50% - 4px);top:62%;width:8px;height:8px;background:var(--gold);animation:spark .6s steps(6) forwards}
+.door .spark:nth-child(3n){background:var(--ink)}.door .spark:nth-child(4n){background:var(--warn)}
+@keyframes spark{to{transform:translate(var(--dx),var(--dy));opacity:0}}
+body.door-flash::after{content:"";position:fixed;inset:0;z-index:5;pointer-events:none;background:#fff4d6;animation:flash .6s ease-in forwards}
+@keyframes flash{0%,55%{opacity:0}85%{opacity:.55}100%{opacity:0}}
+.door .px{position:absolute;left:50%;bottom:72px;width:96px;height:96px;transform:translateX(-50%)}
+.door--action .px{width:48px;height:48px;bottom:16px}
+.door .leaf > *{backface-visibility:hidden} /* 門板轉到背面時不顯示鏡像文字 */
 .door--left{left:-399px;transform:translateZ(calc(var(--z) - 250px)) rotateY(90deg)}
 .door--right{left:199px;transform:translateZ(calc(var(--z) - 250px)) rotateY(-90deg)}
 .door:focus-visible{outline:4px solid var(--gold);outline-offset:6px}
@@ -88,15 +100,23 @@ html,body{margin:0;height:100%;background:var(--panel);color:var(--ink);font:400
 .door .plate{position:absolute;left:12px;right:12px;top:24px;display:flex;flex-direction:column;gap:2px;padding:8px;background:var(--panel);font-size:var(--t14);line-height:1.4}
 .door .plate strong{font-size:var(--t21)}
 /* 門的材質（SPEC 8.2） */
-.door--shooter{background:repeating-linear-gradient(-45deg,var(--gold) 0 14px,var(--panel) 14px 28px) top/100% 18px no-repeat,
+.door--shooter .leaf{background:repeating-linear-gradient(-45deg,var(--gold) 0 14px,var(--panel) 14px 28px) top/100% 18px no-repeat,
   repeating-linear-gradient(-45deg,var(--gold) 0 14px,var(--panel) 14px 28px) bottom/100% 18px no-repeat,linear-gradient(#4b5867,#36414d)}
-.door--strategy{background:linear-gradient(rgba(232,228,216,.12) 1px,transparent 1px) 0 0/24px 24px,linear-gradient(90deg,rgba(232,228,216,.12) 1px,transparent 1px) 0 0/24px 24px,#5a4330}
-.door--sim{background:linear-gradient(90deg,transparent 47%,#2a3440 47% 53%,transparent 53%),linear-gradient(transparent 32%,#2a3440 32% 35%,transparent 35% 65%,#2a3440 65% 68%,transparent 68%),rgba(91,141,184,.28);border:8px solid #2a3440}
-.door--casual{background:linear-gradient(var(--blue) 0 28px,var(--ink) 28px);border:2px solid var(--blue)}
+.door--strategy .leaf{background:linear-gradient(rgba(232,228,216,.12) 1px,transparent 1px) 0 0/24px 24px,linear-gradient(90deg,rgba(232,228,216,.12) 1px,transparent 1px) 0 0/24px 24px,#5a4330}
+.door--sim .leaf{background:linear-gradient(90deg,transparent 47%,#2a3440 47% 53%,transparent 53%),linear-gradient(transparent 32%,#2a3440 32% 35%,transparent 35% 65%,#2a3440 65% 68%,transparent 68%),rgba(91,141,184,.28);border:8px solid #2a3440}
+.door--casual .leaf{background:linear-gradient(var(--blue) 0 28px,var(--ink) 28px);border:2px solid var(--blue)}
 .door--casual .plate{top:40px;background:transparent;color:var(--panel)}
-.door--rpg{background:linear-gradient(transparent 18%,#3a3a3a 18% 22%,transparent 22% 78%,#3a3a3a 78% 82%,transparent 82%),repeating-linear-gradient(90deg,#6b4a2f 0 38px,#5c3f28 38px 40px)}
-.door--action{background:linear-gradient(90deg,#7a5634 0 48%,transparent 48% 52%,#7a5634 52%);height:200px;top:-60px}
-.door--spectators,.door--graffiti{background:#2f3a47}
+.door--rpg .leaf{background:linear-gradient(transparent 18%,#3a3a3a 18% 22%,transparent 22% 78%,#3a3a3a 78% 82%,transparent 82%),repeating-linear-gradient(90deg,#6b4a2f 0 38px,#5c3f28 38px 40px)}
+.door--action .leaf{background:linear-gradient(90deg,#7a5634 0 48%,transparent 48% 52%,#7a5634 52%)}
+.door--action{height:200px;top:-60px}
+.door--spectators .leaf,.door--graffiti .leaf{background:#2f3a47}
+/* 像素圖（自繪 12×12，不用官方圖） */
+svg.px{shape-rendering:crispEdges;image-rendering:pixelated;width:1em;height:1em;vertical-align:-.12em;flex:none}
+.px .c-i{fill:var(--ink)}.px .c-g{fill:var(--gold)}.px .c-b{fill:var(--blue)}.px .c-w{fill:var(--warn)}.px .c-d{fill:var(--panel)}.px .c-k{fill:#0d1117}.px .c-r{fill:#7a5634}
+.room-name .px,#plan h2 .px{width:1.1em;height:1.1em;margin-right:.35em}
+.mm-cell .px{width:14px;height:14px;margin-right:4px;vertical-align:-2px}
+.mm-cell .px .c-d,.room-name .px .c-d,#plan h2 .px .c-d{fill:var(--ink)} /* 深色底上手把改用亮色 */
+.viewport::after{content:"";position:absolute;inset:0;pointer-events:none;background:repeating-linear-gradient(transparent 0 2px,rgba(0,0,0,.14) 2px 3px)}
 /* 重生點 */
 .spawn-panel{position:absolute;left:50%;top:14%;transform:translateX(-50%);width:min(720px,92vw);text-align:center;pointer-events:none}
 .spawn-panel .hook{font:700 var(--t72)/1.1 var(--num);margin:0}
@@ -151,7 +171,7 @@ html,body{margin:0;height:100%;background:var(--panel);color:var(--ink);font:400
 .mm-cell{all:unset;cursor:pointer;text-align:center;line-height:44px;border:1px solid rgba(232,228,216,.3);min-height:44px}
 .mm-cell.visited::after{content:" ✓";color:var(--gold)}
 .mm-cell:focus-visible,.to-plan:focus-visible,.kill:focus-visible{outline:3px solid var(--gold)}
-.me{width:10px;height:10px;background:var(--gold);border-radius:50%;align-self:center;justify-self:center}
+.me{width:10px;height:10px;background:var(--gold);box-shadow:0 0 0 2px #0d1117,0 0 0 4px var(--gold);align-self:center;justify-self:center}
 .to-plan{all:unset;cursor:pointer;grid-column:1 / 4;grid-row:6;padding:10px 0;text-decoration:underline;text-underline-offset:3px;min-height:44px;box-sizing:border-box}
 #mm-toggle{all:unset;cursor:pointer;width:44px;height:44px;text-align:center;line-height:44px;border:1px solid var(--ink);background:var(--panel);font-size:var(--t12)}
 #minimap:not(.is-collapsed) #mm-toggle{grid-column:1;grid-row:7}
@@ -170,6 +190,20 @@ body.in-room #killfeed{display:none}
 }
 @media (hover:hover) and (pointer:fine){ #sb-toggle{display:none} }
 .plan-score{margin-top:40px}
+/* ==== polish ==== */
+#tab-tip{display:none;position:absolute;right:16px;bottom:16px;align-items:center;gap:8px;padding:8px 12px;background:var(--panel);font-size:var(--t14);pointer-events:none}
+#tab-tip kbd{font:700 var(--t12)/1 var(--num);padding:6px 8px;background:var(--ink);color:var(--panel);box-shadow:0 3px 0 var(--gold)}
+@media (hover:hover) and (pointer:fine){#tab-tip{display:flex}}
+.plan-bar{position:sticky;top:0;z-index:5;display:flex;flex-wrap:wrap;gap:12px;align-items:center;padding:12px 2px;background:var(--panel)}
+.plan-bar p{margin:0;font-size:var(--t14);opacity:.8}
+.plan-back,.plan-enter{all:unset;cursor:pointer;display:inline-flex;align-items:center;min-height:44px;padding:0 16px;box-sizing:border-box;font:600 var(--t14)/1 var(--zh);background:var(--panel);color:var(--ink)}
+.plan-back{background:var(--gold);color:var(--panel);--pxb:#0d1117}
+.plan-back:focus-visible,.plan-enter:focus-visible{outline:3px solid var(--gold);outline-offset:4px}
+.plan-room-head{display:flex;flex-wrap:wrap;align-items:center;gap:12px;margin:48px 0 16px}
+.plan-room-head h2{margin:0!important}
+.plan-room-head .plan-enter{margin-left:auto}
+/* 像素邊框：四邊各一條 2px 線，四角留缺口 */
+.mm-cell,#mm-toggle,#turn-back,#sb-toggle,.vote,#tab-tip,.plan-back,.plan-enter{border:0;box-shadow:0 -2px 0 var(--pxb,rgba(232,228,216,.55)),0 2px 0 var(--pxb,rgba(232,228,216,.55)),-2px 0 0 var(--pxb,rgba(232,228,216,.55)),2px 0 0 var(--pxb,rgba(232,228,216,.55))}
 </style>
 </head>
 <body>
@@ -181,7 +215,8 @@ body.in-room #killfeed{display:none}
 <div id="hud">
   <nav id="minimap" aria-label="小地圖"></nav>
   <aside id="killfeed" aria-label="黑馬與爭議"></aside>
-  <button id="sb-toggle" type="button" aria-controls="scoreboard" aria-expanded="false">計分板</button>
+  <button id="sb-toggle" type="button" aria-controls="scoreboard" aria-expanded="false">總計分板</button>
+  <p id="tab-tip"><kbd>Tab</kbd>按住看總計分板</p>
 </div>
 <section id="scoreboard" role="dialog" aria-label="總計分板" hidden></section>
 <p id="live" class="sr" aria-live="polite"></p>
@@ -249,6 +284,25 @@ addEventListener("popstate", () => GH.go(GH.hash.parse(location.hash), {push:fal
 /* ==== card ==== */
 const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
 GH.el = el;
+/* 12×12 像素圖：每個字元一格，. 是透明 */
+const SPRITES = {
+  shooter:   [".....ii.....","...iiiiii...","..i..ii..i..",".i...ii...i.",".i........i.","iiii.ww.iiii","iiii.ww.iiii",".i........i.",".i...ii...i.","..i..ii..i..","...iiiiii...",".....ii....."],
+  strategy:  ["i.i.i..i.i.i","iiiii..iiiii",".iii.gg.iii.",".iii.ggg.ii.",".iiiiiiiiii.",".iiiiiiiiii.",".iii.ii.iii.",".iiiiiiiiii.",".iiii..iiii.",".iii....iii.",".iii....iii.","iiiiiiiiiiii"],
+  sim:       [".....gg.....","..g..gg..g..","...gggggg...","..gg....gg..",".gg..bb..gg.","gggg.bb.gggg","gggg.bb.gggg",".gg..bb..gg.","..gg....gg..","...gggggg...","..g..gg..g..",".....gg....."],
+  casual:    ["............","............","..dddddddd..",".dddddddddd.","ddkdddddddwd","dkkkdddddwdb","ddkdddddddbd","dddddddddddd","dddd....dddd",".dd......dd.","............","............"],
+  rpg:       ["..........ii",".........iii","........iii.",".......iii..","......iii...",".g...iii....","..g.iii.....","...ggi......","...gg.......","..r..g......",".r....g.....","r..........."],
+  action:    [".....w......","....ww......","....www..w..","...wwww.ww..","..wwwgww.w..","..wwggwwww..",".wwwggggwww.",".wwggiiggww.",".wwgiiiigww.",".wwggiiggww.","..wwggggww..","...wwwwww..."],
+  spectators:["............","............","....iiii....","..ii....ii..",".i...bb...i.","i...bkkb...i","i...bkkb...i",".i...bb...i.","..ii....ii..","....iiii....","............","............"],
+  graffiti:  ["...ww.......","..w..w..b.b.","...kk..b.b..","..iiii..b.b.","..iiii......","..wwww......","..wwww......","..iiii......","..iiii......","..iiii......","..iiii......","...ii......."],
+};
+GH.sprite = key => {
+  const rows = SPRITES[key] || SPRITES.spectators, paths = {};
+  rows.forEach((row, y) => [...row].forEach((c, x) => { if (c !== ".") paths[c] = (paths[c] || "") + `M${x} ${y}h1v1h-1z`; }));
+  const NS = "http://www.w3.org/2000/svg", svg = document.createElementNS(NS, "svg");
+  svg.setAttribute("viewBox", "0 0 12 12"); svg.setAttribute("class", "px"); svg.setAttribute("aria-hidden", "true");
+  Object.entries(paths).forEach(([c, d]) => { const p = document.createElementNS(NS, "path"); p.setAttribute("class", "c-" + c); p.setAttribute("d", d); svg.append(p); });
+  return svg;
+};
 const BADGE = {
   steam_main:["Steam 主力","PC 玩家主要從 Steam 進遊戲"],
   steam_partial:["只算 Steam 端","在 Steam 上架，但另有自家啟動器或主機的大量玩家"],
@@ -342,10 +396,15 @@ GH.plan = {
     spawn.append(el("h1", "hook", GH.fmt.fill(cp.hook?.headline)), el("p", null, GH.fmt.fill(cp.hook?.sub)),
       el("p", "times", `月度數據：${GH.data.period.from.replace("-", "/")}～${GH.data.period.to.replace("-", "/")}｜當下人數抓取於 ${snap()}（台灣時間）`),
       el("p", "cloud", cp.spawn_note));
+    const bar = el("div", "plan-bar"); const back = el("button", "plan-back", "回到 3D 走廊"); back.type = "button";
+    back.addEventListener("click", () => GH.go({view:"walk"}));
+    bar.append(back, el("p", null, "也可以在任一房間按「走進這間房」直接進去")); root.prepend(bar);
     root.append(spawn);
     GH.data.rooms.slice().sort((a, b) => a.order - b.order).forEach(r => {
       const s = el("section", "plan-room"); s.dataset.room = r.slug;
-      s.append(el("h2", null, r.name));
+      const head = el("div", "plan-room-head"), h2 = el("h2"); h2.append(GH.sprite(r.slug), r.name);
+      const go = el("button", "plan-enter", "走進這間房"); go.type = "button"; go.setAttribute("aria-label", `走進${r.name}房`);
+      go.addEventListener("click", () => GH.go({room: r.slug})); head.append(h2, go); s.append(head);
       const top = el("div", "room-top"); GH.roomTop(r.slug).forEach(g => top.append(GH.card(g))); s.append(top);
       const {dark, none} = GH.roomExtra(r.slug);
       if (dark.length) { s.append(el("h3", null, "黑馬（未滿 3 個月，不給名次）")); const d = el("div", "room-extra"); dark.forEach(g => d.append(GH.card(g))); s.append(d); }
@@ -432,11 +491,11 @@ S.layout.forEach(x => {
     const r = GH.roomsBySlug[x.slug], top = GH.roomTop(x.slug)[0];
     d.dataset.room = x.slug; d.style.setProperty("--glow", r.glow);
     const plate = el("span", "plate"); plate.append(el("strong", null, r.name), el("span", null, top ? `${top.name}｜${GH.fmt.num(top.score)}` : "—"));
-    d.append(el("span", "glow"), plate);
+    const leaf = el("span", "leaf"); leaf.append(plate, GH.sprite(x.slug)); d.append(el("span", "glow"), leaf);
     d.setAttribute("aria-label", `${r.name}房，第一名 ${top ? top.name : "無"}`);
   } else {
     d.dataset.special = x.special;
-    d.append(el("span", "plate", x.special === "spectators" ? "觀戰席" : "塗鴉牆"));
+    const leaf = el("span", "leaf"); leaf.append(el("span", "plate", x.special === "spectators" ? "觀戰席" : "塗鴉牆"), GH.sprite(x.special)); d.append(leaf);
   }
   d.addEventListener("click", () => GH.scene.enter(x));
   corridor.append(d);
@@ -449,7 +508,7 @@ const roomsEl = sceneRoot.querySelector(".rooms");
 GH.data.rooms.forEach(r => {
   const room = el("section", "room theme--" + r.slug); room.dataset.room = r.slug; room.hidden = true;
   room.setAttribute("aria-label", r.name + "房");
-  room.append(el("h2", "room-name", r.name));
+  const rn = el("h2", "room-name"); rn.append(GH.sprite(r.slug), r.name); room.append(rn);
   const stage = el("div", "stage"); GH.roomTop(r.slug).forEach(g => stage.append(GH.card(g))); room.append(stage);
   const {dark, none} = GH.roomExtra(r.slug);
   const foot = el("div", "room-foot");
@@ -473,6 +532,7 @@ const buildSpecials = () => {
 };
 S.render = (animate) => {
   sceneRoot.classList.toggle("no-anim", !animate || reduced());
+  S.closeDoors();
   // 視點在 z=+900（perspective）。正面：門在前方約 650px；轉向：繞視點轉 90°、退到對面牆邊並和門對齊，門正對鏡頭
   const side = S.facing === "left" ? -1 : S.facing === "right" ? 1 : 0;
   S._base = `rotateY(${side * 90}deg) translate3d(${side * 250}px,0,${S.station * STATION_DEPTH + (side ? 1150 : 500)}px)`;
@@ -494,11 +554,27 @@ S.describe = () => {
   const name = x => x.slug ? GH.roomsBySlug[x.slug].name : x.special === "spectators" ? "觀戰席" : "塗鴉牆";
   return `第 ${S.station} 站，左邊${name(here[0])}，右邊${name(here[1])}`;
 };
-S.move = d => { const n = Math.max(0, Math.min(4, S.station + d)); if (n === S.station) return; S.station = n; S.facing = "front"; S.render(true); GH.announce(S.describe()); };
-S.turn = side => { S.facing = S.facing === side ? "front" : side; if (S.station === 0) S.facing = "front"; S.render(true); };
+S.openDoor = x => {
+  const d = sceneRoot.querySelector(x.slug ? `.door[data-room="${x.slug}"]` : `.door[data-special="${x.special}"]`);
+  d.classList.add("is-opening");
+  for (let i = 0; i < 14; i++) { // 像素火花往四周噴
+    const p = el("span", "spark"), a = Math.PI * 2 * i / 14, r = 70 + (i % 3) * 30;
+    p.style.setProperty("--dx", Math.round(Math.cos(a) * r) + "px"); p.style.setProperty("--dy", Math.round(Math.sin(a) * r - 40) + "px"); d.append(p);
+  }
+  document.body.classList.add("door-flash"); clearTimeout(S._flash); S._flash = setTimeout(() => document.body.classList.remove("door-flash"), 650);
+};
+S.closeDoors = () => sceneRoot.querySelectorAll(".door.is-opening").forEach(d => { d.classList.remove("is-opening"); d.querySelectorAll(".spark").forEach(p => p.remove()); });
+S.move = d => { holdCancel(); const n = Math.max(0, Math.min(4, S.station + d)); if (n === S.station) return; S.station = n; S.facing = "front"; S.render(true); GH.announce(S.describe()); };
+S.turn = side => { holdCancel(); S.facing = S.facing === side ? "front" : side; if (S.station === 0) S.facing = "front"; S.render(true); };
 S.enter = x => {
   if (x.slug) GH.go({room: x.slug});
-  else { S.station = 4; S.facing = x.side; buildSpecials(); S.openSpecial(x.special); }
+  else {
+    S.station = 4; S.facing = x.side; buildSpecials(); S.render(false);
+    if (reduced()) { S.openSpecial(x.special); return; }
+    const token = ++enterToken; S.openDoor(x); sceneRoot.classList.add("pushing");
+    requestAnimationFrame(() => { if (token === enterToken) world.style.transform = "translateZ(480px) " + S._base; });
+    setTimeout(() => { if (token === enterToken) { sceneRoot.classList.remove("pushing"); S.openSpecial(x.special); } }, 600);
+  }
 };
 S.setInRoom = on => {
   sceneRoot.classList.toggle("in-room", on); document.body.classList.toggle("in-room", on);
@@ -537,8 +613,8 @@ GH.on("state", ({prev, next, animate}) => {
     S.render(false);
     const push = animate && !reduced() && !(prev && prev.room);
     if (!push) { showRoom(next); return; } // 直接開網址、減少動態效果：同步切換，不播動畫
-    sceneRoot.classList.add("pushing");
-    requestAnimationFrame(() => { world.style.transform = "translateZ(480px) " + S._base; }); // 朝門推進
+    S.openDoor(S.layout.find(x => x.slug === next.room)); sceneRoot.classList.add("pushing");
+    requestAnimationFrame(() => { if (token === enterToken) world.style.transform = "translateZ(480px) " + S._base; }); // 朝門推進
     setTimeout(() => { if (token === enterToken) showRoom(next); }, 600);
   } else {
     sceneRoot.classList.remove("pushing");
@@ -648,8 +724,8 @@ const visited = new Set(JSON.parse(localStorage.getItem("gh.visited") || "[]"));
 GH.scene.layout.forEach(x => {
   const b = el("button", "mm-cell mm--" + x.side); b.type = "button";
   b.style.gridRow = String(5 - x.station); b.style.gridColumn = x.side === "left" ? "1" : "3";
-  if (x.slug) { b.dataset.room = x.slug; b.textContent = GH.roomsBySlug[x.slug].name; b.addEventListener("click", () => GH.go({room: x.slug}, {animate: true})); }
-  else { b.dataset.special = x.special; b.textContent = x.special === "spectators" ? "觀戰席" : "塗鴉牆"; b.addEventListener("click", () => { GH.go({room:null}, {animate:false}); GH.scene.enter(x); }); }
+  if (x.slug) { b.dataset.room = x.slug; b.append(GH.sprite(x.slug), GH.roomsBySlug[x.slug].name); b.addEventListener("click", () => GH.go({room: x.slug}, {animate: true})); }
+  else { b.dataset.special = x.special; b.append(GH.sprite(x.special), x.special === "spectators" ? "觀戰席" : "塗鴉牆"); b.addEventListener("click", () => { GH.go({room:null}, {animate:false}); GH.scene.enter(x); }); }
   mm.append(b);
 });
 const me = el("span", "me"); me.setAttribute("aria-hidden", "true"); mm.append(me);
@@ -686,7 +762,8 @@ const kf = document.getElementById("killfeed");
   });
   kf.append(b);
 });
-GH.on("state", ({next}) => { kf.hidden = next.view === "plan"; sbBtn.hidden = false; });
+const tabTip = document.getElementById("tab-tip");
+GH.on("state", ({next}) => { kf.hidden = next.view === "plan"; tabTip.hidden = next.view === "plan"; sbBtn.hidden = false; });
 
 GH.emit("state", {prev:null, next:GH.state, animate:false});
 GH.ready = true; // 放在第一次渲染之後：測試等到 ready 時畫面已經是網址指定的狀態

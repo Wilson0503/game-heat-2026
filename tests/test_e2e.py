@@ -352,5 +352,75 @@ class Acceptance(E2E):
         p = self.open(); p.keyboard.press("a"); p.keyboard.down("Tab"); p.screenshot(path=str(SHOTS / "scoreboard-desktop.png"))  # 載入後第一次 Tab 落到跳過連結; p.keyboard.up("Tab")
         self.assertEqual(self.errors, [])
 
+class Polish(E2E):
+    def face(self, p, x):
+        p.evaluate(f"GH.scene.station = {x['station']}; GH.scene.facing = '{x['side']}'; GH.scene.render(false)")
+
+    def test_every_door_visible_when_faced(self):
+        p = self.open()
+        for x in p.evaluate("GH.scene.layout"):
+            sel = f'.door[data-room="{x["slug"]}"]' if x.get("slug") else f'.door[data-special="{x["special"]}"]'
+            self.face(p, x); p.wait_for_timeout(50)
+            hit = p.evaluate("""sel => { const d = document.querySelector(sel), r = d.getBoundingClientRect();
+                const cx = Math.min(Math.max(r.left + r.width / 2, 1), innerWidth - 1), cy = Math.min(Math.max(r.top + r.height / 2, 1), innerHeight - 1);
+                const e = document.elementFromPoint(cx, cy); return !!e && e.closest('.door') === d; }""", sel)
+            self.assertTrue(hit, sel + " 面對時要看得到，不能被牆蓋住")
+
+    def test_plan_back_to_corridor(self):
+        for kw in ({"hash": "#view=plan"}, {"reduced": True}):
+            p = self.open(**kw)
+            p.click("#plan .plan-back")
+            p.wait_for_function("GH.state.view === 'walk' && GH.state.room === null")
+            self.assertTrue(p.is_visible("#scene")); self.assertFalse(p.is_visible("#plan"))
+
+    def test_plan_enter_room(self):
+        p = self.open("#view=plan")
+        p.click('#plan section[data-room="casual"] .plan-enter')
+        p.wait_for_function("GH.state.room === 'casual' && document.body.classList.contains('in-room')")
+        self.assertTrue(p.is_visible('.room[data-room="casual"]'))
+
+    def test_tab_tip_persistent_on_desktop(self):
+        p = self.open()
+        self.assertTrue(p.is_visible("#tab-tip"))
+        t = p.inner_text("#tab-tip"); self.assertIn("Tab", t); self.assertIn("總計分板", t)
+        p.keyboard.press("w"); p.wait_for_timeout(500)
+        self.assertTrue(p.is_visible("#tab-tip"), "操作過後提示仍要在")
+        p.evaluate("GH.go({room:'shooter'}, {animate:false})")
+        self.assertTrue(p.is_visible("#tab-tip"), "房間裡也能按 Tab")
+        p = self.open("#view=plan"); self.assertFalse(p.is_visible("#tab-tip"), "導覽圖裡 Tab 是焦點移動")
+        p = self.open(mobile=True); self.assertFalse(p.is_visible("#tab-tip"))
+        self.assertIn("總計分板", p.inner_text("#sb-toggle"))
+
+    def test_door_opening_effect(self):
+        p = self.open()
+        self.face(p, {"station": 1, "side": "left"})
+        p.click('.door[data-room="shooter"]')
+        p.wait_for_selector('.door[data-room="shooter"].is-opening', timeout=400)
+        self.assertGreater(p.locator('.door[data-room="shooter"] .spark').count(), 0)
+        p.wait_for_function("document.body.classList.contains('in-room')")
+        p.click("#turn-back"); p.wait_for_function("GH.state.room === null")
+        self.assertEqual(p.locator(".door.is-opening, .door .spark").count(), 0, "回到走廊後門要關上")
+        self.face(p, {"station": 4, "side": "left"})
+        p.click('.door[data-special="spectators"]')
+        p.wait_for_selector('.door[data-special="spectators"].is-opening', timeout=400)
+        p.wait_for_function("document.body.classList.contains('in-room')")
+        self.assertEqual(self.errors, [])
+
+    def test_pixel_sprites(self):
+        p = self.open()
+        for r in SITE["rooms"]:
+            s = r["slug"]
+            self.assertEqual(p.locator(f'.door[data-room="{s}"] svg.px').count(), 1, s)
+            self.assertEqual(p.locator(f'.room[data-room="{s}"] .room-name svg.px').count(), 1, s)
+            self.assertEqual(p.locator(f'#minimap button[data-room="{s}"] svg.px').count(), 1, s)
+        self.assertEqual(p.evaluate("getComputedStyle(document.querySelector('svg.px')).shapeRendering"), "crispedges")
+        p = self.open("#view=plan")
+        self.assertEqual(p.locator("#plan section[data-room] h2 svg.px").count(), len(SITE["rooms"]))
+    def test_hold_e_cancelled_by_turn(self):
+        p = self.open()
+        self.face(p, {"station": 1, "side": "left"}); p.wait_for_timeout(100)
+        p.keyboard.down("e"); p.wait_for_timeout(200); p.keyboard.press("d"); p.wait_for_timeout(1200); p.keyboard.up("e")
+        self.assertIsNone(p.evaluate("GH.state.room"), "按住 E 途中轉向就不該開門")
+
 if __name__ == "__main__":
     unittest.main()
