@@ -240,5 +240,55 @@ class Input(E2E):
         p.keyboard.press("Enter"); p.wait_for_function("GH.state.view === 'plan'")
 
 
+class Hud(E2E):
+    def test_tab_hold_shows_scoreboard(self):
+        p = self.open()
+        p.keyboard.press("a")  # 先有一次操作；載入後第一次 Tab 會落到「切換到樓層導覽圖」
+        p.keyboard.down("Tab"); self.assertTrue(p.is_visible("#scoreboard"))
+        rows = p.eval_on_selector_all("#scoreboard tbody tr[data-id]", "els => els.map(e => e.dataset.id)")
+        self.assertEqual(rows, [g["id"] for g in sorted([g for g in SITE["games"] if g["rank"] and g["rank"] <= 10], key=lambda g: g["rank"])])
+        self.assertIn("口徑不同，不參與排名", p.inner_text("#scoreboard"))
+        p.keyboard.up("Tab"); self.assertFalse(p.is_visible("#scoreboard"))
+
+    def test_mobile_toggle(self):
+        p = self.open(mobile=True)
+        p.tap("#sb-toggle"); self.assertTrue(p.is_visible("#scoreboard"))
+        self.assertEqual(p.get_attribute("#sb-toggle", "aria-expanded"), "true")
+        p.tap("#sb-toggle"); self.assertFalse(p.is_visible("#scoreboard"))
+        box = p.locator("#sb-toggle").bounding_box()
+        self.assertGreaterEqual(min(box["width"], box["height"]), 44)
+
+    def test_scoreboard_click_goes_to_game(self):
+        p = self.open()
+        p.keyboard.press("a"); p.keyboard.down("Tab")  # 桌機沒有計分板按鈕，按住 Tab
+        g = min((g for g in SITE["games"] if g["rank"]), key=lambda g: g["rank"])
+        p.click(f'#scoreboard tr[data-id="{g["id"]}"] button')
+        p.keyboard.up("Tab")
+        p.wait_for_function(f"GH.state.room === '{g['room_slug']}' && GH.state.game === '{g['id']}'")
+        self.assertFalse(p.is_visible("#scoreboard"))
+
+    def test_minimap_jump_and_visited(self):
+        p = self.open()
+        p.click('#minimap button[data-room="sim"]')
+        p.wait_for_function("GH.state.room === 'sim'")
+        p.click("#turn-back"); p.wait_for_function("GH.state.room === null")
+        self.assertIn("visited", p.get_attribute('#minimap button[data-room="sim"]', "class"))
+        self.assertIn("sim", p.evaluate("JSON.parse(localStorage.getItem('gh.visited'))"))
+
+    def test_killfeed_static_and_clickable(self):
+        p = self.open()
+        kills = p.locator("#killfeed .kill")
+        self.assertTrue(3 <= kills.count() <= 4)
+        before = p.inner_text("#killfeed"); p.wait_for_timeout(3000); self.assertEqual(before, p.inner_text("#killfeed"), "不自動輪播")
+        kills.first.click()
+        p.wait_for_function("GH.state.room !== null || document.querySelector('#scene').classList.contains('in-room')")
+
+    def test_minimap_plan_toggle(self):
+        p = self.open()
+        p.click("#minimap .to-plan"); p.wait_for_function("GH.state.view === 'plan'")
+        self.assertTrue(p.is_visible("#plan"))
+        p.keyboard.press("Tab")
+        self.assertFalse(p.is_visible("#scoreboard"), "導覽圖裡 Tab 是正常焦點移動")
+
 if __name__ == "__main__":
     unittest.main()

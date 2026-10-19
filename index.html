@@ -141,6 +141,31 @@ html,body{margin:0;height:100%;background:var(--panel);color:var(--ink);font:400
 /* ==== input ==== */
 .hold-ring{position:absolute;left:50%;top:50%;width:64px;height:64px;transform:translate(-50%,-50%);pointer-events:none;--p:0}
 .hold-ring circle{fill:none;stroke:var(--gold);stroke-width:4;stroke-dasharray:119.4;stroke-dashoffset:calc(119.4 * (1 - var(--p)));transform:rotate(-90deg);transform-origin:center}
+/* ==== hud ==== */
+#hud{position:fixed;inset:0;pointer-events:none;z-index:10}
+#hud > *{pointer-events:auto}
+#minimap{position:absolute;left:16px;top:16px;display:grid;grid-template-columns:72px 16px 72px;grid-template-rows:repeat(5,44px) auto auto;gap:4px;font-size:var(--t12)}
+.mm-cell{all:unset;cursor:pointer;text-align:center;line-height:44px;border:1px solid rgba(232,228,216,.3);min-height:44px}
+.mm-cell.visited::after{content:" ✓";color:var(--gold)}
+.mm-cell:focus-visible,.to-plan:focus-visible,.kill:focus-visible{outline:3px solid var(--gold)}
+.me{width:10px;height:10px;background:var(--gold);border-radius:50%;align-self:center;justify-self:center}
+.to-plan{all:unset;cursor:pointer;grid-column:1 / 4;grid-row:6;padding:10px 0;text-decoration:underline;text-underline-offset:3px;min-height:44px;box-sizing:border-box}
+#mm-toggle{all:unset;cursor:pointer;width:44px;height:44px;text-align:center;line-height:44px;border:1px solid var(--ink);background:var(--panel);font-size:var(--t12)}
+#minimap:not(.is-collapsed) #mm-toggle{grid-column:1;grid-row:7}
+#minimap.is-collapsed{display:block}
+#minimap.is-collapsed > :not(#mm-toggle){display:none}
+#killfeed{position:absolute;right:16px;top:16px;display:flex;flex-direction:column;align-items:flex-end;gap:4px;max-width:min(300px,22vw)}
+.kill{all:unset;cursor:pointer;font-size:var(--t14);line-height:1.4;padding:6px 10px;background:rgba(28,37,48,.85);border-right:3px solid var(--warn);text-align:right;min-height:44px;box-sizing:border-box}
+body.in-room #killfeed{display:none}
+#sb-toggle{position:absolute;right:16px;bottom:16px;min-width:56px;min-height:56px;padding:0 14px;border:1px solid var(--ink);background:var(--panel);color:var(--ink);font:600 var(--t14)/1 var(--zh);cursor:pointer}
+#scoreboard{position:fixed;inset:5vh 5vw;z-index:30;overflow:auto;padding:24px;background:var(--panel);border:1px solid rgba(232,228,216,.2);box-shadow:0 0 0 100vmax rgba(10,14,20,.6)}
+@media (max-width:600px){
+  /* 仍在右上角（SPEC 7.7），收成一排可橫捲的單行訊息，不蓋住下半部的滑動區 */
+  #killfeed{left:72px;right:8px;max-width:none;flex-direction:row;align-items:stretch;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:thin}
+  .kill{white-space:nowrap;flex:none;font-size:var(--t12);line-height:32px;padding:6px 10px}
+  #scoreboard{inset:0 0 88px 0;padding:16px 12px;box-shadow:none} /* 底部留給計分板按鈕，才能再點一次關掉 */
+}
+@media (hover:hover) and (pointer:fine){ #sb-toggle{display:none} }
 </style>
 </head>
 <body>
@@ -604,6 +629,60 @@ sceneRoot.addEventListener("click", e => {
   if (GH._lastPointer === "touch" || performance.now() - (GH._swipedAt || -1e9) < 400) { e.stopPropagation(); e.preventDefault(); }
 }, true);
 sceneRoot.addEventListener("pointerdown", e => GH._lastPointer = e.pointerType, true);
+
+/* ==== hud ==== */
+const sb = document.getElementById("scoreboard"), sbBtn = document.getElementById("sb-toggle");
+const sbSet = open => {
+  if (open && !sb.firstChild) { sb.append(GH.scoreTable()); sb.querySelectorAll("button").forEach(b => b.addEventListener("click", () => sbSet(false))); }
+  sb.hidden = !open; sbBtn.setAttribute("aria-expanded", String(open));
+};
+GH.on("scoreboard", ({open}) => sbSet(open));
+sbBtn.addEventListener("click", () => sbSet(sb.hidden));
+
+const mm = document.getElementById("minimap");
+const visited = new Set(JSON.parse(localStorage.getItem("gh.visited") || "[]"));
+GH.scene.layout.forEach(x => {
+  const b = el("button", "mm-cell mm--" + x.side); b.type = "button";
+  b.style.gridRow = String(5 - x.station); b.style.gridColumn = x.side === "left" ? "1" : "3";
+  if (x.slug) { b.dataset.room = x.slug; b.textContent = GH.roomsBySlug[x.slug].name; b.addEventListener("click", () => GH.go({room: x.slug}, {animate: true})); }
+  else { b.dataset.special = x.special; b.textContent = x.special === "spectators" ? "觀戰席" : "塗鴉牆"; b.addEventListener("click", () => { GH.go({room:null}, {animate:false}); GH.scene.enter(x); }); }
+  mm.append(b);
+});
+const me = el("span", "me"); me.setAttribute("aria-hidden", "true"); mm.append(me);
+const toPlan = el("button", "to-plan", "樓層導覽圖"); toPlan.type = "button"; toPlan.addEventListener("click", () => GH.go({view:"plan"})); mm.append(toPlan);
+// 手機與房間裡，小地圖收成 44×44 的「地圖」按鈕，避免蓋住內容；點了展開（SPEC 11 觸控目標 44 px）
+const mmBtn = el("button", null, "地圖"); mmBtn.id = "mm-toggle"; mmBtn.type = "button"; mm.append(mmBtn);
+let mmOpen = false;
+mmBtn.addEventListener("click", () => { mmOpen = !mmOpen; mmRender(); });
+const narrow = matchMedia("(max-width:600px)");
+const mmRender = () => {
+  mm.querySelectorAll("button[data-room]").forEach(b => b.classList.toggle("visited", visited.has(b.dataset.room)));
+  me.style.gridRow = String(5 - GH.scene.station); me.style.gridColumn = "2";
+  mm.hidden = GH.state.view === "plan";
+  const collapsed = (narrow.matches || document.body.classList.contains("in-room")) && !mmOpen;
+  mm.classList.toggle("is-collapsed", collapsed);
+  mmBtn.textContent = collapsed ? "地圖" : "收起";
+  mmBtn.setAttribute("aria-expanded", String(!collapsed));
+  mmBtn.hidden = !narrow.matches && !document.body.classList.contains("in-room");
+};
+GH.on("state", ({next}) => {
+  if (next.room) { visited.add(next.room); localStorage.setItem("gh.visited", JSON.stringify([...visited])); }
+  mmOpen = false; sbSet(false); mmRender();
+});
+GH.on("inroom", () => { mmOpen = false; mmRender(); });
+narrow.addEventListener("change", mmRender);
+
+const kf = document.getElementById("killfeed");
+(GH.data.kill_feed || []).slice(0, 4).forEach(k => {
+  const b = el("button", "kill", GH.fmt.fill(k.text)); b.type = "button"; b.dataset.target = k.target;
+  b.addEventListener("click", () => {
+    const g = GH.byId[k.target];
+    if (g && g.room_slug) GH.go({room: g.room_slug, game: g.id});
+    else GH.scene.enter(GH.scene.layout.find(x => x.special === "spectators"));
+  });
+  kf.append(b);
+});
+GH.on("state", ({next}) => { kf.hidden = next.view === "plan"; sbBtn.hidden = false; });
 
 GH.emit("state", {prev:null, next:GH.state, animate:false});
 GH.ready = true; // 放在第一次渲染之後：測試等到 ready 時畫面已經是網址指定的狀態
