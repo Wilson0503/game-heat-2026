@@ -138,6 +138,9 @@ html,body{margin:0;height:100%;background:var(--panel);color:var(--ink);font:400
   .room-name{font-size:var(--t24)}
 }
 @media (prefers-reduced-motion: reduce){ .world{transition:none} }
+/* ==== input ==== */
+.hold-ring{position:absolute;left:50%;top:50%;width:64px;height:64px;transform:translate(-50%,-50%);pointer-events:none;--p:0}
+.hold-ring circle{fill:none;stroke:var(--gold);stroke-width:4;stroke-dasharray:119.4;stroke-dashoffset:calc(119.4 * (1 - var(--p)));transform:rotate(-90deg);transform-origin:center}
 </style>
 </head>
 <body>
@@ -526,6 +529,81 @@ GH.data.rooms.forEach(r => {
   const top = GH.roomTop(r.slug); const max = top[0]?.score || 1;
   roomsEl.querySelectorAll(`.room[data-room="${r.slug}"] .stage .card`).forEach((c, i) => c.style.setProperty("--needle", (top[i].score / max).toFixed(3)));
 });
+
+/* ==== input ==== */
+GH.input = {HOLD_MS: 600, SWIPE_PX: 40};
+const ring = sceneRoot.querySelector(".hold-ring");
+let hold = null; // {start, raf, target}
+const holdStart = target => {
+  if (hold || !target) return;
+  ring.hidden = false;
+  hold = {start: performance.now(), target};
+  const tick = now => {
+    const p = Math.min(1, (now - hold.start) / GH.input.HOLD_MS);
+    ring.style.setProperty("--p", p.toFixed(3));
+    if (p >= 1) { const t = hold.target; holdCancel(); GH.scene.enter(t); return; }
+    hold.raf = requestAnimationFrame(tick);
+  };
+  hold.raf = requestAnimationFrame(tick);
+};
+const holdCancel = () => { if (!hold) return; cancelAnimationFrame(hold.raf); hold = null; ring.style.setProperty("--p", "0"); ring.hidden = true; };
+const walking = () => GH.state.view === "walk" && !GH.state.room && !sceneRoot.classList.contains("in-room");
+addEventListener("keydown", e => {
+  // 載入後第一次按 Tab、焦點還在 body 時放行，讓焦點落到「切換到樓層導覽圖」（SPEC 7.9）；之後 Tab 才是計分板
+  if (e.key === "Tab" && GH.state.view === "walk" && !GH._interacted && document.activeElement === document.body) { GH._interacted = true; return; }
+  if (e.key === "Tab" && GH.state.view === "walk") { e.preventDefault(); GH._interacted = true; if (!e.repeat) GH.emit("scoreboard", {open:true}); return; }
+  GH._interacted = true;
+  if (e.key === "Escape") { if (GH.state.room || sceneRoot.classList.contains("in-room")) GH.scene.leave(); return; } // 推進途中按 Esc 也要能退
+  if (!walking() || e.altKey || e.ctrlKey || e.metaKey) return;
+  const k = e.key.toLowerCase();
+  if (k === "w" || k === "arrowup") { e.preventDefault(); GH.scene.move(1); }
+  else if (k === "s" || k === "arrowdown") { e.preventDefault(); GH.scene.move(-1); }
+  else if (k === "a" || k === "arrowleft") { e.preventDefault(); GH.scene.turn("left"); }
+  else if (k === "d" || k === "arrowright") { e.preventDefault(); GH.scene.turn("right"); }
+  else if (k === "e" && !e.repeat) holdStart(GH.scene.doorAt());
+  else if (k === "enter" && document.activeElement?.classList.contains("door")) { e.preventDefault(); document.activeElement.click(); }
+  sceneRoot.querySelector(".hint").hidden = true;
+});
+addEventListener("keyup", e => {
+  if (e.key === "Tab" && GH.state.view === "walk") { e.preventDefault(); GH.emit("scoreboard", {open:false}); }
+  if (e.key.toLowerCase() === "e") holdCancel();
+});
+addEventListener("blur", () => { holdCancel(); GH.emit("scoreboard", {open:false}); });
+// 指標：滑鼠與觸控共用。門上「按下」開始計時；移動超過門檻就改判滑動。
+let ptr = null;
+sceneRoot.addEventListener("pointerdown", e => {
+  if (!walking()) return;
+  const door = e.target.closest(".door");
+  ptr = {x: e.clientX, y: e.clientY, id: e.pointerId, door, type: e.pointerType};
+  if (door && e.pointerType !== "mouse") { e.preventDefault(); holdStart(GH.scene.layout.find(x => (x.slug && x.slug === door.dataset.room) || (x.special && x.special === door.dataset.special))); }
+});
+sceneRoot.addEventListener("pointermove", e => {
+  if (!ptr || e.pointerId !== ptr.id) return;
+  if (Math.hypot(e.clientX - ptr.x, e.clientY - ptr.y) > GH.input.SWIPE_PX / 2) holdCancel();
+});
+const ptrEnd = e => {
+  if (!ptr || e.pointerId !== ptr.id) return;
+  const dx = e.clientX - ptr.x, dy = e.clientY - ptr.y;
+  holdCancel();
+  const P = GH.input.SWIPE_PX;
+  if (Math.max(Math.abs(dx), Math.abs(dy)) >= P) {
+    GH._swipedAt = performance.now(); // 滑動結束時若剛好放在門上，不要順便觸發 click 開門
+    if (Math.abs(dy) > Math.abs(dx)) GH.scene.move(dy < 0 ? 1 : -1);
+    else if (dx < 0) GH.scene.turn(GH.scene.facing === "right" ? "right" : "left");
+    else GH.scene.turn(GH.scene.facing === "left" ? "left" : "right");
+    sceneRoot.querySelector(".hint").hidden = true;
+  }
+  ptr = null;
+};
+sceneRoot.addEventListener("pointerup", ptrEnd);
+sceneRoot.addEventListener("pointercancel", e => { holdCancel(); ptr = null; });
+sceneRoot.addEventListener("contextmenu", e => e.preventDefault());
+// 觸控時，門的 click 由長按負責，避免輕點就開門
+sceneRoot.addEventListener("click", e => {
+  if (!e.target.closest(".door")) return;
+  if (GH._lastPointer === "touch" || performance.now() - (GH._swipedAt || -1e9) < 400) { e.stopPropagation(); e.preventDefault(); }
+}, true);
+sceneRoot.addEventListener("pointerdown", e => GH._lastPointer = e.pointerType, true);
 
 GH.emit("state", {prev:null, next:GH.state, animate:false});
 GH.ready = true; // 放在第一次渲染之後：測試等到 ready 時畫面已經是網址指定的狀態

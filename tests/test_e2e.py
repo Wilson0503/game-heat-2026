@@ -178,5 +178,67 @@ class Scene(E2E):
             self.assertEqual(p.locator(f'.room[data-room="{slug}"].theme--{slug}').count(), 1)
 
 
+class Input(E2E):
+    def test_keyboard_walk_and_open(self):
+        p = self.open()
+        p.keyboard.press("w"); p.wait_for_function("GH.scene.station === 1 && !document.body.classList.contains('is-moving')")
+        p.keyboard.press("a"); self.assertEqual(p.evaluate("GH.scene.facing"), "left")
+        p.keyboard.down("e"); p.wait_for_timeout(700); p.keyboard.up("e")
+        first = sorted(SITE["rooms"], key=lambda r: r["order"])[0]["slug"]
+        p.wait_for_function(f"GH.state.room === '{first}'")
+        p.keyboard.press("Escape"); p.wait_for_function("GH.state.room === null")
+
+    def test_short_hold_does_not_open(self):
+        p = self.open()
+        p.keyboard.press("w"); p.keyboard.press("d")
+        p.keyboard.down("e"); p.wait_for_timeout(300); p.keyboard.up("e")
+        p.wait_for_timeout(500)
+        self.assertIsNone(p.evaluate("GH.state.room"))
+        self.assertEqual(p.evaluate("getComputedStyle(document.querySelector('.hold-ring')).getPropertyValue('--p').trim() || '0'"), "0")
+
+    def test_enter_opens_immediately(self):
+        p = self.open()
+        p.keyboard.press("ArrowUp"); p.keyboard.press("ArrowRight"); p.keyboard.press("Enter")
+        second = sorted(SITE["rooms"], key=lambda r: r["order"])[1]["slug"]
+        p.wait_for_function(f"GH.state.room === '{second}'")
+
+    def test_rapid_moves_settle(self):
+        p = self.open()
+        for _ in range(6): p.keyboard.press("w")
+        p.wait_for_function("!document.body.classList.contains('is-moving')")
+        self.assertEqual(p.evaluate("GH.scene.station"), 4)
+        for _ in range(9): p.keyboard.press("s")
+        p.wait_for_function("!document.body.classList.contains('is-moving')")
+        self.assertEqual(p.evaluate("GH.scene.station"), 0)
+
+    def test_swipe_and_long_press_mobile(self):
+        p = self.open(mobile=True)
+        drag = lambda x0, y0, x1, y1: (p.mouse.move(x0, y0), p.mouse.down(), p.mouse.move(x1, y1, steps=5), p.mouse.up())
+        drag(187, 600, 187, 400)  # 上滑 = 前進
+        p.wait_for_function("GH.scene.station === 1")
+        drag(300, 400, 80, 400)   # 左滑 = 轉向左門
+        self.assertEqual(p.evaluate("GH.scene.facing"), "left")
+        drag(80, 400, 300, 400)   # 右滑 = 轉回正面
+        self.assertEqual(p.evaluate("GH.scene.facing"), "front")
+        self.assertIsNone(p.evaluate("GH.state.room"), "滑動不會順便開門")
+        # 長按：Playwright 的 mouse 產生的是 pointerType "mouse"，所以直接送觸控指標事件
+        p.evaluate("GH.scene.turn('left')")
+        door = ".door--left:not([hidden])"
+        touch = lambda typ, pid: p.dispatch_event(door, typ, {"pointerType": "touch", "pointerId": pid, "isPrimary": True,
+                                                             "clientX": 100, "clientY": 400, "bubbles": True})
+        touch("pointerdown", 7); p.wait_for_timeout(300); touch("pointerup", 7)
+        p.wait_for_timeout(400); self.assertIsNone(p.evaluate("GH.state.room"), "短按不開門")
+        touch("pointerdown", 8); p.wait_for_timeout(700)
+        p.wait_for_function("GH.state.room !== null")
+        touch("pointerup", 8)
+
+    def test_first_tab_reaches_skip_link(self):
+        p = self.open()
+        p.keyboard.press("Tab")
+        self.assertEqual(p.evaluate("document.activeElement.className"), "skip")
+        self.assertFalse(p.is_visible("#scoreboard"))
+        p.keyboard.press("Enter"); p.wait_for_function("GH.state.view === 'plan'")
+
+
 if __name__ == "__main__":
     unittest.main()
