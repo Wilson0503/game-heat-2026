@@ -61,6 +61,83 @@ html,body{margin:0;height:100%;background:var(--panel);color:var(--ink);font:400
 .metric td,.metric th{padding:6px;border-bottom:1px solid rgba(232,228,216,.12);text-align:left;vertical-align:top}
 @media (max-width:600px){ #plan h1.hook{font-size:var(--t36)} #plan h2{font-size:var(--t24)} .score th:nth-child(5),.score td:nth-child(5){display:none} .score th,.score td{padding:6px 4px} }
 
+/* ==== scene ==== */
+#scene{position:fixed;inset:0;overflow:hidden;touch-action:none;user-select:none;-webkit-user-select:none;-webkit-touch-callout:none}
+.viewport{position:absolute;inset:0;perspective:900px;perspective-origin:50% 45%}
+.world{position:absolute;inset:0;transform-style:preserve-3d;transform-origin:50% 45% 900px;transition:transform var(--step) ease-out} /* 旋轉中心＝視點（perspective 900px） */
+#scene.no-anim .world{transition:none}
+#scene.pushing .world{transition:transform var(--push) ease-in}
+.corridor{position:absolute;left:50%;top:50%;width:0;height:0;transform-style:preserve-3d}
+.floor,.ceiling{position:absolute;left:-300px;width:600px;height:3600px;transform-origin:top center}
+.floor{top:220px;transform:rotateX(-90deg);background:
+  linear-gradient(90deg,transparent 49.6%,rgba(212,162,76,.55) 49.6% 50.4%,transparent 50.4%),
+  repeating-linear-gradient(0deg,#222c38 0 120px,#1f2833 120px 240px)}
+.ceiling{top:-260px;transform:rotateX(-90deg);background:
+  repeating-linear-gradient(0deg,transparent 0 330px,rgba(232,228,216,.35) 330px 340px,transparent 340px 700px),#18202a}
+.wall{position:absolute;top:-260px;width:3600px;height:480px;transform-origin:left center;background:
+  repeating-linear-gradient(90deg,#2a3440 0 238px,#232c37 238px 240px),
+  repeating-linear-gradient(0deg,transparent 0 159px,rgba(0,0,0,.18) 159px 160px)}
+.wall--left{left:-300px;transform:rotateY(90deg)}
+.wall--right{left:300px;transform:rotateY(90deg)}
+.endwall{position:absolute;left:-300px;top:-260px;width:600px;height:480px;transform:translateZ(-3200px);background:#202833}
+.door{all:unset;position:absolute;top:-170px;width:200px;height:390px;transform-style:preserve-3d;cursor:pointer}
+.door--left{left:-399px;transform:translateZ(calc(var(--z) - 250px)) rotateY(90deg)}
+.door--right{left:199px;transform:translateZ(calc(var(--z) - 250px)) rotateY(-90deg)}
+.door:focus-visible{outline:4px solid var(--gold);outline-offset:6px}
+.door .glow{position:absolute;left:0;right:0;bottom:-4px;height:6px;background:var(--ink);opacity:var(--glow);filter:blur(3px);box-shadow:0 0 24px 6px rgba(232,228,216,calc(var(--glow) * .6))}
+.door .plate{position:absolute;left:12px;right:12px;top:24px;display:flex;flex-direction:column;gap:2px;padding:8px;background:var(--panel);font-size:var(--t14);line-height:1.4}
+.door .plate strong{font-size:var(--t21)}
+/* 門的材質（SPEC 8.2） */
+.door--shooter{background:repeating-linear-gradient(-45deg,var(--gold) 0 14px,var(--panel) 14px 28px) top/100% 18px no-repeat,
+  repeating-linear-gradient(-45deg,var(--gold) 0 14px,var(--panel) 14px 28px) bottom/100% 18px no-repeat,linear-gradient(#4b5867,#36414d)}
+.door--strategy{background:linear-gradient(rgba(232,228,216,.12) 1px,transparent 1px) 0 0/24px 24px,linear-gradient(90deg,rgba(232,228,216,.12) 1px,transparent 1px) 0 0/24px 24px,#5a4330}
+.door--sim{background:linear-gradient(90deg,transparent 47%,#2a3440 47% 53%,transparent 53%),linear-gradient(transparent 32%,#2a3440 32% 35%,transparent 35% 65%,#2a3440 65% 68%,transparent 68%),rgba(91,141,184,.28);border:8px solid #2a3440}
+.door--casual{background:linear-gradient(var(--blue) 0 28px,var(--ink) 28px);border:2px solid var(--blue)}
+.door--casual .plate{top:40px;background:transparent;color:var(--panel)}
+.door--rpg{background:linear-gradient(transparent 18%,#3a3a3a 18% 22%,transparent 22% 78%,#3a3a3a 78% 82%,transparent 82%),repeating-linear-gradient(90deg,#6b4a2f 0 38px,#5c3f28 38px 40px)}
+.door--action{background:linear-gradient(90deg,#7a5634 0 48%,transparent 48% 52%,#7a5634 52%);height:200px;top:-60px}
+.door--spectators,.door--graffiti{background:#2f3a47}
+/* 重生點 */
+.spawn-panel{position:absolute;left:50%;top:14%;transform:translateX(-50%);width:min(720px,92vw);text-align:center;pointer-events:none}
+.spawn-panel .hook{font:700 var(--t72)/1.1 var(--num);margin:0}
+.spawn-panel .times{font-size:var(--t12)}
+.hint{position:absolute;left:50%;bottom:24px;transform:translateX(-50%);font-size:var(--t14);opacity:.8;margin:0;text-align:center;width:min(640px,92vw)}
+/* 房間（進房後是 2D 疊層，避免 3D 文字模糊） */
+.rooms .room{position:absolute;inset:0;overflow:auto;padding:72px 16px 96px;background:var(--panel)}
+#scene.in-room .viewport,#scene.in-room .hint,#scene.in-room .spawn-panel{visibility:hidden}
+.room-name{font:700 var(--t36)/1.2 var(--zh);margin:0 0 24px;max-width:1120px;margin-inline:auto}
+.stage,.room-foot{max-width:1120px;margin:0 auto}
+.stage{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:16px;align-items:end}
+#turn-back{all:unset;position:fixed;left:16px;bottom:16px;z-index:20;padding:10px 16px;min-height:44px;border:1px solid var(--ink);cursor:pointer;background:var(--panel)}
+/* 主題：只換物件形狀與材質，不加主色（SPEC 8.1） */
+.theme--shooter .stage{background:linear-gradient(transparent 0 6px,rgba(232,228,216,.25) 6px 8px,transparent 8px) top/100% 40px no-repeat;padding-top:40px}
+.theme--shooter .stage .card{background:radial-gradient(circle at 50% 38%,transparent 0 18px,rgba(28,37,48,.28) 18px 20px,transparent 20px 34px,rgba(28,37,48,.28) 34px 36px,transparent 36px),var(--ink);color:var(--panel);border:none;padding-top:96px}
+.theme--shooter .stage .card[aria-expanded] .rank{color:var(--warn)}
+.theme--shooter .stage .card:nth-child(1){transform:scale(1.08)} .theme--shooter .stage .card:nth-child(5){transform:scale(.9)}
+.theme--strategy .stage{background:linear-gradient(rgba(232,228,216,.06) 1px,transparent 1px) 0 0/32px 32px,linear-gradient(90deg,rgba(232,228,216,.06) 1px,transparent 1px) 0 0/32px 32px,#2a2620;padding:24px}
+.theme--strategy .stage .card{border-left:none;border-top:24px solid var(--gold);background:#3a332a}
+.theme--sim .stage .card{border-left:none;border-radius:50% 50% 8px 8px / 60px 60px 8px 8px;padding-top:64px;background:
+  conic-gradient(from 270deg at 50% 52px,var(--blue) 0 calc(var(--needle,.5) * 180deg),rgba(232,228,216,.1) 0 180deg,transparent 0),#232d38}
+.theme--casual .stage .card{border-left:none;border:1px solid var(--blue);padding-top:36px;background:linear-gradient(var(--blue) 0 24px,#26313d 24px)}
+.theme--casual .stage .card:nth-child(even){transform:translateY(-12px) rotate(-1deg)}
+.theme--rpg .stage{background:#4a3524;padding:24px}
+.theme--rpg .stage .card{border-left:none;background:#d9cfb6;color:var(--panel);box-shadow:inset 0 0 0 1px rgba(0,0,0,.2)}
+.theme--rpg .stage .card::before{content:"";position:absolute;width:10px;height:10px;border-radius:50%;background:var(--warn);transform:translate(-50%,-18px);left:50%}
+.theme--rpg .stage .card,.theme--action .stage .card{position:relative}
+.theme--action .stage{background:repeating-linear-gradient(90deg,#4a3422 0 46px,#402d1d 46px 48px);padding:24px}
+.theme--action .stage .card{border-left:none;background:#d6c39a;color:var(--panel);text-align:center}
+.theme--action .stage .card .rank::after{content:" 號通緝"}
+.theme--action .stage .card .meta .big::before{content:"賞金 "}
+/* 淺底物件（靶紙、委託單、通緝令）：文字與徽章改深色，維持 4.5:1 對比；形狀不變 */
+.theme--shooter .stage .badge,.theme--rpg .stage .badge,.theme--action .stage .badge{color:var(--panel)}
+.theme--shooter .stage .tag:not(.tag--warn),.theme--rpg .stage .tag:not(.tag--warn),.theme--action .stage .tag:not(.tag--warn){background:rgba(28,37,48,.12)}
+@media (max-width:600px){
+  .spawn-panel .hook{font-size:var(--t48)}
+  .stage{grid-template-columns:1fr}
+  .theme--shooter .stage .card:nth-child(n),.theme--casual .stage .card:nth-child(n){transform:none}
+  .room-name{font-size:var(--t24)}
+}
+@media (prefers-reduced-motion: reduce){ .world{transition:none} }
 </style>
 </head>
 <body>
@@ -285,6 +362,170 @@ GH.on("state", ({next}) => {
 });
 if (matchMedia("(prefers-reduced-motion: reduce)").matches && !location.hash) GH.state = {view:"plan", room:null, game:null};
 
+
+/* ==== scene ==== */
+GH.announce = t => { const l = document.getElementById("live"); l.textContent = ""; requestAnimationFrame(() => l.textContent = t); };
+const reduced = () => matchMedia("(prefers-reduced-motion: reduce)").matches;
+GH.scene = {
+  station: 0, facing: "front",
+  layout: (() => {
+    const lay = GH.data.rooms.slice().sort((a, b) => a.order - b.order)
+      .map((r, i) => ({station: Math.floor(i / 2) + 1, side: i % 2 ? "right" : "left", slug: r.slug}));
+    lay.push({station: 4, side: "left", special: "spectators"}, {station: 4, side: "right", special: "graffiti"});
+    return lay;
+  })(),
+  doorAt(){ return this.facing === "front" ? null : this.layout.find(x => x.station === this.station && x.side === this.facing) || null; },
+  stationOf(slug){ return this.layout.find(x => x.slug === slug).station; },
+};
+const S = GH.scene;
+const STATION_DEPTH = 700; // px，每站在 Z 軸的距離
+const sceneRoot = document.getElementById("scene");
+sceneRoot.innerHTML = `
+  <div class="viewport"><div class="world">
+    <div class="corridor">
+      <div class="floor"></div><div class="ceiling"></div><div class="wall wall--left"></div><div class="wall wall--right"></div>
+      <div class="endwall"></div>
+    </div>
+  </div></div>
+  <div class="spawn-panel"></div>
+  <div class="rooms"></div>
+  <button id="turn-back" type="button" hidden>轉身</button>
+  <div class="hold-ring" hidden><svg viewBox="0 0 44 44"><circle cx="22" cy="22" r="19"/></svg></div>
+  <p class="hint">W／S 前後走，A／D 對準門，按住 E 開門，按住 Tab 看計分板</p>`;
+const world = sceneRoot.querySelector(".world"), corridor = sceneRoot.querySelector(".corridor");
+S.layout.forEach(x => {
+  const d = el("button", "door door--" + (x.slug || x.special) + " door--" + x.side); d.type = "button";
+  d.style.setProperty("--z", -(x.station * STATION_DEPTH) + "px");
+  if (x.slug) {
+    const r = GH.roomsBySlug[x.slug], top = GH.roomTop(x.slug)[0];
+    d.dataset.room = x.slug; d.style.setProperty("--glow", r.glow);
+    const plate = el("span", "plate"); plate.append(el("strong", null, r.name), el("span", null, top ? `${top.name}｜${GH.fmt.num(top.score)}` : "—"));
+    d.append(el("span", "glow"), plate);
+    d.setAttribute("aria-label", `${r.name}房，第一名 ${top ? top.name : "無"}`);
+  } else {
+    d.dataset.special = x.special;
+    d.append(el("span", "plate", x.special === "spectators" ? "觀戰席" : "塗鴉牆"));
+  }
+  d.addEventListener("click", () => GH.scene.enter(x));
+  corridor.append(d);
+});
+sceneRoot.querySelector(".spawn-panel").append(
+  el("h1", "hook", GH.fmt.fill(GH.data.copy.hook?.headline)),
+  el("p", "times", `月度數據：${GH.data.period.from.replace("-", "/")}～${GH.data.period.to.replace("-", "/")}｜當下人數抓取於 ${GH.fmt.time(GH.data.snapshot_at)}（台灣時間）`),
+  el("p", "cloud", GH.data.copy.spawn_note));
+const roomsEl = sceneRoot.querySelector(".rooms");
+GH.data.rooms.forEach(r => {
+  const room = el("section", "room theme--" + r.slug); room.dataset.room = r.slug; room.hidden = true;
+  room.setAttribute("aria-label", r.name + "房");
+  room.append(el("h2", "room-name", r.name));
+  const stage = el("div", "stage"); GH.roomTop(r.slug).forEach(g => stage.append(GH.card(g))); room.append(stage);
+  const {dark, none} = GH.roomExtra(r.slug);
+  const foot = el("div", "room-foot");
+  if (dark.length) { foot.append(el("h3", null, "黑馬（未滿 3 個月，不給名次）")); dark.forEach(g => foot.append(GH.card(g))); }
+  if (none.length) { foot.append(el("h3", null, "⚠️ 無月度數據")); none.forEach(g => foot.append(GH.card(g))); }
+  foot.append(el("p", "why-room", "分房依據：玩家標籤 → 通用標籤 → 官方類型。每款遊戲背面寫了它的分房原因。"));
+  const toRules = el("button", "linkish", "看人工修正清單"); toRules.type = "button"; // SPEC 7.4：連到人工修正清單
+  toRules.addEventListener("click", () => { GH.go({view:"plan"}); requestAnimationFrame(() => document.getElementById("plan-rules").scrollIntoView()); });
+  foot.append(toRules);
+  room.append(foot);
+  roomsEl.append(room);
+});
+const specialRoom = (id, node) => { const r = el("section", "room theme--" + id); r.dataset.special = id; r.hidden = true; r.append(node); roomsEl.append(r); };
+let specialsBuilt = false;
+const buildSpecials = () => {
+  if (specialsBuilt) return; specialsBuilt = true;
+  const sp = el("div"); sp.id = "scene-spectators"; sp.append(el("h2", null, "觀戰席"), el("p", "quote", GH.data.copy.spectator_quote));
+  GH.data.games.filter(g => g.status === "spectator").forEach(g => sp.append(GH.card(g)));
+  specialRoom("spectators", sp);
+  const gr = GH.graffiti(); gr.id = "scene-graffiti"; specialRoom("graffiti", gr);
+};
+S.render = (animate) => {
+  sceneRoot.classList.toggle("no-anim", !animate || reduced());
+  // 視點在 z=+900（perspective）。正面：門在前方約 650px；轉向：繞視點轉 90°、退到對面牆邊並和門對齊，門正對鏡頭
+  const side = S.facing === "left" ? -1 : S.facing === "right" ? 1 : 0;
+  S._base = `rotateY(${side * 90}deg) translate3d(${side * 250}px,0,${S.station * STATION_DEPTH + (side ? 1150 : 500)}px)`;
+  world.style.transform = S._base;
+  document.body.classList.add("is-moving");
+  clearTimeout(S._t); S._t = setTimeout(() => document.body.classList.remove("is-moving"), animate && !reduced() ? 400 : 0);
+  sceneRoot.querySelectorAll(".door").forEach(d => {
+    const near = Math.abs(Number(d.style.getPropertyValue("--z").replace("px", "")) / -STATION_DEPTH - S.station) <= 1;
+    d.hidden = !near; // 只渲染所在站與相鄰站（SPEC 11）
+    d.tabIndex = -1;
+  });
+  const t = S.doorAt();
+  if (t) { const d = sceneRoot.querySelector(t.slug ? `.door[data-room="${t.slug}"]` : `.door[data-special="${t.special}"]`); d.tabIndex = 0; if (document.activeElement?.classList.contains("door") || document.activeElement === document.body) d.focus({preventScroll:true}); }
+  sceneRoot.querySelector(".spawn-panel").hidden = S.station !== 0 || S.facing !== "front";
+};
+S.describe = () => {
+  if (S.station === 0) return "重生點。往前走是第 1 站";
+  const here = S.layout.filter(x => x.station === S.station);
+  const name = x => x.slug ? GH.roomsBySlug[x.slug].name : x.special === "spectators" ? "觀戰席" : "塗鴉牆";
+  return `第 ${S.station} 站，左邊${name(here[0])}，右邊${name(here[1])}`;
+};
+S.move = d => { const n = Math.max(0, Math.min(4, S.station + d)); if (n === S.station) return; S.station = n; S.facing = "front"; S.render(true); GH.announce(S.describe()); };
+S.turn = side => { S.facing = S.facing === side ? "front" : side; if (S.station === 0) S.facing = "front"; S.render(true); };
+S.enter = x => {
+  if (x.slug) GH.go({room: x.slug});
+  else { S.station = 4; S.facing = x.side; buildSpecials(); S.openSpecial(x.special); }
+};
+S.setInRoom = on => {
+  sceneRoot.classList.toggle("in-room", on); document.body.classList.toggle("in-room", on);
+  document.getElementById("turn-back").hidden = !on;
+  if (!on) roomsEl.querySelectorAll(".room").forEach(r => r.hidden = true);
+  GH.emit("inroom", {on});
+};
+S.openSpecial = id => {
+  roomsEl.querySelectorAll(".room").forEach(r => r.hidden = r.dataset.special !== id);
+  S.setInRoom(true);
+  GH.announce(id === "spectators" ? "觀戰席" : "塗鴉牆");
+};
+S.leave = () => {
+  if (GH.state.room) GH.go({room:null}); // 新增一筆 "#"；瀏覽器返回則由 popstate 處理
+  else { S.setInRoom(false); S.facing = "front"; S.render(true); }
+};
+document.getElementById("turn-back").addEventListener("click", () => S.leave());
+let enterToken = 0;
+const showRoom = next => {
+  sceneRoot.classList.remove("pushing");
+  roomsEl.querySelectorAll(".room").forEach(r => r.hidden = r.dataset.room !== next.room);
+  S.setInRoom(true);
+  const room = roomsEl.querySelector(`.room[data-room="${next.room}"]`);
+  const open = room.querySelector(".card.is-open");
+  const want = next.game && room.querySelector(`.card[data-id="${CSS.escape(next.game)}"]`);
+  if (want && want !== open) GH.toggleCard(want);
+  else if (!want && open) GH.toggleCard(open);
+  (room.querySelector(".card.is-open") || room.querySelector(".card"))?.focus({preventScroll:true});
+  GH.announce(GH.roomsBySlug[next.room].name + "房");
+};
+GH.on("state", ({prev, next, animate}) => {
+  if (next.view === "plan") return;
+  const token = ++enterToken; // 過場中又換狀態時，作廢舊的延遲
+  if (next.room) {
+    S.station = S.stationOf(next.room); S.facing = S.layout.find(x => x.slug === next.room).side;
+    S.render(false);
+    const push = animate && !reduced() && !(prev && prev.room);
+    if (!push) { showRoom(next); return; } // 直接開網址、減少動態效果：同步切換，不播動畫
+    sceneRoot.classList.add("pushing");
+    requestAnimationFrame(() => { world.style.transform = "translateZ(480px) " + S._base; }); // 朝門推進
+    setTimeout(() => { if (token === enterToken) showRoom(next); }, 600);
+  } else {
+    sceneRoot.classList.remove("pushing");
+    S.setInRoom(false);
+    if (prev && prev.room) { S.station = S.stationOf(prev.room); S.facing = "front"; }
+    S.render(animate);
+  }
+});
+GH.on("card", ({id}) => {
+  if (GH.state.view !== "walk" || !GH.state.room || GH.state.game === id) return;
+  GH.state = {...GH.state, game:id};
+  const h = GH.hash.serialize(GH.state);
+  if (h !== location.hash) history.pushState(null, "", h); // SPEC 7.10：翻開遊戲也 pushState
+});
+
+GH.data.rooms.forEach(r => {
+  const top = GH.roomTop(r.slug); const max = top[0]?.score || 1;
+  roomsEl.querySelectorAll(`.room[data-room="${r.slug}"] .stage .card`).forEach((c, i) => c.style.setProperty("--needle", (top[i].score / max).toFixed(3)));
+});
 
 GH.emit("state", {prev:null, next:GH.state, animate:false});
 GH.ready = true; // 放在第一次渲染之後：測試等到 ready 時畫面已經是網址指定的狀態

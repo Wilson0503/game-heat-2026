@@ -131,5 +131,52 @@ class Plan(E2E):
         self.assertIsNotNone(p.evaluate("localStorage.getItem('gh.vote')"))
 
 
+class Scene(E2E):
+    def test_layout_from_order(self):
+        p = self.open()
+        lay = p.evaluate("GH.scene.layout")
+        order = [r["slug"] for r in sorted(SITE["rooms"], key=lambda r: r["order"])]
+        doors = [x for x in lay if "slug" in x]
+        self.assertEqual([(d["station"], d["side"]) for d in doors],
+                         [(1, "left"), (1, "right"), (2, "left"), (2, "right"), (3, "left"), (3, "right")])
+        self.assertEqual([d["slug"] for d in doors], order)
+        self.assertEqual({x["special"] for x in lay if "special" in x}, {"spectators", "graffiti"})
+
+    def test_door_plate_and_glow(self):
+        p = self.open()
+        for r in SITE["rooms"]:
+            top = min((g for g in SITE["games"] if g["room_slug"] == r["slug"] and g["room_rank"]), key=lambda g: g["room_rank"])
+            plate = p.inner_text(f'.door[data-room="{r["slug"]}"] .plate')
+            self.assertIn(r["name"], plate); self.assertIn(top["name"], plate)
+            glow = p.evaluate(f'getComputedStyle(document.querySelector(\'.door[data-room="{r["slug"]}"]\')).getPropertyValue("--glow")')
+            self.assertAlmostEqual(float(glow), r["glow"], places=3)
+
+    def test_doors_are_buttons(self):
+        p = self.open()
+        self.assertEqual(p.eval_on_selector_all(".door", "els => els.every(e => e.tagName === 'BUTTON')"), True)
+
+    def test_deep_link_room(self):
+        p = self.open("#room=action&game=gtav")
+        self.assertTrue(p.is_visible('.room[data-room="action"]'))
+        self.assertIn("is-open", p.get_attribute('.room[data-room="action"] .card[data-id="gtav"]', "class"))
+
+    def test_turn_back_and_history(self):
+        p = self.open()
+        p.evaluate("GH.go({room:'shooter'})")
+        p.wait_for_selector('.room[data-room="shooter"]:not([hidden])')
+        p.click("#turn-back")
+        p.wait_for_function("GH.state.room === null")
+        p.evaluate("GH.go({room:'strategy'})")
+        p.go_back()
+        p.wait_for_function("GH.state.room === null")
+        order = next(r["order"] for r in SITE["rooms"] if r["slug"] == "strategy")
+        self.assertEqual(p.evaluate("GH.scene.station"), (order + 1) // 2)
+
+    def test_room_themes_present(self):
+        p = self.open()
+        for slug in ("shooter", "rpg", "sim", "strategy", "casual", "action"):
+            self.assertEqual(p.locator(f'.room[data-room="{slug}"].theme--{slug}').count(), 1)
+
+
 if __name__ == "__main__":
     unittest.main()
